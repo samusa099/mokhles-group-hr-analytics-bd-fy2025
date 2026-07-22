@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
+## [2.0.0] — 2026-07-22
+
+### Changed
+
+- Reorganised the release into separate GitHub, Kaggle Dataset and Kaggle Notebook packages.
+- Corrected GitHub repository ownership and publishing links.
+- Added directory-level documentation, release notes and upload checklists.
+- Added package-specific manifests and validation reports.
+- Preserved complete native field descriptions for all 186 CSV columns.
+
 ## [1.0.0] — 2026-07-22
 
 ### Added

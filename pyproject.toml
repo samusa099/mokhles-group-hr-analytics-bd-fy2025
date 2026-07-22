@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "mokhles-hr-analytics"
-version = "1.0.0"
+version = "2.0.0"
 description = "Utilities for the Mokhles Group synthetic Bangladesh HR analytics portfolio."
 readme = "README.md"
 requires-python = ">=3.11"
@@ -22,6 +22,7 @@ dependencies = [
 ]
 
 [project.urls]
+Repository = "https://github.com/samusa099/mokhles-group-hr-analytics-bd-fy2025"
 Kaggle = "https://www.kaggle.com/datasets/samusahr/mokhles-group-hr-analytics-portfolio-bd-fy2025"
 
 [tool.setuptools]

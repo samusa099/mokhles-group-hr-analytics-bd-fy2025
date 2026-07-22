@@ -15,5 +15,10 @@
   "csv_tables": 13,
   "described_columns": 186,
   "excel_workbooks": 13,
-  "notebook": "Mokhles_HR_Analytics_EDA.ipynb"
+  "notebook": "Mokhles_HR_Analytics_EDA.ipynb",
+  "release_version": "2.0.0",
+  "github_repository": "https://github.com/samusa099/mokhles-group-hr-analytics-bd-fy2025",
+  "kaggle_dataset": "https://www.kaggle.com/datasets/samusahr/mokhles-group-hr-analytics-portfolio-bd-fy2025",
+  "github_owner": "samusa099",
+  "kaggle_owner": "samusahr"
 }

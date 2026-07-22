@@ -51,7 +51,7 @@ git commit -m "Initial release: Mokhles Group HR Analytics Demo 2025"
 Replace `<your-username>` when necessary:
 
 ```powershell
-git remote add origin https://github.com/<your-username>/mokhles-group-hr-analytics-bd-fy2025.git
+git remote add origin https://github.com/samusa099/mokhles-group-hr-analytics-bd-fy2025.git
 ```
 
 ### 6. Push

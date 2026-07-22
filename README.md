@@ -16,6 +16,16 @@
   <img alt="License" src="https://img.shields.io/badge/data%20license-CC%20BY%204.0-lightgrey">
 </p>
 
+
+## Release v2.0.0
+
+This repository is the maintainable GitHub source package. Separate,
+platform-ready Kaggle Dataset and Kaggle Notebook packages are included in the
+v2.0.0 distribution release.
+
+- **GitHub:** https://github.com/samusa099/mokhles-group-hr-analytics-bd-fy2025
+- **Kaggle Dataset:** https://www.kaggle.com/datasets/samusahr/mokhles-group-hr-analytics-portfolio-bd-fy2025
+
 ## Overview
 
 This repository contains a complete HR analytics portfolio for **Mokhles Group**, a fictional Bangladesh-based organisation. The records are fully synthetic, but the structure, terminology, employee profiles, locations, compensation values and HR transactions were designed to resemble realistic organisational data.
@@ -104,7 +114,7 @@ mokhles-group-hr-analytics-bd-fy2025/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/mokhles-group-hr-analytics-bd-fy2025.git
+git clone https://github.com/samusa099/mokhles-group-hr-analytics-bd-fy2025.git
 cd mokhles-group-hr-analytics-bd-fy2025
 ```
 
@@ -211,7 +221,7 @@ The repository includes a validation script and GitHub Actions workflow that che
 
 ## Author
 
-**  Musa**  
+**Siam Ahmad Musa**  
 Human Resources professional and people analytics practitioner from Bangladesh.
 
 ## Citation
@@ -220,7 +230,7 @@ Please cite this project using the metadata in `CITATION.cff`.
 
 Suggested citation:
 
-> Musa,  . (2026). *Mokhles Group HR Analytics Demo 2025: A Realistic Synthetic HR Dataset from Bangladesh* (Version 1.0.0).
+> Musa, Siam Ahmad. (2026). *Mokhles Group HR Analytics Demo 2025: A Realistic Synthetic HR Dataset from Bangladesh* (Version 1.0.0).
 
 ## Licences
 
