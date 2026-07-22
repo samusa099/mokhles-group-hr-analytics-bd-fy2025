@@ -211,7 +211,7 @@ The repository includes a validation script and GitHub Actions workflow that che
 
 ## Author
 
-**Siam Ahmad Musa**  
+**  Musa**  
 Human Resources professional and people analytics practitioner from Bangladesh.
 
 ## Citation
@@ -220,7 +220,7 @@ Please cite this project using the metadata in `CITATION.cff`.
 
 Suggested citation:
 
-> Musa, Siam Ahmad. (2026). *Mokhles Group HR Analytics Demo 2025: A Realistic Synthetic HR Dataset from Bangladesh* (Version 1.0.0).
+> Musa,  . (2026). *Mokhles Group HR Analytics Demo 2025: A Realistic Synthetic HR Dataset from Bangladesh* (Version 1.0.0).
 
 ## Licences
 
