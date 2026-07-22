@@ -1,0 +1,187 @@
+[
+  {
+    "file": "01_Employee_Master_FY2025.csv",
+    "size_bytes": 88215,
+    "sha256": "8758342e4d85c15c00d2781f5f3ca9f486943fe18b5e3f74a489c01fa995482f"
+  },
+  {
+    "file": "01_Mokhles_Group_Headcount_Analytics_Report_FY2025.xlsx",
+    "size_bytes": 59288,
+    "sha256": "a829a4d2436fad11e4c29933dd4f2cf5a2bedd08e51f3f972f468b6e4fa1742f"
+  },
+  {
+    "file": "02_Mokhles_Group_Monthly_HR_Analytics_Report_FY2025.xlsx",
+    "size_bytes": 14297,
+    "sha256": "b4717d74d95473511168553dc212b0845cfcff824d765ebe579c08a4696932a4"
+  },
+  {
+    "file": "02_Monthly_HR_KPI_FY2025.csv",
+    "size_bytes": 1263,
+    "sha256": "026409017a4626352068463b65473f172f044a22bd4777666efd6183e2938ba1"
+  },
+  {
+    "file": "03_Department_Annual_Summary_FY2025.csv",
+    "size_bytes": 856,
+    "sha256": "3a484d1ed2457de68d0a0ecdddd106074fadaadf72539af7b6d9baf489c59d73"
+  },
+  {
+    "file": "03_Mokhles_Group_Annual_HR_Analytics_Report_FY2025.xlsx",
+    "size_bytes": 19427,
+    "sha256": "d1ada5e25f471b6d7ce821e43d7bcfa3ad58b222d2e9ef8b7001689165bc7128"
+  },
+  {
+    "file": "04_Mokhles_Group_Board_HR_Analytics_Report_FY2025.xlsx",
+    "size_bytes": 19696,
+    "sha256": "0dcbafc2971b118a6c366474d463a9caf854df3c278111bd593e574ebcd0a933"
+  },
+  {
+    "file": "04_Quarterly_Board_KPI_FY2025.csv",
+    "size_bytes": 426,
+    "sha256": "ee0784bccaaf3f333f8e70c5484838a314be1225bf653536b357f54dd27673ac"
+  },
+  {
+    "file": "05_Mokhles_Group_Recruitment_Analytics_Report_FY2025.xlsx",
+    "size_bytes": 29712,
+    "sha256": "a7adbe05f1bae0b4d4456308354a7baee8e66db3ce98281f28e6dd042a62df72"
+  },
+  {
+    "file": "05_Recruitment_Master_FY2025.csv",
+    "size_bytes": 19720,
+    "sha256": "44a90db1b82747c4009bf22fd6b40a412ceca1c3254b7138b95466f951cfbea3"
+  },
+  {
+    "file": "06_Employee_Separations_FY2025.csv",
+    "size_bytes": 11289,
+    "sha256": "c56ea53520267cc8e2831c8eaafc34c8eb0e8a6d6d6340b5c088fdb74b68e5a8"
+  },
+  {
+    "file": "06_Mokhles_Group_Turnover_Retention_Analytics_Report_FY2025.xlsx",
+    "size_bytes": 20493,
+    "sha256": "87968a69118e34f91f2533561deb653d9cf5ea736e363b935f43b18cb6fe0035"
+  },
+  {
+    "file": "07_Leave_Transactions_FY2025.csv",
+    "size_bytes": 169444,
+    "sha256": "05396220df03d06d3cb3cd03d8fed32cd2900e46de436f72a0ae1fb08a61bb46"
+  },
+  {
+    "file": "07_Mokhles_Group_Absence_Leave_Analytics_Report_FY2025.xlsx",
+    "size_bytes": 77971,
+    "sha256": "6becf5bc58a65ca880c59e64d7f1a4e399c4dc2509e8974cdb32b070a6896ef2"
+  },
+  {
+    "file": "08_Diversity_Inclusion_Master_FY2025.csv",
+    "size_bytes": 68074,
+    "sha256": "9987a9c4f4f79c584c913d51cf166908680fc3b860286fd4118a0b9cde34b716"
+  },
+  {
+    "file": "08_Mokhles_Group_Diversity_Inclusion_Analytics_Report_FY2025.xlsx",
+    "size_bytes": 46837,
+    "sha256": "79150c3d67554f910857a99a4aebf462e257e2b4fd69e3fbaf4d2b2f1c12e3f8"
+  },
+  {
+    "file": "09_Mokhles_Group_Learning_Development_Analytics_Report_FY2025.xlsx",
+    "size_bytes": 111685,
+    "sha256": "6cc03ae364dc15ceaf23c59860bb8acb7fe6bfd4ed2a09b4530f28a9cb8dfe98"
+  },
+  {
+    "file": "09_Training_Development_Master_FY2025.csv",
+    "size_bytes": 200332,
+    "sha256": "59abccf1a12ecfb6fc33077ebb363b6fecd2505394351d45ace80201bb68d055"
+  },
+  {
+    "file": "10_Compensation_Benefits_Master_FY2025.csv",
+    "size_bytes": 86743,
+    "sha256": "467e0c1ab456932e6921d03ec2ca933309a58d58d1376bbedff308f445dd46c6"
+  },
+  {
+    "file": "10_Mokhles_Group_Compensation_Benefits_Analytics_Report_FY2025.xlsx",
+    "size_bytes": 69610,
+    "sha256": "61475abb8c50f395fa17f90cbbf25b04d75b285e6461240b958bfe25c20c6f40"
+  },
+  {
+    "file": "11_Mokhles_Group_Performance_Analytics_Report_FY2025.xlsx",
+    "size_bytes": 57124,
+    "sha256": "bf1dc3cd1db70fd3e3714690ebd99e6169a97c5d9f540fc291294608a498be2e"
+  },
+  {
+    "file": "11_Performance_Evaluation_Master_FY2025.csv",
+    "size_bytes": 85560,
+    "sha256": "7becd888e347cf37197fd62c4271ccbce3da8eac1e5298736912773386bf7365"
+  },
+  {
+    "file": "12_Health_Safety_Master_FY2025.csv",
+    "size_bytes": 20046,
+    "sha256": "f66ce0eba671832c522f8987712485c83b1f86da72669ee110f2524bb5c09fa2"
+  },
+  {
+    "file": "12_Mokhles_Group_Health_Safety_Analytics_Report_FY2025.xlsx",
+    "size_bytes": 24885,
+    "sha256": "45e7f61fbf823b23de742e874fb44644a417f259798bb2cca8f7215303d77903"
+  },
+  {
+    "file": "13_Data_Dictionary_FY2025.csv",
+    "size_bytes": 29854,
+    "sha256": "821fe98342a960b6e11d6afeec1ad507b8dbc70f98442fb5d55b7cdeb6bcd1ab"
+  },
+  {
+    "file": "Column_Metadata_Coverage_Report.json",
+    "size_bytes": 2439,
+    "sha256": "c2df462bf453300f5585adc3a6376ac6f28755765765b29cfa06a65b40c37e46"
+  },
+  {
+    "file": "Kaggle_Dataset_Description.md",
+    "size_bytes": 1367,
+    "sha256": "75a94820df09355c4ceb60db9304752130652defc7f7d86c5ccec9d3059f9ef1"
+  },
+  {
+    "file": "Kaggle_Upload_and_Column_Metadata_Guide.md",
+    "size_bytes": 1331,
+    "sha256": "0f7ed653abbee4b6e32d5b8ca7ddc6865e17efda60accad271ff6a238e2ec133"
+  },
+  {
+    "file": "LICENSE.txt",
+    "size_bytes": 246,
+    "sha256": "ff03155a6150854430459667b047047c89b8958239ec944780439bcd39896c69"
+  },
+  {
+    "file": "Mokhles_Group_HR_Analytics_Master_Dataset_FY2025.xlsx",
+    "size_bytes": 396980,
+    "sha256": "2d4f3d55bbd5068ba759068424d35c6d645edd3aa3059c9b69fae9f02098978b"
+  },
+  {
+    "file": "Mokhles_Group_HR_Project_Metadata_FY2025.json",
+    "size_bytes": 580,
+    "sha256": "48f76acd5cac6c67b79d8e6d800488f583d52307d6196cd60d8e2537ef0f6ba6"
+  },
+  {
+    "file": "Mokhles_HR_Analytics_EDA.ipynb",
+    "size_bytes": 11892,
+    "sha256": "bda50b935cace7d8894e38e9ece4b1c9c9e5bba03a6c9e4a90fb956461c60c30"
+  },
+  {
+    "file": "README.md",
+    "size_bytes": 1727,
+    "sha256": "ab09bcb15d526f3b0969a6dcfe1c1e51f018102feeabad90bdd18ab942e2d80e"
+  },
+  {
+    "file": "dataset-cover-image.png",
+    "size_bytes": 2102591,
+    "sha256": "ed975d0237662fbdc677dc83794fbb1060a6b34385a9f0a14f4f163be7b68b35"
+  },
+  {
+    "file": "dataset-metadata.json",
+    "size_bytes": 42174,
+    "sha256": "ebc9b9e7822c45e58f20de52614ba20ebfc6a1133999252f7b22a29cdddf08e4"
+  },
+  {
+    "file": "kernel-metadata.json",
+    "size_bytes": 454,
+    "sha256": "98df9f79e5bff178fcf95ba1019491a73ca2d0f973c0e38b4aa1408f72659472"
+  },
+  {
+    "file": "requirements.txt",
+    "size_bytes": 54,
+    "sha256": "d561a0c614cde2e1ad573ec0aa67cbb7357d0392ab69cfdadbb439d855db018c"
+  }
+]

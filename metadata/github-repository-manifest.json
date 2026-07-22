@@ -1,0 +1,342 @@
+[
+  {
+    "path": ".editorconfig",
+    "size_bytes": 258,
+    "sha256": "88753a22808082c926720035b9e1b82a4abca0083ec6b1b6798582778b0ff675"
+  },
+  {
+    "path": ".gitattributes",
+    "size_bytes": 199,
+    "sha256": "700f5e28f77195c5c11e788b450aeddfd9d9a251e8b05d393fe7cc0108630720"
+  },
+  {
+    "path": ".github/CODEOWNERS",
+    "size_bytes": 12,
+    "sha256": "1c3a8d2e43861b5d75cd4141bb0338beec0598f621fde793e65c72fabac18624"
+  },
+  {
+    "path": ".github/ISSUE_TEMPLATE/bug_report.md",
+    "size_bytes": 354,
+    "sha256": "318a723cb5fe770f21d477ebf558f981c69799d931f897400bbfd3b4a166626c"
+  },
+  {
+    "path": ".github/ISSUE_TEMPLATE/config.yml",
+    "size_bytes": 232,
+    "sha256": "b5ea5f34ce0af6a1f3770b2dd11712770ebcabfbc6b9835b01a3c29c5f2449eb"
+  },
+  {
+    "path": ".github/ISSUE_TEMPLATE/feature_request.md",
+    "size_bytes": 352,
+    "sha256": "adba9cffa9aac709b89f90f51ac407ecd26a30214cc139da7d14d32da5b4ea7d"
+  },
+  {
+    "path": ".github/pull_request_template.md",
+    "size_bytes": 329,
+    "sha256": "ef110ed12c16ff9be745d5c36dfea978ff05e752fdf97c5c6bcbd27496207cfe"
+  },
+  {
+    "path": ".github/workflows/data-quality.yml",
+    "size_bytes": 463,
+    "sha256": "e59b0c6342fb958be8e55c0631e994821a689fbafbbb666549ee5f4f32825da0"
+  },
+  {
+    "path": ".gitignore",
+    "size_bytes": 337,
+    "sha256": "69a35436e72803260cb28464578c3429703e522488eb99de62b60f218705587f"
+  },
+  {
+    "path": "CHANGELOG.md",
+    "size_bytes": 511,
+    "sha256": "ff89d6f171956eec52a036651772bd9f4a8007caf1155dd2ec1b848c2b21dffa"
+  },
+  {
+    "path": "CITATION.cff",
+    "size_bytes": 827,
+    "sha256": "abc2f71cc152eda200b65936df52b987783868025f256dfa942252010ecf13ed"
+  },
+  {
+    "path": "CODE_OF_CONDUCT.md",
+    "size_bytes": 455,
+    "sha256": "82e49a52f21971ec16fe26a4ce075cee2dfe7f246b68c080ec052b0af6641c23"
+  },
+  {
+    "path": "CONTRIBUTING.md",
+    "size_bytes": 851,
+    "sha256": "f6ad07103099060c063bcfbd60e7d1bb97c7d5b553045c35b1d9452262fc93fb"
+  },
+  {
+    "path": "LICENSE",
+    "size_bytes": 950,
+    "sha256": "d5999e00c318c0a67f1d984f50e659ec86679a7490095cc5e9a1e261a65fefb7"
+  },
+  {
+    "path": "LICENSE-CODE",
+    "size_bytes": 1072,
+    "sha256": "dc22e4da94fb4f906cb77d13679550a9126c7dfad29ea7024df9e75e14685b6b"
+  },
+  {
+    "path": "README.md",
+    "size_bytes": 6279,
+    "sha256": "a6eb02047e60b5ec9dae9a075a87f0641cf79a508e08ef291b73f4a3f7906014"
+  },
+  {
+    "path": "SECURITY.md",
+    "size_bytes": 506,
+    "sha256": "c3a5bf2e52a7148dfc9682a62b2a10523a15bf38d63c7540bc01855665f7f802"
+  },
+  {
+    "path": "assets/compensation-dashboard-preview.png",
+    "size_bytes": 189271,
+    "sha256": "f3f8a069c10d48ec5c986cc7ce2b334359373d1eebcc9920cc84426cd9802f60"
+  },
+  {
+    "path": "assets/headcount-dashboard-preview.png",
+    "size_bytes": 161094,
+    "sha256": "caeeb530e93ee2f944d3c4750a1b163e5475d43f72a484036c5c95b7e6f0ed4a"
+  },
+  {
+    "path": "assets/master-dashboard-preview.png",
+    "size_bytes": 436810,
+    "sha256": "22d006241f7850baf71fc74709dc9cf6af4b100e084cfaf743101d1acaef40be"
+  },
+  {
+    "path": "assets/mokhles-hr-analytics-cover.png",
+    "size_bytes": 2102591,
+    "sha256": "ed975d0237662fbdc677dc83794fbb1060a6b34385a9f0a14f4f163be7b68b35"
+  },
+  {
+    "path": "data/README.md",
+    "size_bytes": 265,
+    "sha256": "371bb2c8afc00b81d539962d1e4ceb1e91bfca40e1ae69c5fd6531c035a57109"
+  },
+  {
+    "path": "data/csv/01_Employee_Master_FY2025.csv",
+    "size_bytes": 88215,
+    "sha256": "8758342e4d85c15c00d2781f5f3ca9f486943fe18b5e3f74a489c01fa995482f"
+  },
+  {
+    "path": "data/csv/02_Monthly_HR_KPI_FY2025.csv",
+    "size_bytes": 1263,
+    "sha256": "026409017a4626352068463b65473f172f044a22bd4777666efd6183e2938ba1"
+  },
+  {
+    "path": "data/csv/03_Department_Annual_Summary_FY2025.csv",
+    "size_bytes": 856,
+    "sha256": "3a484d1ed2457de68d0a0ecdddd106074fadaadf72539af7b6d9baf489c59d73"
+  },
+  {
+    "path": "data/csv/04_Quarterly_Board_KPI_FY2025.csv",
+    "size_bytes": 426,
+    "sha256": "ee0784bccaaf3f333f8e70c5484838a314be1225bf653536b357f54dd27673ac"
+  },
+  {
+    "path": "data/csv/05_Recruitment_Master_FY2025.csv",
+    "size_bytes": 19720,
+    "sha256": "44a90db1b82747c4009bf22fd6b40a412ceca1c3254b7138b95466f951cfbea3"
+  },
+  {
+    "path": "data/csv/06_Employee_Separations_FY2025.csv",
+    "size_bytes": 11289,
+    "sha256": "c56ea53520267cc8e2831c8eaafc34c8eb0e8a6d6d6340b5c088fdb74b68e5a8"
+  },
+  {
+    "path": "data/csv/07_Leave_Transactions_FY2025.csv",
+    "size_bytes": 169444,
+    "sha256": "05396220df03d06d3cb3cd03d8fed32cd2900e46de436f72a0ae1fb08a61bb46"
+  },
+  {
+    "path": "data/csv/08_Diversity_Inclusion_Master_FY2025.csv",
+    "size_bytes": 68074,
+    "sha256": "9987a9c4f4f79c584c913d51cf166908680fc3b860286fd4118a0b9cde34b716"
+  },
+  {
+    "path": "data/csv/09_Training_Development_Master_FY2025.csv",
+    "size_bytes": 200332,
+    "sha256": "59abccf1a12ecfb6fc33077ebb363b6fecd2505394351d45ace80201bb68d055"
+  },
+  {
+    "path": "data/csv/10_Compensation_Benefits_Master_FY2025.csv",
+    "size_bytes": 86743,
+    "sha256": "467e0c1ab456932e6921d03ec2ca933309a58d58d1376bbedff308f445dd46c6"
+  },
+  {
+    "path": "data/csv/11_Performance_Evaluation_Master_FY2025.csv",
+    "size_bytes": 85560,
+    "sha256": "7becd888e347cf37197fd62c4271ccbce3da8eac1e5298736912773386bf7365"
+  },
+  {
+    "path": "data/csv/12_Health_Safety_Master_FY2025.csv",
+    "size_bytes": 20046,
+    "sha256": "f66ce0eba671832c522f8987712485c83b1f86da72669ee110f2524bb5c09fa2"
+  },
+  {
+    "path": "data/csv/13_Data_Dictionary_FY2025.csv",
+    "size_bytes": 29854,
+    "sha256": "821fe98342a960b6e11d6afeec1ad507b8dbc70f98442fb5d55b7cdeb6bcd1ab"
+  },
+  {
+    "path": "data/excel/master/Mokhles_Group_HR_Analytics_Master_Dataset_FY2025.xlsx",
+    "size_bytes": 396980,
+    "sha256": "2d4f3d55bbd5068ba759068424d35c6d645edd3aa3059c9b69fae9f02098978b"
+  },
+  {
+    "path": "data/excel/reports/01_Mokhles_Group_Headcount_Analytics_Report_FY2025.xlsx",
+    "size_bytes": 59288,
+    "sha256": "a829a4d2436fad11e4c29933dd4f2cf5a2bedd08e51f3f972f468b6e4fa1742f"
+  },
+  {
+    "path": "data/excel/reports/02_Mokhles_Group_Monthly_HR_Analytics_Report_FY2025.xlsx",
+    "size_bytes": 14297,
+    "sha256": "b4717d74d95473511168553dc212b0845cfcff824d765ebe579c08a4696932a4"
+  },
+  {
+    "path": "data/excel/reports/03_Mokhles_Group_Annual_HR_Analytics_Report_FY2025.xlsx",
+    "size_bytes": 19427,
+    "sha256": "d1ada5e25f471b6d7ce821e43d7bcfa3ad58b222d2e9ef8b7001689165bc7128"
+  },
+  {
+    "path": "data/excel/reports/04_Mokhles_Group_Board_HR_Analytics_Report_FY2025.xlsx",
+    "size_bytes": 19696,
+    "sha256": "0dcbafc2971b118a6c366474d463a9caf854df3c278111bd593e574ebcd0a933"
+  },
+  {
+    "path": "data/excel/reports/05_Mokhles_Group_Recruitment_Analytics_Report_FY2025.xlsx",
+    "size_bytes": 29712,
+    "sha256": "a7adbe05f1bae0b4d4456308354a7baee8e66db3ce98281f28e6dd042a62df72"
+  },
+  {
+    "path": "data/excel/reports/06_Mokhles_Group_Turnover_Retention_Analytics_Report_FY2025.xlsx",
+    "size_bytes": 20493,
+    "sha256": "87968a69118e34f91f2533561deb653d9cf5ea736e363b935f43b18cb6fe0035"
+  },
+  {
+    "path": "data/excel/reports/07_Mokhles_Group_Absence_Leave_Analytics_Report_FY2025.xlsx",
+    "size_bytes": 77971,
+    "sha256": "6becf5bc58a65ca880c59e64d7f1a4e399c4dc2509e8974cdb32b070a6896ef2"
+  },
+  {
+    "path": "data/excel/reports/08_Mokhles_Group_Diversity_Inclusion_Analytics_Report_FY2025.xlsx",
+    "size_bytes": 46837,
+    "sha256": "79150c3d67554f910857a99a4aebf462e257e2b4fd69e3fbaf4d2b2f1c12e3f8"
+  },
+  {
+    "path": "data/excel/reports/09_Mokhles_Group_Learning_Development_Analytics_Report_FY2025.xlsx",
+    "size_bytes": 111685,
+    "sha256": "6cc03ae364dc15ceaf23c59860bb8acb7fe6bfd4ed2a09b4530f28a9cb8dfe98"
+  },
+  {
+    "path": "data/excel/reports/10_Mokhles_Group_Compensation_Benefits_Analytics_Report_FY2025.xlsx",
+    "size_bytes": 69610,
+    "sha256": "61475abb8c50f395fa17f90cbbf25b04d75b285e6461240b958bfe25c20c6f40"
+  },
+  {
+    "path": "data/excel/reports/11_Mokhles_Group_Performance_Analytics_Report_FY2025.xlsx",
+    "size_bytes": 57124,
+    "sha256": "bf1dc3cd1db70fd3e3714690ebd99e6169a97c5d9f540fc291294608a498be2e"
+  },
+  {
+    "path": "data/excel/reports/12_Mokhles_Group_Health_Safety_Analytics_Report_FY2025.xlsx",
+    "size_bytes": 24885,
+    "sha256": "45e7f61fbf823b23de742e874fb44644a417f259798bb2cca8f7215303d77903"
+  },
+  {
+    "path": "docs/DATASET_CARD.md",
+    "size_bytes": 1238,
+    "sha256": "f46eff29f0a821f530b840607b92153d4dd53aa67e564dadc065b932eadef38f"
+  },
+  {
+    "path": "docs/DATA_DICTIONARY.md",
+    "size_bytes": 16838,
+    "sha256": "e53af2b1fcbf388478d0fe30f9bf2ffd9ce21b1b7bbcce31344d9cb9d2643ed4"
+  },
+  {
+    "path": "docs/FILE_CATALOG.md",
+    "size_bytes": 2102,
+    "sha256": "b5d3c7b9afcc7b7e16ce85b49b87effb3934a895c7a2e5bd9ae2cb5853a1288f"
+  },
+  {
+    "path": "docs/GITHUB_ABOUT.md",
+    "size_bytes": 822,
+    "sha256": "5498b5a82bce4c309ca7155bdc1ba0811c69a35940b19de397389dd312d977ec"
+  },
+  {
+    "path": "docs/GITHUB_UPLOAD_GUIDE.md",
+    "size_bytes": 1428,
+    "sha256": "138fdcb3e46089dcd20857cd8df183f5a556e16099edd26d16e532ea3d0669d6"
+  },
+  {
+    "path": "examples/quick_start.py",
+    "size_bytes": 723,
+    "sha256": "29b4856de735f05093d456f6ac375a930462c625add75bbefab7914a9a083d90"
+  },
+  {
+    "path": "metadata/column-metadata-coverage.json",
+    "size_bytes": 2439,
+    "sha256": "c2df462bf453300f5585adc3a6376ac6f28755765765b29cfa06a65b40c37e46"
+  },
+  {
+    "path": "metadata/github-repository-manifest.json",
+    "size_bytes": 11045,
+    "sha256": "a983a95579164de3508d47610cec54d7fe4c889ddd239a8dbd5437e8ca73a153"
+  },
+  {
+    "path": "metadata/github-repository-settings.json",
+    "size_bytes": 710,
+    "sha256": "d6fe37535e667c5b23ba874365523a21ff43193899e743079b8c801818f9b75b"
+  },
+  {
+    "path": "metadata/kaggle-dataset-metadata.json",
+    "size_bytes": 42705,
+    "sha256": "4665dd15f65b32b153aeb819b8615fec37f05aa41daecd677448aac544d86d45"
+  },
+  {
+    "path": "metadata/kaggle-kernel-metadata.json",
+    "size_bytes": 473,
+    "sha256": "873a6fa666dc2e11d080a28b6a7e303225a6bc9d9cf348205d04baada285d05d"
+  },
+  {
+    "path": "metadata/project-metadata.json",
+    "size_bytes": 580,
+    "sha256": "48f76acd5cac6c67b79d8e6d800488f583d52307d6196cd60d8e2537ef0f6ba6"
+  },
+  {
+    "path": "metadata/source-file-manifest.json",
+    "size_bytes": 6342,
+    "sha256": "d1202151aae8c71f3e72f48636a153c45c55148e7e4e4216b852b43d3d0ef748"
+  },
+  {
+    "path": "notebooks/Mokhles_HR_Analytics_EDA.ipynb",
+    "size_bytes": 11892,
+    "sha256": "bda50b935cace7d8894e38e9ece4b1c9c9e5bba03a6c9e4a90fb956461c60c30"
+  },
+  {
+    "path": "notebooks/README.md",
+    "size_bytes": 237,
+    "sha256": "85cd131d1cb462d3f54da20d68c0c80db6f05dac384acbb506df9bb0feb92288"
+  },
+  {
+    "path": "pyproject.toml",
+    "size_bytes": 705,
+    "sha256": "433e1d7c0c2713be1cc46c2c9815484a4a1babd925b27510f0ea34ed2cb9d9e7"
+  },
+  {
+    "path": "requirements.txt",
+    "size_bytes": 85,
+    "sha256": "a7dcaaede5fc5601ec83c3f99a6f4e4c3c763ea53e7d94851d83119a470bc4f7"
+  },
+  {
+    "path": "scripts/validate_repository.py",
+    "size_bytes": 4626,
+    "sha256": "753e76fce489f60a946a321486b1f03dfe6afedf84a127d40e3461f8476f5d47"
+  },
+  {
+    "path": "src/mokhles_hr_analytics/__init__.py",
+    "size_bytes": 220,
+    "sha256": "86db7a50ebab2799ca5712b20526eb5f28fa0e94405504e037a2be4c42752550"
+  },
+  {
+    "path": "src/mokhles_hr_analytics/data_loader.py",
+    "size_bytes": 2236,
+    "sha256": "3baa3693ff318f2ae5f93c468f1a95e7dcfaebeb1ac80c896431c87ae750da76"
+  }
+]

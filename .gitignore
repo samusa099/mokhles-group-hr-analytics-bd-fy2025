@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local outputs
+output/
+outputs/
+reports/generated/
+*.log
+
+# Credentials and secrets
+.env
+.env.*
+kaggle.json
+secrets/

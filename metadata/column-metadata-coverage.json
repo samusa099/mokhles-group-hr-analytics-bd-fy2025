@@ -1,0 +1,100 @@
+{
+  "dataset_id": "samusahr/mokhles-group-hr-analytics-bangladesh",
+  "generated_on": "2026-07-22",
+  "csv_resource_count": 13,
+  "total_described_columns": 186,
+  "all_csv_columns_described": true,
+  "resources": [
+    {
+      "file": "01_Employee_Master_FY2025.csv",
+      "sheet": "Employee Master",
+      "rows": 456,
+      "columns": 18,
+      "described_columns": 18
+    },
+    {
+      "file": "02_Monthly_HR_KPI_FY2025.csv",
+      "sheet": "Monthly HR KPI",
+      "rows": 12,
+      "columns": 15,
+      "described_columns": 15
+    },
+    {
+      "file": "03_Department_Annual_Summary_FY2025.csv",
+      "sheet": "Department Annual",
+      "rows": 12,
+      "columns": 10,
+      "described_columns": 10
+    },
+    {
+      "file": "04_Quarterly_Board_KPI_FY2025.csv",
+      "sheet": "Quarterly Board KPI",
+      "rows": 4,
+      "columns": 11,
+      "described_columns": 11
+    },
+    {
+      "file": "05_Recruitment_Master_FY2025.csv",
+      "sheet": "Recruitment Master",
+      "rows": 110,
+      "columns": 20,
+      "described_columns": 20
+    },
+    {
+      "file": "06_Employee_Separations_FY2025.csv",
+      "sheet": "Employee Separations",
+      "rows": 60,
+      "columns": 14,
+      "described_columns": 14
+    },
+    {
+      "file": "07_Leave_Transactions_FY2025.csv",
+      "sheet": "Leave Master",
+      "rows": 1043,
+      "columns": 12,
+      "described_columns": 12
+    },
+    {
+      "file": "08_Diversity_Inclusion_Master_FY2025.csv",
+      "sheet": "Diversity Master",
+      "rows": 456,
+      "columns": 13,
+      "described_columns": 13
+    },
+    {
+      "file": "09_Training_Development_Master_FY2025.csv",
+      "sheet": "Training Master",
+      "rows": 1011,
+      "columns": 18,
+      "described_columns": 18
+    },
+    {
+      "file": "10_Compensation_Benefits_Master_FY2025.csv",
+      "sheet": "Compensation Master",
+      "rows": 456,
+      "columns": 20,
+      "described_columns": 20
+    },
+    {
+      "file": "11_Performance_Evaluation_Master_FY2025.csv",
+      "sheet": "Performance Master",
+      "rows": 456,
+      "columns": 16,
+      "described_columns": 16
+    },
+    {
+      "file": "12_Health_Safety_Master_FY2025.csv",
+      "sheet": "HSE Master",
+      "rows": 120,
+      "columns": 13,
+      "described_columns": 13
+    },
+    {
+      "file": "13_Data_Dictionary_FY2025.csv",
+      "sheet": "Data Dictionary",
+      "rows": 180,
+      "columns": 6,
+      "described_columns": 6
+    }
+  ]
+}

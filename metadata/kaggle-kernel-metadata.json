@@ -1,0 +1,17 @@
+{
+  "id": "samusahr/mokhles-group-hr-analytics-eda",
+  "title": "Mokhles Group HR Analytics EDA",
+  "code_file": "notebooks/Mokhles_HR_Analytics_EDA.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "machine_shape": "",
+  "dataset_sources": [
+    "samusahr/mokhles-group-hr-analytics-portfolio-bd-fy2025"
+  ],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}

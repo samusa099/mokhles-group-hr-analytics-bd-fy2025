@@ -1,0 +1,1154 @@
+{
+  "title": "Mokhles Group HR Analytics Demo 2025",
+  "subtitle": "Realistic Synthetic HR Data from Bangladesh",
+  "description": "A realistic Bangladesh-based synthetic HR analytics portfolio containing analysis-ready CSV tables, a consolidated master Excel workbook, 12 specialised HR reports, metadata, documentation and an exploratory notebook.",
+  "id": "samusahr/mokhles-group-hr-analytics-portfolio-bd-fy2025",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "resources": [
+    {
+      "path": "data/csv/01_Employee_Master_FY2025.csv",
+      "description": "Year-end synthetic employee master records for workforce composition, headcount, tenure, organisational structure and salary analysis.",
+      "schema": {
+        "fields": [
+          {
+            "name": "Employee ID",
+            "description": "Unique synthetic employee identifier used consistently across the master datasets.",
+            "type": "id"
+          },
+          {
+            "name": "Employee Name",
+            "description": "Fictional Bangladesh-based employee name generated for portfolio use.",
+            "type": "string"
+          },
+          {
+            "name": "Gender",
+            "description": "Synthetic gender category used for workforce representation analysis.",
+            "type": "string"
+          },
+          {
+            "name": "Age",
+            "description": "Employee age as of the reporting snapshot.",
+            "type": "integer"
+          },
+          {
+            "name": "Age Band",
+            "description": "Grouped employee age range used for demographic analysis.",
+            "type": "string"
+          },
+          {
+            "name": "Division of Origin",
+            "description": "Synthetic administrative division of Bangladesh associated with the employee.",
+            "type": "string"
+          },
+          {
+            "name": "Disability Status",
+            "description": "Synthetic self-declared disability indicator used only for inclusion analysis.",
+            "type": "string"
+          },
+          {
+            "name": "Education",
+            "description": "Highest synthetic education level recorded for the employee.",
+            "type": "string"
+          },
+          {
+            "name": "Department",
+            "description": "Organisational department assigned to the employee or record.",
+            "type": "string"
+          },
+          {
+            "name": "Cost Center",
+            "description": "Synthetic finance and workforce cost-centre code.",
+            "type": "numeric"
+          },
+          {
+            "name": "Job Title",
+            "description": "Employee position title within Mokhles Group.",
+            "type": "string"
+          },
+          {
+            "name": "Job Level",
+            "description": "Organisational grade or hierarchy level.",
+            "type": "string"
+          },
+          {
+            "name": "Employment Type",
+            "description": "Employment arrangement such as permanent, contract, probation or intern.",
+            "type": "string"
+          },
+          {
+            "name": "Location",
+            "description": "Mokhles Group operating site or office in Bangladesh.",
+            "type": "string"
+          },
+          {
+            "name": "Join Date",
+            "description": "Employee's synthetic employment start date.",
+            "type": "datetime"
+          },
+          {
+            "name": "Tenure (Years)",
+            "description": "Length of service in years at the reporting date.",
+            "type": "numeric"
+          },
+          {
+            "name": "Manager",
+            "description": "Fictional line manager associated with the employee.",
+            "type": "string"
+          },
+          {
+            "name": "Monthly Gross",
+            "description": "Monthly gross compensation in Bangladeshi Taka.",
+            "type": "numeric"
+          }
+        ]
+      }
+    },
+    {
+      "path": "data/csv/02_Monthly_HR_KPI_FY2025.csv",
+      "description": "Monthly FY2025 HR indicators covering headcount movement, turnover, absence, overtime, training, payroll, vacancies and engagement.",
+      "schema": {
+        "fields": [
+          {
+            "name": "Month",
+            "description": "Reporting month within FY2025.",
+            "type": "datetime"
+          },
+          {
+            "name": "Opening Headcount",
+            "description": "Employees active on the first day of the reporting period.",
+            "type": "integer"
+          },
+          {
+            "name": "Hires",
+            "description": "Number of employees hired during the reporting period.",
+            "type": "integer"
+          },
+          {
+            "name": "Exits",
+            "description": "Number of employee separations during the reporting period.",
+            "type": "integer"
+          },
+          {
+            "name": "Closing Headcount",
+            "description": "Employees active on the last day of the reporting period.",
+            "type": "integer"
+          },
+          {
+            "name": "Average Headcount",
+            "description": "Average of opening and closing headcount.",
+            "type": "numeric"
+          },
+          {
+            "name": "Turnover Rate",
+            "description": "Employee exits divided by average headcount.",
+            "type": "numeric"
+          },
+          {
+            "name": "Approved Absence Days",
+            "description": "Synthetic approved absence days field used in the Monthly HR KPI dataset.",
+            "type": "integer"
+          },
+          {
+            "name": "Absence Rate",
+            "description": "Approved absence days divided by estimated available workdays.",
+            "type": "numeric"
+          },
+          {
+            "name": "Overtime Hours",
+            "description": "Synthetic overtime hours field used in the Monthly HR KPI dataset.",
+            "type": "integer"
+          },
+          {
+            "name": "Training Hours",
+            "description": "Synthetic training hours field used in the Monthly HR KPI dataset.",
+            "type": "integer"
+          },
+          {
+            "name": "Payroll Cost (BDT)",
+            "description": "Total monthly gross payroll cost in Bangladeshi Taka.",
+            "type": "numeric"
+          },
+          {
+            "name": "Open Vacancies",
+            "description": "Synthetic open vacancies field used in the Monthly HR KPI dataset.",
+            "type": "integer"
+          },
+          {
+            "name": "Average Time to Fill (Days)",
+            "description": "Synthetic average time to fill (days) field used in the Monthly HR KPI dataset.",
+            "type": "numeric"
+          },
+          {
+            "name": "Engagement Pulse (1-5)",
+            "description": "Synthetic engagement pulse (1-5) field used in the Monthly HR KPI dataset.",
+            "type": "numeric"
+          }
+        ]
+      }
+    },
+    {
+      "path": "data/csv/03_Department_Annual_Summary_FY2025.csv",
+      "description": "Annual department-level HR summary covering headcount, hiring, exits, turnover, absence, training and average performance.",
+      "schema": {
+        "fields": [
+          {
+            "name": "Department",
+            "description": "Organisational department assigned to the employee or record.",
+            "type": "string"
+          },
+          {
+            "name": "Opening Headcount",
+            "description": "Employees active on the first day of the reporting period.",
+            "type": "integer"
+          },
+          {
+            "name": "Hires",
+            "description": "Number of employees hired during the reporting period.",
+            "type": "integer"
+          },
+          {
+            "name": "Exits",
+            "description": "Number of employee separations during the reporting period.",
+            "type": "integer"
+          },
+          {
+            "name": "Closing Headcount",
+            "description": "Employees active on the last day of the reporting period.",
+            "type": "integer"
+          },
+          {
+            "name": "Average Headcount",
+            "description": "Average of opening and closing headcount.",
+            "type": "numeric"
+          },
+          {
+            "name": "Turnover Rate",
+            "description": "Employee exits divided by average headcount.",
+            "type": "numeric"
+          },
+          {
+            "name": "Approved Absence Days",
+            "description": "Synthetic approved absence days field used in the Department Annual dataset.",
+            "type": "integer"
+          },
+          {
+            "name": "Training Hours",
+            "description": "Synthetic training hours field used in the Department Annual dataset.",
+            "type": "integer"
+          },
+          {
+            "name": "Average Performance Score",
+            "description": "Synthetic average performance score field used in the Department Annual dataset.",
+            "type": "numeric"
+          }
+        ]
+      }
+    },
+    {
+      "path": "data/csv/04_Quarterly_Board_KPI_FY2025.csv",
+      "description": "Quarterly strategic HR indicators prepared for executive and board-level workforce review.",
+      "schema": {
+        "fields": [
+          {
+            "name": "Quarter",
+            "description": "Synthetic quarter field used in the Quarterly Board KPI dataset.",
+            "type": "string"
+          },
+          {
+            "name": "Closing Headcount",
+            "description": "Employees active on the last day of the reporting period.",
+            "type": "integer"
+          },
+          {
+            "name": "Hires",
+            "description": "Number of employees hired during the reporting period.",
+            "type": "integer"
+          },
+          {
+            "name": "Exits",
+            "description": "Number of employee separations during the reporting period.",
+            "type": "integer"
+          },
+          {
+            "name": "Turnover Rate",
+            "description": "Employee exits divided by average headcount.",
+            "type": "numeric"
+          },
+          {
+            "name": "Payroll Cost (BDT)",
+            "description": "Total monthly gross payroll cost in Bangladeshi Taka.",
+            "type": "numeric"
+          },
+          {
+            "name": "Absence Rate",
+            "description": "Approved absence days divided by estimated available workdays.",
+            "type": "numeric"
+          },
+          {
+            "name": "Training Hours",
+            "description": "Synthetic training hours field used in the Quarterly Board KPI dataset.",
+            "type": "integer"
+          },
+          {
+            "name": "Female Representation",
+            "description": "Synthetic female representation field used in the Quarterly Board KPI dataset.",
+            "type": "numeric"
+          },
+          {
+            "name": "Engagement Pulse",
+            "description": "Synthetic engagement pulse field used in the Quarterly Board KPI dataset.",
+            "type": "numeric"
+          },
+          {
+            "name": "Open Vacancies",
+            "description": "Synthetic open vacancies field used in the Quarterly Board KPI dataset.",
+            "type": "integer"
+          }
+        ]
+      }
+    },
+    {
+      "path": "data/csv/05_Recruitment_Master_FY2025.csv",
+      "description": "Recruitment requisitions and candidate-funnel records covering applications, interviews, offers, hires, time-to-fill and recruitment cost.",
+      "schema": {
+        "fields": [
+          {
+            "name": "Requisition ID",
+            "description": "Unique synthetic recruitment requisition identifier.",
+            "type": "id"
+          },
+          {
+            "name": "Department",
+            "description": "Organisational department assigned to the employee or record.",
+            "type": "string"
+          },
+          {
+            "name": "Location",
+            "description": "Mokhles Group operating site or office in Bangladesh.",
+            "type": "string"
+          },
+          {
+            "name": "Job Title",
+            "description": "Employee position title within Mokhles Group.",
+            "type": "string"
+          },
+          {
+            "name": "Job Level",
+            "description": "Organisational grade or hierarchy level.",
+            "type": "string"
+          },
+          {
+            "name": "Hiring Manager",
+            "description": "Synthetic hiring manager field used in the Recruitment Master dataset.",
+            "type": "string"
+          },
+          {
+            "name": "Posted Date",
+            "description": "Synthetic posted date field used in the Recruitment Master dataset.",
+            "type": "datetime"
+          },
+          {
+            "name": "Target Close Date",
+            "description": "Planned date for closing the corrective action.",
+            "type": "datetime"
+          },
+          {
+            "name": "Actual Close Date",
+            "description": "Synthetic actual close date field used in the Recruitment Master dataset.",
+            "type": "datetime"
+          },
+          {
+            "name": "Status",
+            "description": "Current workflow status of the record.",
+            "type": "string"
+          },
+          {
+            "name": "Planned Vacancies",
+            "description": "Synthetic planned vacancies field used in the Recruitment Master dataset.",
+            "type": "integer"
+          },
+          {
+            "name": "Applications",
+            "description": "Number of applications received for the requisition.",
+            "type": "integer"
+          },
+          {
+            "name": "Shortlisted",
+            "description": "Number of candidates selected for initial consideration.",
+            "type": "integer"
+          },
+          {
+            "name": "Interviewed",
+            "description": "Number of candidates interviewed.",
+            "type": "integer"
+          },
+          {
+            "name": "Offers",
+            "description": "Number of employment offers issued.",
+            "type": "integer"
+          },
+          {
+            "name": "Hires",
+            "description": "Number of employees hired during the reporting period.",
+            "type": "integer"
+          },
+          {
+            "name": "Primary Source",
+            "description": "Synthetic primary source field used in the Recruitment Master dataset.",
+            "type": "string"
+          },
+          {
+            "name": "Time to Fill (Days)",
+            "description": "Calendar days from requisition posting to closure.",
+            "type": "integer"
+          },
+          {
+            "name": "Recruitment Cost (BDT)",
+            "description": "Synthetic recruitment expenditure in Bangladeshi Taka.",
+            "type": "numeric"
+          },
+          {
+            "name": "Candidate Experience Score",
+            "description": "Synthetic candidate feedback score on a 1–5 scale.",
+            "type": "numeric"
+          }
+        ]
+      }
+    },
+    {
+      "path": "data/csv/06_Employee_Separations_FY2025.csv",
+      "description": "Employee turnover records covering exit dates, exit types, reasons, tenure at exit and regrettable separation status.",
+      "schema": {
+        "fields": [
+          {
+            "name": "Employee ID",
+            "description": "Unique synthetic employee identifier used consistently across the master datasets.",
+            "type": "id"
+          },
+          {
+            "name": "Employee Name",
+            "description": "Fictional Bangladesh-based employee name generated for portfolio use.",
+            "type": "string"
+          },
+          {
+            "name": "Gender",
+            "description": "Synthetic gender category used for workforce representation analysis.",
+            "type": "string"
+          },
+          {
+            "name": "Department",
+            "description": "Organisational department assigned to the employee or record.",
+            "type": "string"
+          },
+          {
+            "name": "Job Title",
+            "description": "Employee position title within Mokhles Group.",
+            "type": "string"
+          },
+          {
+            "name": "Job Level",
+            "description": "Organisational grade or hierarchy level.",
+            "type": "string"
+          },
+          {
+            "name": "Location",
+            "description": "Mokhles Group operating site or office in Bangladesh.",
+            "type": "string"
+          },
+          {
+            "name": "Join Date",
+            "description": "Employee's synthetic employment start date.",
+            "type": "datetime"
+          },
+          {
+            "name": "Exit Date",
+            "description": "Employee separation date.",
+            "type": "datetime"
+          },
+          {
+            "name": "Tenure at Exit (Years)",
+            "description": "Synthetic tenure at exit (years) field used in the Employee Separations dataset.",
+            "type": "numeric"
+          },
+          {
+            "name": "Exit Type",
+            "description": "Voluntary or involuntary separation classification.",
+            "type": "string"
+          },
+          {
+            "name": "Exit Reason",
+            "description": "Primary synthetic reason for employee separation.",
+            "type": "string"
+          },
+          {
+            "name": "Regrettable Exit",
+            "description": "Indicator for a strategically undesirable employee departure.",
+            "type": "string"
+          },
+          {
+            "name": "Manager",
+            "description": "Fictional line manager associated with the employee.",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "path": "data/csv/07_Leave_Transactions_FY2025.csv",
+      "description": "Employee leave and absence transactions covering leave categories, dates, duration, reasons and approval status.",
+      "schema": {
+        "fields": [
+          {
+            "name": "Leave ID",
+            "description": "Unique synthetic leave transaction identifier.",
+            "type": "id"
+          },
+          {
+            "name": "Employee ID",
+            "description": "Unique synthetic employee identifier used consistently across the master datasets.",
+            "type": "id"
+          },
+          {
+            "name": "Employee Name",
+            "description": "Fictional Bangladesh-based employee name generated for portfolio use.",
+            "type": "string"
+          },
+          {
+            "name": "Department",
+            "description": "Organisational department assigned to the employee or record.",
+            "type": "string"
+          },
+          {
+            "name": "Location",
+            "description": "Mokhles Group operating site or office in Bangladesh.",
+            "type": "string"
+          },
+          {
+            "name": "Leave Type",
+            "description": "Category of employee leave.",
+            "type": "string"
+          },
+          {
+            "name": "Start Date",
+            "description": "Start date of the leave or programme record.",
+            "type": "datetime"
+          },
+          {
+            "name": "End Date",
+            "description": "End date of the leave period.",
+            "type": "datetime"
+          },
+          {
+            "name": "Leave Days",
+            "description": "Total leave duration recorded for the transaction.",
+            "type": "integer"
+          },
+          {
+            "name": "Reason Category",
+            "description": "Synthetic reason category field used in the Leave Master dataset.",
+            "type": "string"
+          },
+          {
+            "name": "Approval Status",
+            "description": "Workflow status of the leave request.",
+            "type": "string"
+          },
+          {
+            "name": "Approved By",
+            "description": "Synthetic approved by field used in the Leave Master dataset.",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "path": "data/csv/08_Diversity_Inclusion_Master_FY2025.csv",
+      "description": "Workforce diversity records covering gender, age, disability status, education, job level, location and Bangladesh division of origin.",
+      "schema": {
+        "fields": [
+          {
+            "name": "Employee ID",
+            "description": "Unique synthetic employee identifier used consistently across the master datasets.",
+            "type": "id"
+          },
+          {
+            "name": "Employee Name",
+            "description": "Fictional Bangladesh-based employee name generated for portfolio use.",
+            "type": "string"
+          },
+          {
+            "name": "Gender",
+            "description": "Synthetic gender category used for workforce representation analysis.",
+            "type": "string"
+          },
+          {
+            "name": "Age",
+            "description": "Employee age as of the reporting snapshot.",
+            "type": "integer"
+          },
+          {
+            "name": "Age Band",
+            "description": "Grouped employee age range used for demographic analysis.",
+            "type": "string"
+          },
+          {
+            "name": "Division of Origin",
+            "description": "Synthetic administrative division of Bangladesh associated with the employee.",
+            "type": "string"
+          },
+          {
+            "name": "Disability Status",
+            "description": "Synthetic self-declared disability indicator used only for inclusion analysis.",
+            "type": "string"
+          },
+          {
+            "name": "Education",
+            "description": "Highest synthetic education level recorded for the employee.",
+            "type": "string"
+          },
+          {
+            "name": "Department",
+            "description": "Organisational department assigned to the employee or record.",
+            "type": "string"
+          },
+          {
+            "name": "Job Title",
+            "description": "Employee position title within Mokhles Group.",
+            "type": "string"
+          },
+          {
+            "name": "Job Level",
+            "description": "Organisational grade or hierarchy level.",
+            "type": "string"
+          },
+          {
+            "name": "Employment Type",
+            "description": "Employment arrangement such as permanent, contract, probation or intern.",
+            "type": "string"
+          },
+          {
+            "name": "Location",
+            "description": "Mokhles Group operating site or office in Bangladesh.",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "path": "data/csv/09_Training_Development_Master_FY2025.csv",
+      "description": "Employee-level training participation records covering programmes, hours, completion, assessments, feedback and learning cost.",
+      "schema": {
+        "fields": [
+          {
+            "name": "Program ID",
+            "description": "Unique synthetic training programme identifier.",
+            "type": "id"
+          },
+          {
+            "name": "Program Name",
+            "description": "Name of the learning programme.",
+            "type": "string"
+          },
+          {
+            "name": "Category",
+            "description": "Synthetic category field used in the Training Master dataset.",
+            "type": "string"
+          },
+          {
+            "name": "Training Date",
+            "description": "Date on which the training programme occurred.",
+            "type": "datetime"
+          },
+          {
+            "name": "Employee ID",
+            "description": "Unique synthetic employee identifier used consistently across the master datasets.",
+            "type": "id"
+          },
+          {
+            "name": "Employee Name",
+            "description": "Fictional Bangladesh-based employee name generated for portfolio use.",
+            "type": "string"
+          },
+          {
+            "name": "Department",
+            "description": "Organisational department assigned to the employee or record.",
+            "type": "string"
+          },
+          {
+            "name": "Job Level",
+            "description": "Organisational grade or hierarchy level.",
+            "type": "string"
+          },
+          {
+            "name": "Mode",
+            "description": "Synthetic mode field used in the Training Master dataset.",
+            "type": "string"
+          },
+          {
+            "name": "Provider",
+            "description": "Synthetic provider field used in the Training Master dataset.",
+            "type": "string"
+          },
+          {
+            "name": "Venue",
+            "description": "Synthetic venue field used in the Training Master dataset.",
+            "type": "string"
+          },
+          {
+            "name": "Hours",
+            "description": "Synthetic hours field used in the Training Master dataset.",
+            "type": "integer"
+          },
+          {
+            "name": "Completion Status",
+            "description": "Whether the employee completed the training.",
+            "type": "string"
+          },
+          {
+            "name": "Pre-Assessment Score",
+            "description": "Synthetic score before training.",
+            "type": "numeric"
+          },
+          {
+            "name": "Post-Assessment Score",
+            "description": "Synthetic score after training.",
+            "type": "numeric"
+          },
+          {
+            "name": "Feedback Rating",
+            "description": "Synthetic participant rating on a 1–5 scale.",
+            "type": "numeric"
+          },
+          {
+            "name": "Cost (BDT)",
+            "description": "Synthetic cost (bdt) field used in the Training Master dataset.",
+            "type": "numeric"
+          },
+          {
+            "name": "Mandatory",
+            "description": "Synthetic mandatory field used in the Training Master dataset.",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "path": "data/csv/10_Compensation_Benefits_Master_FY2025.csv",
+      "description": "Employee compensation and total-reward records covering salary, allowances, bonus, provident fund, gratuity, insurance and compa-ratio.",
+      "schema": {
+        "fields": [
+          {
+            "name": "Employee ID",
+            "description": "Unique synthetic employee identifier used consistently across the master datasets.",
+            "type": "id"
+          },
+          {
+            "name": "Employee Name",
+            "description": "Fictional Bangladesh-based employee name generated for portfolio use.",
+            "type": "string"
+          },
+          {
+            "name": "Gender",
+            "description": "Synthetic gender category used for workforce representation analysis.",
+            "type": "string"
+          },
+          {
+            "name": "Department",
+            "description": "Organisational department assigned to the employee or record.",
+            "type": "string"
+          },
+          {
+            "name": "Location",
+            "description": "Mokhles Group operating site or office in Bangladesh.",
+            "type": "string"
+          },
+          {
+            "name": "Job Title",
+            "description": "Employee position title within Mokhles Group.",
+            "type": "string"
+          },
+          {
+            "name": "Job Level",
+            "description": "Organisational grade or hierarchy level.",
+            "type": "string"
+          },
+          {
+            "name": "Employment Type",
+            "description": "Employment arrangement such as permanent, contract, probation or intern.",
+            "type": "string"
+          },
+          {
+            "name": "Basic Salary",
+            "description": "Basic monthly salary in Bangladeshi Taka.",
+            "type": "numeric"
+          },
+          {
+            "name": "House Rent",
+            "description": "Monthly house-rent allowance in Bangladeshi Taka.",
+            "type": "integer"
+          },
+          {
+            "name": "Medical Allowance",
+            "description": "Monthly medical allowance in Bangladeshi Taka.",
+            "type": "numeric"
+          },
+          {
+            "name": "Conveyance",
+            "description": "Monthly conveyance allowance in Bangladeshi Taka.",
+            "type": "integer"
+          },
+          {
+            "name": "Other Allowance",
+            "description": "Additional monthly allowance in Bangladeshi Taka.",
+            "type": "numeric"
+          },
+          {
+            "name": "Monthly Gross",
+            "description": "Monthly gross compensation in Bangladeshi Taka.",
+            "type": "numeric"
+          },
+          {
+            "name": "Annual Bonus",
+            "description": "Synthetic annual bonus field used in the Compensation Master dataset.",
+            "type": "numeric"
+          },
+          {
+            "name": "Monthly Employer PF",
+            "description": "Synthetic monthly employer pf field used in the Compensation Master dataset.",
+            "type": "numeric"
+          },
+          {
+            "name": "Annual Gratuity Provision",
+            "description": "Synthetic annual gratuity provision field used in the Compensation Master dataset.",
+            "type": "numeric"
+          },
+          {
+            "name": "Annual Insurance Value",
+            "description": "Synthetic annual insurance value field used in the Compensation Master dataset.",
+            "type": "numeric"
+          },
+          {
+            "name": "Annual Total Reward",
+            "description": "Annualised salary and synthetic employer-funded benefits.",
+            "type": "numeric"
+          },
+          {
+            "name": "Compa-Ratio",
+            "description": "Employee monthly gross divided by the synthetic job-level midpoint.",
+            "type": "numeric"
+          }
+        ]
+      }
+    },
+    {
+      "path": "data/csv/11_Performance_Evaluation_Master_FY2025.csv",
+      "description": "Employee performance records covering goal completion, competency, ratings, potential, readiness and development priorities.",
+      "schema": {
+        "fields": [
+          {
+            "name": "Employee ID",
+            "description": "Unique synthetic employee identifier used consistently across the master datasets.",
+            "type": "id"
+          },
+          {
+            "name": "Employee Name",
+            "description": "Fictional Bangladesh-based employee name generated for portfolio use.",
+            "type": "string"
+          },
+          {
+            "name": "Department",
+            "description": "Organisational department assigned to the employee or record.",
+            "type": "string"
+          },
+          {
+            "name": "Job Title",
+            "description": "Employee position title within Mokhles Group.",
+            "type": "string"
+          },
+          {
+            "name": "Job Level",
+            "description": "Organisational grade or hierarchy level.",
+            "type": "string"
+          },
+          {
+            "name": "Manager",
+            "description": "Fictional line manager associated with the employee.",
+            "type": "string"
+          },
+          {
+            "name": "Goal Completion (%)",
+            "description": "Synthetic achievement against assigned goals.",
+            "type": "numeric"
+          },
+          {
+            "name": "Competency Score (1-5)",
+            "description": "Synthetic competency rating on a 1–5 scale.",
+            "type": "numeric"
+          },
+          {
+            "name": "Attendance Score (%)",
+            "description": "Synthetic attendance score (%) field used in the Performance Master dataset.",
+            "type": "numeric"
+          },
+          {
+            "name": "Overall Score",
+            "description": "Weighted performance evaluation score.",
+            "type": "numeric"
+          },
+          {
+            "name": "Performance Rating",
+            "description": "Numeric performance rating from 1 to 5.",
+            "type": "integer"
+          },
+          {
+            "name": "Rating Label",
+            "description": "Text label corresponding to the performance rating.",
+            "type": "string"
+          },
+          {
+            "name": "Potential",
+            "description": "Synthetic talent-potential classification.",
+            "type": "string"
+          },
+          {
+            "name": "Promotion Readiness",
+            "description": "Indicative readiness category for talent-review practice.",
+            "type": "string"
+          },
+          {
+            "name": "Calibration Status",
+            "description": "Synthetic calibration status field used in the Performance Master dataset.",
+            "type": "string"
+          },
+          {
+            "name": "Primary Development Area",
+            "description": "Synthetic primary development area field used in the Performance Master dataset.",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "path": "data/csv/12_Health_Safety_Master_FY2025.csv",
+      "description": "Health and safety records covering incidents, lost-time injuries, days lost, root causes, corrective actions and closure status.",
+      "schema": {
+        "fields": [
+          {
+            "name": "Incident ID",
+            "description": "Unique synthetic health and safety record identifier.",
+            "type": "id"
+          },
+          {
+            "name": "Incident Date",
+            "description": "Date of the health and safety record.",
+            "type": "datetime"
+          },
+          {
+            "name": "Location",
+            "description": "Mokhles Group operating site or office in Bangladesh.",
+            "type": "string"
+          },
+          {
+            "name": "Department",
+            "description": "Organisational department assigned to the employee or record.",
+            "type": "string"
+          },
+          {
+            "name": "Incident Type",
+            "description": "Health and safety incident or observation category.",
+            "type": "string"
+          },
+          {
+            "name": "Severity",
+            "description": "Synthetic severity classification.",
+            "type": "string"
+          },
+          {
+            "name": "Lost Time Injury",
+            "description": "Indicates whether the incident resulted in lost workdays.",
+            "type": "string"
+          },
+          {
+            "name": "Days Lost",
+            "description": "Number of workdays lost following the incident.",
+            "type": "integer"
+          },
+          {
+            "name": "Root Cause",
+            "description": "Primary synthetic causal factor identified.",
+            "type": "string"
+          },
+          {
+            "name": "Corrective Action",
+            "description": "Action assigned to reduce recurrence risk.",
+            "type": "string"
+          },
+          {
+            "name": "Responsible Owner",
+            "description": "Synthetic responsible owner field used in the HSE Master dataset.",
+            "type": "string"
+          },
+          {
+            "name": "Target Close Date",
+            "description": "Planned date for closing the corrective action.",
+            "type": "datetime"
+          },
+          {
+            "name": "Status",
+            "description": "Current workflow status of the record.",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "path": "data/csv/13_Data_Dictionary_FY2025.csv",
+      "description": "Field-level definitions, data types and source lineage for the consolidated Mokhles Group HR analytics dataset.",
+      "schema": {
+        "fields": [
+          {
+            "name": "Master Sheet",
+            "description": "Name of the consolidated master worksheet containing the documented field.",
+            "type": "string"
+          },
+          {
+            "name": "Field Name",
+            "description": "Exact column name used in the relevant master dataset.",
+            "type": "string"
+          },
+          {
+            "name": "Definition",
+            "description": "Business meaning and intended interpretation of the field.",
+            "type": "string"
+          },
+          {
+            "name": "Data Type",
+            "description": "Human-readable data classification used in the workbook documentation.",
+            "type": "string"
+          },
+          {
+            "name": "Source Workbook",
+            "description": "Original Excel report from which the field was consolidated.",
+            "type": "string"
+          },
+          {
+            "name": "Original Sheet",
+            "description": "Original worksheet containing the source field.",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "path": "data/excel/master/Mokhles_Group_HR_Analytics_Master_Dataset_FY2025.xlsx",
+      "description": "Consolidated master Excel workbook with an executive dashboard, 12 analytical data sheets and a data dictionary."
+    },
+    {
+      "path": "data/excel/reports/01_Mokhles_Group_Headcount_Analytics_Report_FY2025.xlsx",
+      "description": "Excel headcount dashboard and employee snapshot for workforce structure, tenure and location analysis."
+    },
+    {
+      "path": "data/excel/reports/02_Mokhles_Group_Monthly_HR_Analytics_Report_FY2025.xlsx",
+      "description": "Excel monthly HR dashboard covering workforce movement, absence, payroll, training, vacancies and engagement."
+    },
+    {
+      "path": "data/excel/reports/03_Mokhles_Group_Annual_HR_Analytics_Report_FY2025.xlsx",
+      "description": "Excel annual HR dashboard covering executive KPIs, department outcomes and strategic HR initiatives."
+    },
+    {
+      "path": "data/excel/reports/04_Mokhles_Group_Board_HR_Analytics_Report_FY2025.xlsx",
+      "description": "Excel board-level HR report covering quarterly KPIs, workforce risks and governance actions."
+    },
+    {
+      "path": "data/excel/reports/05_Mokhles_Group_Recruitment_Analytics_Report_FY2025.xlsx",
+      "description": "Excel recruitment dashboard covering candidate funnels, time-to-fill, hiring sources and recruitment cost."
+    },
+    {
+      "path": "data/excel/reports/06_Mokhles_Group_Turnover_Retention_Analytics_Report_FY2025.xlsx",
+      "description": "Excel turnover and retention dashboard covering exit reasons, regrettable exits and department retention."
+    },
+    {
+      "path": "data/excel/reports/07_Mokhles_Group_Absence_Leave_Analytics_Report_FY2025.xlsx",
+      "description": "Excel leave and absence dashboard covering leave type, duration, frequency and department patterns."
+    },
+    {
+      "path": "data/excel/reports/08_Mokhles_Group_Diversity_Inclusion_Analytics_Report_FY2025.xlsx",
+      "description": "Excel diversity and inclusion dashboard covering gender, age, disability, education and geographic representation."
+    },
+    {
+      "path": "data/excel/reports/09_Mokhles_Group_Learning_Development_Analytics_Report_FY2025.xlsx",
+      "description": "Excel learning and development dashboard covering participation, completion, assessments, hours and cost."
+    },
+    {
+      "path": "data/excel/reports/10_Mokhles_Group_Compensation_Benefits_Analytics_Report_FY2025.xlsx",
+      "description": "Excel compensation dashboard covering salary, benefits, total reward, compa-ratio and pay-equity indicators."
+    },
+    {
+      "path": "data/excel/reports/11_Mokhles_Group_Performance_Analytics_Report_FY2025.xlsx",
+      "description": "Excel performance dashboard covering ratings, potential, promotion readiness and development needs."
+    },
+    {
+      "path": "data/excel/reports/12_Mokhles_Group_Health_Safety_Analytics_Report_FY2025.xlsx",
+      "description": "Excel health and safety dashboard covering incidents, lost time, root causes and corrective-action closure."
+    },
+    {
+      "path": "notebooks/Mokhles_HR_Analytics_EDA.ipynb",
+      "description": "Python exploratory data analysis notebook covering headcount, recruitment, turnover, compensation, performance, learning and health and safety."
+    },
+    {
+      "path": "metadata/kaggle-kernel-metadata.json",
+      "description": "Kaggle Notebook configuration for publishing the Mokhles Group HR Analytics exploratory analysis."
+    },
+    {
+      "path": "requirements.txt",
+      "description": "Python dependency list for reproducing the exploratory HR analytics notebook."
+    },
+    {
+      "path": "README.md",
+      "description": "Main project overview, file inventory, dataset scale and synthetic-data notice."
+    },
+    {
+      "path": "docs/DATASET_CARD.md",
+      "description": "Publication-ready description of the Mokhles Group HR Analytics Demo 2025 dataset."
+    },
+    {
+      "path": "docs/GITHUB_UPLOAD_GUIDE.md",
+      "description": "Step-by-step instructions for publishing a new Kaggle dataset version with native field descriptions."
+    },
+    {
+      "path": "LICENSE",
+      "description": "Creative Commons Attribution 4.0 International licence and suggested attribution."
+    },
+    {
+      "path": "metadata/column-metadata-coverage.json",
+      "description": "Validation summary confirming row counts, column counts and description coverage for every analysis-ready CSV."
+    },
+    {
+      "path": "metadata/project-metadata.json",
+      "description": "Machine-readable project metadata covering authorship, coverage, data classification and package contents."
+    },
+    {
+      "path": "metadata/source-file-manifest.json",
+      "description": "SHA-256 file-integrity manifest for the complete Kaggle update package."
+    }
+  ],
+  "keywords": [
+    "human resources",
+    "hr analytics",
+    "workforce analytics",
+    "employment",
+    "business",
+    "bangladesh",
+    "synthetic data",
+    "exploratory data analysis",
+    "data visualization",
+    "excel"
+  ],
+  "expectedUpdateFrequency": "never",
+  "userSpecifiedSources": "This is an original, fully synthetic HR dataset created by Siam Ahmad Musa for learning, analytics practice and portfolio demonstration. No real employee, applicant, salary, health or confidential organisational data was collected or used.",
+  "image": "assets/mokhles-hr-analytics-cover.png"
+}

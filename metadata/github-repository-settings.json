@@ -1,0 +1,22 @@
+{
+  "repository_name": "mokhles-group-hr-analytics-bd-fy2025",
+  "description": "Realistic synthetic Bangladesh HR analytics portfolio with 13 CSV tables, 13 Excel workbooks, 186 field descriptions and a Python EDA notebook.",
+  "homepage": "https://www.kaggle.com/datasets/samusahr/mokhles-group-hr-analytics-portfolio-bd-fy2025",
+  "visibility": "public",
+  "topics": [
+    "hr-analytics",
+    "people-analytics",
+    "workforce-analytics",
+    "human-resources",
+    "bangladesh",
+    "synthetic-data",
+    "excel-dashboard",
+    "jupyter-notebook",
+    "pandas",
+    "data-visualization",
+    "recruitment-analytics",
+    "employee-turnover",
+    "compensation-analysis",
+    "performance-management"
+  ]
+}

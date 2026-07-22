@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "Please cite this dataset and repository using the following metadata."
+title: "Mokhles Group HR Analytics Demo 2025"
+type: dataset
+version: 1.0.0
+date-released: 2026-07-22
+authors:
+  - family-names: Musa
+    given-names: Siam Ahmad
+    alias: Musa
+repository-code: "https://github.com/samusahr/mokhles-group-hr-analytics-bd-fy2025"
+url: "https://www.kaggle.com/datasets/samusahr/mokhles-group-hr-analytics-portfolio-bd-fy2025"
+keywords:
+  - human resources
+  - HR analytics
+  - people analytics
+  - workforce analytics
+  - Bangladesh
+  - synthetic data
+license: CC-BY-4.0
+abstract: >-
+  A realistic synthetic HR analytics portfolio containing employee,
+  recruitment, turnover, leave, diversity, training, compensation,
+  performance and workplace safety datasets in a Bangladesh business context.

@@ -1,0 +1,19 @@
+{
+  "project_title": "Mokhles Group HR Analytics Demo 2025",
+  "author": {
+    "name": "Siam Ahmad Musa",
+    "bio": "Human Resources professional and people analytics practitioner from Bangladesh."
+  },
+  "organisation": "Mokhles Group (fictional demonstration company)",
+  "country": "Bangladesh",
+  "temporal_coverage": {
+    "start": "2025-01-01",
+    "end": "2025-12-31"
+  },
+  "data_classification": "Synthetic demonstration data",
+  "currency": "BDT",
+  "csv_tables": 13,
+  "described_columns": 186,
+  "excel_workbooks": 13,
+  "notebook": "Mokhles_HR_Analytics_EDA.ipynb"
+}
