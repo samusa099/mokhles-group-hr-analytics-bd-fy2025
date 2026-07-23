@@ -16,21 +16,18 @@
   <img alt="License" src="https://img.shields.io/badge/data%20license-CC%20BY%204.0-lightgrey">
 </p>
 
+## Release v2.1.0
 
-## Release v2.0.0
-
-This repository is the maintainable GitHub source package. Separate,
-platform-ready Kaggle Dataset and Kaggle Notebook packages are included in the
-v2.0.0 distribution release.
+Release **v2.1.0** adds a maintainable, cross-platform Business Intelligence layer for Power BI, Looker Studio, Tableau, Qlik Sense, Excel Power Query/Power Pivot and Metabase.
 
 - **GitHub:** https://github.com/samusa099/mokhles-group-hr-analytics-bd-fy2025
-- **Kaggle Dataset:** https://www.kaggle.com/datasets/samusahr/mokhles-group-hr-analytics-portfolio-bd-fy2025
+- **Kaggle:** https://www.kaggle.com/datasets/samusahr/mokhles-group-hr-analytics-portfolio-bd-fy2025
 
 ## Overview
 
-This repository contains a complete HR analytics portfolio for **Mokhles Group**, a fictional Bangladesh-based organisation. The records are fully synthetic, but the structure, terminology, employee profiles, locations, compensation values and HR transactions were designed to resemble realistic organisational data.
+This repository contains a complete HR analytics portfolio for **Mokhles Group**, a fictional Bangladesh-based organisation. The records are fully synthetic, while the structure, terminology, employee profiles, compensation values and HR transactions were designed to resemble realistic organisational data.
 
-The project combines analysis-ready CSV tables, a consolidated Excel master workbook, 12 specialised Excel reports, a Jupyter Notebook, field-level metadata and automated repository validation.
+The project combines 13 analysis-ready CSV tables, a consolidated Excel master workbook, 12 specialised Excel reports, a Jupyter Notebook, field-level metadata, automated validation and documented BI implementation paths.
 
 > **Privacy and ethics:** No real employee, applicant, salary, performance, health or confidential organisational data is included.
 
@@ -48,6 +45,31 @@ The project combines analysis-ready CSV tables, a consolidated Excel master work
 | Performance evaluation records | 456 |
 | Health and safety records | 120 |
 | Native field descriptions | 186 |
+
+## Business Intelligence compatibility
+
+Supported implementation guides:
+
+- Power BI Desktop
+- Looker Studio
+- Tableau
+- Qlik Sense
+- Excel Power Query and Power Pivot
+- Metabase
+
+Start here:
+
+```text
+docs/bi/00_BI_START_HERE.md
+```
+
+Generate the complete 15-table BI-ready layer locally:
+
+```bash
+python scripts/build_bi_ready_layer.py
+```
+
+The generator creates lowercase `snake_case` dimensions and facts inside `data/bi_ready_csv/`, plus an original-to-BI field mapping. The repository also includes a semantic relationship map, KPI catalogue, dashboard blueprint and Power BI JSON theme.
 
 ## Analytics coverage
 
@@ -67,176 +89,64 @@ The project combines analysis-ready CSV tables, a consolidated Excel master work
 
 ```text
 mokhles-group-hr-analytics-bd-fy2025/
-├── .github/
-│   ├── ISSUE_TEMPLATE/
-│   └── workflows/
-├── assets/
+├── .github/                 Workflows and contribution templates
+├── assets/                  Cover and dashboard previews
+├── bi_assets/               BI theme and semantic-model assets
 ├── data/
-│   ├── csv/
-│   └── excel/
-│       ├── master/
-│       └── reports/
-├── docs/
-├── examples/
-├── metadata/
-├── notebooks/
-├── scripts/
-├── src/mokhles_hr_analytics/
-├── CITATION.cff
-├── CODE_OF_CONDUCT.md
-├── CONTRIBUTING.md
-├── LICENSE
-├── LICENSE-CODE
-├── README.md
-└── requirements.txt
+│   ├── csv/                 13 authoritative analytical CSVs
+│   ├── bi_ready_csv/        Generated cross-platform BI layer
+│   └── excel/               Master workbook and 12 reports
+├── docs/bi/                 Platform-specific BI guides
+├── examples/                Python usage example
+├── metadata/                Project, GitHub and Kaggle metadata
+├── notebooks/               Exploratory Jupyter Notebook
+├── scripts/                 Validation and BI generation utilities
+└── src/                     Reusable Python data loader
 ```
 
-## Analysis-ready CSV tables
-
-| No. | Table |
-|---:|---|
-| 01 | Employee Master |
-| 02 | Monthly HR KPI |
-| 03 | Department Annual Summary |
-| 04 | Quarterly Board KPI |
-| 05 | Recruitment Master |
-| 06 | Employee Separations |
-| 07 | Leave Transactions |
-| 08 | Diversity and Inclusion Master |
-| 09 | Training and Development Master |
-| 10 | Compensation and Benefits Master |
-| 11 | Performance Evaluation Master |
-| 12 | Health and Safety Master |
-| 13 | Data Dictionary |
-
 ## Quick start
-
-### 1. Clone the repository
 
 ```bash
 git clone https://github.com/samusa099/mokhles-group-hr-analytics-bd-fy2025.git
 cd mokhles-group-hr-analytics-bd-fy2025
-```
-
-### 2. Create a virtual environment
-
-**Windows PowerShell**
-
-```powershell
-py -m venv .venv
-.\.venv\Scripts\Activate.ps1
-py -m pip install -r requirements.txt
-py -m pip install -e .
-```
-
-**macOS or Linux**
-
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
 python -m pip install -r requirements.txt
 python -m pip install -e .
-```
-
-### 3. Run the repository validation
-
-```bash
 python scripts/validate_repository.py
+python scripts/build_bi_ready_layer.py
 ```
 
-### 4. Launch the notebook
+Launch the notebook:
 
 ```bash
 jupyter lab notebooks/Mokhles_HR_Analytics_EDA.ipynb
 ```
 
-## Python example
-
-```python
-from mokhles_hr_analytics import load_csv_table
-
-employees = load_csv_table("01_Employee_Master_FY2025.csv")
-print(employees.head())
-print(employees["Department"].value_counts())
-```
-
 ## Excel portfolio
 
-The `data/excel/` directory includes:
-
-- One consolidated master workbook
-- Twelve specialised HR analytics reports
-- Executive dashboards
-- Filterable Excel tables
-- KPI definitions
-- Bangladesh-based BDT compensation values
-
-## Kaggle dataset
-
-The published dataset is available on Kaggle:
-
-**Mokhles Group HR Analytics Portfolio BD FY2025**  
-https://www.kaggle.com/datasets/samusahr/mokhles-group-hr-analytics-portfolio-bd-fy2025
-
-Kaggle-specific metadata is stored in `metadata/`.
+The `data/excel/` directory includes one consolidated master workbook and 12 specialised reports covering headcount, monthly KPIs, annual reporting, board KPIs, recruitment, turnover, leave, diversity, learning, compensation, performance and health and safety.
 
 ## Data dictionary
 
-The complete field-level data dictionary is available at:
+The complete field-level dictionary is available at:
 
 ```text
 data/csv/13_Data_Dictionary_FY2025.csv
 ```
 
-Every analysis-ready CSV field also has a native description in:
-
-```text
-metadata/kaggle-dataset-metadata.json
-```
-
 ## Validation and quality controls
 
-The repository includes a validation script and GitHub Actions workflow that check:
-
-- Required files and directories
-- CSV header uniqueness
-- CSV row and column counts
-- Kaggle schema-to-CSV column alignment
-- Non-empty field descriptions
-- JSON and notebook validity
-- Excel workbook ZIP integrity
-- Duplicate resource paths
-
-## Suggested research and portfolio extensions
-
-- Employee-turnover prediction
-- Recruitment-source optimisation
-- Compensation-band modelling
-- Workforce forecasting
-- Talent segmentation
-- Department risk scoring
-- Power BI executive dashboard
-- SQL-based HR data mart
-- Diversity representation analysis
+The repository validates required files, CSV headers, schema alignment, field descriptions, JSON/notebook validity and Excel workbook integrity through a local script and GitHub Actions.
 
 ## Author
 
 **Siam Ahmad Musa**  
 Human Resources professional and people analytics practitioner from Bangladesh.
 
-## Citation
-
-Please cite this project using the metadata in `CITATION.cff`.
-
-Suggested citation:
-
-> Musa, Siam Ahmad. (2026). *Mokhles Group HR Analytics Demo 2025: A Realistic Synthetic HR Dataset from Bangladesh* (Version 1.0.0).
-
 ## Licences
 
-- **Dataset and documentation:** CC BY 4.0 — see `LICENSE`
-- **Python code and notebook utilities:** MIT — see `LICENSE-CODE`
+- **Dataset and documentation:** CC BY 4.0
+- **Python utilities and supporting code:** MIT Licence
 
 ## Disclaimer
 
-Mokhles Group is used as a fictional company name. All records are synthetic and must not be presented as real organisational or employee information.
+Mokhles Group is a fictional company name. All records are synthetic and must not be presented as real organisational or employee information.
