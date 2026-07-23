@@ -5,7 +5,7 @@ on:
     branches:
       - release-v2.1.0-bi-compatibility
     paths:
-      - deploy/v2.1.0/READY
+      - deploy/v2.1.0/GO
 
 permissions:
   contents: write
