@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="assets/mokhles-hr-analytics-cover.png" alt="Mokhles Group HR Analytics Portfolio — Bangladesh FY2025" width="100%">
+  <img width="1672" height="941" alt="aifaceswap-2b2d910299136cc394e3c7186c17e916" src="https://github.com/user-attachments/assets/4e0c66e6-6a13-40c7-bd96-049664b2df81" />
+
 </p>
 
 <h1 align="center">Mokhles Group HR Analytics Portfolio — Bangladesh FY2025</h1>
