@@ -1,0 +1,77 @@
+// Update this path to the extracted project root.
+Directory [C:\Users\Musa PC\Downloads\Mokhles_Group_HR_Analytics_FINAL_Kaggle_Upload_v2_3_0\02_CLEAN_DATA\bi_ready_csv];
+
+[00_dim_date]:
+LOAD *
+FROM [00_dim_date.csv]
+(txt, codepage is 65001, embedded labels, delimiter is ',', msq);
+
+[00_dim_department]:
+LOAD *
+FROM [00_dim_department.csv]
+(txt, codepage is 65001, embedded labels, delimiter is ',', msq);
+
+[00_dim_location]:
+LOAD *
+FROM [00_dim_location.csv]
+(txt, codepage is 65001, embedded labels, delimiter is ',', msq);
+
+[01_dim_employee_fy2025]:
+LOAD *
+FROM [01_dim_employee_fy2025.csv]
+(txt, codepage is 65001, embedded labels, delimiter is ',', msq);
+
+[02_fact_monthly_hr_kpi_fy2025]:
+LOAD *
+FROM [02_fact_monthly_hr_kpi_fy2025.csv]
+(txt, codepage is 65001, embedded labels, delimiter is ',', msq);
+
+[03_fact_department_annual_summary_fy2025]:
+LOAD *
+FROM [03_fact_department_annual_summary_fy2025.csv]
+(txt, codepage is 65001, embedded labels, delimiter is ',', msq);
+
+[04_fact_quarterly_board_kpi_fy2025]:
+LOAD *
+FROM [04_fact_quarterly_board_kpi_fy2025.csv]
+(txt, codepage is 65001, embedded labels, delimiter is ',', msq);
+
+[05_fact_recruitment_fy2025]:
+LOAD *
+FROM [05_fact_recruitment_fy2025.csv]
+(txt, codepage is 65001, embedded labels, delimiter is ',', msq);
+
+[06_fact_employee_separations_fy2025]:
+LOAD *
+FROM [06_fact_employee_separations_fy2025.csv]
+(txt, codepage is 65001, embedded labels, delimiter is ',', msq);
+
+[07_fact_leave_transactions_fy2025]:
+LOAD *
+FROM [07_fact_leave_transactions_fy2025.csv]
+(txt, codepage is 65001, embedded labels, delimiter is ',', msq);
+
+[08_dim_diversity_inclusion_fy2025]:
+LOAD *
+FROM [08_dim_diversity_inclusion_fy2025.csv]
+(txt, codepage is 65001, embedded labels, delimiter is ',', msq);
+
+[09_fact_training_development_fy2025]:
+LOAD *
+FROM [09_fact_training_development_fy2025.csv]
+(txt, codepage is 65001, embedded labels, delimiter is ',', msq);
+
+[10_fact_compensation_benefits_fy2025]:
+LOAD *
+FROM [10_fact_compensation_benefits_fy2025.csv]
+(txt, codepage is 65001, embedded labels, delimiter is ',', msq);
+
+[11_fact_performance_evaluation_fy2025]:
+LOAD *
+FROM [11_fact_performance_evaluation_fy2025.csv]
+(txt, codepage is 65001, embedded labels, delimiter is ',', msq);
+
+[12_fact_health_safety_fy2025]:
+LOAD *
+FROM [12_fact_health_safety_fy2025.csv]
+(txt, codepage is 65001, embedded labels, delimiter is ',', msq);

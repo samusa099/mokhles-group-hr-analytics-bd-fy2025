@@ -1,0 +1,61 @@
+employee_id,employee_name,gender,department,job_title,job_level,location,join_date,exit_date,tenure_at_exit_years,exit_type,exit_reason,regrettable_exit,manager
+MG-RAJ-SAM-0002,Rakib Haque,Male,Sales & Marketing,Territory Sales Officer,Officer,Rajshahi Regional Office,2018-03-24,2025-03-21,6.99,Involuntary,Retirement,No,Tanvir Ahmed
+MG-DHK-LGL-0004,Sadia Chowdhury,Female,Legal & Compliance,Senior Manager - Legal,Senior Manager,Dhaka Corporate Office,2022-03-24,2025-11-15,3.65,Involuntary,End of Contract,No,Barrister Nafisa Karim
+MG-CTG-SCL-0005,Tareq Jahan,Male,Supply Chain & Logistics,Planning Executive,Executive,Chattogram Distribution Hub,2017-01-31,2025-07-21,8.47,Voluntary,Better Career Opportunity,Yes,Mahmudul Hasan
+MG-DHK-FIN-0008,Md. Karim Noor,Male,Finance & Accounts,Senior Finance Officer,Senior Officer,Dhaka Corporate Office,2019-12-19,2025-02-18,5.17,Voluntary,Health Reasons,No,Sadia Islam
+MG-NGJ-PRD-0022,Shakil Khatun,Male,Production,Machine Operator,Worker,Narayanganj Production Plant,2019-07-26,2025-06-04,5.86,Voluntary,Personal / Family Reasons,No,Md. Shahidul Islam
+MG-DHK-CUS-0025,Kamrul Khan,Male,Customer Service,Customer Care Assistant,Worker,Dhaka Corporate Office,2022-09-11,2025-10-03,3.06,Voluntary,Compensation & Benefits,No,Jannatul Ferdous
+MG-DHK-SCL-0046,Rashed Mahmud,Male,Supply Chain & Logistics,Planning Executive,Executive,Dhaka Corporate Office,2021-09-25,2025-05-24,3.66,Voluntary,Personal / Family Reasons,No,Mahmudul Hasan
+MG-GZP-QAS-0052,Lubna Ferdous,Female,Quality Assurance,QA Assistant,Junior Staff,Gazipur Manufacturing Unit,2020-04-07,2025-01-26,4.8,Involuntary,Retirement,No,Dr. Samira Sultana
+MG-GZP-PRD-0061,Ashik Noor,Male,Production,Production Executive,Executive,Gazipur Manufacturing Unit,2022-01-05,2025-03-06,3.16,Voluntary,Personal / Family Reasons,No,Md. Shahidul Islam
+MG-GZP-PRD-0064,Shakil Khatun,Male,Production,Packing Assistant,Worker,Gazipur Manufacturing Unit,2021-03-14,2025-06-13,4.25,Involuntary,End of Contract,No,Abdul Karim
+MG-GZP-ENG-0099,Riyad Karim,Male,Engineering & Maintenance,Maintenance Helper,Worker,Gazipur Manufacturing Unit,2021-07-09,2025-02-02,3.57,Voluntary,Better Career Opportunity,No,Md. Moniruzzaman
+MG-RAJ-SAM-0108,Anika Bhuiyan,Female,Sales & Marketing,Marketing Assistant,Junior Staff,Rajshahi Regional Office,2022-06-25,2025-02-25,2.67,Voluntary,Better Career Opportunity,No,Tanvir Ahmed
+MG-DHK-PRO-0122,Kamrul Sarker,Male,Procurement,Senior Sourcing Officer,Senior Officer,Dhaka Corporate Office,2021-04-14,2025-10-11,4.49,Voluntary,Health Reasons,No,Maliha Noor
+MG-DHK-HRA-0125,Kamrul Kabir,Male,HR & Administration,Payroll Executive,Executive,Dhaka Corporate Office,2021-05-13,2025-08-27,4.29,Voluntary,Personal / Family Reasons,No,Md. Imran Hossain
+MG-NGJ-PRD-0131,Nazmul Akter,Male,Production,Senior Production Officer,Senior Officer,Narayanganj Production Plant,2019-12-10,2025-09-05,5.74,Voluntary,Health Reasons,No,Md. Shahidul Islam
+MG-RAJ-FIN-0149,Mizanur Islam,Male,Finance & Accounts,Finance Officer,Officer,Rajshahi Regional Office,2022-11-18,2025-03-19,2.33,Voluntary,Compensation & Benefits,Yes,Shafiqur Rahman
+MG-CTG-SCL-0153,Nafisa Sultana,Female,Supply Chain & Logistics,Logistics Manager,Manager,Chattogram Distribution Hub,2019-07-29,2025-08-18,6.06,Voluntary,Compensation & Benefits,No,Rezaul Karim
+MG-CTG-ENG-0155,Imran Rahman,Male,Engineering & Maintenance,Electrician,Worker,Chattogram Distribution Hub,2022-08-17,2025-09-21,3.1,Voluntary,Personal / Family Reasons,No,Rakibul Hasan
+MG-DHK-SAM-0158,Moumita Haque,Female,Sales & Marketing,Territory Sales Officer,Officer,Dhaka Corporate Office,2018-07-14,2025-06-19,6.93,Voluntary,Better Career Opportunity,No,Tanvir Ahmed
+MG-GZP-PRD-0165,Saiful Akter,Male,Production,Packing Assistant,Worker,Gazipur Manufacturing Unit,2020-07-16,2025-08-21,5.1,Voluntary,Relocation,No,Abdul Karim
+MG-GZP-ENG-0183,Imran Hasan,Male,Engineering & Maintenance,Maintenance Coordinator,Junior Staff,Gazipur Manufacturing Unit,2022-03-06,2025-08-24,3.47,Involuntary,Performance,No,Rakibul Hasan
+MG-NGJ-QAS-0186,Sumaiya Kabir,Female,Quality Assurance,Regulatory Executive,Executive,Narayanganj Production Plant,2022-08-19,2025-01-28,2.44,Involuntary,Retirement,No,Dr. Samira Sultana
+MG-GZP-ENG-0188,Nayeem Akter,Male,Engineering & Maintenance,Electrician,Worker,Gazipur Manufacturing Unit,2021-11-14,2025-12-07,4.06,Voluntary,Relocation,No,Rakibul Hasan
+MG-GZP-PRD-0190,Fahim Mahmud,Male,Production,Production Executive,Executive,Gazipur Manufacturing Unit,2021-03-06,2025-01-19,3.87,Involuntary,Retirement,No,Abdul Karim
+MG-GZP-PRD-0210,Rakib Rahman,Male,Production,Packing Assistant,Worker,Gazipur Manufacturing Unit,2019-12-15,2025-10-24,5.86,Involuntary,End of Contract,No,Md. Shahidul Islam
+MG-DHK-HRA-0217,Priyanka Talukder,Female,HR & Administration,Admin Officer,Officer,Dhaka Corporate Office,2019-10-15,2025-06-03,5.63,Involuntary,End of Contract,No,Nusrat Jahan
+MG-GZP-PRD-0227,Ashik Karim,Male,Production,Packing Assistant,Worker,Gazipur Manufacturing Unit,2018-01-30,2025-09-16,7.63,Involuntary,End of Contract,No,Abdul Karim
+MG-GZP-PRD-0231,Shafiq Sultana,Male,Production,Shift Supervisor,Senior Officer,Gazipur Manufacturing Unit,2020-03-20,2025-10-12,5.56,Voluntary,Higher Study,No,Md. Shahidul Islam
+MG-GZP-PRD-0240,Mahmud Rashid,Male,Production,Plant Operations Manager,Manager,Gazipur Manufacturing Unit,2019-10-02,2025-10-22,6.06,Voluntary,Compensation & Benefits,No,Abdul Karim
+MG-CTG-PRD-0249,Ashik Hasan,Male,Production,Packing Assistant,Worker,Chattogram Distribution Hub,2021-04-24,2025-06-15,4.14,Voluntary,Better Career Opportunity,No,Abdul Karim
+MG-GZP-PRD-0258,Nazmul Hasan,Male,Production,Production Manager,Manager,Gazipur Manufacturing Unit,2021-01-30,2025-03-04,4.09,Voluntary,Compensation & Benefits,Yes,Md. Shahidul Islam
+MG-NGJ-ENG-0259,Rakib Hossain,Male,Engineering & Maintenance,Utilities Officer,Officer,Narayanganj Production Plant,2021-11-03,2025-11-23,4.05,Voluntary,Personal / Family Reasons,No,Md. Moniruzzaman
+MG-DHK-SAM-0270,Shakil Rahman,Male,Sales & Marketing,Sales Executive,Executive,Dhaka Corporate Office,2018-05-13,2025-03-26,6.87,Voluntary,Personal / Family Reasons,No,Farzana Rahman
+MG-DHK-CST-0274,Mst. Roksana Sarker,Female,Corporate Strategy,Strategy Officer,Officer,Dhaka Corporate Office,2017-03-17,2025-03-05,7.97,Voluntary,Personal / Family Reasons,No,Anika Tasnim
+MG-GZP-ENG-0281,Rashed Mia,Male,Engineering & Maintenance,Maintenance Manager,Manager,Gazipur Manufacturing Unit,2020-03-30,2025-08-01,5.34,Voluntary,Better Career Opportunity,Yes,Rakibul Hasan
+MG-DHK-HRA-0288,Monir Jahan,Male,HR & Administration,Admin Assistant,Junior Staff,Dhaka Corporate Office,2018-10-29,2025-02-20,6.31,Involuntary,End of Contract,No,Nusrat Jahan
+MG-GZP-PRO-0293,Nazmul Mia,Male,Procurement,Procurement Manager,Manager,Gazipur Manufacturing Unit,2022-06-04,2025-12-28,3.57,Voluntary,Health Reasons,No,Maliha Noor
+MG-CTG-PRD-0294,Rashed Khatun,Male,Production,Head of Manufacturing,Head,Chattogram Distribution Hub,2023-06-23,2025-04-06,1.79,Voluntary,Higher Study,No,Md. Shahidul Islam
+MG-RAJ-FIN-0312,Shafiq Jahan,Male,Finance & Accounts,Accounts Manager,Manager,Rajshahi Regional Office,2017-08-14,2025-11-16,8.26,Voluntary,Better Career Opportunity,Yes,Shafiqur Rahman
+MG-NGJ-PRD-0321,Ayesha Hossain,Female,Production,Shift Officer,Officer,Narayanganj Production Plant,2019-12-06,2025-04-28,5.39,Voluntary,Personal / Family Reasons,No,Md. Shahidul Islam
+MG-GZP-PRD-0322,Mehedi Mia,Male,Production,Shift Officer,Officer,Gazipur Manufacturing Unit,2022-11-11,2025-08-28,2.8,Involuntary,Disciplinary,No,Abdul Karim
+MG-GZP-PRD-0326,Farhan Hasan,Male,Production,Shift Officer,Officer,Gazipur Manufacturing Unit,2017-03-08,2025-11-11,8.68,Voluntary,Better Career Opportunity,Yes,Abdul Karim
+MG-CTG-PRD-0332,Asif Alam,Male,Production,Production Assistant,Junior Staff,Chattogram Distribution Hub,2022-08-01,2025-07-17,2.96,Voluntary,Compensation & Benefits,No,Md. Shahidul Islam
+MG-NGJ-ENG-0341,Rakib Chowdhury,Male,Engineering & Maintenance,Project Engineer,Executive,Narayanganj Production Plant,2022-11-10,2025-07-02,2.64,Voluntary,Better Career Opportunity,Yes,Md. Moniruzzaman
+MG-NGJ-SCL-0344,Sadia Hasan,Female,Supply Chain & Logistics,Loader,Worker,Narayanganj Production Plant,2023-02-02,2025-01-14,1.95,Voluntary,Better Career Opportunity,No,Mahmudul Hasan
+MG-DHK-CUS-0347,Hasan Uddin,Male,Customer Service,Customer Experience Executive,Executive,Dhaka Corporate Office,2021-08-17,2025-11-14,4.24,Voluntary,Personal / Family Reasons,No,Jannatul Ferdous
+MG-GZP-SAM-0350,Tanvir Chowdhury,Male,Sales & Marketing,Sales Representative,Junior Staff,Gazipur Manufacturing Unit,2023-02-04,2025-02-15,2.03,Voluntary,Better Career Opportunity,No,Farzana Rahman
+MG-GZP-PRO-0352,Shafiq Sarker,Male,Procurement,Procurement Executive,Executive,Gazipur Manufacturing Unit,2018-11-25,2025-11-10,6.96,Voluntary,Better Career Opportunity,No,Ahsan Habib
+MG-NGJ-SAM-0366,Tareq Mahmud,Male,Sales & Marketing,Sales Representative,Junior Staff,Narayanganj Production Plant,2017-01-01,2025-04-08,8.27,Voluntary,Compensation & Benefits,No,Tanvir Ahmed
+MG-GZP-PRD-0376,Saiful Islam,Male,Production,Senior Manager - Production,Senior Manager,Gazipur Manufacturing Unit,2023-11-06,2025-01-30,1.23,Voluntary,Better Career Opportunity,No,Abdul Karim
+MG-DHK-SAM-0384,Arif Haque,Male,Sales & Marketing,Area Sales Manager,Manager,Dhaka Corporate Office,2016-01-24,2025-06-02,9.36,Voluntary,Better Career Opportunity,No,Tanvir Ahmed
+MG-DHK-SAM-0394,Sultana Ahmed,Female,Sales & Marketing,Sales Executive,Executive,Dhaka Corporate Office,2022-07-18,2025-10-26,3.27,Voluntary,Compensation & Benefits,No,Tanvir Ahmed
+MG-RAJ-IT-0400,Fahim Ahmed,Male,Information Technology,Senior IT Officer,Senior Officer,Rajshahi Regional Office,2022-09-13,2025-12-25,3.28,Voluntary,Better Career Opportunity,Yes,Sabbir Hossain
+MG-NGJ-PRD-0407,Md. Karim Karim,Male,Production,Shift Supervisor,Senior Officer,Narayanganj Production Plant,2021-04-28,2025-04-30,4.01,Voluntary,Personal / Family Reasons,No,Md. Shahidul Islam
+MG-NGJ-PRD-0424,Shafiq Mia,Male,Production,Production Operator,Worker,Narayanganj Production Plant,2025-02-13,2025-08-09,0.48,Voluntary,Health Reasons,No,Abdul Karim
+MG-GZP-ENG-0464,Jahid Khan,Male,Engineering & Maintenance,Mechanical Technician,Worker,Gazipur Manufacturing Unit,2025-11-28,2025-12-23,0.07,Voluntary,Better Career Opportunity,No,Md. Moniruzzaman
+MG-DHK-SAM-0478,Imran Rashid,Male,Sales & Marketing,Territory Sales Officer,Officer,Dhaka Corporate Office,2025-07-15,2025-10-20,0.27,Voluntary,Better Career Opportunity,No,Farzana Rahman
+MG-DHK-FIN-0497,Nazmul Karim,Male,Finance & Accounts,Cash Assistant,Junior Staff,Dhaka Corporate Office,2025-02-04,2025-04-04,0.16,Voluntary,Better Career Opportunity,No,Shafiqur Rahman
+MG-GZP-LGL-0498,Mst. Roksana Ahmed,Female,Legal & Compliance,Senior Legal Officer,Senior Officer,Gazipur Manufacturing Unit,2025-02-14,2025-12-08,0.81,Voluntary,Compensation & Benefits,Yes,Barrister Nafisa Karim
+MG-CTG-SAM-0505,Shakil Karim,Male,Sales & Marketing,Senior Brand Officer,Senior Officer,Chattogram Distribution Hub,2025-05-13,2025-12-26,0.62,Voluntary,Compensation & Benefits,Yes,Tanvir Ahmed

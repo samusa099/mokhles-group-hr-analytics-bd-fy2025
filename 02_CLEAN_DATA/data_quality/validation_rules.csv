@@ -1,0 +1,9 @@
+rule_id,scope,field_or_table,validation_rule,severity,recommended_action
+DQ-001,all_csv,all files,Files must be readable as UTF-8 and have a single header row.,Critical,Re-export as UTF-8 CSV and verify delimiters.
+DQ-002,employee,employee_id,Employee ID must be nonblank and unique within employee-level tables.,Critical,Investigate duplicates before modeling relationships.
+DQ-003,date,"*_date, month",Dates should use ISO format YYYY-MM-DD.,High,Convert date text in Power Query before load.
+DQ-004,compensation,salary and cost fields,Currency values must be numeric and non-negative.,High,Remove separators/symbols and set decimal or fixed-decimal type.
+DQ-005,rates,rate and percent fields,Rates must use one consistent scale before visualization.,High,Confirm whether values are 0-1 or 0-100 and format consistently.
+DQ-006,relationships,dimension keys,One-side dimension keys must contain no duplicates.,Critical,Deduplicate dimension tables before creating relationships.
+DQ-007,looker_studio,CSV headers,"Headers must be unique and contain only letters, numbers, or underscores.",Critical,Use files from 05_LOOKER_STUDIO/upload_ready_csv.
+DQ-008,excel_power_query,folder combine,Combine only files that share the same schema.,High,Filter Folder Path and Extension before Combine Files.

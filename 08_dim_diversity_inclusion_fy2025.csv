@@ -1,0 +1,457 @@
+employee_id,employee_name,gender,age,age_band,division_of_origin,disability_status,education,department,job_title,job_level,employment_type,location
+MG-DHK-HRA-0001,Priyanka Kabir,Female,43,35-44,Rangpur,No,Bachelor,HR & Administration,Senior Manager - HR,Senior Manager,Permanent,Dhaka Corporate Office
+MG-DHK-SCL-0003,Riyad Akter,Male,26,25-34,Chattogram,No,HSC,Supply Chain & Logistics,Store Assistant,Junior Staff,Permanent,Dhaka Corporate Office
+MG-GZP-PRD-0006,Jahid Chowdhury,Male,22,Under 25,Dhaka,No,Bachelor,Production,Line Coordinator,Junior Staff,Permanent,Gazipur Manufacturing Unit
+MG-DHK-SAM-0007,Tareq Akter,Male,21,Under 25,Dhaka,No,Bachelor,Sales & Marketing,Sales Representative,Junior Staff,Permanent,Dhaka Corporate Office
+MG-DHK-SAM-0009,Rashed Ahmed,Male,33,25-34,Chattogram,No,HSC,Sales & Marketing,Sales Support Assistant,Worker,Permanent,Dhaka Corporate Office
+MG-DHK-FIN-0010,Nabila Khatun,Female,37,35-44,Mymensingh,No,Bachelor,Finance & Accounts,Accounts Officer,Officer,Permanent,Dhaka Corporate Office
+MG-GZP-PRD-0011,Mehedi Jahan,Male,28,25-34,Sylhet,No,Bachelor,Production,Planning Executive,Executive,Permanent,Gazipur Manufacturing Unit
+MG-GZP-SAM-0012,Sadia Sultana,Female,29,25-34,Rajshahi,No,Master,Sales & Marketing,Digital Marketing Executive,Executive,Permanent,Gazipur Manufacturing Unit
+MG-RAJ-QAS-0013,Faria Chowdhury,Female,42,35-44,Rangpur,No,Bachelor,Quality Assurance,Senior QC Officer,Senior Officer,Permanent,Rajshahi Regional Office
+MG-GZP-SCL-0014,Mahmud Hasan,Male,32,25-34,Chattogram,No,Master,Supply Chain & Logistics,Supply Chain Executive,Executive,Permanent,Gazipur Manufacturing Unit
+MG-CTG-SAM-0015,Rashed Ahmed,Male,36,35-44,Dhaka,No,Bachelor,Sales & Marketing,Digital Marketing Executive,Executive,Permanent,Chattogram Distribution Hub
+MG-DHK-CST-0016,Nazmul Talukder,Male,27,25-34,Sylhet,No,Master,Corporate Strategy,Strategy Officer,Officer,Permanent,Dhaka Corporate Office
+MG-RAJ-SAM-0017,Ashik Mahmud,Male,31,25-34,Dhaka,No,Master,Sales & Marketing,Brand Officer,Officer,Permanent,Rajshahi Regional Office
+MG-RAJ-HRA-0018,Rifat Uddin,Female,44,35-44,Dhaka,No,Master,HR & Administration,Administration Manager,Manager,Probation,Rajshahi Regional Office
+MG-DHK-HRA-0019,Sultana Khatun,Female,21,Under 25,Rajshahi,No,HSC,HR & Administration,HR Assistant,Junior Staff,Contract,Dhaka Corporate Office
+MG-DHK-FIN-0020,Fahim Khan,Male,31,25-34,Dhaka,No,Bachelor,Finance & Accounts,Accounts Assistant,Junior Staff,Contract,Dhaka Corporate Office
+MG-DHK-FIN-0021,Md. Rahim Uddin,Male,26,25-34,Rajshahi,No,Bachelor,Finance & Accounts,Finance Officer,Officer,Permanent,Dhaka Corporate Office
+MG-CTG-PRD-0023,Jahid Karim,Male,30,25-34,Barishal,No,HSC,Production,Production Assistant,Junior Staff,Permanent,Chattogram Distribution Hub
+MG-NGJ-PRD-0024,Sabbir Kabir,Male,31,25-34,Dhaka,No,HSC,Production,Packing Assistant,Worker,Permanent,Narayanganj Production Plant
+MG-GZP-SCL-0026,Asif Alam,Male,41,35-44,Dhaka,No,Bachelor,Supply Chain & Logistics,Warehouse Supervisor,Senior Officer,Permanent,Gazipur Manufacturing Unit
+MG-GZP-SAM-0027,Mehedi Noor,Male,52,45+,Khulna,No,Master,Sales & Marketing,Regional Sales Manager,Senior Manager,Permanent,Gazipur Manufacturing Unit
+MG-CTG-SCL-0028,Md. Rahim Chowdhury,Male,20,Under 25,Khulna,No,SSC,Supply Chain & Logistics,Warehouse Assistant,Worker,Permanent,Chattogram Distribution Hub
+MG-NGJ-QAS-0029,Priyanka Mahmud,Female,55,45+,Dhaka,No,Bachelor,Quality Assurance,Senior Manager - Quality,Senior Manager,Permanent,Narayanganj Production Plant
+MG-GZP-CST-0030,Maliha Hasan,Not Disclosed,28,25-34,Dhaka,No,Bachelor,Corporate Strategy,Business Analyst,Officer,Permanent,Gazipur Manufacturing Unit
+MG-NGJ-SAM-0031,Saiful Karim,Male,32,25-34,Dhaka,No,Master,Sales & Marketing,Territory Sales Officer,Officer,Permanent,Narayanganj Production Plant
+MG-DHK-FIN-0032,Ishrat Mahmud,Female,33,25-34,Sylhet,No,HSC,Finance & Accounts,Cash Assistant,Junior Staff,Permanent,Dhaka Corporate Office
+MG-GZP-PRD-0033,Sabbir Bhuiyan,Male,44,35-44,Rajshahi,No,Bachelor,Production,Production Executive,Executive,Permanent,Gazipur Manufacturing Unit
+MG-DHK-HRA-0034,Nafisa Alam,Female,25,25-34,Dhaka,No,Bachelor,HR & Administration,Admin Assistant,Junior Staff,Probation,Dhaka Corporate Office
+MG-GZP-ENG-0035,Arif Rahman,Male,32,25-34,Dhaka,No,Bachelor,Engineering & Maintenance,Maintenance Coordinator,Junior Staff,Permanent,Gazipur Manufacturing Unit
+MG-DHK-SAM-0036,Shakil Haque,Male,24,Under 25,Khulna,No,Master,Sales & Marketing,Brand Officer,Officer,Permanent,Dhaka Corporate Office
+MG-NGJ-ENG-0037,Arif Bhuiyan,Male,44,35-44,Rangpur,No,HSC,Engineering & Maintenance,Mechanical Technician,Worker,Permanent,Narayanganj Production Plant
+MG-GZP-CST-0038,Sharmeen Ferdous,Female,29,25-34,Rajshahi,No,Bachelor,Corporate Strategy,Strategy Executive,Executive,Permanent,Gazipur Manufacturing Unit
+MG-NGJ-PRD-0039,Mst. Roksana Talukder,Female,23,Under 25,Rajshahi,No,HSC,Production,Production Operator,Worker,Permanent,Narayanganj Production Plant
+MG-GZP-HRA-0040,Shakil Ferdous,Male,29,25-34,Dhaka,No,HSC,HR & Administration,Admin Assistant,Junior Staff,Permanent,Gazipur Manufacturing Unit
+MG-DHK-PRO-0041,Rakib Khatun,Male,30,25-34,Chattogram,No,Bachelor,Procurement,Purchase Assistant,Junior Staff,Permanent,Dhaka Corporate Office
+MG-CTG-QAS-0042,Hasan Kabir,Male,34,25-34,Sylhet,No,Master,Quality Assurance,QA Executive,Executive,Permanent,Chattogram Distribution Hub
+MG-NGJ-PRD-0043,Ayesha Kabir,Female,37,35-44,Chattogram,No,SSC,Production,Packing Assistant,Worker,Contract,Narayanganj Production Plant
+MG-DHK-SAM-0044,Afroza Akter,Female,46,45+,Rangpur,No,Bachelor,Sales & Marketing,Regional Sales Manager,Senior Manager,Permanent,Dhaka Corporate Office
+MG-DHK-SAM-0045,Riyad Jahan,Male,31,25-34,Dhaka,No,Diploma,Sales & Marketing,Sales Representative,Junior Staff,Permanent,Dhaka Corporate Office
+MG-DHK-PRD-0047,Asif Hossain,Male,26,25-34,Chattogram,No,Bachelor,Production,Shift Officer,Officer,Permanent,Dhaka Corporate Office
+MG-NGJ-PRD-0048,Monir Noor,Male,35,35-44,Dhaka,No,Bachelor,Production,Shift Supervisor,Senior Officer,Contract,Narayanganj Production Plant
+MG-RAJ-QAS-0049,Shakil Chowdhury,Male,47,45+,Chattogram,No,Master,Quality Assurance,Compliance Manager,Manager,Permanent,Rajshahi Regional Office
+MG-DHK-HRA-0050,Jahid Karim,Male,43,35-44,Mymensingh,No,Bachelor,HR & Administration,Senior Admin Officer,Senior Officer,Permanent,Dhaka Corporate Office
+MG-DHK-SAM-0051,Zahid Rashid,Male,29,25-34,Barishal,No,HSC,Sales & Marketing,Marketing Assistant,Junior Staff,Permanent,Dhaka Corporate Office
+MG-DHK-CUS-0053,Tasnim Sarker,Female,30,25-34,Khulna,No,Master,Customer Service,Customer Experience Executive,Executive,Permanent,Dhaka Corporate Office
+MG-DHK-CST-0054,Jahid Uddin,Male,42,35-44,Sylhet,No,Professional Certification,Corporate Strategy,Senior Strategy Officer,Senior Officer,Permanent,Dhaka Corporate Office
+MG-GZP-PRD-0055,Nazmul Mahmud,Male,47,45+,Khulna,No,Master,Production,Senior Manager - Production,Senior Manager,Permanent,Gazipur Manufacturing Unit
+MG-DHK-CST-0056,Rakib Haque,Male,34,25-34,Dhaka,No,Bachelor,Corporate Strategy,Business Analyst,Officer,Permanent,Dhaka Corporate Office
+MG-NGJ-SAM-0057,Sabbir Rahman,Male,49,45+,Khulna,No,Master,Sales & Marketing,Head of Sales & Marketing,Head,Permanent,Narayanganj Production Plant
+MG-NGJ-SCL-0058,Sultana Khan,Female,22,Under 25,Rajshahi,No,HSC,Supply Chain & Logistics,Dispatch Coordinator,Junior Staff,Permanent,Narayanganj Production Plant
+MG-DHK-CST-0059,Sharmeen Rashid,Female,34,25-34,Sylhet,Yes,Professional Certification,Corporate Strategy,Strategy Manager,Manager,Permanent,Dhaka Corporate Office
+MG-NGJ-QAS-0060,Monir Bhuiyan,Male,32,25-34,Chattogram,No,Bachelor,Quality Assurance,Quality Officer,Officer,Permanent,Narayanganj Production Plant
+MG-CTG-FIN-0062,Imran Alam,Male,20,Under 25,Rajshahi,No,Trade Certificate,Finance & Accounts,Accounts Support Assistant,Worker,Permanent,Chattogram Distribution Hub
+MG-GZP-SCL-0063,Md. Karim Noor,Male,33,25-34,Mymensingh,No,Master,Supply Chain & Logistics,Planning Executive,Executive,Permanent,Gazipur Manufacturing Unit
+MG-NGJ-PRD-0065,Sabbir Kabir,Male,25,25-34,Rangpur,No,HSC,Production,Production Assistant,Junior Staff,Intern,Narayanganj Production Plant
+MG-CTG-CUS-0066,Nusrat Alam,Female,44,35-44,Sylhet,No,Bachelor,Customer Service,Service Quality Executive,Executive,Permanent,Chattogram Distribution Hub
+MG-DHK-IT-0067,Kamrul Mia,Male,36,35-44,Rajshahi,No,Bachelor,Information Technology,Senior IT Officer,Senior Officer,Permanent,Dhaka Corporate Office
+MG-DHK-SAM-0068,Riyad Chowdhury,Male,27,25-34,Dhaka,No,Bachelor,Sales & Marketing,Senior Brand Officer,Senior Officer,Permanent,Dhaka Corporate Office
+MG-CTG-SAM-0069,Shafiq Akter,Male,24,Under 25,Rajshahi,No,HSC,Sales & Marketing,Sales Support Assistant,Worker,Permanent,Chattogram Distribution Hub
+MG-GZP-PRD-0070,Nusrat Mahmud,Female,29,25-34,Rangpur,No,SSC,Production,Packing Assistant,Worker,Permanent,Gazipur Manufacturing Unit
+MG-GZP-ENG-0071,Sanjida Bhuiyan,Female,25,25-34,Barishal,No,HSC,Engineering & Maintenance,Electrician,Worker,Permanent,Gazipur Manufacturing Unit
+MG-GZP-PRD-0072,Samira Noor,Female,33,25-34,Chattogram,No,Master,Production,Senior Production Officer,Senior Officer,Permanent,Gazipur Manufacturing Unit
+MG-CTG-SCL-0073,Hasan Hossain,Male,32,25-34,Rajshahi,No,Master,Supply Chain & Logistics,Logistics Officer,Officer,Permanent,Chattogram Distribution Hub
+MG-GZP-PRD-0074,Sharmin Chowdhury,Female,25,25-34,Dhaka,No,Diploma,Production,Shift Officer,Officer,Contract,Gazipur Manufacturing Unit
+MG-DHK-SAM-0075,Mizanur Rahman,Male,38,35-44,Dhaka,Yes,Master,Sales & Marketing,Sales Executive,Executive,Permanent,Dhaka Corporate Office
+MG-DHK-CST-0076,Ishrat Akter,Female,37,35-44,Rajshahi,No,Master,Corporate Strategy,Senior Business Analyst,Senior Officer,Probation,Dhaka Corporate Office
+MG-CTG-QAS-0077,Jahid Uddin,Male,27,25-34,Rajshahi,No,Bachelor,Quality Assurance,QC Technician,Junior Staff,Permanent,Chattogram Distribution Hub
+MG-GZP-PRD-0078,Mahmud Hasan,Male,27,25-34,Chattogram,No,Master,Production,Senior Production Officer,Senior Officer,Permanent,Gazipur Manufacturing Unit
+MG-DHK-FIN-0079,Nusrat Karim,Female,51,45+,Dhaka,No,Master,Finance & Accounts,Accounts Manager,Manager,Permanent,Dhaka Corporate Office
+MG-CTG-SAM-0080,Zahid Akter,Male,34,25-34,Khulna,No,HSC,Sales & Marketing,Marketing Assistant,Junior Staff,Permanent,Chattogram Distribution Hub
+MG-CTG-ENG-0081,Nadia Jahan,Female,43,35-44,Dhaka,No,Master,Engineering & Maintenance,Senior Manager - Engineering,Senior Manager,Permanent,Chattogram Distribution Hub
+MG-GZP-PRD-0082,Ashik Jahan,Male,25,25-34,Dhaka,No,Trade Certificate,Production,Production Operator,Worker,Permanent,Gazipur Manufacturing Unit
+MG-NGJ-PRD-0083,Farhan Rahman,Male,30,25-34,Chattogram,Yes,Bachelor,Production,Planning Executive,Executive,Permanent,Narayanganj Production Plant
+MG-DHK-SAM-0084,Nazmul Khan,Male,36,35-44,Dhaka,No,Master,Sales & Marketing,Sales Executive,Executive,Permanent,Dhaka Corporate Office
+MG-GZP-PRO-0085,Mahmud Hossain,Male,30,25-34,Barishal,No,Bachelor,Procurement,Procurement Officer,Officer,Contract,Gazipur Manufacturing Unit
+MG-DHK-PRD-0086,Priyanka Khan,Female,48,45+,Dhaka,No,Professional Certification,Production,Senior Manager - Production,Senior Manager,Permanent,Dhaka Corporate Office
+MG-GZP-SCL-0087,Tanvir Rahman,Male,34,25-34,Dhaka,No,Master,Supply Chain & Logistics,Logistics Officer,Officer,Permanent,Gazipur Manufacturing Unit
+MG-GZP-PRO-0088,Tareq Bhuiyan,Male,38,35-44,Dhaka,No,Bachelor,Procurement,Sourcing Officer,Officer,Permanent,Gazipur Manufacturing Unit
+MG-NGJ-HRA-0089,Hasan Ferdous,Male,23,Under 25,Chattogram,No,Bachelor,HR & Administration,HR Assistant,Junior Staff,Contract,Narayanganj Production Plant
+MG-GZP-SCL-0090,Kamrul Mahmud,Male,46,45+,Dhaka,No,Professional Certification,Supply Chain & Logistics,Senior Manager - Supply Chain,Senior Manager,Permanent,Gazipur Manufacturing Unit
+MG-GZP-QAS-0091,Anika Alam,Female,25,25-34,Sylhet,No,Bachelor,Quality Assurance,QC Technician,Junior Staff,Permanent,Gazipur Manufacturing Unit
+MG-DHK-CST-0092,Farzana Akter,Female,35,35-44,Mymensingh,Yes,Master,Corporate Strategy,Senior Business Analyst,Senior Officer,Permanent,Dhaka Corporate Office
+MG-DHK-CUS-0093,Tanvir Rashid,Male,27,25-34,Rangpur,No,Bachelor,Customer Service,Senior Customer Service Officer,Senior Officer,Contract,Dhaka Corporate Office
+MG-DHK-SAM-0094,Farhan Hasan,Male,20,Under 25,Rajshahi,No,HSC,Sales & Marketing,Sales Support Assistant,Worker,Permanent,Dhaka Corporate Office
+MG-CTG-SAM-0095,Tareq Karim,Male,27,25-34,Rajshahi,No,Professional Certification,Sales & Marketing,Senior Territory Officer,Senior Officer,Permanent,Chattogram Distribution Hub
+MG-GZP-PRD-0096,Rashed Mia,Male,39,35-44,Dhaka,No,SSC,Production,Production Operator,Worker,Permanent,Gazipur Manufacturing Unit
+MG-GZP-ENG-0097,Shuvo Mahmud,Male,26,25-34,Barishal,No,Bachelor,Engineering & Maintenance,Utilities Officer,Officer,Permanent,Gazipur Manufacturing Unit
+MG-CTG-SCL-0098,Shakil Rashid,Male,37,35-44,Barishal,No,Bachelor,Supply Chain & Logistics,Warehouse Supervisor,Senior Officer,Probation,Chattogram Distribution Hub
+MG-CTG-SAM-0100,Moumita Sultana,Female,33,25-34,Chattogram,No,Bachelor,Sales & Marketing,Sales Representative,Junior Staff,Permanent,Chattogram Distribution Hub
+MG-DHK-HRA-0101,Nabila Islam,Female,34,25-34,Dhaka,No,Bachelor,HR & Administration,Senior Admin Officer,Senior Officer,Permanent,Dhaka Corporate Office
+MG-DHK-FIN-0102,Rumana Rashid,Female,34,25-34,Rajshahi,No,Bachelor,Finance & Accounts,Accounts Officer,Officer,Probation,Dhaka Corporate Office
+MG-GZP-CST-0103,Mizanur Alam,Male,43,35-44,Dhaka,No,Master,Corporate Strategy,Senior Strategy Officer,Senior Officer,Permanent,Gazipur Manufacturing Unit
+MG-NGJ-IT-0104,Tareq Hasan,Male,23,Under 25,Dhaka,No,Diploma,Information Technology,Junior Developer,Junior Staff,Permanent,Narayanganj Production Plant
+MG-GZP-SAM-0105,Faria Hasan,Female,35,35-44,Dhaka,No,Master,Sales & Marketing,Brand Manager,Manager,Permanent,Gazipur Manufacturing Unit
+MG-GZP-PRD-0106,Mahmud Ahmed,Male,32,25-34,Khulna,No,Bachelor,Production,Production Officer,Officer,Permanent,Gazipur Manufacturing Unit
+MG-NGJ-PRD-0107,Tanvir Islam,Male,26,25-34,Rajshahi,No,SSC,Production,Production Operator,Worker,Permanent,Narayanganj Production Plant
+MG-GZP-SAM-0109,Monir Khan,Male,32,25-34,Dhaka,No,HSC,Sales & Marketing,Sales Representative,Junior Staff,Contract,Gazipur Manufacturing Unit
+MG-GZP-QAS-0110,Fahim Kabir,Male,25,25-34,Rangpur,No,Diploma,Quality Assurance,QA Assistant,Junior Staff,Permanent,Gazipur Manufacturing Unit
+MG-DHK-HRA-0111,Sharmin Alam,Female,45,45+,Dhaka,No,Master,HR & Administration,HR Manager,Manager,Permanent,Dhaka Corporate Office
+MG-GZP-PRD-0112,Ashik Sarker,Male,21,Under 25,Rajshahi,No,Bachelor,Production,Production Assistant,Junior Staff,Permanent,Gazipur Manufacturing Unit
+MG-DHK-CST-0113,Sharmin Mia,Female,43,35-44,Mymensingh,No,Professional Certification,Corporate Strategy,Strategy Executive,Executive,Permanent,Dhaka Corporate Office
+MG-GZP-FIN-0114,Hasan Mahmud,Male,44,35-44,Dhaka,No,Master,Finance & Accounts,Accounts Manager,Manager,Permanent,Gazipur Manufacturing Unit
+MG-NGJ-PRD-0115,Fahim Karim,Male,33,25-34,Khulna,No,Bachelor,Production,Production Officer,Officer,Probation,Narayanganj Production Plant
+MG-NGJ-PRD-0116,Rashed Sultana,Male,33,25-34,Dhaka,No,HSC,Production,Production Assistant,Junior Staff,Permanent,Narayanganj Production Plant
+MG-GZP-ENG-0117,Zahid Hasan,Male,37,35-44,Chattogram,No,Master,Engineering & Maintenance,Project Engineer,Executive,Permanent,Gazipur Manufacturing Unit
+MG-GZP-PRD-0118,Jahid Islam,Male,24,Under 25,Dhaka,No,Diploma,Production,Shift Officer,Officer,Probation,Gazipur Manufacturing Unit
+MG-GZP-PRD-0119,Sumaiya Khatun,Female,27,25-34,Rajshahi,No,Diploma,Production,Line Coordinator,Junior Staff,Permanent,Gazipur Manufacturing Unit
+MG-NGJ-PRD-0120,Nazmul Noor,Male,41,35-44,Chattogram,No,SSC,Production,Machine Operator,Worker,Permanent,Narayanganj Production Plant
+MG-CTG-SAM-0121,Imran Mia,Male,28,25-34,Mymensingh,No,Bachelor,Sales & Marketing,Brand Officer,Officer,Probation,Chattogram Distribution Hub
+MG-NGJ-SAM-0123,Rafiq Ahmed,Male,25,25-34,Rangpur,No,Diploma,Sales & Marketing,Marketing Assistant,Junior Staff,Permanent,Narayanganj Production Plant
+MG-NGJ-QAS-0124,Zahid Rashid,Male,30,25-34,Dhaka,No,Trade Certificate,Quality Assurance,Lab Assistant,Worker,Permanent,Narayanganj Production Plant
+MG-GZP-QAS-0126,Mim Sarker,Female,39,35-44,Rajshahi,No,Trade Certificate,Quality Assurance,Quality Inspector,Worker,Contract,Gazipur Manufacturing Unit
+MG-DHK-FIN-0127,Ayesha Bhuiyan,Female,30,25-34,Khulna,No,Master,Finance & Accounts,Senior Finance Officer,Senior Officer,Permanent,Dhaka Corporate Office
+MG-DHK-SAM-0128,Rashed Islam,Male,27,25-34,Dhaka,No,HSC,Sales & Marketing,Marketing Assistant,Junior Staff,Permanent,Dhaka Corporate Office
+MG-DHK-SAM-0129,Kamrul Uddin,Male,23,Under 25,Rangpur,No,HSC,Sales & Marketing,Marketing Assistant,Junior Staff,Contract,Dhaka Corporate Office
+MG-CTG-SAM-0130,Jahid Ahmed,Male,26,25-34,Dhaka,No,Master,Sales & Marketing,Brand Officer,Officer,Permanent,Chattogram Distribution Hub
+MG-DHK-FIN-0132,Kamrul Ferdous,Male,41,35-44,Dhaka,No,Master,Finance & Accounts,Senior Manager - Finance,Senior Manager,Permanent,Dhaka Corporate Office
+MG-GZP-PRD-0133,Shakil Uddin,Male,28,25-34,Dhaka,No,Master,Production,Shift Supervisor,Senior Officer,Permanent,Gazipur Manufacturing Unit
+MG-DHK-FIN-0134,Zahid Rashid,Male,44,35-44,Chattogram,No,Professional Certification,Finance & Accounts,Finance Manager,Manager,Probation,Dhaka Corporate Office
+MG-NGJ-PRD-0135,Saiful Islam,Male,37,35-44,Sylhet,No,Trade Certificate,Production,Production Operator,Worker,Permanent,Narayanganj Production Plant
+MG-DHK-SAM-0136,Ayesha Akter,Female,24,Under 25,Rajshahi,No,HSC,Sales & Marketing,Sales Representative,Junior Staff,Permanent,Dhaka Corporate Office
+MG-GZP-PRD-0137,Rifat Rashid,Female,34,25-34,Dhaka,No,HSC,Production,Line Coordinator,Junior Staff,Intern,Gazipur Manufacturing Unit
+MG-GZP-QAS-0138,Saiful Jahan,Male,36,35-44,Rajshahi,No,Bachelor,Quality Assurance,Quality Officer,Officer,Intern,Gazipur Manufacturing Unit
+MG-DHK-FIN-0139,Nadia Mahmud,Female,34,25-34,Mymensingh,No,Bachelor,Finance & Accounts,Finance Officer,Officer,Permanent,Dhaka Corporate Office
+MG-GZP-QAS-0140,Nayeem Noor,Male,26,25-34,Rajshahi,No,Diploma,Quality Assurance,QA Assistant,Junior Staff,Permanent,Gazipur Manufacturing Unit
+MG-GZP-QAS-0141,Ashik Akter,Male,24,Under 25,Rajshahi,No,Diploma,Quality Assurance,Quality Officer,Officer,Permanent,Gazipur Manufacturing Unit
+MG-GZP-SAM-0142,Md. Rahim Talukder,Male,25,25-34,Chattogram,No,Bachelor,Sales & Marketing,Territory Sales Officer,Officer,Contract,Gazipur Manufacturing Unit
+MG-DHK-SAM-0143,Shuvo Bhuiyan,Male,27,25-34,Dhaka,No,Diploma,Sales & Marketing,Sales Representative,Junior Staff,Permanent,Dhaka Corporate Office
+MG-NGJ-ENG-0144,Mahmud Khan,Male,47,45+,Khulna,No,Master,Engineering & Maintenance,Senior Manager - Engineering,Senior Manager,Permanent,Narayanganj Production Plant
+MG-DHK-IT-0145,Mehedi Rahman,Male,27,25-34,Rangpur,No,Master,Information Technology,IT Officer,Officer,Permanent,Dhaka Corporate Office
+MG-GZP-PRD-0146,Asif Jahan,Male,28,25-34,Dhaka,No,Bachelor,Production,Line Coordinator,Junior Staff,Permanent,Gazipur Manufacturing Unit
+MG-CTG-ENG-0147,Mahmud Islam,Male,22,Under 25,Rajshahi,No,Bachelor,Engineering & Maintenance,Technical Assistant,Junior Staff,Permanent,Chattogram Distribution Hub
+MG-GZP-QAS-0148,Afroza Akter,Female,21,Under 25,Chattogram,No,Diploma,Quality Assurance,QA Assistant,Junior Staff,Permanent,Gazipur Manufacturing Unit
+MG-DHK-HRA-0150,Anika Karim,Female,25,25-34,Dhaka,No,Bachelor,HR & Administration,Admin Officer,Officer,Permanent,Dhaka Corporate Office
+MG-DHK-SAM-0151,Ahsan Mahmud,Male,32,25-34,Dhaka,Yes,Master,Sales & Marketing,Sales Executive,Executive,Permanent,Dhaka Corporate Office
+MG-DHK-CST-0152,Lubna Islam,Female,22,Under 25,Rajshahi,No,Bachelor,Corporate Strategy,Business Research Assistant,Junior Staff,Permanent,Dhaka Corporate Office
+MG-GZP-HRA-0154,Maliha Islam,Female,35,35-44,Rajshahi,No,Bachelor,HR & Administration,HR Officer,Officer,Probation,Gazipur Manufacturing Unit
+MG-GZP-PRD-0156,Rafiq Uddin,Male,38,35-44,Rangpur,No,Bachelor,Production,Senior Production Officer,Senior Officer,Permanent,Gazipur Manufacturing Unit
+MG-NGJ-FIN-0157,Mizanur Hasan,Male,23,Under 25,Khulna,No,HSC,Finance & Accounts,Cash Assistant,Junior Staff,Permanent,Narayanganj Production Plant
+MG-DHK-LGL-0159,Shakil Sultana,Male,27,25-34,Khulna,No,Master,Legal & Compliance,Senior Legal Officer,Senior Officer,Permanent,Dhaka Corporate Office
+MG-GZP-SCL-0160,Shafiq Sarker,Male,25,25-34,Dhaka,No,Bachelor,Supply Chain & Logistics,Inventory Officer,Officer,Permanent,Gazipur Manufacturing Unit
+MG-NGJ-PRO-0161,Jahid Bhuiyan,Male,21,Under 25,Barishal,No,Diploma,Procurement,Vendor Coordinator,Junior Staff,Probation,Narayanganj Production Plant
+MG-DHK-HRA-0162,Rumana Haque,Female,35,35-44,Mymensingh,Yes,Diploma,HR & Administration,HR Officer,Officer,Permanent,Dhaka Corporate Office
+MG-NGJ-PRD-0163,Shakil Sarker,Male,35,35-44,Rajshahi,No,Bachelor,Production,Shift Officer,Officer,Permanent,Narayanganj Production Plant
+MG-DHK-CST-0164,Mim Rahman,Female,37,35-44,Rajshahi,No,Professional Certification,Corporate Strategy,PMO Manager,Manager,Permanent,Dhaka Corporate Office
+MG-NGJ-PRD-0166,Jahid Mahmud,Male,40,35-44,Rangpur,No,Professional Certification,Production,Senior Manager - Production,Senior Manager,Permanent,Narayanganj Production Plant
+MG-GZP-SCL-0167,Priyanka Sultana,Female,21,Under 25,Rajshahi,No,HSC,Supply Chain & Logistics,Dispatch Coordinator,Junior Staff,Permanent,Gazipur Manufacturing Unit
+MG-GZP-QAS-0168,Sadia Mahmud,Female,27,25-34,Chattogram,No,Trade Certificate,Quality Assurance,Lab Assistant,Worker,Permanent,Gazipur Manufacturing Unit
+MG-DHK-PRO-0169,Tareq Alam,Male,36,35-44,Rajshahi,No,Bachelor,Procurement,Vendor Management Executive,Executive,Permanent,Dhaka Corporate Office
+MG-DHK-SAM-0170,Ashik Kabir,Male,37,35-44,Sylhet,No,Professional Certification,Sales & Marketing,Area Sales Manager,Manager,Permanent,Dhaka Corporate Office
+MG-DHK-FIN-0171,Mizanur Haque,Male,39,35-44,Khulna,No,Master,Finance & Accounts,Finance Manager,Manager,Permanent,Dhaka Corporate Office
+MG-GZP-PRD-0172,Raisa Talukder,Female,28,25-34,Rangpur,No,Trade Certificate,Production,Production Operator,Worker,Permanent,Gazipur Manufacturing Unit
+MG-DHK-FIN-0173,Tanvir Khatun,Male,25,25-34,Dhaka,No,Bachelor,Finance & Accounts,Finance Officer,Officer,Contract,Dhaka Corporate Office
+MG-NGJ-PRD-0174,Mahmud Alam,Male,34,25-34,Khulna,No,HSC,Production,Line Coordinator,Junior Staff,Contract,Narayanganj Production Plant
+MG-NGJ-QAS-0175,Riyad Mahmud,Male,36,35-44,Dhaka,No,Master,Quality Assurance,Regulatory Executive,Executive,Permanent,Narayanganj Production Plant
+MG-DHK-LGL-0176,Mahmud Jahan,Male,45,45+,Rajshahi,No,Professional Certification,Legal & Compliance,Compliance Manager,Manager,Permanent,Dhaka Corporate Office
+MG-CTG-SAM-0177,Nabila Alam,Female,23,Under 25,Dhaka,No,HSC,Sales & Marketing,Marketing Assistant,Junior Staff,Permanent,Chattogram Distribution Hub
+MG-DHK-HRA-0178,Ishrat Ferdous,Female,36,35-44,Rajshahi,No,Bachelor,HR & Administration,HR Executive,Executive,Permanent,Dhaka Corporate Office
+MG-RAJ-SAM-0179,Tanjina Rahman,Female,25,25-34,Rangpur,No,HSC,Sales & Marketing,Sales Representative,Junior Staff,Permanent,Rajshahi Regional Office
+MG-GZP-PRD-0180,Lubna Sarker,Not Disclosed,26,25-34,Rangpur,No,HSC,Production,Production Assistant,Junior Staff,Permanent,Gazipur Manufacturing Unit
+MG-GZP-QAS-0181,Tareq Akter,Male,38,35-44,Chattogram,No,Professional Certification,Quality Assurance,Senior Quality Officer,Senior Officer,Permanent,Gazipur Manufacturing Unit
+MG-GZP-PRD-0182,Md. Karim Islam,Male,34,25-34,Chattogram,No,Master,Production,Plant Operations Manager,Manager,Contract,Gazipur Manufacturing Unit
+MG-DHK-PRD-0184,Ahsan Mia,Male,26,25-34,Dhaka,No,HSC,Production,Production Assistant,Junior Staff,Permanent,Dhaka Corporate Office
+MG-GZP-SCL-0185,Priyanka Hasan,Female,31,25-34,Mymensingh,No,Bachelor,Supply Chain & Logistics,Inventory Officer,Officer,Permanent,Gazipur Manufacturing Unit
+MG-DHK-HRA-0187,Mahmud Kabir,Male,24,Under 25,Rangpur,No,Master,HR & Administration,HR Officer,Officer,Permanent,Dhaka Corporate Office
+MG-NGJ-PRD-0189,Nazmul Haque,Male,30,25-34,Rajshahi,No,HSC,Production,Packing Assistant,Worker,Permanent,Narayanganj Production Plant
+MG-DHK-HRA-0191,Tanvir Mahmud,Male,40,35-44,Khulna,No,Master,HR & Administration,Senior HR Officer,Senior Officer,Permanent,Dhaka Corporate Office
+MG-NGJ-PRD-0192,Priyanka Karim,Not Disclosed,29,25-34,Khulna,No,Bachelor,Production,Production Assistant,Junior Staff,Permanent,Narayanganj Production Plant
+MG-CTG-PRD-0193,Tareq Mahmud,Male,29,25-34,Rajshahi,No,HSC,Production,Production Operator,Worker,Contract,Chattogram Distribution Hub
+MG-GZP-SCL-0194,Nayeem Uddin,Male,41,35-44,Mymensingh,No,Professional Certification,Supply Chain & Logistics,Supply Chain Executive,Executive,Permanent,Gazipur Manufacturing Unit
+MG-GZP-PRD-0195,Farhan Bhuiyan,Male,41,35-44,Sylhet,No,Master,Production,Production Executive,Executive,Permanent,Gazipur Manufacturing Unit
+MG-GZP-IT-0196,Nazmul Mia,Male,29,25-34,Rajshahi,No,Master,Information Technology,Software Engineer,Executive,Permanent,Gazipur Manufacturing Unit
+MG-DHK-QAS-0197,Md. Rahim Talukder,Male,21,Under 25,Mymensingh,No,Bachelor,Quality Assurance,QA Assistant,Junior Staff,Permanent,Dhaka Corporate Office
+MG-NGJ-ENG-0198,Rafiq Mia,Male,21,Under 25,Chattogram,No,SSC,Engineering & Maintenance,Mechanical Technician,Worker,Permanent,Narayanganj Production Plant
+MG-GZP-PRD-0199,Jahid Hasan,Male,24,Under 25,Dhaka,No,Diploma,Production,Line Coordinator,Junior Staff,Permanent,Gazipur Manufacturing Unit
+MG-NGJ-CUS-0200,Afroza Islam,Female,43,35-44,Rajshahi,Yes,Professional Certification,Customer Service,Customer Experience Executive,Executive,Permanent,Narayanganj Production Plant
+MG-DHK-SAM-0201,Mehedi Karim,Male,45,45+,Chattogram,No,Professional Certification,Sales & Marketing,Sales Executive,Executive,Permanent,Dhaka Corporate Office
+MG-GZP-PRD-0202,Nadia Noor,Female,37,35-44,Khulna,No,Master,Production,Shift Officer,Officer,Permanent,Gazipur Manufacturing Unit
+MG-DHK-FIN-0203,Mizanur Hasan,Male,29,25-34,Mymensingh,No,Bachelor,Finance & Accounts,Accounts Officer,Officer,Permanent,Dhaka Corporate Office
+MG-GZP-SAM-0204,Sabbir Mia,Male,35,35-44,Rajshahi,No,Master,Sales & Marketing,Senior Brand Officer,Senior Officer,Permanent,Gazipur Manufacturing Unit
+MG-GZP-FIN-0205,Farhan Islam,Male,35,35-44,Chattogram,No,Professional Certification,Finance & Accounts,Senior Accounts Officer,Senior Officer,Permanent,Gazipur Manufacturing Unit
+MG-CTG-PRD-0206,Hasan Kabir,Male,32,25-34,Chattogram,No,Bachelor,Production,Shift Supervisor,Senior Officer,Permanent,Chattogram Distribution Hub
+MG-DHK-IT-0207,Rafiq Hossain,Male,29,25-34,Chattogram,No,HSC,Information Technology,Junior Developer,Junior Staff,Permanent,Dhaka Corporate Office
+MG-CTG-SAM-0208,Imran Alam,Male,49,45+,Rajshahi,No,Master,Sales & Marketing,Brand Manager,Manager,Permanent,Chattogram Distribution Hub
+MG-DHK-SAM-0209,Ashik Mia,Male,40,35-44,Dhaka,No,Professional Certification,Sales & Marketing,Senior Brand Officer,Senior Officer,Permanent,Dhaka Corporate Office
+MG-GZP-SCL-0211,Hasan Hossain,Male,40,35-44,Dhaka,No,Bachelor,Supply Chain & Logistics,Supply Chain Executive,Executive,Permanent,Gazipur Manufacturing Unit
+MG-DHK-CUS-0212,Riyad Rahman,Male,30,25-34,Dhaka,No,Master,Customer Service,Complaint Resolution Officer,Officer,Permanent,Dhaka Corporate Office
+MG-DHK-FIN-0213,Tasnim Akter,Female,29,25-34,Rajshahi,No,Bachelor,Finance & Accounts,Accounts Assistant,Junior Staff,Permanent,Dhaka Corporate Office
+MG-GZP-PRD-0214,Tareq Khan,Male,24,Under 25,Rajshahi,No,Diploma,Production,Production Officer,Officer,Permanent,Gazipur Manufacturing Unit
+MG-GZP-PRD-0215,Zahid Haque,Male,45,45+,Khulna,No,SSC,Production,Machine Operator,Worker,Permanent,Gazipur Manufacturing Unit
+MG-RAJ-ENG-0216,Sabbir Ahmed,Male,36,35-44,Rajshahi,No,Bachelor,Engineering & Maintenance,Utilities Officer,Officer,Permanent,Rajshahi Regional Office
+MG-CTG-SCL-0218,Rashed Talukder,Male,41,35-44,Khulna,No,SSC,Supply Chain & Logistics,Warehouse Assistant,Worker,Contract,Chattogram Distribution Hub
+MG-GZP-ENG-0219,Hasan Mia,Male,32,25-34,Rajshahi,No,SSC,Engineering & Maintenance,Mechanical Technician,Worker,Contract,Gazipur Manufacturing Unit
+MG-CTG-HRA-0220,Sumaiya Khatun,Female,45,45+,Dhaka,No,Master,HR & Administration,HR Executive,Executive,Permanent,Chattogram Distribution Hub
+MG-DHK-CST-0221,Arif Mia,Male,34,25-34,Chattogram,No,Master,Corporate Strategy,Senior Business Analyst,Senior Officer,Permanent,Dhaka Corporate Office
+MG-GZP-SCL-0222,Jahid Sarker,Male,31,25-34,Dhaka,No,Bachelor,Supply Chain & Logistics,Warehouse Supervisor,Senior Officer,Permanent,Gazipur Manufacturing Unit
+MG-RAJ-SAM-0223,Kamrul Kabir,Male,31,25-34,Chattogram,No,Diploma,Sales & Marketing,Sales Representative,Junior Staff,Permanent,Rajshahi Regional Office
+MG-GZP-HRA-0224,Mst. Roksana Rashid,Female,30,25-34,Dhaka,No,Bachelor,HR & Administration,Admin Officer,Officer,Permanent,Gazipur Manufacturing Unit
+MG-DHK-FIN-0225,Rifat Rahman,Female,40,35-44,Chattogram,No,Master,Finance & Accounts,Senior Finance Officer,Senior Officer,Permanent,Dhaka Corporate Office
+MG-NGJ-PRD-0226,Sabbir Chowdhury,Male,30,25-34,Rangpur,No,SSC,Production,Machine Operator,Worker,Permanent,Narayanganj Production Plant
+MG-GZP-PRD-0228,Shuvo Ahmed,Male,27,25-34,Rangpur,No,Bachelor,Production,Production Officer,Officer,Permanent,Gazipur Manufacturing Unit
+MG-CTG-CST-0229,Afroza Islam,Female,36,35-44,Chattogram,No,Master,Corporate Strategy,Senior Strategy Officer,Senior Officer,Permanent,Chattogram Distribution Hub
+MG-GZP-SCL-0230,Rashed Rashid,Male,25,25-34,Chattogram,No,Diploma,Supply Chain & Logistics,Inventory Officer,Officer,Permanent,Gazipur Manufacturing Unit
+MG-CTG-SAM-0232,Jannatul Ferdous,Female,30,25-34,Chattogram,No,Master,Sales & Marketing,Digital Marketing Executive,Executive,Permanent,Chattogram Distribution Hub
+MG-GZP-PRD-0233,Saiful Alam,Male,33,25-34,Chattogram,No,HSC,Production,Line Coordinator,Junior Staff,Permanent,Gazipur Manufacturing Unit
+MG-NGJ-SCL-0234,Shakil Bhuiyan,Male,34,25-34,Sylhet,No,Bachelor,Supply Chain & Logistics,Logistics Officer,Officer,Permanent,Narayanganj Production Plant
+MG-GZP-SCL-0235,Md. Rahim Kabir,Male,34,25-34,Khulna,No,HSC,Supply Chain & Logistics,Dispatch Coordinator,Junior Staff,Permanent,Gazipur Manufacturing Unit
+MG-GZP-PRO-0236,Riyad Kabir,Male,22,Under 25,Dhaka,No,HSC,Procurement,Purchase Assistant,Junior Staff,Permanent,Gazipur Manufacturing Unit
+MG-GZP-FIN-0237,Saiful Haque,Male,42,35-44,Rangpur,No,Master,Finance & Accounts,Finance Executive,Executive,Contract,Gazipur Manufacturing Unit
+MG-GZP-PRD-0238,Shuvo Khan,Male,35,35-44,Khulna,No,Professional Certification,Production,Planning Executive,Executive,Permanent,Gazipur Manufacturing Unit
+MG-DHK-SCL-0239,Mim Chowdhury,Female,36,35-44,Chattogram,No,SSC,Supply Chain & Logistics,Loader,Worker,Permanent,Dhaka Corporate Office
+MG-CTG-SAM-0241,Anika Khan,Female,44,35-44,Chattogram,No,Bachelor,Sales & Marketing,Brand Manager,Manager,Permanent,Chattogram Distribution Hub
+MG-CTG-QAS-0242,Moumita Khan,Not Disclosed,38,35-44,Khulna,No,Bachelor,Quality Assurance,Quality Officer,Officer,Permanent,Chattogram Distribution Hub
+MG-GZP-IT-0243,Rakib Rahman,Male,33,25-34,Rangpur,No,Master,Information Technology,Senior IT Officer,Senior Officer,Permanent,Gazipur Manufacturing Unit
+MG-NGJ-PRD-0244,Md. Rahim Uddin,Male,34,25-34,Chattogram,No,HSC,Production,Packing Assistant,Worker,Permanent,Narayanganj Production Plant
+MG-GZP-PRD-0245,Farzana Haque,Female,31,25-34,Dhaka,No,Master,Production,Production Executive,Executive,Permanent,Gazipur Manufacturing Unit
+MG-GZP-SAM-0246,Mahmud Sarker,Male,38,35-44,Dhaka,No,Master,Sales & Marketing,Brand Officer,Officer,Permanent,Gazipur Manufacturing Unit
+MG-GZP-PRD-0247,Shakil Talukder,Male,34,25-34,Dhaka,No,Bachelor,Production,Shift Officer,Officer,Permanent,Gazipur Manufacturing Unit
+MG-RAJ-SCL-0248,Rashed Chowdhury,Male,24,Under 25,Mymensingh,No,Trade Certificate,Supply Chain & Logistics,Loader,Worker,Permanent,Rajshahi Regional Office
+MG-DHK-SAM-0250,Imran Sarker,Male,40,35-44,Rangpur,No,Master,Sales & Marketing,Area Sales Manager,Manager,Permanent,Dhaka Corporate Office
+MG-DHK-HRA-0251,Mst. Roksana Chowdhury,Female,40,35-44,Dhaka,Yes,Professional Certification,HR & Administration,HR Manager,Manager,Permanent,Dhaka Corporate Office
+MG-NGJ-CUS-0252,Rakib Alam,Male,28,25-34,Dhaka,No,Diploma,Customer Service,Customer Service Representative,Junior Staff,Permanent,Narayanganj Production Plant
+MG-GZP-ENG-0253,Saiful Khan,Male,24,Under 25,Dhaka,No,Bachelor,Engineering & Maintenance,Maintenance Coordinator,Junior Staff,Permanent,Gazipur Manufacturing Unit
+MG-DHK-PRO-0254,Shafiq Hossain,Male,31,25-34,Dhaka,No,HSC,Procurement,Vendor Coordinator,Junior Staff,Permanent,Dhaka Corporate Office
+MG-DHK-CST-0255,Moumita Alam,Female,32,25-34,Chattogram,No,Bachelor,Corporate Strategy,Business Analyst,Officer,Permanent,Dhaka Corporate Office
+MG-GZP-PRD-0256,Jahid Haque,Male,22,Under 25,Khulna,No,Diploma,Production,Line Coordinator,Junior Staff,Permanent,Gazipur Manufacturing Unit
+MG-NGJ-PRD-0257,Nazmul Alam,Male,21,Under 25,Khulna,No,SSC,Production,Packing Assistant,Worker,Permanent,Narayanganj Production Plant
+MG-NGJ-QAS-0260,Fahim Hasan,Male,25,25-34,Dhaka,No,Bachelor,Quality Assurance,QC Technician,Junior Staff,Permanent,Narayanganj Production Plant
+MG-RAJ-SAM-0261,Nafisa Islam,Female,42,35-44,Dhaka,No,Master,Sales & Marketing,Senior Brand Officer,Senior Officer,Permanent,Rajshahi Regional Office
+MG-DHK-SAM-0262,Zahid Noor,Male,40,35-44,Rangpur,No,Master,Sales & Marketing,Regional Sales Manager,Senior Manager,Permanent,Dhaka Corporate Office
+MG-DHK-HRA-0263,Ayesha Hasan,Female,33,25-34,Khulna,No,Bachelor,HR & Administration,HR Manager,Manager,Permanent,Dhaka Corporate Office
+MG-GZP-SAM-0264,Sabbir Chowdhury,Male,36,35-44,Khulna,No,Master,Sales & Marketing,Sales Executive,Executive,Permanent,Gazipur Manufacturing Unit
+MG-DHK-HRA-0265,Jahid Karim,Male,30,25-34,Dhaka,No,Master,HR & Administration,Senior Admin Officer,Senior Officer,Permanent,Dhaka Corporate Office
+MG-GZP-PRD-0266,Farhan Islam,Male,41,35-44,Dhaka,No,SSC,Production,Machine Operator,Worker,Permanent,Gazipur Manufacturing Unit
+MG-DHK-CST-0267,Saiful Rahman,Male,38,35-44,Dhaka,No,Bachelor,Corporate Strategy,Senior Business Analyst,Senior Officer,Probation,Dhaka Corporate Office
+MG-DHK-FIN-0268,Mizanur Mahmud,Male,44,35-44,Chattogram,No,Professional Certification,Finance & Accounts,Senior Manager - Finance,Senior Manager,Permanent,Dhaka Corporate Office
+MG-GZP-SCL-0269,Md. Karim Akter,Male,29,25-34,Khulna,No,Bachelor,Supply Chain & Logistics,Planning Executive,Executive,Permanent,Gazipur Manufacturing Unit
+MG-NGJ-PRD-0271,Hasan Ferdous,Male,20,Under 25,Sylhet,No,SSC,Production,Production Operator,Worker,Permanent,Narayanganj Production Plant
+MG-GZP-PRD-0272,Arif Rashid,Male,42,35-44,Khulna,No,SSC,Production,Production Operator,Worker,Contract,Gazipur Manufacturing Unit
+MG-CTG-SAM-0273,Rafiq Chowdhury,Male,43,35-44,Chattogram,No,Master,Sales & Marketing,Regional Sales Manager,Senior Manager,Permanent,Chattogram Distribution Hub
+MG-GZP-ENG-0275,Monir Rahman,Male,41,35-44,Chattogram,No,Professional Certification,Engineering & Maintenance,Senior Maintenance Officer,Senior Officer,Permanent,Gazipur Manufacturing Unit
+MG-NGJ-CUS-0276,Sabbir Karim,Male,44,35-44,Khulna,No,Bachelor,Customer Service,Service Quality Executive,Executive,Contract,Narayanganj Production Plant
+MG-GZP-QAS-0277,Zahid Chowdhury,Male,46,45+,Chattogram,No,HSC,Quality Assurance,Quality Inspector,Worker,Permanent,Gazipur Manufacturing Unit
+MG-DHK-SCL-0278,Ahsan Jahan,Male,36,35-44,Chattogram,No,HSC,Supply Chain & Logistics,Loader,Worker,Permanent,Dhaka Corporate Office
+MG-RAJ-SCL-0279,Shafiq Mia,Male,34,25-34,Sylhet,No,Bachelor,Supply Chain & Logistics,Planning Executive,Executive,Permanent,Rajshahi Regional Office
+MG-GZP-SAM-0280,Rakib Ahmed,Male,38,35-44,Dhaka,No,Bachelor,Sales & Marketing,Territory Sales Officer,Officer,Probation,Gazipur Manufacturing Unit
+MG-GZP-ENG-0282,Shafiq Noor,Male,38,35-44,Sylhet,No,SSC,Engineering & Maintenance,Mechanical Technician,Worker,Permanent,Gazipur Manufacturing Unit
+MG-DHK-HRA-0283,Samira Chowdhury,Female,50,45+,Rangpur,No,Master,HR & Administration,Head of Human Resources,Head,Permanent,Dhaka Corporate Office
+MG-GZP-SAM-0284,Nazmul Talukder,Male,38,35-44,Dhaka,No,Master,Sales & Marketing,Digital Marketing Executive,Executive,Permanent,Gazipur Manufacturing Unit
+MG-NGJ-PRD-0285,Asif Talukder,Male,42,35-44,Khulna,No,Master,Production,Production Manager,Manager,Probation,Narayanganj Production Plant
+MG-NGJ-PRD-0286,Nazmul Jahan,Male,32,25-34,Chattogram,No,Bachelor,Production,Shift Officer,Officer,Permanent,Narayanganj Production Plant
+MG-NGJ-PRD-0287,Tasnim Islam,Female,24,Under 25,Dhaka,No,HSC,Production,Production Operator,Worker,Contract,Narayanganj Production Plant
+MG-DHK-FIN-0289,Sadia Ferdous,Female,27,25-34,Chattogram,No,Bachelor,Finance & Accounts,Senior Accounts Officer,Senior Officer,Permanent,Dhaka Corporate Office
+MG-GZP-PRD-0290,Shakil Karim,Male,40,35-44,Dhaka,No,Bachelor,Production,Senior Production Officer,Senior Officer,Permanent,Gazipur Manufacturing Unit
+MG-NGJ-SAM-0291,Mim Mahmud,Female,33,25-34,Khulna,No,Diploma,Sales & Marketing,Territory Sales Officer,Officer,Permanent,Narayanganj Production Plant
+MG-NGJ-ENG-0292,Fahim Rahman,Male,39,35-44,Dhaka,No,Bachelor,Engineering & Maintenance,Senior Maintenance Officer,Senior Officer,Permanent,Narayanganj Production Plant
+MG-NGJ-SCL-0295,Saiful Akter,Male,22,Under 25,Rangpur,No,HSC,Supply Chain & Logistics,Warehouse Assistant,Worker,Contract,Narayanganj Production Plant
+MG-DHK-SAM-0296,Saiful Rahman,Male,28,25-34,Mymensingh,No,Bachelor,Sales & Marketing,Senior Territory Officer,Senior Officer,Probation,Dhaka Corporate Office
+MG-GZP-CUS-0297,Rafiq Bhuiyan,Male,33,25-34,Rajshahi,No,HSC,Customer Service,Call Centre Agent,Junior Staff,Contract,Gazipur Manufacturing Unit
+MG-DHK-SAM-0298,Hasan Uddin,Male,26,25-34,Dhaka,No,Diploma,Sales & Marketing,Marketing Assistant,Junior Staff,Permanent,Dhaka Corporate Office
+MG-CTG-SAM-0299,Fahim Khan,Male,38,35-44,Chattogram,No,Master,Sales & Marketing,Senior Territory Officer,Senior Officer,Permanent,Chattogram Distribution Hub
+MG-DHK-SAM-0300,Zahid Rahman,Male,42,35-44,Rajshahi,No,Master,Sales & Marketing,Regional Sales Manager,Senior Manager,Permanent,Dhaka Corporate Office
+MG-GZP-FIN-0301,Jahid Khatun,Male,27,25-34,Dhaka,No,Diploma,Finance & Accounts,Accounts Assistant,Junior Staff,Permanent,Gazipur Manufacturing Unit
+MG-GZP-PRD-0302,Mehedi Bhuiyan,Male,51,45+,Dhaka,No,Master,Production,Senior Manager - Production,Senior Manager,Permanent,Gazipur Manufacturing Unit
+MG-GZP-QAS-0303,Rakib Rashid,Male,44,35-44,Khulna,No,SSC,Quality Assurance,Quality Inspector,Worker,Permanent,Gazipur Manufacturing Unit
+MG-CTG-SCL-0304,Sabbir Mahmud,Male,22,Under 25,Khulna,No,HSC,Supply Chain & Logistics,Warehouse Assistant,Worker,Permanent,Chattogram Distribution Hub
+MG-DHK-CUS-0305,Sharmeen Talukder,Female,23,Under 25,Sylhet,No,Master,Customer Service,Customer Service Officer,Officer,Intern,Dhaka Corporate Office
+MG-DHK-HRA-0306,Shakil Bhuiyan,Male,31,25-34,Dhaka,No,Master,HR & Administration,Payroll Executive,Executive,Permanent,Dhaka Corporate Office
+MG-GZP-PRD-0307,Sabbir Noor,Male,31,25-34,Dhaka,No,SSC,Production,Machine Operator,Worker,Permanent,Gazipur Manufacturing Unit
+MG-GZP-PRO-0308,Mehedi Jahan,Male,28,25-34,Rangpur,Yes,Bachelor,Procurement,Sourcing Officer,Officer,Permanent,Gazipur Manufacturing Unit
+MG-NGJ-ENG-0309,Arif Khatun,Male,41,35-44,Barishal,No,Trade Certificate,Engineering & Maintenance,Electrician,Worker,Contract,Narayanganj Production Plant
+MG-DHK-IT-0310,Sabbir Rahman,Male,27,25-34,Barishal,No,Diploma,Information Technology,Junior Developer,Junior Staff,Permanent,Dhaka Corporate Office
+MG-CTG-SCL-0311,Ahsan Khan,Male,22,Under 25,Dhaka,No,SSC,Supply Chain & Logistics,Loader,Worker,Permanent,Chattogram Distribution Hub
+MG-CTG-SAM-0313,Nabila Chowdhury,Female,24,Under 25,Chattogram,No,Bachelor,Sales & Marketing,Marketing Assistant,Junior Staff,Permanent,Chattogram Distribution Hub
+MG-GZP-FIN-0314,Tasnim Mahmud,Female,37,35-44,Dhaka,No,Bachelor,Finance & Accounts,Accounts Officer,Officer,Permanent,Gazipur Manufacturing Unit
+MG-GZP-PRD-0315,Tareq Haque,Male,41,35-44,Chattogram,No,Master,Production,Shift Supervisor,Senior Officer,Permanent,Gazipur Manufacturing Unit
+MG-GZP-PRD-0316,Tareq Ferdous,Male,28,25-34,Chattogram,No,SSC,Production,Machine Operator,Worker,Permanent,Gazipur Manufacturing Unit
+MG-NGJ-ENG-0317,Rafiq Akter,Male,27,25-34,Chattogram,No,Diploma,Engineering & Maintenance,Technical Assistant,Junior Staff,Permanent,Narayanganj Production Plant
+MG-CTG-CST-0318,Raisa Ferdous,Female,41,35-44,Barishal,Yes,Bachelor,Corporate Strategy,Senior Strategy Officer,Senior Officer,Permanent,Chattogram Distribution Hub
+MG-NGJ-HRA-0319,Md. Karim Hasan,Male,35,35-44,Chattogram,No,Master,HR & Administration,HR Officer,Officer,Contract,Narayanganj Production Plant
+MG-GZP-ENG-0320,Arif Akter,Male,44,35-44,Dhaka,No,Bachelor,Engineering & Maintenance,Project Engineer,Executive,Permanent,Gazipur Manufacturing Unit
+MG-DHK-LGL-0323,Tahmina Bhuiyan,Female,23,Under 25,Dhaka,No,Bachelor,Legal & Compliance,Legal Officer,Officer,Permanent,Dhaka Corporate Office
+MG-CTG-QAS-0324,Ashik Bhuiyan,Male,29,25-34,Barishal,No,HSC,Quality Assurance,Quality Inspector,Worker,Contract,Chattogram Distribution Hub
+MG-GZP-PRD-0325,Nayeem Rahman,Male,35,35-44,Sylhet,No,Master,Production,Planning Executive,Executive,Permanent,Gazipur Manufacturing Unit
+MG-NGJ-ENG-0327,Shuvo Hossain,Male,26,25-34,Khulna,No,Master,Engineering & Maintenance,Maintenance Officer,Officer,Permanent,Narayanganj Production Plant
+MG-DHK-CUS-0328,Shafiq Jahan,Male,40,35-44,Rangpur,No,Bachelor,Customer Service,Senior Customer Service Officer,Senior Officer,Contract,Dhaka Corporate Office
+MG-GZP-SCL-0329,Hasan Alam,Male,38,35-44,Rajshahi,No,Bachelor,Supply Chain & Logistics,Logistics Officer,Officer,Permanent,Gazipur Manufacturing Unit
+MG-NGJ-PRD-0330,Sadia Chowdhury,Female,37,35-44,Mymensingh,No,Master,Production,Production Executive,Executive,Permanent,Narayanganj Production Plant
+MG-GZP-SCL-0331,Rafiq Haque,Male,23,Under 25,Dhaka,No,Bachelor,Supply Chain & Logistics,Inventory Officer,Officer,Permanent,Gazipur Manufacturing Unit
+MG-GZP-PRO-0333,Ahsan Hossain,Male,38,35-44,Rajshahi,No,Master,Procurement,Vendor Management Executive,Executive,Permanent,Gazipur Manufacturing Unit
+MG-GZP-SCL-0334,Shafiq Islam,Male,29,25-34,Rangpur,No,Bachelor,Supply Chain & Logistics,Logistics Officer,Officer,Probation,Gazipur Manufacturing Unit
+MG-GZP-PRO-0335,Rafiq Hasan,Male,28,25-34,Rajshahi,No,Bachelor,Procurement,Purchase Assistant,Junior Staff,Permanent,Gazipur Manufacturing Unit
+MG-DHK-CST-0336,Monir Khatun,Male,42,35-44,Dhaka,No,Master,Corporate Strategy,Project Management Executive,Executive,Permanent,Dhaka Corporate Office
+MG-GZP-QAS-0337,Asif Uddin,Male,29,25-34,Rajshahi,No,Diploma,Quality Assurance,QC Technician,Junior Staff,Contract,Gazipur Manufacturing Unit
+MG-GZP-QAS-0338,Tareq Rashid,Male,28,25-34,Mymensingh,No,Master,Quality Assurance,Quality Officer,Officer,Permanent,Gazipur Manufacturing Unit
+MG-DHK-QAS-0339,Hasan Jahan,Male,35,35-44,Rajshahi,No,SSC,Quality Assurance,Lab Assistant,Worker,Permanent,Dhaka Corporate Office
+MG-DHK-CUS-0340,Asif Uddin,Male,29,25-34,Dhaka,No,Master,Customer Service,Team Supervisor,Senior Officer,Probation,Dhaka Corporate Office
+MG-DHK-CUS-0342,Samira Rashid,Female,30,25-34,Rangpur,No,HSC,Customer Service,Call Centre Agent,Junior Staff,Permanent,Dhaka Corporate Office
+MG-DHK-PRO-0343,Lubna Hossain,Female,42,35-44,Rangpur,No,Master,Procurement,Procurement Manager,Manager,Permanent,Dhaka Corporate Office
+MG-CTG-PRD-0345,Rafiq Bhuiyan,Male,26,25-34,Dhaka,No,Bachelor,Production,Production Officer,Officer,Probation,Chattogram Distribution Hub
+MG-GZP-PRD-0346,Samira Rahman,Female,40,35-44,Dhaka,No,Master,Production,Planning Executive,Executive,Permanent,Gazipur Manufacturing Unit
+MG-GZP-PRD-0348,Imran Noor,Male,30,25-34,Rajshahi,No,SSC,Production,Packing Assistant,Worker,Permanent,Gazipur Manufacturing Unit
+MG-GZP-QAS-0349,Nabila Jahan,Female,46,45+,Sylhet,No,Bachelor,Quality Assurance,Quality Manager,Manager,Permanent,Gazipur Manufacturing Unit
+MG-NGJ-PRD-0351,Fahim Islam,Male,29,25-34,Sylhet,No,Trade Certificate,Production,Packing Assistant,Worker,Contract,Narayanganj Production Plant
+MG-GZP-PRD-0353,Farhan Islam,Male,29,25-34,Rajshahi,No,HSC,Production,Machine Operator,Worker,Permanent,Gazipur Manufacturing Unit
+MG-NGJ-FIN-0354,Ahsan Rashid,Male,26,25-34,Rajshahi,No,Bachelor,Finance & Accounts,Accounts Assistant,Junior Staff,Permanent,Narayanganj Production Plant
+MG-GZP-ENG-0355,Nayeem Rahman,Male,39,35-44,Rajshahi,No,HSC,Engineering & Maintenance,Electrician,Worker,Permanent,Gazipur Manufacturing Unit
+MG-GZP-SCL-0356,Rakib Mahmud,Male,29,25-34,Dhaka,No,Bachelor,Supply Chain & Logistics,Logistics Officer,Officer,Permanent,Gazipur Manufacturing Unit
+MG-DHK-CUS-0357,Asif Hossain,Male,33,25-34,Dhaka,No,HSC,Customer Service,Customer Care Assistant,Worker,Permanent,Dhaka Corporate Office
+MG-DHK-SAM-0358,Rakib Noor,Male,23,Under 25,Rangpur,No,Master,Sales & Marketing,Brand Officer,Officer,Permanent,Dhaka Corporate Office
+MG-GZP-HRA-0359,Mahmud Hasan,Male,37,35-44,Dhaka,No,Professional Certification,HR & Administration,Administration Manager,Manager,Permanent,Gazipur Manufacturing Unit
+MG-DHK-SAM-0360,Sanjida Ferdous,Female,45,45+,Dhaka,No,Master,Sales & Marketing,Brand Manager,Manager,Permanent,Dhaka Corporate Office
+MG-NGJ-ENG-0361,Ishrat Rahman,Female,39,35-44,Rajshahi,No,HSC,Engineering & Maintenance,Maintenance Helper,Worker,Contract,Narayanganj Production Plant
+MG-DHK-SAM-0362,Rifat Khan,Female,40,35-44,Rajshahi,No,Master,Sales & Marketing,Regional Sales Manager,Senior Manager,Permanent,Dhaka Corporate Office
+MG-DHK-HRA-0363,Ishrat Ahmed,Female,32,25-34,Dhaka,No,Bachelor,HR & Administration,Admin Officer,Officer,Contract,Dhaka Corporate Office
+MG-DHK-SAM-0364,Rifat Bhuiyan,Female,42,35-44,Dhaka,No,Professional Certification,Sales & Marketing,Senior Territory Officer,Senior Officer,Permanent,Dhaka Corporate Office
+MG-DHK-FIN-0365,Ahsan Karim,Male,30,25-34,Dhaka,No,Master,Finance & Accounts,Tax & VAT Executive,Executive,Permanent,Dhaka Corporate Office
+MG-DHK-CST-0367,Nadia Alam,Female,38,35-44,Dhaka,No,Bachelor,Corporate Strategy,Business Analyst,Officer,Probation,Dhaka Corporate Office
+MG-GZP-PRD-0368,Farzana Haque,Female,40,35-44,Rangpur,No,SSC,Production,Machine Operator,Worker,Contract,Gazipur Manufacturing Unit
+MG-DHK-CST-0369,Fahim Karim,Male,21,Under 25,Mymensingh,No,HSC,Corporate Strategy,PMO Assistant,Junior Staff,Permanent,Dhaka Corporate Office
+MG-CTG-QAS-0370,Md. Rahim Uddin,Male,20,Under 25,Dhaka,No,HSC,Quality Assurance,Lab Assistant,Worker,Permanent,Chattogram Distribution Hub
+MG-DHK-CST-0371,Tanvir Sarker,Male,27,25-34,Chattogram,No,Diploma,Corporate Strategy,Business Research Assistant,Junior Staff,Permanent,Dhaka Corporate Office
+MG-GZP-SAM-0372,Asif Rashid,Male,36,35-44,Mymensingh,No,Professional Certification,Sales & Marketing,Digital Marketing Executive,Executive,Permanent,Gazipur Manufacturing Unit
+MG-GZP-PRD-0373,Jahid Rashid,Male,46,45+,Dhaka,No,SSC,Production,Packing Assistant,Worker,Permanent,Gazipur Manufacturing Unit
+MG-GZP-ENG-0374,Mizanur Talukder,Male,42,35-44,Barishal,No,HSC,Engineering & Maintenance,Maintenance Helper,Worker,Permanent,Gazipur Manufacturing Unit
+MG-GZP-PRD-0375,Asif Khatun,Male,44,35-44,Mymensingh,No,HSC,Production,Production Operator,Worker,Contract,Gazipur Manufacturing Unit
+MG-GZP-SCL-0377,Sabbir Uddin,Male,25,25-34,Dhaka,No,Bachelor,Supply Chain & Logistics,Inventory Officer,Officer,Permanent,Gazipur Manufacturing Unit
+MG-DHK-FIN-0378,Hasan Akter,Male,27,25-34,Chattogram,No,Master,Finance & Accounts,Accounts Officer,Officer,Intern,Dhaka Corporate Office
+MG-GZP-SCL-0379,Sadia Kabir,Female,26,25-34,Khulna,No,HSC,Supply Chain & Logistics,Loader,Worker,Permanent,Gazipur Manufacturing Unit
+MG-RAJ-FIN-0380,Sumaiya Alam,Female,25,25-34,Khulna,No,Master,Finance & Accounts,Finance Officer,Officer,Permanent,Rajshahi Regional Office
+MG-DHK-FIN-0381,Nusrat Sultana,Female,45,45+,Rajshahi,No,Bachelor,Finance & Accounts,Finance Manager,Manager,Permanent,Dhaka Corporate Office
+MG-NGJ-SCL-0382,Kamrul Sultana,Male,28,25-34,Rajshahi,No,SSC,Supply Chain & Logistics,Warehouse Assistant,Worker,Permanent,Narayanganj Production Plant
+MG-GZP-PRD-0383,Jannatul Bhuiyan,Female,32,25-34,Mymensingh,No,Master,Production,Shift Supervisor,Senior Officer,Permanent,Gazipur Manufacturing Unit
+MG-NGJ-PRD-0385,Rakib Chowdhury,Male,25,25-34,Dhaka,No,HSC,Production,Packing Assistant,Worker,Permanent,Narayanganj Production Plant
+MG-RAJ-SAM-0386,Sharmeen Khan,Female,35,35-44,Mymensingh,No,Bachelor,Sales & Marketing,Senior Brand Officer,Senior Officer,Permanent,Rajshahi Regional Office
+MG-NGJ-QAS-0387,Riyad Akter,Male,35,35-44,Dhaka,No,Bachelor,Quality Assurance,Compliance Officer,Officer,Contract,Narayanganj Production Plant
+MG-GZP-SAM-0388,Tareq Ahmed,Male,27,25-34,Barishal,No,Bachelor,Sales & Marketing,Senior Territory Officer,Senior Officer,Contract,Gazipur Manufacturing Unit
+MG-RAJ-SAM-0389,Lubna Talukder,Female,38,35-44,Dhaka,No,Bachelor,Sales & Marketing,Brand Manager,Manager,Permanent,Rajshahi Regional Office
+MG-GZP-PRD-0390,Mahmud Sarker,Male,41,35-44,Rajshahi,No,Bachelor,Production,Production Executive,Executive,Permanent,Gazipur Manufacturing Unit
+MG-DHK-HRA-0391,Jahid Ahmed,Male,41,35-44,Sylhet,No,Bachelor,HR & Administration,Payroll Executive,Executive,Permanent,Dhaka Corporate Office
+MG-DHK-IT-0392,Kamrul Sultana,Male,48,45+,Dhaka,No,Master,Information Technology,Senior Manager - IT,Senior Manager,Probation,Dhaka Corporate Office
+MG-GZP-LGL-0393,Sharmeen Sultana,Female,55,45+,Rajshahi,No,Master,Legal & Compliance,Senior Manager - Legal,Senior Manager,Contract,Gazipur Manufacturing Unit
+MG-DHK-PRO-0395,Tasnim Haque,Female,28,25-34,Mymensingh,No,Bachelor,Procurement,Senior Sourcing Officer,Senior Officer,Permanent,Dhaka Corporate Office
+MG-GZP-QAS-0396,Maliha Hasan,Female,42,35-44,Sylhet,No,Bachelor,Quality Assurance,Regulatory Executive,Executive,Permanent,Gazipur Manufacturing Unit
+MG-DHK-SAM-0397,Ahsan Akter,Male,32,25-34,Dhaka,No,Bachelor,Sales & Marketing,Digital Marketing Executive,Executive,Permanent,Dhaka Corporate Office
+MG-DHK-SAM-0398,Samira Jahan,Female,43,35-44,Chattogram,No,SSC,Sales & Marketing,Sales Support Assistant,Worker,Permanent,Dhaka Corporate Office
+MG-DHK-CST-0399,Md. Karim Mia,Male,27,25-34,Sylhet,No,Bachelor,Corporate Strategy,Strategy Officer,Officer,Contract,Dhaka Corporate Office
+MG-GZP-PRD-0401,Mahmud Bhuiyan,Male,30,25-34,Rajshahi,No,HSC,Production,Line Coordinator,Junior Staff,Permanent,Gazipur Manufacturing Unit
+MG-GZP-LGL-0402,Rifat Akter,Female,27,25-34,Dhaka,No,Bachelor,Legal & Compliance,Senior Legal Officer,Senior Officer,Permanent,Gazipur Manufacturing Unit
+MG-CTG-SAM-0403,Ishrat Bhuiyan,Female,34,25-34,Dhaka,No,Bachelor,Sales & Marketing,Marketing Assistant,Junior Staff,Contract,Chattogram Distribution Hub
+MG-DHK-CST-0404,Tareq Sarker,Male,30,25-34,Khulna,No,Bachelor,Corporate Strategy,Senior Business Analyst,Senior Officer,Permanent,Dhaka Corporate Office
+MG-CTG-QAS-0405,Shakil Islam,Male,34,25-34,Chattogram,No,HSC,Quality Assurance,Quality Inspector,Worker,Probation,Chattogram Distribution Hub
+MG-NGJ-PRD-0406,Mehedi Sarker,Male,41,35-44,Rangpur,No,Bachelor,Production,Plant Operations Manager,Manager,Permanent,Narayanganj Production Plant
+MG-NGJ-ENG-0408,Ashik Akter,Male,30,25-34,Chattogram,No,Trade Certificate,Engineering & Maintenance,Mechanical Technician,Worker,Contract,Narayanganj Production Plant
+MG-GZP-PRD-0409,Hasan Karim,Male,31,25-34,Chattogram,No,HSC,Production,Production Operator,Worker,Contract,Gazipur Manufacturing Unit
+MG-GZP-QAS-0410,Farzana Talukder,Female,51,45+,Rangpur,No,Master,Quality Assurance,Quality Manager,Manager,Permanent,Gazipur Manufacturing Unit
+MG-NGJ-PRD-0411,Zahid Jahan,Male,44,35-44,Rajshahi,No,Master,Production,Production Manager,Manager,Permanent,Narayanganj Production Plant
+MG-DHK-SAM-0412,Md. Rahim Uddin,Male,23,Under 25,Dhaka,No,Bachelor,Sales & Marketing,Sales Representative,Junior Staff,Permanent,Dhaka Corporate Office
+MG-NGJ-PRD-0413,Arif Jahan,Male,43,35-44,Dhaka,No,Bachelor,Production,Planning Executive,Executive,Permanent,Narayanganj Production Plant
+MG-GZP-IT-0414,Hasan Ahmed,Male,41,35-44,Dhaka,No,Master,Information Technology,Software Engineer,Executive,Contract,Gazipur Manufacturing Unit
+MG-GZP-PRD-0415,Raisa Mahmud,Female,34,25-34,Rajshahi,No,Master,Production,Senior Production Officer,Senior Officer,Permanent,Gazipur Manufacturing Unit
+MG-CTG-SAM-0416,Rafiq Karim,Male,27,25-34,Rajshahi,No,Diploma,Sales & Marketing,Sales Representative,Junior Staff,Permanent,Chattogram Distribution Hub
+MG-CTG-SCL-0417,Md. Rahim Jahan,Male,54,45+,Dhaka,No,Bachelor,Supply Chain & Logistics,Senior Manager - Supply Chain,Senior Manager,Permanent,Chattogram Distribution Hub
+MG-DHK-IT-0418,Ahsan Khatun,Male,33,25-34,Sylhet,No,Bachelor,Information Technology,IT Officer,Officer,Permanent,Dhaka Corporate Office
+MG-GZP-SCL-0419,Fahim Akter,Male,46,45+,Rangpur,No,SSC,Supply Chain & Logistics,Warehouse Assistant,Worker,Contract,Gazipur Manufacturing Unit
+MG-GZP-QAS-0420,Raisa Ahmed,Female,37,35-44,Rajshahi,No,Diploma,Quality Assurance,Quality Officer,Officer,Permanent,Gazipur Manufacturing Unit
+MG-GZP-HRA-0421,Samira Chowdhury,Female,43,35-44,Dhaka,No,Professional Certification,HR & Administration,HR Executive,Executive,Permanent,Gazipur Manufacturing Unit
+MG-NGJ-PRD-0422,Tanvir Jahan,Male,36,35-44,Dhaka,No,Professional Certification,Production,Production Manager,Manager,Permanent,Narayanganj Production Plant
+MG-CTG-SCL-0423,Arif Chowdhury,Male,23,Under 25,Mymensingh,No,HSC,Supply Chain & Logistics,Store Assistant,Junior Staff,Probation,Chattogram Distribution Hub
+MG-DHK-ENG-0425,Asif Noor,Male,39,35-44,Chattogram,No,Professional Certification,Engineering & Maintenance,Engineering Manager,Manager,Permanent,Dhaka Corporate Office
+MG-DHK-CUS-0426,Shuvo Sarker,Male,35,35-44,Rangpur,No,Bachelor,Customer Service,Customer Experience Executive,Executive,Permanent,Dhaka Corporate Office
+MG-NGJ-PRD-0427,Shafiq Alam,Male,32,25-34,Khulna,No,Bachelor,Production,Senior Production Officer,Senior Officer,Permanent,Narayanganj Production Plant
+MG-NGJ-SCL-0428,Ashik Chowdhury,Male,38,35-44,Rangpur,No,Bachelor,Supply Chain & Logistics,Logistics Officer,Officer,Permanent,Narayanganj Production Plant
+MG-DHK-ENG-0429,Tareq Haque,Male,28,25-34,Rajshahi,No,Trade Certificate,Engineering & Maintenance,Mechanical Technician,Worker,Permanent,Dhaka Corporate Office
+MG-RAJ-FIN-0430,Sultana Haque,Female,44,35-44,Rajshahi,No,Professional Certification,Finance & Accounts,Tax & VAT Executive,Executive,Permanent,Rajshahi Regional Office
+MG-NGJ-SCL-0431,Farhan Hossain,Male,44,35-44,Dhaka,No,Master,Supply Chain & Logistics,Supply Chain Executive,Executive,Permanent,Narayanganj Production Plant
+MG-NGJ-PRD-0432,Mizanur Islam,Male,23,Under 25,Dhaka,No,HSC,Production,Line Coordinator,Junior Staff,Contract,Narayanganj Production Plant
+MG-DHK-FIN-0433,Lubna Haque,Female,26,25-34,Rajshahi,No,Bachelor,Finance & Accounts,Finance Officer,Officer,Permanent,Dhaka Corporate Office
+MG-DHK-PRO-0434,Farhan Uddin,Male,36,35-44,Barishal,No,Bachelor,Procurement,Vendor Management Executive,Executive,Permanent,Dhaka Corporate Office
+MG-NGJ-IT-0435,Md. Rahim Chowdhury,Male,39,35-44,Rangpur,No,Professional Certification,Information Technology,Applications Manager,Manager,Permanent,Narayanganj Production Plant
+MG-RAJ-HRA-0436,Nazmul Talukder,Male,33,25-34,Dhaka,No,Bachelor,HR & Administration,HR Manager,Manager,Permanent,Rajshahi Regional Office
+MG-DHK-SAM-0437,Sumaiya Ferdous,Female,30,25-34,Rangpur,No,Bachelor,Sales & Marketing,Marketing Assistant,Junior Staff,Permanent,Dhaka Corporate Office
+MG-NGJ-QAS-0438,Tahmina Khan,Female,28,25-34,Khulna,No,Master,Quality Assurance,QA Executive,Executive,Permanent,Narayanganj Production Plant
+MG-GZP-PRD-0439,Zahid Bhuiyan,Male,35,35-44,Rangpur,No,Master,Production,Production Executive,Executive,Permanent,Gazipur Manufacturing Unit
+MG-GZP-PRD-0440,Shuvo Hasan,Male,36,35-44,Chattogram,No,Bachelor,Production,Shift Supervisor,Senior Officer,Permanent,Gazipur Manufacturing Unit
+MG-DHK-HRA-0441,Asif Hasan,Male,44,35-44,Khulna,No,Professional Certification,HR & Administration,Payroll Executive,Executive,Permanent,Dhaka Corporate Office
+MG-DHK-FIN-0442,Sabbir Uddin,Male,45,45+,Mymensingh,No,Professional Certification,Finance & Accounts,Senior Manager - Finance,Senior Manager,Permanent,Dhaka Corporate Office
+MG-GZP-ENG-0443,Tanvir Khan,Male,35,35-44,Dhaka,No,Professional Certification,Engineering & Maintenance,Maintenance Executive,Executive,Permanent,Gazipur Manufacturing Unit
+MG-GZP-SAM-0444,Monir Ferdous,Male,39,35-44,Khulna,No,Bachelor,Sales & Marketing,Senior Territory Officer,Senior Officer,Permanent,Gazipur Manufacturing Unit
+MG-NGJ-FIN-0445,Imran Talukder,Male,37,35-44,Dhaka,No,Professional Certification,Finance & Accounts,Finance Manager,Manager,Permanent,Narayanganj Production Plant
+MG-DHK-SAM-0446,Rakib Talukder,Male,37,35-44,Chattogram,No,Master,Sales & Marketing,Senior Territory Officer,Senior Officer,Permanent,Dhaka Corporate Office
+MG-DHK-SCL-0447,Md. Karim Noor,Male,23,Under 25,Rajshahi,No,Diploma,Supply Chain & Logistics,Dispatch Coordinator,Junior Staff,Permanent,Dhaka Corporate Office
+MG-NGJ-QAS-0448,Anika Mia,Female,34,25-34,Rangpur,No,Bachelor,Quality Assurance,QA Assistant,Junior Staff,Permanent,Narayanganj Production Plant
+MG-NGJ-ENG-0449,Jahid Ferdous,Male,34,25-34,Chattogram,No,Bachelor,Engineering & Maintenance,Engineering Manager,Manager,Permanent,Narayanganj Production Plant
+MG-GZP-SCL-0450,Rumana Kabir,Female,24,Under 25,Mymensingh,No,Bachelor,Supply Chain & Logistics,Store Assistant,Junior Staff,Permanent,Gazipur Manufacturing Unit
+MG-NGJ-PRD-0451,Sabbir Rahman,Male,23,Under 25,Sylhet,Yes,Bachelor,Production,Production Officer,Officer,Permanent,Narayanganj Production Plant
+MG-DHK-FIN-0452,Sumaiya Khan,Female,39,35-44,Dhaka,No,Bachelor,Finance & Accounts,Senior Finance Officer,Senior Officer,Permanent,Dhaka Corporate Office
+MG-NGJ-PRD-0453,Md. Rahim Rashid,Male,26,25-34,Dhaka,No,Bachelor,Production,Production Assistant,Junior Staff,Permanent,Narayanganj Production Plant
+MG-DHK-SCL-0454,Fahim Ferdous,Male,39,35-44,Dhaka,No,SSC,Supply Chain & Logistics,Loader,Worker,Contract,Dhaka Corporate Office
+MG-NGJ-ENG-0455,Hasan Uddin,Male,30,25-34,Rangpur,No,Diploma,Engineering & Maintenance,Maintenance Coordinator,Junior Staff,Contract,Narayanganj Production Plant
+MG-GZP-PRD-0456,Rafiq Haque,Male,33,25-34,Sylhet,No,Master,Production,Shift Supervisor,Senior Officer,Permanent,Gazipur Manufacturing Unit
+MG-GZP-ENG-0457,Tanvir Khan,Male,34,25-34,Rajshahi,No,Diploma,Engineering & Maintenance,Maintenance Coordinator,Junior Staff,Contract,Gazipur Manufacturing Unit
+MG-CTG-SAM-0458,Arif Alam,Male,35,35-44,Chattogram,No,Bachelor,Sales & Marketing,Senior Territory Officer,Senior Officer,Probation,Chattogram Distribution Hub
+MG-DHK-SAM-0459,Ashik Rashid,Male,39,35-44,Rangpur,No,Trade Certificate,Sales & Marketing,Sales Support Assistant,Worker,Permanent,Dhaka Corporate Office
+MG-GZP-PRD-0460,Rifat Haque,Female,38,35-44,Dhaka,No,SSC,Production,Machine Operator,Worker,Contract,Gazipur Manufacturing Unit
+MG-NGJ-PRD-0461,Ayesha Ahmed,Female,27,25-34,Mymensingh,No,Trade Certificate,Production,Production Operator,Worker,Permanent,Narayanganj Production Plant
+MG-GZP-PRD-0462,Tanvir Karim,Male,26,25-34,Rajshahi,No,HSC,Production,Production Assistant,Junior Staff,Permanent,Gazipur Manufacturing Unit
+MG-DHK-LGL-0463,Md. Rahim Mia,Male,31,25-34,Chattogram,No,Diploma,Legal & Compliance,Legal Officer,Officer,Intern,Dhaka Corporate Office
+MG-DHK-FIN-0465,Rashed Sultana,Male,37,35-44,Chattogram,No,Master,Finance & Accounts,Senior Manager - Finance,Senior Manager,Permanent,Dhaka Corporate Office
+MG-DHK-CUS-0466,Tahmina Noor,Female,31,25-34,Sylhet,No,Bachelor,Customer Service,Complaint Resolution Officer,Officer,Permanent,Dhaka Corporate Office
+MG-CTG-SCL-0467,Nazmul Haque,Male,31,25-34,Rajshahi,No,Diploma,Supply Chain & Logistics,Inventory Officer,Officer,Permanent,Chattogram Distribution Hub
+MG-NGJ-PRD-0468,Sharmeen Kabir,Female,41,35-44,Mymensingh,No,Professional Certification,Production,Plant Operations Manager,Manager,Permanent,Narayanganj Production Plant
+MG-RAJ-PRD-0469,Riyad Rahman,Male,41,35-44,Mymensingh,No,SSC,Production,Machine Operator,Worker,Probation,Rajshahi Regional Office
+MG-NGJ-PRD-0470,Tanvir Sultana,Male,32,25-34,Khulna,No,Bachelor,Production,Shift Officer,Officer,Permanent,Narayanganj Production Plant
+MG-DHK-CUS-0471,Ishrat Hossain,Female,47,45+,Khulna,No,SSC,Customer Service,Customer Care Assistant,Worker,Permanent,Dhaka Corporate Office
+MG-CTG-SCL-0472,Tareq Sarker,Male,43,35-44,Dhaka,No,Master,Supply Chain & Logistics,Senior Supply Chain Officer,Senior Officer,Permanent,Chattogram Distribution Hub
+MG-CTG-SAM-0473,Tareq Talukder,Male,36,35-44,Dhaka,No,Master,Sales & Marketing,Brand Manager,Manager,Permanent,Chattogram Distribution Hub
+MG-GZP-SCL-0474,Kamrul Kabir,Male,45,45+,Khulna,No,SSC,Supply Chain & Logistics,Warehouse Assistant,Worker,Permanent,Gazipur Manufacturing Unit
+MG-GZP-FIN-0475,Farhan Hasan,Male,28,25-34,Mymensingh,No,Bachelor,Finance & Accounts,Accounts Officer,Officer,Permanent,Gazipur Manufacturing Unit
+MG-DHK-HRA-0476,Mim Bhuiyan,Female,24,Under 25,Dhaka,No,Bachelor,HR & Administration,Admin Officer,Officer,Permanent,Dhaka Corporate Office
+MG-DHK-CST-0477,Md. Karim Noor,Male,34,25-34,Khulna,No,Bachelor,Corporate Strategy,Business Analyst,Officer,Permanent,Dhaka Corporate Office
+MG-DHK-IT-0479,Sumaiya Haque,Not Disclosed,33,25-34,Rajshahi,No,HSC,Information Technology,IT Support Technician,Junior Staff,Permanent,Dhaka Corporate Office
+MG-GZP-CUS-0480,Faria Khan,Female,23,Under 25,Chattogram,No,Diploma,Customer Service,Call Centre Agent,Junior Staff,Permanent,Gazipur Manufacturing Unit
+MG-RAJ-SAM-0481,Sabbir Ahmed,Male,46,45+,Khulna,No,Master,Sales & Marketing,Sales Executive,Executive,Permanent,Rajshahi Regional Office
+MG-GZP-FIN-0482,Sanjida Rashid,Female,36,35-44,Khulna,No,Master,Finance & Accounts,Tax & VAT Executive,Executive,Permanent,Gazipur Manufacturing Unit
+MG-DHK-PRO-0483,Kamrul Ahmed,Male,28,25-34,Chattogram,No,Bachelor,Procurement,Sourcing Officer,Officer,Intern,Dhaka Corporate Office
+MG-NGJ-PRD-0484,Shafiq Sarker,Male,32,25-34,Sylhet,No,Master,Production,Production Officer,Officer,Permanent,Narayanganj Production Plant
+MG-GZP-FIN-0485,Rafiq Hossain,Male,27,25-34,Dhaka,No,Diploma,Finance & Accounts,Accounts Assistant,Junior Staff,Permanent,Gazipur Manufacturing Unit
+MG-NGJ-PRD-0486,Rafiq Kabir,Male,25,25-34,Dhaka,No,Diploma,Production,Production Assistant,Junior Staff,Permanent,Narayanganj Production Plant
+MG-GZP-ENG-0487,Ashik Rashid,Male,37,35-44,Sylhet,No,Professional Certification,Engineering & Maintenance,Project Engineer,Executive,Permanent,Gazipur Manufacturing Unit
+MG-GZP-PRD-0488,Rafiq Hossain,Male,35,35-44,Khulna,No,Bachelor,Production,Production Officer,Officer,Permanent,Gazipur Manufacturing Unit
+MG-NGJ-PRD-0489,Ahsan Kabir,Male,31,25-34,Dhaka,No,Bachelor,Production,Senior Production Officer,Senior Officer,Permanent,Narayanganj Production Plant
+MG-DHK-PRD-0490,Shuvo Mahmud,Male,27,25-34,Chattogram,No,Bachelor,Production,Line Coordinator,Junior Staff,Probation,Dhaka Corporate Office
+MG-CTG-SAM-0491,Ahsan Alam,Male,43,35-44,Dhaka,No,Bachelor,Sales & Marketing,Digital Marketing Executive,Executive,Permanent,Chattogram Distribution Hub
+MG-CTG-SAM-0492,Monir Mahmud,Male,34,25-34,Dhaka,No,Master,Sales & Marketing,Territory Sales Officer,Officer,Permanent,Chattogram Distribution Hub
+MG-DHK-SAM-0493,Mim Sultana,Female,45,45+,Barishal,No,Master,Sales & Marketing,Sales Executive,Executive,Permanent,Dhaka Corporate Office
+MG-NGJ-PRD-0494,Rakib Chowdhury,Male,33,25-34,Dhaka,No,Bachelor,Production,Shift Officer,Officer,Permanent,Narayanganj Production Plant
+MG-GZP-SCL-0495,Nusrat Haque,Female,28,25-34,Dhaka,No,HSC,Supply Chain & Logistics,Loader,Worker,Contract,Gazipur Manufacturing Unit
+MG-GZP-PRD-0496,Nazmul Khatun,Male,47,45+,Dhaka,No,Trade Certificate,Production,Production Operator,Worker,Permanent,Gazipur Manufacturing Unit
+MG-GZP-PRD-0499,Md. Rahim Kabir,Male,25,25-34,Dhaka,No,HSC,Production,Machine Operator,Worker,Permanent,Gazipur Manufacturing Unit
+MG-DHK-SAM-0500,Sabbir Ahmed,Male,26,25-34,Dhaka,No,Master,Sales & Marketing,Brand Officer,Officer,Permanent,Dhaka Corporate Office
+MG-GZP-PRD-0501,Shakil Sarker,Male,27,25-34,Mymensingh,No,Bachelor,Production,Senior Production Officer,Senior Officer,Contract,Gazipur Manufacturing Unit
+MG-NGJ-PRD-0502,Nazmul Sultana,Male,23,Under 25,Rangpur,No,Trade Certificate,Production,Machine Operator,Worker,Permanent,Narayanganj Production Plant
+MG-DHK-PRD-0503,Mehedi Kabir,Male,27,25-34,Rajshahi,No,Bachelor,Production,Senior Production Officer,Senior Officer,Permanent,Dhaka Corporate Office
+MG-DHK-SAM-0504,Tareq Sultana,Male,25,25-34,Dhaka,No,HSC,Sales & Marketing,Marketing Assistant,Junior Staff,Permanent,Dhaka Corporate Office
+MG-GZP-CUS-0506,Tanvir Karim,Male,34,25-34,Dhaka,No,Bachelor,Customer Service,Customer Service Representative,Junior Staff,Permanent,Gazipur Manufacturing Unit
+MG-DHK-SAM-0507,Ashik Khan,Male,38,35-44,Rangpur,No,Bachelor,Sales & Marketing,Brand Officer,Officer,Permanent,Dhaka Corporate Office
+MG-NGJ-SCL-0508,Rafiq Jahan,Male,33,25-34,Rajshahi,No,Diploma,Supply Chain & Logistics,Dispatch Coordinator,Junior Staff,Permanent,Narayanganj Production Plant
+MG-GZP-PRD-0509,Nusrat Sarker,Female,42,35-44,Rangpur,No,Bachelor,Production,Shift Supervisor,Senior Officer,Contract,Gazipur Manufacturing Unit
+MG-NGJ-ENG-0510,Saiful Bhuiyan,Male,24,Under 25,Chattogram,No,HSC,Engineering & Maintenance,Mechanical Technician,Worker,Permanent,Narayanganj Production Plant
+MG-CTG-SAM-0511,Md. Karim Hossain,Male,24,Under 25,Rangpur,No,Bachelor,Sales & Marketing,Marketing Assistant,Junior Staff,Permanent,Chattogram Distribution Hub
+MG-DHK-LGL-0512,Fahim Mia,Male,54,45+,Rajshahi,No,Bachelor,Legal & Compliance,Senior Manager - Legal,Senior Manager,Permanent,Dhaka Corporate Office
+MG-NGJ-PRD-0513,Tanvir Khatun,Male,39,35-44,Dhaka,No,SSC,Production,Production Operator,Worker,Permanent,Narayanganj Production Plant
+MG-DHK-SAM-0514,Md. Rahim Hasan,Male,36,35-44,Dhaka,No,Master,Sales & Marketing,Sales Executive,Executive,Permanent,Dhaka Corporate Office
+MG-GZP-PRD-0515,Zahid Akter,Male,41,35-44,Chattogram,No,Bachelor,Production,Plant Operations Manager,Manager,Permanent,Gazipur Manufacturing Unit
+MG-NGJ-SCL-0516,Riyad Sultana,Male,42,35-44,Khulna,No,Bachelor,Supply Chain & Logistics,Planning Executive,Executive,Permanent,Narayanganj Production Plant

@@ -1,0 +1,111 @@
+Requisition ID,Department,Location,Job Title,Job Level,Hiring Manager,Posted Date,Target Close Date,Actual Close Date,Status,Planned Vacancies,Applications,Shortlisted,Interviewed,Offers,Hires,Primary Source,Time to Fill (Days),Recruitment Cost (BDT),Candidate Experience Score
+REQ-0001,HR & Administration,Gazipur Manufacturing Unit,HR Executive,Executive,Md. Imran Hossain,2025-03-08,2025-04-08,2025-04-01,Filled,1,48,11,5,1,1,Bdjobs.com,24,20948,4
+REQ-0002,Production,Narayanganj Production Plant,Production Manager,Manager,Md. Shahidul Islam,2025-10-21,2025-12-18,2025-12-11,Filled,1,52,6,4,2,1,LinkedIn,51,22975,4
+REQ-0003,Supply Chain & Logistics,Chattogram Distribution Hub,Store Assistant,Junior Staff,Rezaul Karim,2025-11-30,2025-12-22,2025-12-15,Filled,1,46,10,4,2,1,Facebook Jobs,15,23471,4.5
+REQ-0004,Production,Narayanganj Production Plant,Production Operator,Worker,Abdul Karim,2025-01-12,2025-02-15,2025-02-08,Filled,1,20,3,2,2,1,LinkedIn,27,24185,4
+REQ-0005,Engineering & Maintenance,Dhaka Corporate Office,Engineering Manager,Manager,Md. Moniruzzaman,2025-01-06,2025-02-27,2025-02-20,Filled,1,46,7,3,1,1,Bdjobs.com,45,17116,4
+REQ-0006,Customer Service,Dhaka Corporate Office,Customer Experience Executive,Executive,Jannatul Ferdous,2025-02-09,2025-03-25,2025-03-18,Filled,1,23,3,2,2,1,University Career Centre,37,5477,4.2
+REQ-0007,Production,Narayanganj Production Plant,Senior Production Officer,Senior Officer,Md. Shahidul Islam,2025-04-01,2025-05-29,2025-05-22,Filled,1,35,4,2,2,1,Bdjobs.com,51,27217,4.3
+REQ-0008,Supply Chain & Logistics,Narayanganj Production Plant,Logistics Officer,Officer,Mahmudul Hasan,2025-01-25,2025-04-07,2025-03-31,Filled,1,28,4,2,2,1,Walk-in,65,19305,4.7
+REQ-0009,Engineering & Maintenance,Dhaka Corporate Office,Mechanical Technician,Worker,Md. Moniruzzaman,2024-12-20,2025-01-22,2025-01-15,Filled,1,54,6,3,1,1,LinkedIn,26,9604,4
+REQ-0010,Finance & Accounts,Rajshahi Regional Office,Tax & VAT Executive,Executive,Shafiqur Rahman,2024-11-30,2025-02-12,2025-02-05,Filled,1,37,7,4,1,1,Bdjobs.com,67,25448,4.1
+REQ-0011,Supply Chain & Logistics,Narayanganj Production Plant,Supply Chain Executive,Executive,Rezaul Karim,2025-04-25,2025-06-06,2025-05-30,Filled,1,36,6,2,1,1,Bdjobs.com,35,7836,3.9
+REQ-0012,Production,Narayanganj Production Plant,Line Coordinator,Junior Staff,Abdul Karim,2025-05-04,2025-05-31,2025-05-24,Filled,1,50,10,5,1,1,University Career Centre,20,26385,4.6
+REQ-0013,Finance & Accounts,Dhaka Corporate Office,Finance Officer,Officer,Sadia Islam,2025-05-16,2025-07-28,2025-07-21,Filled,1,34,6,3,2,1,Employee Referral,66,19997,5
+REQ-0014,Procurement,Dhaka Corporate Office,Vendor Management Executive,Executive,Ahsan Habib,2025-09-13,2025-11-03,2025-10-27,Filled,1,37,6,3,2,1,Employee Referral,44,19107,4.6
+REQ-0015,Information Technology,Narayanganj Production Plant,Applications Manager,Manager,Sabbir Hossain,2024-11-26,2025-02-08,2025-02-01,Filled,1,49,8,4,1,1,Recruitment Agency,67,17080,3.6
+REQ-0016,HR & Administration,Rajshahi Regional Office,HR Manager,Manager,Nusrat Jahan,2025-01-18,2025-03-10,2025-03-03,Filled,1,39,4,2,1,1,Walk-in,44,15932,4.1
+REQ-0017,Sales & Marketing,Dhaka Corporate Office,Marketing Assistant,Junior Staff,Farzana Rahman,2025-09-23,2025-11-05,2025-10-29,Filled,1,43,8,3,1,1,Facebook Jobs,36,5576,4.1
+REQ-0018,Quality Assurance,Narayanganj Production Plant,QA Executive,Executive,Dr. Samira Sultana,2025-04-13,2025-05-19,2025-05-12,Filled,1,52,7,4,1,1,Bdjobs.com,29,16979,3.7
+REQ-0019,Production,Gazipur Manufacturing Unit,Production Executive,Executive,Md. Shahidul Islam,2025-02-28,2025-04-16,2025-04-09,Filled,1,44,6,3,1,1,Recruitment Agency,40,6398,5
+REQ-0020,Production,Gazipur Manufacturing Unit,Shift Supervisor,Senior Officer,Md. Shahidul Islam,2025-11-17,2025-12-23,2025-12-16,Filled,1,39,6,3,2,1,Bdjobs.com,29,13221,4.5
+REQ-0021,HR & Administration,Dhaka Corporate Office,Payroll Executive,Executive,Md. Imran Hossain,2025-09-14,2025-10-24,2025-10-17,Filled,1,35,4,2,1,1,Bdjobs.com,33,12725,4.3
+REQ-0022,Finance & Accounts,Dhaka Corporate Office,Senior Manager - Finance,Senior Manager,Shafiqur Rahman,2025-05-24,2025-07-09,2025-07-02,Filled,1,52,6,4,1,1,Bdjobs.com,39,16474,3.4
+REQ-0023,Engineering & Maintenance,Gazipur Manufacturing Unit,Maintenance Executive,Executive,Md. Moniruzzaman,2025-06-15,2025-08-01,2025-07-25,Filled,1,28,4,2,2,1,LinkedIn,40,6224,4.4
+REQ-0024,Sales & Marketing,Gazipur Manufacturing Unit,Senior Territory Officer,Senior Officer,Farzana Rahman,2024-12-27,2025-02-19,2025-02-12,Filled,1,53,9,6,1,1,LinkedIn,47,10329,4.3
+REQ-0025,Finance & Accounts,Narayanganj Production Plant,Finance Manager,Manager,Shafiqur Rahman,2025-01-23,2025-04-05,2025-03-29,Filled,1,27,3,2,2,1,Employee Referral,65,9110,4.1
+REQ-0026,Sales & Marketing,Dhaka Corporate Office,Senior Territory Officer,Senior Officer,Tanvir Ahmed,2025-03-26,2025-04-28,2025-04-21,Filled,1,28,4,2,1,1,Facebook Jobs,26,4758,3.9
+REQ-0027,Supply Chain & Logistics,Dhaka Corporate Office,Dispatch Coordinator,Junior Staff,Mahmudul Hasan,2025-06-20,2025-08-01,2025-07-25,Filled,1,25,3,2,1,1,LinkedIn,35,12910,4
+REQ-0028,Quality Assurance,Narayanganj Production Plant,QA Assistant,Junior Staff,Ashikur Rahman,2025-09-02,2025-10-06,2025-09-29,Filled,1,57,6,3,1,1,Recruitment Agency,27,25173,4.3
+REQ-0029,Engineering & Maintenance,Narayanganj Production Plant,Engineering Manager,Manager,Md. Moniruzzaman,2025-05-13,2025-07-17,2025-07-10,Filled,1,37,6,4,1,1,Facebook Jobs,58,5953,4.2
+REQ-0030,Supply Chain & Logistics,Gazipur Manufacturing Unit,Store Assistant,Junior Staff,Mahmudul Hasan,2024-12-22,2025-01-16,2025-01-09,Filled,1,60,7,3,2,1,Bdjobs.com,18,6415,5
+REQ-0031,Production,Narayanganj Production Plant,Production Officer,Officer,Abdul Karim,2025-03-03,2025-05-09,2025-05-02,Filled,2,56,7,4,2,2,Bdjobs.com,60,11886,4.5
+REQ-0032,Finance & Accounts,Dhaka Corporate Office,Senior Finance Officer,Senior Officer,Sadia Islam,2025-11-05,2025-12-28,2025-12-21,Filled,1,20,3,2,2,1,LinkedIn,46,19877,4.3
+REQ-0033,Production,Narayanganj Production Plant,Production Assistant,Junior Staff,Md. Shahidul Islam,2024-12-03,2025-01-03,2024-12-27,Filled,2,96,21,13,4,2,Employee Referral,24,29226,4.5
+REQ-0034,Supply Chain & Logistics,Dhaka Corporate Office,Loader,Worker,Mahmudul Hasan,2025-10-22,2025-11-28,2025-11-21,Filled,1,55,9,4,1,1,Bdjobs.com,30,7165,4.4
+REQ-0035,Engineering & Maintenance,Narayanganj Production Plant,Maintenance Coordinator,Junior Staff,Md. Moniruzzaman,2025-07-06,2025-08-15,2025-08-08,Filled,1,19,3,2,2,1,LinkedIn,33,4577,4.7
+REQ-0036,Production,Gazipur Manufacturing Unit,Shift Supervisor,Senior Officer,Md. Shahidul Islam,2025-03-25,2025-05-19,2025-05-12,Filled,1,46,10,5,1,1,Walk-in,48,8613,4.8
+REQ-0037,Engineering & Maintenance,Gazipur Manufacturing Unit,Maintenance Coordinator,Junior Staff,Rakibul Hasan,2025-02-23,2025-03-22,2025-03-15,Filled,1,18,3,2,2,1,Employee Referral,20,6186,5
+REQ-0038,Sales & Marketing,Chattogram Distribution Hub,Senior Territory Officer,Senior Officer,Farzana Rahman,2025-01-31,2025-03-17,2025-03-10,Filled,1,19,4,2,1,1,Recruitment Agency,38,11680,3.7
+REQ-0039,Sales & Marketing,Dhaka Corporate Office,Sales Support Assistant,Worker,Farzana Rahman,2025-01-29,2025-02-18,2025-02-11,Filled,1,46,10,6,2,1,Facebook Jobs,13,22804,4.1
+REQ-0040,Production,Gazipur Manufacturing Unit,Machine Operator,Worker,Abdul Karim,2025-06-24,2025-08-08,2025-08-01,Filled,2,102,18,10,3,2,LinkedIn,38,45546,4.2
+REQ-0041,Production,Narayanganj Production Plant,Production Operator,Worker,Md. Shahidul Islam,2025-02-27,2025-03-23,2025-03-16,Filled,1,20,3,2,2,1,University Career Centre,17,26794,5
+REQ-0042,Production,Gazipur Manufacturing Unit,Production Assistant,Junior Staff,Abdul Karim,2025-09-22,2025-10-23,2025-10-16,Filled,1,59,13,5,1,1,Bdjobs.com,24,22934,4
+REQ-0043,Legal & Compliance,Dhaka Corporate Office,Legal Officer,Officer,Barrister Nafisa Karim,2025-05-29,2025-07-20,2025-07-13,Filled,1,41,8,4,2,1,University Career Centre,45,22598,4.3
+REQ-0044,Engineering & Maintenance,Gazipur Manufacturing Unit,Mechanical Technician,Worker,Md. Moniruzzaman,2025-10-30,2025-12-05,2025-11-28,Filled,1,30,4,2,2,1,Bdjobs.com,29,16724,4.4
+REQ-0045,Finance & Accounts,Dhaka Corporate Office,Senior Manager - Finance,Senior Manager,Shafiqur Rahman,2024-12-21,2025-01-26,2025-01-19,Filled,1,45,5,2,2,1,Bdjobs.com,29,23398,3.7
+REQ-0046,Customer Service,Dhaka Corporate Office,Complaint Resolution Officer,Officer,Rashedul Islam,2025-08-24,2025-11-01,2025-10-25,Filled,1,26,3,2,1,1,Walk-in,62,9245,4.5
+REQ-0047,Supply Chain & Logistics,Chattogram Distribution Hub,Inventory Officer,Officer,Rezaul Karim,2025-11-04,2025-12-15,2025-12-08,Filled,1,57,7,4,2,1,Facebook Jobs,34,18076,4.1
+REQ-0048,Production,Narayanganj Production Plant,Plant Operations Manager,Manager,Md. Shahidul Islam,2025-06-20,2025-08-23,2025-08-16,Filled,1,36,8,4,1,1,Walk-in,57,15308,4.6
+REQ-0049,Production,Rajshahi Regional Office,Machine Operator,Worker,Md. Shahidul Islam,2025-07-26,2025-09-11,2025-09-04,Filled,1,58,7,4,2,1,Recruitment Agency,40,6995,3.9
+REQ-0050,Production,Narayanganj Production Plant,Shift Officer,Officer,Abdul Karim,2025-07-15,2025-08-29,2025-08-22,Filled,1,51,7,3,1,1,Facebook Jobs,38,6673,4.3
+REQ-0051,Customer Service,Dhaka Corporate Office,Customer Care Assistant,Worker,Jannatul Ferdous,2025-06-05,2025-07-21,2025-07-14,Filled,1,44,8,4,2,1,Bdjobs.com,39,25558,3.7
+REQ-0052,Supply Chain & Logistics,Chattogram Distribution Hub,Senior Supply Chain Officer,Senior Officer,Rezaul Karim,2025-11-04,2025-12-17,2025-12-10,Filled,1,57,13,7,1,1,Facebook Jobs,36,11943,4.4
+REQ-0053,Sales & Marketing,Chattogram Distribution Hub,Brand Manager,Manager,Farzana Rahman,2025-10-02,2025-11-25,2025-11-18,Filled,1,27,5,3,2,1,Facebook Jobs,47,17275,4.2
+REQ-0054,Supply Chain & Logistics,Gazipur Manufacturing Unit,Warehouse Assistant,Worker,Mahmudul Hasan,2025-04-03,2025-05-13,2025-05-06,Filled,1,43,10,5,2,1,Facebook Jobs,33,26588,4.2
+REQ-0055,Finance & Accounts,Gazipur Manufacturing Unit,Accounts Officer,Officer,Shafiqur Rahman,2025-04-28,2025-07-01,2025-06-24,Filled,1,33,4,2,2,1,Facebook Jobs,57,10157,4.5
+REQ-0056,HR & Administration,Dhaka Corporate Office,Admin Officer,Officer,Nusrat Jahan,2025-08-22,2025-10-04,2025-09-27,Filled,1,25,3,2,2,1,Employee Referral,36,9297,4
+REQ-0057,Corporate Strategy,Dhaka Corporate Office,Business Analyst,Officer,Mushfiqur Rahman,2024-12-27,2025-02-23,2025-02-16,Filled,1,34,5,2,1,1,Walk-in,51,7994,3.9
+REQ-0058,Sales & Marketing,Dhaka Corporate Office,Territory Sales Officer,Officer,Farzana Rahman,2025-06-13,2025-07-20,2025-07-13,Filled,1,27,5,2,2,1,Facebook Jobs,30,10560,4.4
+REQ-0059,Information Technology,Dhaka Corporate Office,IT Support Technician,Junior Staff,Sabbir Hossain,2024-12-17,2025-01-24,2025-01-17,Filled,1,40,8,4,2,1,LinkedIn,31,19169,4.1
+REQ-0060,Customer Service,Gazipur Manufacturing Unit,Call Centre Agent,Junior Staff,Jannatul Ferdous,2025-08-31,2025-10-08,2025-10-01,Filled,1,26,6,3,2,1,Bdjobs.com,31,25316,4.5
+REQ-0061,Sales & Marketing,Rajshahi Regional Office,Sales Executive,Executive,Tanvir Ahmed,2025-07-24,2025-08-24,2025-08-17,Filled,2,120,17,8,2,2,University Career Centre,24,24856,4.5
+REQ-0062,Finance & Accounts,Gazipur Manufacturing Unit,Tax & VAT Executive,Executive,Sadia Islam,2025-10-16,2025-12-21,2025-12-14,Filled,1,38,5,3,1,1,University Career Centre,59,4702,3.4
+REQ-0063,Procurement,Dhaka Corporate Office,Sourcing Officer,Officer,Maliha Noor,2025-07-06,2025-08-09,2025-08-02,Filled,1,36,5,2,1,1,Employee Referral,27,26165,3.5
+REQ-0064,Finance & Accounts,Gazipur Manufacturing Unit,Accounts Assistant,Junior Staff,Shafiqur Rahman,2025-08-22,2025-09-22,2025-09-15,Filled,1,38,9,4,1,1,Facebook Jobs,24,8148,4
+REQ-0065,Engineering & Maintenance,Gazipur Manufacturing Unit,Project Engineer,Executive,Rakibul Hasan,2025-05-12,2025-06-28,2025-06-21,Filled,1,60,12,5,1,1,LinkedIn,40,19922,4.2
+REQ-0066,Production,Gazipur Manufacturing Unit,Production Officer,Officer,Md. Shahidul Islam,2025-06-02,2025-07-03,2025-06-26,Filled,1,19,3,2,1,1,Walk-in,24,9973,4.6
+REQ-0067,Production,Narayanganj Production Plant,Senior Production Officer,Senior Officer,Abdul Karim,2025-03-12,2025-05-01,2025-04-24,Filled,1,48,11,6,2,1,LinkedIn,43,27797,4.5
+REQ-0068,Production,Dhaka Corporate Office,Line Coordinator,Junior Staff,Md. Shahidul Islam,2025-07-23,2025-08-20,2025-08-13,Filled,1,55,12,7,2,1,University Career Centre,21,13322,4.7
+REQ-0069,Sales & Marketing,Chattogram Distribution Hub,Digital Marketing Executive,Executive,Tanvir Ahmed,2025-05-13,2025-07-18,2025-07-11,Filled,1,49,6,3,2,1,LinkedIn,59,23770,4.2
+REQ-0070,Sales & Marketing,Chattogram Distribution Hub,Territory Sales Officer,Officer,Farzana Rahman,2025-06-09,2025-08-13,2025-08-06,Filled,1,23,3,2,1,1,Bdjobs.com,58,6762,4.1
+REQ-0071,Production,Narayanganj Production Plant,Shift Officer,Officer,Md. Shahidul Islam,2025-10-26,2025-12-25,2025-12-18,Filled,1,24,4,2,1,1,Employee Referral,53,26956,4.6
+REQ-0072,Supply Chain & Logistics,Gazipur Manufacturing Unit,Loader,Worker,Mahmudul Hasan,2024-12-19,2025-01-29,2025-01-22,Filled,1,51,10,5,2,1,Bdjobs.com,34,15626,4.5
+REQ-0073,Production,Gazipur Manufacturing Unit,Production Operator,Worker,Abdul Karim,2025-07-01,2025-07-30,2025-07-23,Filled,1,43,9,5,1,1,Walk-in,22,21424,4.1
+REQ-0074,Finance & Accounts,Dhaka Corporate Office,Cash Assistant,Junior Staff,Shafiqur Rahman,2025-01-10,2025-02-07,2025-01-31,Filled,1,40,8,4,2,1,Recruitment Agency,21,17943,4.1
+REQ-0075,Legal & Compliance,Gazipur Manufacturing Unit,Senior Legal Officer,Senior Officer,Barrister Nafisa Karim,2025-01-10,2025-02-18,2025-02-11,Filled,1,33,5,2,2,1,Facebook Jobs,32,23979,4.1
+REQ-0076,Production,Gazipur Manufacturing Unit,Machine Operator,Worker,Md. Shahidul Islam,2025-04-18,2025-05-28,2025-05-21,Filled,1,19,3,2,1,1,Walk-in,33,25405,4.5
+REQ-0077,Sales & Marketing,Dhaka Corporate Office,Brand Officer,Officer,Tanvir Ahmed,2025-06-17,2025-07-25,2025-07-18,Filled,1,55,9,5,2,1,LinkedIn,31,20990,4.1
+REQ-0078,Production,Gazipur Manufacturing Unit,Senior Production Officer,Senior Officer,Md. Shahidul Islam,2025-08-07,2025-09-22,2025-09-15,Filled,1,46,6,2,2,1,Bdjobs.com,39,21638,4.4
+REQ-0079,Production,Dhaka Corporate Office,Senior Production Officer,Senior Officer,Abdul Karim,2025-11-10,2025-12-27,2025-12-20,Filled,1,38,7,3,1,1,Facebook Jobs,40,22583,4.2
+REQ-0080,Sales & Marketing,Dhaka Corporate Office,Marketing Assistant,Junior Staff,Farzana Rahman,2025-03-29,2025-05-09,2025-05-02,Filled,1,56,12,7,1,1,LinkedIn,34,20307,3.9
+REQ-0081,Sales & Marketing,Chattogram Distribution Hub,Senior Brand Officer,Senior Officer,Tanvir Ahmed,2025-04-08,2025-05-16,2025-05-09,Filled,1,44,10,6,2,1,Walk-in,31,27655,5
+REQ-0082,Customer Service,Gazipur Manufacturing Unit,Customer Service Representative,Junior Staff,Rashedul Islam,2025-09-05,2025-10-11,2025-10-04,Filled,1,36,6,2,2,1,Bdjobs.com,29,9051,4.3
+REQ-0083,Sales & Marketing,Dhaka Corporate Office,Brand Officer,Officer,Tanvir Ahmed,2025-11-22,2026-01-01,2025-12-25,Filled,1,53,8,4,1,1,Bdjobs.com,33,12538,4.3
+REQ-0084,Supply Chain & Logistics,Narayanganj Production Plant,Dispatch Coordinator,Junior Staff,Mahmudul Hasan,2025-07-10,2025-08-04,2025-07-28,Filled,1,39,7,3,1,1,Recruitment Agency,18,24029,4.4
+REQ-0085,Production,Gazipur Manufacturing Unit,Shift Supervisor,Senior Officer,Abdul Karim,2025-01-09,2025-03-06,2025-02-27,Filled,1,22,3,2,1,1,Employee Referral,49,22885,4.4
+REQ-0086,Engineering & Maintenance,Narayanganj Production Plant,Mechanical Technician,Worker,Rakibul Hasan,2025-07-17,2025-08-29,2025-08-22,Filled,1,53,9,4,2,1,Bdjobs.com,36,16299,4
+REQ-0087,Sales & Marketing,Chattogram Distribution Hub,Marketing Assistant,Junior Staff,Farzana Rahman,2025-12-04,2025-12-30,2025-12-23,Filled,1,60,14,8,1,1,Employee Referral,19,14339,4.1
+REQ-0088,Legal & Compliance,Dhaka Corporate Office,Senior Manager - Legal,Senior Manager,Barrister Nafisa Karim,2024-12-06,2025-01-09,2025-01-02,Filled,1,19,4,2,2,1,Bdjobs.com,27,9512,4.5
+REQ-0089,Production,Narayanganj Production Plant,Production Operator,Worker,Abdul Karim,2025-02-22,2025-04-09,2025-04-02,Filled,1,51,7,3,1,1,Facebook Jobs,39,25205,4
+REQ-0090,Sales & Marketing,Dhaka Corporate Office,Sales Executive,Executive,Tanvir Ahmed,2024-11-30,2025-01-24,2025-01-17,Filled,1,50,9,4,2,1,University Career Centre,48,14751,4.1
+REQ-0091,Production,Gazipur Manufacturing Unit,Plant Operations Manager,Manager,Abdul Karim,2025-08-19,2025-10-23,2025-10-16,Filled,1,44,7,3,1,1,LinkedIn,58,21184,4.5
+REQ-0092,Supply Chain & Logistics,Narayanganj Production Plant,Planning Executive,Executive,Rezaul Karim,2025-05-19,2025-07-28,2025-07-21,Filled,1,58,7,4,2,1,Bdjobs.com,63,27560,4.3
+REQ-0093,Engineering & Maintenance,Narayanganj Production Plant,Technical Assistant,Junior Staff,Md. Moniruzzaman,2025-12-12,2026-01-26,,On Hold,2,55,12,6,0,0,Recruitment Agency,,2717,4
+REQ-0094,Finance & Accounts,Chattogram Distribution Hub,Chief Financial Officer,Head,Shafiqur Rahman,2025-11-28,2026-01-24,,Open,3,48,10,4,0,0,Facebook Jobs,,8988,4.7
+REQ-0095,Sales & Marketing,Chattogram Distribution Hub,Sales Support Assistant,Worker,Farzana Rahman,2025-11-02,2025-12-15,,Open,1,18,3,1,1,0,Employee Referral,,14039,4.3
+REQ-0096,Corporate Strategy,Gazipur Manufacturing Unit,Project Management Executive,Executive,Anika Tasnim,2025-12-13,2026-02-10,,Open,3,33,3,1,0,0,LinkedIn,,6320,3.8
+REQ-0097,Production,Gazipur Manufacturing Unit,Senior Production Officer,Senior Officer,Abdul Karim,2025-11-07,2025-12-16,,On Hold,2,25,3,2,0,0,Employee Referral,,12983,3.6
+REQ-0098,HR & Administration,Dhaka Corporate Office,Admin Officer,Officer,Nusrat Jahan,2025-11-26,2026-01-26,,On Hold,2,17,2,0,0,0,Bdjobs.com,,14491,3.5
+REQ-0099,Finance & Accounts,Dhaka Corporate Office,Accounts Officer,Officer,Shafiqur Rahman,2025-12-18,2026-02-05,,Open,3,30,5,3,0,0,Bdjobs.com,,8136,4
+REQ-0100,Supply Chain & Logistics,Chattogram Distribution Hub,Warehouse Assistant,Worker,Rezaul Karim,2025-11-24,2026-01-04,,Open,4,41,8,3,0,0,LinkedIn,,12851,4.6
+REQ-0101,Engineering & Maintenance,Rajshahi Regional Office,Maintenance Manager,Manager,Rakibul Hasan,2025-11-08,2025-12-18,,On Hold,2,10,2,0,0,0,Employee Referral,,11013,4.1
+REQ-0102,Customer Service,Gazipur Manufacturing Unit,Customer Service Representative,Junior Staff,Rashedul Islam,2025-11-25,2026-01-23,,Open,4,23,2,1,0,0,Bdjobs.com,,5028,4.4
+REQ-0103,Production,Gazipur Manufacturing Unit,Senior Manager - Production,Senior Manager,Abdul Karim,2025-10-19,2025-12-15,,Open,4,60,8,2,0,0,Facebook Jobs,,10867,3.9
+REQ-0104,Production,Gazipur Manufacturing Unit,Planning Executive,Executive,Md. Shahidul Islam,2025-11-08,2025-12-27,,Open,2,28,5,2,0,0,Facebook Jobs,,8848,4
+REQ-0105,Customer Service,Chattogram Distribution Hub,Customer Service Officer,Officer,Jannatul Ferdous,2025-11-06,2026-01-08,,Open,3,25,3,1,1,0,LinkedIn,,6687,3.6
+REQ-0106,Sales & Marketing,Dhaka Corporate Office,Sales Executive,Executive,Tanvir Ahmed,2025-11-11,2026-01-09,,Open,1,26,4,1,0,0,Bdjobs.com,,11829,4.3
+REQ-0107,Engineering & Maintenance,Gazipur Manufacturing Unit,Maintenance Executive,Executive,Rakibul Hasan,2025-12-20,2026-02-18,,Open,4,8,1,0,1,0,Employee Referral,,7408,3.9
+REQ-0108,Production,Gazipur Manufacturing Unit,Line Coordinator,Junior Staff,Abdul Karim,2025-10-16,2025-11-21,,On Hold,2,21,3,1,0,0,Employee Referral,,9338,3.5
+REQ-0109,Production,Narayanganj Production Plant,Production Manager,Manager,Abdul Karim,2025-10-09,2025-11-16,,Open,4,55,5,3,0,0,Employee Referral,,8064,3.2
+REQ-0110,Finance & Accounts,Dhaka Corporate Office,Finance Officer,Officer,Sadia Islam,2025-11-12,2025-12-22,,Open,2,47,5,2,1,0,Bdjobs.com,,4177,3.8

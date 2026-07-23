@@ -1,0 +1,450 @@
+layer,file_name,column_name,inferred_type,nonblank_count,blank_count,distinct_count,minimum_value,maximum_value,sample_values
+source_csv,01_Employee_Master_FY2025.csv,Employee ID,text,456,0,456,MG-CTG-CST-0229,MG-RAJ-SCL-0279,MG-DHK-HRA-0001 | MG-DHK-SCL-0003 | MG-GZP-PRD-0006
+source_csv,01_Employee_Master_FY2025.csv,Employee Name,text,456,0,383,Afroza Akter,Zahid Rashid,Priyanka Kabir | Riyad Akter | Jahid Chowdhury
+source_csv,01_Employee_Master_FY2025.csv,Gender,text,456,0,3,Female,Not Disclosed,Female | Male | Not Disclosed
+source_csv,01_Employee_Master_FY2025.csv,Age,number,456,0,35,20.0,55.0,43 | 26 | 22
+source_csv,01_Employee_Master_FY2025.csv,Age Band,text,456,0,4,25-34,Under 25,35-44 | 25-34 | Under 25
+source_csv,01_Employee_Master_FY2025.csv,Division of Origin,text,456,0,8,Barishal,Sylhet,Rangpur | Chattogram | Dhaka
+source_csv,01_Employee_Master_FY2025.csv,Disability Status,boolean,456,0,2,No,Yes,No | Yes
+source_csv,01_Employee_Master_FY2025.csv,Education,text,456,0,7,Bachelor,Trade Certificate,Bachelor | HSC | Master
+source_csv,01_Employee_Master_FY2025.csv,Department,text,456,0,12,Corporate Strategy,Supply Chain & Logistics,HR & Administration | Supply Chain & Logistics | Production
+source_csv,01_Employee_Master_FY2025.csv,Cost Center,text,456,0,12,CC-101,CC-112,CC-105 | CC-103 | CC-101
+source_csv,01_Employee_Master_FY2025.csv,Job Title,text,456,0,122,Accounts Assistant,Warehouse Supervisor,Senior Manager - HR | Store Assistant | Line Coordinator
+source_csv,01_Employee_Master_FY2025.csv,Job Level,text,456,0,8,Executive,Worker,Senior Manager | Junior Staff | Worker
+source_csv,01_Employee_Master_FY2025.csv,Employment Type,text,456,0,4,Contract,Probation,Permanent | Probation | Contract
+source_csv,01_Employee_Master_FY2025.csv,Location,text,456,0,5,Chattogram Distribution Hub,Rajshahi Regional Office,Dhaka Corporate Office | Gazipur Manufacturing Unit | Rajshahi Regional Office
+source_csv,01_Employee_Master_FY2025.csv,Join Date,date,456,0,417,2015-08-01,2025-12-31,2022-01-04 | 2022-01-17 | 2020-03-13
+source_csv,01_Employee_Master_FY2025.csv,Tenure (Years),number,456,0,339,0.0,10.42,3.99 | 3.95 | 5.8
+source_csv,01_Employee_Master_FY2025.csv,Manager,text,456,0,24,Abdul Karim,Tanvir Ahmed,Nusrat Jahan | Mahmudul Hasan | Abdul Karim
+source_csv,01_Employee_Master_FY2025.csv,Monthly Gross,number,456,0,201,19500.0,429000.0,243500 | 41000 | 43000
+source_csv,02_Monthly_HR_KPI_FY2025.csv,Month,date,12,0,12,2025-01-01,2025-12-01,2025-01-01 | 2025-02-01 | 2025-03-01
+source_csv,02_Monthly_HR_KPI_FY2025.csv,Opening Headcount,number,12,0,10,421.0,453.0,421 | 424 | 429
+source_csv,02_Monthly_HR_KPI_FY2025.csv,Hires,number,12,0,8,4.0,12.0,9 | 10 | 5
+source_csv,02_Monthly_HR_KPI_FY2025.csv,Exits,number,12,0,5,1.0,7.0,5 | 6 | 1
+source_csv,02_Monthly_HR_KPI_FY2025.csv,Closing Headcount,number,12,0,11,424.0,456.0,424 | 429 | 428
+source_csv,02_Monthly_HR_KPI_FY2025.csv,Average Headcount,number,12,0,11,422.5,453.5,422.5 | 426.5 | 428.5
+source_csv,02_Monthly_HR_KPI_FY2025.csv,Turnover Rate,number,12,0,12,0.0023015,0.015625,0.01183432 | 0.01172333 | 0.01400233
+source_csv,02_Monthly_HR_KPI_FY2025.csv,Approved Absence Days,number,12,0,12,211.0,679.0,295 | 336 | 219
+source_csv,02_Monthly_HR_KPI_FY2025.csv,Absence Rate,number,12,0,12,0.02222109,0.06589674,0.0303576 | 0.03939039 | 0.02222109
+source_csv,02_Monthly_HR_KPI_FY2025.csv,Overtime Hours,number,12,0,12,2509.0,4693.0,2509 | 3392 | 3729
+source_csv,02_Monthly_HR_KPI_FY2025.csv,Training Hours,number,12,0,12,0.0,1464.0,362 | 354 | 1052
+source_csv,02_Monthly_HR_KPI_FY2025.csv,Payroll Cost (BDT),number,12,0,12,30870500.0,32557000.0,30870500 | 31377500 | 31217000
+source_csv,02_Monthly_HR_KPI_FY2025.csv,Open Vacancies,number,12,0,4,0.0,48.0,0 | 10 | 36
+source_csv,02_Monthly_HR_KPI_FY2025.csv,Average Time to Fill (Days),number,12,0,12,29.2,44.2,29.2 | 44.2 | 40.9
+source_csv,02_Monthly_HR_KPI_FY2025.csv,Engagement Pulse (1-5),number,12,0,11,3.85,4.15,3.85 | 4.04 | 4.09
+source_csv,03_Department_Annual_Summary_FY2025.csv,Department,text,12,0,12,Corporate Strategy,Supply Chain & Logistics,Production | Sales & Marketing | Supply Chain & Logistics
+source_csv,03_Department_Annual_Summary_FY2025.csv,Opening Headcount,number,12,0,11,6.0,107.0,107 | 76 | 41
+source_csv,03_Department_Annual_Summary_FY2025.csv,Hires,number,12,0,10,1.0,29.0,29 | 17 | 12
+source_csv,03_Department_Annual_Summary_FY2025.csv,Exits,number,12,0,7,1.0,20.0,20 | 10 | 4
+source_csv,03_Department_Annual_Summary_FY2025.csv,Closing Headcount,number,12,0,12,7.0,115.0,115 | 83 | 49
+source_csv,03_Department_Annual_Summary_FY2025.csv,Average Headcount,number,12,0,11,6.5,111.0,111 | 79.5 | 45
+source_csv,03_Department_Annual_Summary_FY2025.csv,Turnover Rate,number,12,0,12,0.04166667,0.30769231,0.18018018 | 0.12578616 | 0.08888889
+source_csv,03_Department_Annual_Summary_FY2025.csv,Approved Absence Days,number,12,0,12,41.0,1081.0,1081 | 583 | 397
+source_csv,03_Department_Annual_Summary_FY2025.csv,Training Hours,number,12,0,12,187.0,1993.0,1993 | 1389 | 718
+source_csv,03_Department_Annual_Summary_FY2025.csv,Average Performance Score,number,12,0,11,81.3,89.0,88.3 | 86.8 | 87.4
+source_csv,04_Quarterly_Board_KPI_FY2025.csv,Quarter,text,4,0,4,Q1,Q4,Q1 | Q2 | Q3
+source_csv,04_Quarterly_Board_KPI_FY2025.csv,Closing Headcount,number,4,0,4,428.0,456.0,428 | 437 | 453
+source_csv,04_Quarterly_Board_KPI_FY2025.csv,Hires,number,4,0,4,21.0,29.0,24 | 21 | 29
+source_csv,04_Quarterly_Board_KPI_FY2025.csv,Exits,number,4,0,4,12.0,19.0,16 | 12 | 13
+source_csv,04_Quarterly_Board_KPI_FY2025.csv,Turnover Rate,number,4,0,4,0.02766039,0.04197349,0.03757339 | 0.02766039 | 0.02907193
+source_csv,04_Quarterly_Board_KPI_FY2025.csv,Payroll Cost (BDT),number,4,0,4,93465000.0,97311500.0,93465000 | 94520500 | 97311500
+source_csv,04_Quarterly_Board_KPI_FY2025.csv,Absence Rate,number,4,0,4,0.02308501,0.04147739,0.03065636 | 0.03622972 | 0.04147739
+source_csv,04_Quarterly_Board_KPI_FY2025.csv,Training Hours,number,4,0,4,561.0,3138.0,1768 | 2160 | 3138
+source_csv,04_Quarterly_Board_KPI_FY2025.csv,Female Representation,number,4,0,4,0.26086957,0.26869159,0.26869159 | 0.26086957 | 0.26490066
+source_csv,04_Quarterly_Board_KPI_FY2025.csv,Engagement Pulse,number,4,0,4,3.98,4.09,3.99 | 4.09 | 4.03
+source_csv,04_Quarterly_Board_KPI_FY2025.csv,Open Vacancies,number,4,0,2,0.0,48.0,0 | 48
+source_csv,05_Recruitment_Master_FY2025.csv,Requisition ID,text,110,0,110,REQ-0001,REQ-0110,REQ-0001 | REQ-0002 | REQ-0003
+source_csv,05_Recruitment_Master_FY2025.csv,Department,text,110,0,12,Corporate Strategy,Supply Chain & Logistics,HR & Administration | Production | Supply Chain & Logistics
+source_csv,05_Recruitment_Master_FY2025.csv,Location,text,110,0,5,Chattogram Distribution Hub,Rajshahi Regional Office,Gazipur Manufacturing Unit | Narayanganj Production Plant | Chattogram Distribution Hub
+source_csv,05_Recruitment_Master_FY2025.csv,Job Title,text,110,0,67,Accounts Assistant,Warehouse Assistant,HR Executive | Production Manager | Store Assistant
+source_csv,05_Recruitment_Master_FY2025.csv,Job Level,text,110,0,8,Executive,Worker,Executive | Manager | Junior Staff
+source_csv,05_Recruitment_Master_FY2025.csv,Hiring Manager,text,110,0,22,Abdul Karim,Tanvir Ahmed,Md. Imran Hossain | Md. Shahidul Islam | Rezaul Karim
+source_csv,05_Recruitment_Master_FY2025.csv,Posted Date,date,110,0,100,2024-11-26,2025-12-20,2025-03-08 | 2025-10-21 | 2025-11-30
+source_csv,05_Recruitment_Master_FY2025.csv,Target Close Date,date,110,0,94,2025-01-03,2026-02-18,2025-04-08 | 2025-12-18 | 2025-12-22
+source_csv,05_Recruitment_Master_FY2025.csv,Actual Close Date,date,92,18,82,2024-12-27,2025-12-25,2025-04-01 | 2025-12-11 | 2025-12-15
+source_csv,05_Recruitment_Master_FY2025.csv,Status,text,110,0,3,Filled,Open,Filled | On Hold | Open
+source_csv,05_Recruitment_Master_FY2025.csv,Planned Vacancies,number,110,0,4,1.0,4.0,1 | 2 | 3
+source_csv,05_Recruitment_Master_FY2025.csv,Applications,number,110,0,45,8.0,120.0,48 | 52 | 46
+source_csv,05_Recruitment_Master_FY2025.csv,Shortlisted,number,110,0,17,1.0,21.0,11 | 6 | 10
+source_csv,05_Recruitment_Master_FY2025.csv,Interviewed,number,110,0,11,0.0,13.0,5 | 4 | 2
+source_csv,05_Recruitment_Master_FY2025.csv,Offers,number,110,0,5,0.0,4.0,1 | 2 | 4
+source_csv,05_Recruitment_Master_FY2025.csv,Hires,number,110,0,3,0.0,2.0,1 | 2 | 0
+source_csv,05_Recruitment_Master_FY2025.csv,Primary Source,text,110,0,7,Bdjobs.com,Walk-in,Bdjobs.com | LinkedIn | Facebook Jobs
+source_csv,05_Recruitment_Master_FY2025.csv,Time to Fill (Days),number,92,18,41,13.0,67.0,24 | 51 | 15
+source_csv,05_Recruitment_Master_FY2025.csv,Recruitment Cost (BDT),number,110,0,110,2717.0,45546.0,20948 | 22975 | 23471
+source_csv,05_Recruitment_Master_FY2025.csv,Candidate Experience Score,number,110,0,17,3.2,5.0,4 | 4.5 | 4.2
+source_csv,06_Employee_Separations_FY2025.csv,Employee ID,text,60,0,60,MG-CTG-ENG-0155,MG-RAJ-SAM-0108,MG-RAJ-SAM-0002 | MG-DHK-LGL-0004 | MG-CTG-SCL-0005
+source_csv,06_Employee_Separations_FY2025.csv,Employee Name,text,60,0,59,Anika Bhuiyan,Tareq Mahmud,Rakib Haque | Sadia Chowdhury | Tareq Jahan
+source_csv,06_Employee_Separations_FY2025.csv,Gender,text,60,0,2,Female,Male,Male | Female
+source_csv,06_Employee_Separations_FY2025.csv,Department,text,60,0,12,Corporate Strategy,Supply Chain & Logistics,Sales & Marketing | Legal & Compliance | Supply Chain & Logistics
+source_csv,06_Employee_Separations_FY2025.csv,Job Title,text,60,0,46,Accounts Manager,Utilities Officer,Territory Sales Officer | Senior Manager - Legal | Planning Executive
+source_csv,06_Employee_Separations_FY2025.csv,Job Level,text,60,0,8,Executive,Worker,Officer | Senior Manager | Executive
+source_csv,06_Employee_Separations_FY2025.csv,Location,text,60,0,5,Chattogram Distribution Hub,Rajshahi Regional Office,Rajshahi Regional Office | Dhaka Corporate Office | Chattogram Distribution Hub
+source_csv,06_Employee_Separations_FY2025.csv,Join Date,date,60,0,60,2016-01-24,2025-11-28,2018-03-24 | 2022-03-24 | 2017-01-31
+source_csv,06_Employee_Separations_FY2025.csv,Exit Date,date,60,0,60,2025-01-14,2025-12-28,2025-03-21 | 2025-11-15 | 2025-07-21
+source_csv,06_Employee_Separations_FY2025.csv,Tenure at Exit (Years),number,60,0,57,0.07,9.36,6.99 | 3.65 | 8.47
+source_csv,06_Employee_Separations_FY2025.csv,Exit Type,text,60,0,2,Involuntary,Voluntary,Involuntary | Voluntary
+source_csv,06_Employee_Separations_FY2025.csv,Exit Reason,text,60,0,10,Better Career Opportunity,Retirement,Retirement | End of Contract | Better Career Opportunity
+source_csv,06_Employee_Separations_FY2025.csv,Regrettable Exit,boolean,60,0,2,No,Yes,No | Yes
+source_csv,06_Employee_Separations_FY2025.csv,Manager,text,60,0,19,Abdul Karim,Tanvir Ahmed,Tanvir Ahmed | Barrister Nafisa Karim | Mahmudul Hasan
+source_csv,07_Leave_Transactions_FY2025.csv,Leave ID,text,1043,0,1043,LV-00001,LV-01043,LV-00001 | LV-00002 | LV-00003
+source_csv,07_Leave_Transactions_FY2025.csv,Employee ID,text,1043,0,468,MG-CTG-CST-0229,MG-RAJ-SCL-0279,MG-DHK-HRA-0001 | MG-RAJ-SAM-0002 | MG-DHK-SCL-0003
+source_csv,07_Leave_Transactions_FY2025.csv,Employee Name,text,1043,0,388,Afroza Akter,Zahid Rashid,Priyanka Kabir | Rakib Haque | Riyad Akter
+source_csv,07_Leave_Transactions_FY2025.csv,Department,text,1043,0,12,Corporate Strategy,Supply Chain & Logistics,HR & Administration | Sales & Marketing | Supply Chain & Logistics
+source_csv,07_Leave_Transactions_FY2025.csv,Location,text,1043,0,5,Chattogram Distribution Hub,Rajshahi Regional Office,Dhaka Corporate Office | Rajshahi Regional Office | Chattogram Distribution Hub
+source_csv,07_Leave_Transactions_FY2025.csv,Leave Type,text,1043,0,6,Annual Leave,Unpaid Leave,Annual Leave | Sick Leave | Casual Leave
+source_csv,07_Leave_Transactions_FY2025.csv,Start Date,date,1043,0,338,2025-01-01,2025-12-31,2025-11-28 | 2025-02-20 | 2025-03-13
+source_csv,07_Leave_Transactions_FY2025.csv,End Date,date,1043,0,346,2025-01-01,2025-12-31,2025-11-30 | 2025-02-21 | 2025-03-14
+source_csv,07_Leave_Transactions_FY2025.csv,Leave Days,number,1043,0,11,1.0,112.0,3 | 2 | 1
+source_csv,07_Leave_Transactions_FY2025.csv,Reason Category,text,1043,0,8,Extended Personal Matter,Urgent Personal Matter,Personal / Vacation | Fever / Flu | Urgent Personal Matter
+source_csv,07_Leave_Transactions_FY2025.csv,Approval Status,text,1043,0,3,Approved,Rejected,Approved | Pending | Rejected
+source_csv,07_Leave_Transactions_FY2025.csv,Approved By,text,1043,0,24,Abdul Karim,Tanvir Ahmed,Nusrat Jahan | Tanvir Ahmed | Mahmudul Hasan
+source_csv,08_Diversity_Inclusion_Master_FY2025.csv,Employee ID,text,456,0,456,MG-CTG-CST-0229,MG-RAJ-SCL-0279,MG-DHK-HRA-0001 | MG-DHK-SCL-0003 | MG-GZP-PRD-0006
+source_csv,08_Diversity_Inclusion_Master_FY2025.csv,Employee Name,text,456,0,383,Afroza Akter,Zahid Rashid,Priyanka Kabir | Riyad Akter | Jahid Chowdhury
+source_csv,08_Diversity_Inclusion_Master_FY2025.csv,Gender,text,456,0,3,Female,Not Disclosed,Female | Male | Not Disclosed
+source_csv,08_Diversity_Inclusion_Master_FY2025.csv,Age,number,456,0,35,20.0,55.0,43 | 26 | 22
+source_csv,08_Diversity_Inclusion_Master_FY2025.csv,Age Band,text,456,0,4,25-34,Under 25,35-44 | 25-34 | Under 25
+source_csv,08_Diversity_Inclusion_Master_FY2025.csv,Division of Origin,text,456,0,8,Barishal,Sylhet,Rangpur | Chattogram | Dhaka
+source_csv,08_Diversity_Inclusion_Master_FY2025.csv,Disability Status,boolean,456,0,2,No,Yes,No | Yes
+source_csv,08_Diversity_Inclusion_Master_FY2025.csv,Education,text,456,0,7,Bachelor,Trade Certificate,Bachelor | HSC | Master
+source_csv,08_Diversity_Inclusion_Master_FY2025.csv,Department,text,456,0,12,Corporate Strategy,Supply Chain & Logistics,HR & Administration | Supply Chain & Logistics | Production
+source_csv,08_Diversity_Inclusion_Master_FY2025.csv,Job Title,text,456,0,122,Accounts Assistant,Warehouse Supervisor,Senior Manager - HR | Store Assistant | Line Coordinator
+source_csv,08_Diversity_Inclusion_Master_FY2025.csv,Job Level,text,456,0,8,Executive,Worker,Senior Manager | Junior Staff | Worker
+source_csv,08_Diversity_Inclusion_Master_FY2025.csv,Employment Type,text,456,0,4,Contract,Probation,Permanent | Probation | Contract
+source_csv,08_Diversity_Inclusion_Master_FY2025.csv,Location,text,456,0,5,Chattogram Distribution Hub,Rajshahi Regional Office,Dhaka Corporate Office | Gazipur Manufacturing Unit | Rajshahi Regional Office
+source_csv,09_Training_Development_Master_FY2025.csv,Program ID,text,1011,0,34,TRN-001,TRN-034,TRN-001 | TRN-002 | TRN-003
+source_csv,09_Training_Development_Master_FY2025.csv,Program Name,text,1011,0,28,Advanced Excel for Business,Women in Leadership Forum,Induction & Workplace Essentials | Bangladesh Labour Law Basics | Fire Safety & Evacuation
+source_csv,09_Training_Development_Master_FY2025.csv,Category,text,1011,0,13,Compliance,Technical,Onboarding | Compliance | Health & Safety
+source_csv,09_Training_Development_Master_FY2025.csv,Training Date,date,1011,0,30,2025-01-03,2025-12-17,2025-04-22 | 2025-02-03 | 2025-07-18
+source_csv,09_Training_Development_Master_FY2025.csv,Employee ID,text,1011,0,420,MG-CTG-CST-0229,MG-RAJ-SCL-0248,MG-GZP-HRA-0154 | MG-GZP-PRD-0137 | MG-NGJ-PRD-0043
+source_csv,09_Training_Development_Master_FY2025.csv,Employee Name,text,1011,0,355,Afroza Akter,Zahid Rashid,Maliha Islam | Rifat Rashid | Ayesha Kabir
+source_csv,09_Training_Development_Master_FY2025.csv,Department,text,1011,0,12,Corporate Strategy,Supply Chain & Logistics,HR & Administration | Production | Information Technology
+source_csv,09_Training_Development_Master_FY2025.csv,Job Level,text,1011,0,8,Executive,Worker,Officer | Junior Staff | Worker
+source_csv,09_Training_Development_Master_FY2025.csv,Mode,text,1011,0,3,Blended,Virtual,In-person | Blended | Virtual
+source_csv,09_Training_Development_Master_FY2025.csv,Provider,text,1011,0,21,Bangladesh Fire Service Trainer,Technology Partner,Internal HR | External Consultant | Bangladesh Fire Service Trainer
+source_csv,09_Training_Development_Master_FY2025.csv,Venue,text,1011,0,6,Chattogram Distribution Hub,Rajshahi Regional Office,Dhaka Corporate Office | Chattogram Distribution Hub | Narayanganj Production Plant
+source_csv,09_Training_Development_Master_FY2025.csv,Hours,number,1011,0,6,3.0,16.0,8 | 6 | 4
+source_csv,09_Training_Development_Master_FY2025.csv,Completion Status,text,1011,0,2,Completed,Not Completed,Not Completed | Completed
+source_csv,09_Training_Development_Master_FY2025.csv,Pre-Assessment Score,number,1011,0,51,35.0,85.0,57 | 50 | 70
+source_csv,09_Training_Development_Master_FY2025.csv,Post-Assessment Score,number,1011,0,55,42.0,98.0,57 | 65 | 92
+source_csv,09_Training_Development_Master_FY2025.csv,Feedback Rating,number,1011,0,22,2.8,5.0,4.3 | 4.4 | 4.1
+source_csv,09_Training_Development_Master_FY2025.csv,Cost (BDT),number,1011,0,810,350.0,2600.0,1320 | 2501 | 429
+source_csv,09_Training_Development_Master_FY2025.csv,Mandatory,boolean,1011,0,2,No,Yes,Yes | No
+source_csv,10_Compensation_Benefits_Master_FY2025.csv,Employee ID,text,456,0,456,MG-CTG-CST-0229,MG-RAJ-SCL-0279,MG-DHK-HRA-0001 | MG-DHK-SCL-0003 | MG-GZP-PRD-0006
+source_csv,10_Compensation_Benefits_Master_FY2025.csv,Employee Name,text,456,0,383,Afroza Akter,Zahid Rashid,Priyanka Kabir | Riyad Akter | Jahid Chowdhury
+source_csv,10_Compensation_Benefits_Master_FY2025.csv,Gender,text,456,0,3,Female,Not Disclosed,Female | Male | Not Disclosed
+source_csv,10_Compensation_Benefits_Master_FY2025.csv,Department,text,456,0,12,Corporate Strategy,Supply Chain & Logistics,HR & Administration | Supply Chain & Logistics | Production
+source_csv,10_Compensation_Benefits_Master_FY2025.csv,Location,text,456,0,5,Chattogram Distribution Hub,Rajshahi Regional Office,Dhaka Corporate Office | Gazipur Manufacturing Unit | Rajshahi Regional Office
+source_csv,10_Compensation_Benefits_Master_FY2025.csv,Job Title,text,456,0,122,Accounts Assistant,Warehouse Supervisor,Senior Manager - HR | Store Assistant | Line Coordinator
+source_csv,10_Compensation_Benefits_Master_FY2025.csv,Job Level,text,456,0,8,Executive,Worker,Senior Manager | Junior Staff | Worker
+source_csv,10_Compensation_Benefits_Master_FY2025.csv,Employment Type,text,456,0,4,Contract,Probation,Permanent | Probation | Contract
+source_csv,10_Compensation_Benefits_Master_FY2025.csv,Basic Salary,number,456,0,201,10700.0,236000.0,133900 | 22600 | 23700
+source_csv,10_Compensation_Benefits_Master_FY2025.csv,House Rent,number,456,0,201,5300.0,115800.0,65700 | 11100 | 11600
+source_csv,10_Compensation_Benefits_Master_FY2025.csv,Medical Allowance,number,456,0,116,1600.0,34300.0,19500 | 3300 | 3400
+source_csv,10_Compensation_Benefits_Master_FY2025.csv,Conveyance,number,456,0,3,1500.0,4000.0,4000 | 1500 | 2500
+source_csv,10_Compensation_Benefits_Master_FY2025.csv,Other Allowance,number,456,0,104,400.0,38900.0,20400 | 2500 | 2800
+source_csv,10_Compensation_Benefits_Master_FY2025.csv,Monthly Gross,number,456,0,201,19500.0,429000.0,243500 | 41000 | 43000
+source_csv,10_Compensation_Benefits_Master_FY2025.csv,Annual Bonus,number,456,0,260,20000.0,602000.0,243500 | 41000 | 43000
+source_csv,10_Compensation_Benefits_Master_FY2025.csv,Monthly Employer PF,number,456,0,91,0.0,23600.0,13400 | 2300 | 2400
+source_csv,10_Compensation_Benefits_Master_FY2025.csv,Annual Gratuity Provision,number,456,0,104,0.0,236000.0,0 | 23700 | 25600
+source_csv,10_Compensation_Benefits_Master_FY2025.csv,Annual Insurance Value,number,456,0,2,0.0,15000.0,15000 | 0
+source_csv,10_Compensation_Benefits_Master_FY2025.csv,Annual Total Reward,number,456,0,387,279500.0,6111200.0,3341300 | 575600 | 626500
+source_csv,10_Compensation_Benefits_Master_FY2025.csv,Compa-Ratio,number,456,0,238,0.70873786,1.46601942,1.13255814 | 1.12328767 | 1.17808219
+source_csv,11_Performance_Evaluation_Master_FY2025.csv,Employee ID,text,456,0,456,MG-CTG-CST-0229,MG-RAJ-SCL-0279,MG-DHK-HRA-0001 | MG-DHK-SCL-0003 | MG-GZP-PRD-0006
+source_csv,11_Performance_Evaluation_Master_FY2025.csv,Employee Name,text,456,0,383,Afroza Akter,Zahid Rashid,Priyanka Kabir | Riyad Akter | Jahid Chowdhury
+source_csv,11_Performance_Evaluation_Master_FY2025.csv,Department,text,456,0,12,Corporate Strategy,Supply Chain & Logistics,HR & Administration | Supply Chain & Logistics | Production
+source_csv,11_Performance_Evaluation_Master_FY2025.csv,Job Title,text,456,0,122,Accounts Assistant,Warehouse Supervisor,Senior Manager - HR | Store Assistant | Line Coordinator
+source_csv,11_Performance_Evaluation_Master_FY2025.csv,Job Level,text,456,0,8,Executive,Worker,Senior Manager | Junior Staff | Worker
+source_csv,11_Performance_Evaluation_Master_FY2025.csv,Manager,text,456,0,24,Abdul Karim,Tanvir Ahmed,Nusrat Jahan | Mahmudul Hasan | Abdul Karim
+source_csv,11_Performance_Evaluation_Master_FY2025.csv,Goal Completion (%),number,456,0,290,58.0,125.0,69.7 | 90.3 | 107.6
+source_csv,11_Performance_Evaluation_Master_FY2025.csv,Competency Score (1-5),number,456,0,183,2.57,5.0,4.3 | 3.95 | 3.68
+source_csv,11_Performance_Evaluation_Master_FY2025.csv,Attendance Score (%),number,456,0,144,79.5,100.0,89.6 | 100 | 92.6
+source_csv,11_Performance_Evaluation_Master_FY2025.csv,Overall Score,number,456,0,247,66.1,111.8,76.6 | 87.9 | 95.9
+source_csv,11_Performance_Evaluation_Master_FY2025.csv,Performance Rating,number,456,0,5,1.0,5.0,2 | 3 | 4
+source_csv,11_Performance_Evaluation_Master_FY2025.csv,Rating Label,text,456,0,5,Exceeds Expectations,Partially Meets,Partially Meets | Meets Expectations | Exceeds Expectations
+source_csv,11_Performance_Evaluation_Master_FY2025.csv,Potential,text,456,0,3,High,Medium,Medium | High | Low
+source_csv,11_Performance_Evaluation_Master_FY2025.csv,Promotion Readiness,text,456,0,3,Develop in Current Role,Ready in 1-2 Years,Develop in Current Role | Ready in 1-2 Years | Ready Now
+source_csv,11_Performance_Evaluation_Master_FY2025.csv,Calibration Status,text,456,0,2,Calibrated,Pending Review,Calibrated | Pending Review
+source_csv,11_Performance_Evaluation_Master_FY2025.csv,Primary Development Area,text,456,0,7,Commercial Acumen,Time Management,Communication | Leadership | Technical Capability
+source_csv,12_Health_Safety_Master_FY2025.csv,Incident ID,text,120,0,120,HSE-0001,HSE-0120,HSE-0001 | HSE-0002 | HSE-0003
+source_csv,12_Health_Safety_Master_FY2025.csv,Incident Date,date,120,0,95,2025-01-01,2025-12-22,2025-08-21 | 2025-01-19 | 2025-01-28
+source_csv,12_Health_Safety_Master_FY2025.csv,Location,text,120,0,5,Chattogram Distribution Hub,Rajshahi Regional Office,Narayanganj Production Plant | Gazipur Manufacturing Unit | Rajshahi Regional Office
+source_csv,12_Health_Safety_Master_FY2025.csv,Department,text,120,0,6,Engineering & Maintenance,Supply Chain & Logistics,Production | Quality Assurance | Supply Chain & Logistics
+source_csv,12_Health_Safety_Master_FY2025.csv,Incident Type,text,120,0,6,First Aid Case,Unsafe Condition,Unsafe Condition | Near Miss | Medical Treatment Case
+source_csv,12_Health_Safety_Master_FY2025.csv,Severity,text,120,0,3,High,Medium,Low | Medium | High
+source_csv,12_Health_Safety_Master_FY2025.csv,Lost Time Injury,boolean,120,0,2,No,Yes,No | Yes
+source_csv,12_Health_Safety_Master_FY2025.csv,Days Lost,number,120,0,10,0.0,16.0,0 | 4 | 3
+source_csv,12_Health_Safety_Master_FY2025.csv,Root Cause,text,120,0,8,Equipment Condition,Unsafe Act,Slip / Trip | Inadequate Guarding | Housekeeping
+source_csv,12_Health_Safety_Master_FY2025.csv,Corrective Action,text,120,0,7,5S housekeeping action,Toolbox talk and retraining,5S housekeeping action | PPE reinforcement | Supervisor coaching
+source_csv,12_Health_Safety_Master_FY2025.csv,Responsible Owner,text,120,0,12,Abdul Karim,Tanvir Ahmed,Md. Shahidul Islam | Abdul Karim | Dr. Samira Sultana
+source_csv,12_Health_Safety_Master_FY2025.csv,Target Close Date,date,120,0,98,2025-01-13,2026-01-09,2025-08-30 | 2025-02-14 | 2025-02-13
+source_csv,12_Health_Safety_Master_FY2025.csv,Status,text,120,0,2,Closed,In Progress,In Progress | Closed
+source_csv,13_Data_Dictionary_FY2025.csv,Master Sheet,text,180,0,12,Compensation Master,Training Master,Employee Master | Monthly HR KPI | Department Annual
+source_csv,13_Data_Dictionary_FY2025.csv,Field Name,text,180,0,109,Absence Rate,Venue,Employee ID | Employee Name | Gender
+source_csv,13_Data_Dictionary_FY2025.csv,Definition,text,180,0,113,Action assigned to reduce recurrence risk.,Workflow status of the leave request.,Unique synthetic employee identifier used consistently across the master datasets. | Fictional Bangladesh-based employee name generated for portfolio use. | Synthetic gender category used for workforce representation analysis.
+source_csv,13_Data_Dictionary_FY2025.csv,Data Type,text,180,0,5,Currency (BDT),Text,Text | Number | Currency (BDT)
+source_csv,13_Data_Dictionary_FY2025.csv,Source Workbook,text,180,0,12,01_Mokhles_Group_Headcount_Report_2025.xlsx,12_Mokhles_Group_Health_and_Safety_Report_2025.xlsx,01_Mokhles_Group_Headcount_Report_2025.xlsx | 02_Mokhles_Group_Monthly_HR_Report_2025.xlsx | 03_Mokhles_Group_Annual_HR_Report_2025.xlsx
+source_csv,13_Data_Dictionary_FY2025.csv,Original Sheet,text,180,0,12,Department Summary,Requisitions,Employee Snapshot | Monthly KPI Data | Department Summary
+bi_ready_csv,00_dim_date.csv,date_key,number,3855,0,3855,20150801.0,20260218.0,20150801 | 20150802 | 20150803
+bi_ready_csv,00_dim_date.csv,date,date,3855,0,3855,2015-08-01,2026-02-18,2015-08-01 | 2015-08-02 | 2015-08-03
+bi_ready_csv,00_dim_date.csv,year,number,3855,0,12,2015.0,2026.0,2015 | 2016 | 2017
+bi_ready_csv,00_dim_date.csv,quarter,text,3855,0,4,Q1,Q4,Q3 | Q4 | Q1
+bi_ready_csv,00_dim_date.csv,year_quarter,text,3855,0,43,2015-Q3,2026-Q1,2015-Q3 | 2015-Q4 | 2016-Q1
+bi_ready_csv,00_dim_date.csv,month_number,number,3855,0,12,1.0,12.0,8 | 9 | 10
+bi_ready_csv,00_dim_date.csv,month_name,text,3855,0,12,April,September,August | September | October
+bi_ready_csv,00_dim_date.csv,month_short,text,3855,0,12,Apr,Sep,Aug | Sep | Oct
+bi_ready_csv,00_dim_date.csv,year_month,text,3855,0,127,2015-08,2026-02,2015-08 | 2015-09 | 2015-10
+bi_ready_csv,00_dim_date.csv,month_start,date,3855,0,127,2015-08-01,2026-02-01,2015-08-01 | 2015-09-01 | 2015-10-01
+bi_ready_csv,00_dim_date.csv,week_of_year,number,3855,0,54,1.0,54.0,31 | 32 | 33
+bi_ready_csv,00_dim_date.csv,day_of_month,number,3855,0,31,1.0,31.0,1 | 2 | 3
+bi_ready_csv,00_dim_date.csv,day_name,text,3855,0,7,Friday,Wednesday,Saturday | Sunday | Monday
+bi_ready_csv,00_dim_date.csv,is_weekend,boolean,3855,0,2,No,Yes,Yes | No
+bi_ready_csv,00_dim_department.csv,department_key,text,12,0,12,corporate_strategy,supply_chain_and_logistics,corporate_strategy | customer_service | engineering_and_maintenance
+bi_ready_csv,00_dim_department.csv,department,text,12,0,12,Corporate Strategy,Supply Chain & Logistics,Corporate Strategy | Customer Service | Engineering & Maintenance
+bi_ready_csv,00_dim_department.csv,cost_center,text,12,0,12,CC-101,CC-112,CC-112 | CC-110 | CC-107
+bi_ready_csv,00_dim_location.csv,location_key,text,5,0,5,chattogram_distribution_hub,rajshahi_regional_office,chattogram_distribution_hub | dhaka_corporate_office | gazipur_manufacturing_unit
+bi_ready_csv,00_dim_location.csv,location,text,5,0,5,Chattogram Distribution Hub,Rajshahi Regional Office,Chattogram Distribution Hub | Dhaka Corporate Office | Gazipur Manufacturing Unit
+bi_ready_csv,01_dim_employee_fy2025.csv,employee_id,text,516,0,516,MG-CTG-CST-0229,MG-RAJ-SCL-0279,MG-CTG-CST-0229 | MG-CTG-CST-0318 | MG-CTG-CUS-0066
+bi_ready_csv,01_dim_employee_fy2025.csv,employee_name,text,516,0,423,Afroza Akter,Zahid Rashid,Afroza Islam | Raisa Ferdous | Nusrat Alam
+bi_ready_csv,01_dim_employee_fy2025.csv,gender,text,516,0,3,Female,Not Disclosed,Female | Male | Not Disclosed
+bi_ready_csv,01_dim_employee_fy2025.csv,age,number,456,60,35,20.0,55.0,36 | 41 | 44
+bi_ready_csv,01_dim_employee_fy2025.csv,age_band,text,456,60,4,25-34,Under 25,35-44 | Under 25 | 45+
+bi_ready_csv,01_dim_employee_fy2025.csv,division_of_origin,text,456,60,8,Barishal,Sylhet,Chattogram | Barishal | Sylhet
+bi_ready_csv,01_dim_employee_fy2025.csv,disability_status,boolean,456,60,2,No,Yes,No | Yes
+bi_ready_csv,01_dim_employee_fy2025.csv,education,text,456,60,7,Bachelor,Trade Certificate,Master | Bachelor | Trade Certificate
+bi_ready_csv,01_dim_employee_fy2025.csv,department,text,516,0,12,Corporate Strategy,Supply Chain & Logistics,Corporate Strategy | Customer Service | Engineering & Maintenance
+bi_ready_csv,01_dim_employee_fy2025.csv,department_key,text,516,0,12,corporate_strategy,supply_chain_and_logistics,corporate_strategy | customer_service | engineering_and_maintenance
+bi_ready_csv,01_dim_employee_fy2025.csv,cost_center,text,516,0,12,CC-101,CC-112,CC-112 | CC-110 | CC-107
+bi_ready_csv,01_dim_employee_fy2025.csv,job_title,text,516,0,126,Accounts Assistant,Warehouse Supervisor,Senior Strategy Officer | Service Quality Executive | Senior Manager - Engineering
+bi_ready_csv,01_dim_employee_fy2025.csv,job_level,text,516,0,8,Executive,Worker,Senior Officer | Executive | Senior Manager
+bi_ready_csv,01_dim_employee_fy2025.csv,employment_type,text,456,60,4,Contract,Probation,Permanent | Contract | Probation
+bi_ready_csv,01_dim_employee_fy2025.csv,location,text,516,0,5,Chattogram Distribution Hub,Rajshahi Regional Office,Chattogram Distribution Hub | Dhaka Corporate Office | Gazipur Manufacturing Unit
+bi_ready_csv,01_dim_employee_fy2025.csv,location_key,text,516,0,5,chattogram_distribution_hub,rajshahi_regional_office,chattogram_distribution_hub | dhaka_corporate_office | gazipur_manufacturing_unit
+bi_ready_csv,01_dim_employee_fy2025.csv,join_date,date,516,0,468,2015-08-01,2025-12-31,2022-12-04 | 2021-07-05 | 2020-09-02
+bi_ready_csv,01_dim_employee_fy2025.csv,exit_date,date,60,456,60,2025-01-14,2025-12-28,2025-09-21 | 2025-06-15 | 2025-04-06
+bi_ready_csv,01_dim_employee_fy2025.csv,employment_status,text,516,0,2,Active at FY2025 year-end,Separated during FY2025,Active at FY2025 year-end | Separated during FY2025
+bi_ready_csv,01_dim_employee_fy2025.csv,manager,text,516,0,24,Abdul Karim,Tanvir Ahmed,Anika Tasnim | Jannatul Ferdous | Md. Moniruzzaman
+bi_ready_csv,01_dim_employee_fy2025.csv,monthly_gross_bdt,number,456,60,201,19500.0,429000.0,57000 | 74500 | 74000
+bi_ready_csv,02_fact_monthly_hr_kpi_fy2025.csv,month,date,12,0,12,2025-01-01,2025-12-01,2025-01-01 | 2025-02-01 | 2025-03-01
+bi_ready_csv,02_fact_monthly_hr_kpi_fy2025.csv,opening_headcount,number,12,0,10,421.0,453.0,421 | 424 | 429
+bi_ready_csv,02_fact_monthly_hr_kpi_fy2025.csv,hires,number,12,0,8,4.0,12.0,9 | 10 | 5
+bi_ready_csv,02_fact_monthly_hr_kpi_fy2025.csv,exits,number,12,0,5,1.0,7.0,5 | 6 | 1
+bi_ready_csv,02_fact_monthly_hr_kpi_fy2025.csv,closing_headcount,number,12,0,11,424.0,456.0,424 | 429 | 428
+bi_ready_csv,02_fact_monthly_hr_kpi_fy2025.csv,average_headcount,number,12,0,11,422.5,453.5,422.5 | 426.5 | 428.5
+bi_ready_csv,02_fact_monthly_hr_kpi_fy2025.csv,turnover_rate,number,12,0,12,0.0023015,0.015625,0.01183432 | 0.01172333 | 0.01400233
+bi_ready_csv,02_fact_monthly_hr_kpi_fy2025.csv,approved_absence_days,number,12,0,12,211.0,679.0,295 | 336 | 219
+bi_ready_csv,02_fact_monthly_hr_kpi_fy2025.csv,absence_rate,number,12,0,12,0.02222109,0.06589674,0.0303576 | 0.03939039 | 0.02222109
+bi_ready_csv,02_fact_monthly_hr_kpi_fy2025.csv,overtime_hours,number,12,0,12,2509.0,4693.0,2509 | 3392 | 3729
+bi_ready_csv,02_fact_monthly_hr_kpi_fy2025.csv,training_hours,number,12,0,12,0.0,1464.0,362 | 354 | 1052
+bi_ready_csv,02_fact_monthly_hr_kpi_fy2025.csv,payroll_cost_bdt,number,12,0,12,30870500.0,32557000.0,30870500 | 31377500 | 31217000
+bi_ready_csv,02_fact_monthly_hr_kpi_fy2025.csv,open_vacancies,number,12,0,4,0.0,48.0,0 | 10 | 36
+bi_ready_csv,02_fact_monthly_hr_kpi_fy2025.csv,average_time_to_fill_days,number,12,0,12,29.2,44.2,29.2 | 44.2 | 40.9
+bi_ready_csv,02_fact_monthly_hr_kpi_fy2025.csv,engagement_pulse_1_5,number,12,0,11,3.85,4.15,3.85 | 4.04 | 4.09
+bi_ready_csv,03_fact_department_annual_summary_fy2025.csv,department,text,12,0,12,Corporate Strategy,Supply Chain & Logistics,Production | Sales & Marketing | Supply Chain & Logistics
+bi_ready_csv,03_fact_department_annual_summary_fy2025.csv,opening_headcount,number,12,0,11,6.0,107.0,107 | 76 | 41
+bi_ready_csv,03_fact_department_annual_summary_fy2025.csv,hires,number,12,0,10,1.0,29.0,29 | 17 | 12
+bi_ready_csv,03_fact_department_annual_summary_fy2025.csv,exits,number,12,0,7,1.0,20.0,20 | 10 | 4
+bi_ready_csv,03_fact_department_annual_summary_fy2025.csv,closing_headcount,number,12,0,12,7.0,115.0,115 | 83 | 49
+bi_ready_csv,03_fact_department_annual_summary_fy2025.csv,average_headcount,number,12,0,11,6.5,111.0,111 | 79.5 | 45
+bi_ready_csv,03_fact_department_annual_summary_fy2025.csv,turnover_rate,number,12,0,12,0.04166667,0.30769231,0.18018018 | 0.12578616 | 0.08888889
+bi_ready_csv,03_fact_department_annual_summary_fy2025.csv,approved_absence_days,number,12,0,12,41.0,1081.0,1081 | 583 | 397
+bi_ready_csv,03_fact_department_annual_summary_fy2025.csv,training_hours,number,12,0,12,187.0,1993.0,1993 | 1389 | 718
+bi_ready_csv,03_fact_department_annual_summary_fy2025.csv,average_performance_score,number,12,0,11,81.3,89.0,88.3 | 86.8 | 87.4
+bi_ready_csv,04_fact_quarterly_board_kpi_fy2025.csv,quarter,text,4,0,4,Q1,Q4,Q1 | Q2 | Q3
+bi_ready_csv,04_fact_quarterly_board_kpi_fy2025.csv,closing_headcount,number,4,0,4,428.0,456.0,428 | 437 | 453
+bi_ready_csv,04_fact_quarterly_board_kpi_fy2025.csv,hires,number,4,0,4,21.0,29.0,24 | 21 | 29
+bi_ready_csv,04_fact_quarterly_board_kpi_fy2025.csv,exits,number,4,0,4,12.0,19.0,16 | 12 | 13
+bi_ready_csv,04_fact_quarterly_board_kpi_fy2025.csv,turnover_rate,number,4,0,4,0.02766039,0.04197349,0.03757339 | 0.02766039 | 0.02907193
+bi_ready_csv,04_fact_quarterly_board_kpi_fy2025.csv,payroll_cost_bdt,number,4,0,4,93465000.0,97311500.0,93465000 | 94520500 | 97311500
+bi_ready_csv,04_fact_quarterly_board_kpi_fy2025.csv,absence_rate,number,4,0,4,0.02308501,0.04147739,0.03065636 | 0.03622972 | 0.04147739
+bi_ready_csv,04_fact_quarterly_board_kpi_fy2025.csv,training_hours,number,4,0,4,561.0,3138.0,1768 | 2160 | 3138
+bi_ready_csv,04_fact_quarterly_board_kpi_fy2025.csv,female_representation,number,4,0,4,0.26086957,0.26869159,0.26869159 | 0.26086957 | 0.26490066
+bi_ready_csv,04_fact_quarterly_board_kpi_fy2025.csv,engagement_pulse,number,4,0,4,3.98,4.09,3.99 | 4.09 | 4.03
+bi_ready_csv,04_fact_quarterly_board_kpi_fy2025.csv,open_vacancies,number,4,0,2,0.0,48.0,0 | 48
+bi_ready_csv,05_fact_recruitment_fy2025.csv,requisition_id,text,110,0,110,REQ-0001,REQ-0110,REQ-0001 | REQ-0002 | REQ-0003
+bi_ready_csv,05_fact_recruitment_fy2025.csv,department,text,110,0,12,Corporate Strategy,Supply Chain & Logistics,HR & Administration | Production | Supply Chain & Logistics
+bi_ready_csv,05_fact_recruitment_fy2025.csv,location,text,110,0,5,Chattogram Distribution Hub,Rajshahi Regional Office,Gazipur Manufacturing Unit | Narayanganj Production Plant | Chattogram Distribution Hub
+bi_ready_csv,05_fact_recruitment_fy2025.csv,job_title,text,110,0,67,Accounts Assistant,Warehouse Assistant,HR Executive | Production Manager | Store Assistant
+bi_ready_csv,05_fact_recruitment_fy2025.csv,job_level,text,110,0,8,Executive,Worker,Executive | Manager | Junior Staff
+bi_ready_csv,05_fact_recruitment_fy2025.csv,hiring_manager,text,110,0,22,Abdul Karim,Tanvir Ahmed,Md. Imran Hossain | Md. Shahidul Islam | Rezaul Karim
+bi_ready_csv,05_fact_recruitment_fy2025.csv,posted_date,date,110,0,100,2024-11-26,2025-12-20,2025-03-08 | 2025-10-21 | 2025-11-30
+bi_ready_csv,05_fact_recruitment_fy2025.csv,target_close_date,date,110,0,94,2025-01-03,2026-02-18,2025-04-08 | 2025-12-18 | 2025-12-22
+bi_ready_csv,05_fact_recruitment_fy2025.csv,actual_close_date,date,92,18,82,2024-12-27,2025-12-25,2025-04-01 | 2025-12-11 | 2025-12-15
+bi_ready_csv,05_fact_recruitment_fy2025.csv,status,text,110,0,3,Filled,Open,Filled | On Hold | Open
+bi_ready_csv,05_fact_recruitment_fy2025.csv,planned_vacancies,number,110,0,4,1.0,4.0,1 | 2 | 3
+bi_ready_csv,05_fact_recruitment_fy2025.csv,applications,number,110,0,45,8.0,120.0,48 | 52 | 46
+bi_ready_csv,05_fact_recruitment_fy2025.csv,shortlisted,number,110,0,17,1.0,21.0,11 | 6 | 10
+bi_ready_csv,05_fact_recruitment_fy2025.csv,interviewed,number,110,0,11,0.0,13.0,5 | 4 | 2
+bi_ready_csv,05_fact_recruitment_fy2025.csv,offers,number,110,0,5,0.0,4.0,1 | 2 | 4
+bi_ready_csv,05_fact_recruitment_fy2025.csv,hires,number,110,0,3,0.0,2.0,1 | 2 | 0
+bi_ready_csv,05_fact_recruitment_fy2025.csv,primary_source,text,110,0,7,Bdjobs.com,Walk-in,Bdjobs.com | LinkedIn | Facebook Jobs
+bi_ready_csv,05_fact_recruitment_fy2025.csv,time_to_fill_days,number,92,18,41,13.0,67.0,24 | 51 | 15
+bi_ready_csv,05_fact_recruitment_fy2025.csv,recruitment_cost_bdt,number,110,0,110,2717.0,45546.0,20948 | 22975 | 23471
+bi_ready_csv,05_fact_recruitment_fy2025.csv,candidate_experience_score,number,110,0,17,3.2,5.0,4 | 4.5 | 4.2
+bi_ready_csv,06_fact_employee_separations_fy2025.csv,employee_id,text,60,0,60,MG-CTG-ENG-0155,MG-RAJ-SAM-0108,MG-RAJ-SAM-0002 | MG-DHK-LGL-0004 | MG-CTG-SCL-0005
+bi_ready_csv,06_fact_employee_separations_fy2025.csv,employee_name,text,60,0,59,Anika Bhuiyan,Tareq Mahmud,Rakib Haque | Sadia Chowdhury | Tareq Jahan
+bi_ready_csv,06_fact_employee_separations_fy2025.csv,gender,text,60,0,2,Female,Male,Male | Female
+bi_ready_csv,06_fact_employee_separations_fy2025.csv,department,text,60,0,12,Corporate Strategy,Supply Chain & Logistics,Sales & Marketing | Legal & Compliance | Supply Chain & Logistics
+bi_ready_csv,06_fact_employee_separations_fy2025.csv,job_title,text,60,0,46,Accounts Manager,Utilities Officer,Territory Sales Officer | Senior Manager - Legal | Planning Executive
+bi_ready_csv,06_fact_employee_separations_fy2025.csv,job_level,text,60,0,8,Executive,Worker,Officer | Senior Manager | Executive
+bi_ready_csv,06_fact_employee_separations_fy2025.csv,location,text,60,0,5,Chattogram Distribution Hub,Rajshahi Regional Office,Rajshahi Regional Office | Dhaka Corporate Office | Chattogram Distribution Hub
+bi_ready_csv,06_fact_employee_separations_fy2025.csv,join_date,date,60,0,60,2016-01-24,2025-11-28,2018-03-24 | 2022-03-24 | 2017-01-31
+bi_ready_csv,06_fact_employee_separations_fy2025.csv,exit_date,date,60,0,60,2025-01-14,2025-12-28,2025-03-21 | 2025-11-15 | 2025-07-21
+bi_ready_csv,06_fact_employee_separations_fy2025.csv,tenure_at_exit_years,number,60,0,57,0.07,9.36,6.99 | 3.65 | 8.47
+bi_ready_csv,06_fact_employee_separations_fy2025.csv,exit_type,text,60,0,2,Involuntary,Voluntary,Involuntary | Voluntary
+bi_ready_csv,06_fact_employee_separations_fy2025.csv,exit_reason,text,60,0,10,Better Career Opportunity,Retirement,Retirement | End of Contract | Better Career Opportunity
+bi_ready_csv,06_fact_employee_separations_fy2025.csv,regrettable_exit,boolean,60,0,2,No,Yes,No | Yes
+bi_ready_csv,06_fact_employee_separations_fy2025.csv,manager,text,60,0,19,Abdul Karim,Tanvir Ahmed,Tanvir Ahmed | Barrister Nafisa Karim | Mahmudul Hasan
+bi_ready_csv,07_fact_leave_transactions_fy2025.csv,leave_id,text,1043,0,1043,LV-00001,LV-01043,LV-00001 | LV-00002 | LV-00003
+bi_ready_csv,07_fact_leave_transactions_fy2025.csv,employee_id,text,1043,0,468,MG-CTG-CST-0229,MG-RAJ-SCL-0279,MG-DHK-HRA-0001 | MG-RAJ-SAM-0002 | MG-DHK-SCL-0003
+bi_ready_csv,07_fact_leave_transactions_fy2025.csv,employee_name,text,1043,0,388,Afroza Akter,Zahid Rashid,Priyanka Kabir | Rakib Haque | Riyad Akter
+bi_ready_csv,07_fact_leave_transactions_fy2025.csv,department,text,1043,0,12,Corporate Strategy,Supply Chain & Logistics,HR & Administration | Sales & Marketing | Supply Chain & Logistics
+bi_ready_csv,07_fact_leave_transactions_fy2025.csv,location,text,1043,0,5,Chattogram Distribution Hub,Rajshahi Regional Office,Dhaka Corporate Office | Rajshahi Regional Office | Chattogram Distribution Hub
+bi_ready_csv,07_fact_leave_transactions_fy2025.csv,leave_type,text,1043,0,6,Annual Leave,Unpaid Leave,Annual Leave | Sick Leave | Casual Leave
+bi_ready_csv,07_fact_leave_transactions_fy2025.csv,start_date,date,1043,0,338,2025-01-01,2025-12-31,2025-11-28 | 2025-02-20 | 2025-03-13
+bi_ready_csv,07_fact_leave_transactions_fy2025.csv,end_date,date,1043,0,346,2025-01-01,2025-12-31,2025-11-30 | 2025-02-21 | 2025-03-14
+bi_ready_csv,07_fact_leave_transactions_fy2025.csv,leave_days,number,1043,0,11,1.0,112.0,3 | 2 | 1
+bi_ready_csv,07_fact_leave_transactions_fy2025.csv,reason_category,text,1043,0,8,Extended Personal Matter,Urgent Personal Matter,Personal / Vacation | Fever / Flu | Urgent Personal Matter
+bi_ready_csv,07_fact_leave_transactions_fy2025.csv,approval_status,text,1043,0,3,Approved,Rejected,Approved | Pending | Rejected
+bi_ready_csv,07_fact_leave_transactions_fy2025.csv,approved_by,text,1043,0,24,Abdul Karim,Tanvir Ahmed,Nusrat Jahan | Tanvir Ahmed | Mahmudul Hasan
+bi_ready_csv,08_dim_diversity_inclusion_fy2025.csv,employee_id,text,456,0,456,MG-CTG-CST-0229,MG-RAJ-SCL-0279,MG-DHK-HRA-0001 | MG-DHK-SCL-0003 | MG-GZP-PRD-0006
+bi_ready_csv,08_dim_diversity_inclusion_fy2025.csv,employee_name,text,456,0,383,Afroza Akter,Zahid Rashid,Priyanka Kabir | Riyad Akter | Jahid Chowdhury
+bi_ready_csv,08_dim_diversity_inclusion_fy2025.csv,gender,text,456,0,3,Female,Not Disclosed,Female | Male | Not Disclosed
+bi_ready_csv,08_dim_diversity_inclusion_fy2025.csv,age,number,456,0,35,20.0,55.0,43 | 26 | 22
+bi_ready_csv,08_dim_diversity_inclusion_fy2025.csv,age_band,text,456,0,4,25-34,Under 25,35-44 | 25-34 | Under 25
+bi_ready_csv,08_dim_diversity_inclusion_fy2025.csv,division_of_origin,text,456,0,8,Barishal,Sylhet,Rangpur | Chattogram | Dhaka
+bi_ready_csv,08_dim_diversity_inclusion_fy2025.csv,disability_status,boolean,456,0,2,No,Yes,No | Yes
+bi_ready_csv,08_dim_diversity_inclusion_fy2025.csv,education,text,456,0,7,Bachelor,Trade Certificate,Bachelor | HSC | Master
+bi_ready_csv,08_dim_diversity_inclusion_fy2025.csv,department,text,456,0,12,Corporate Strategy,Supply Chain & Logistics,HR & Administration | Supply Chain & Logistics | Production
+bi_ready_csv,08_dim_diversity_inclusion_fy2025.csv,job_title,text,456,0,122,Accounts Assistant,Warehouse Supervisor,Senior Manager - HR | Store Assistant | Line Coordinator
+bi_ready_csv,08_dim_diversity_inclusion_fy2025.csv,job_level,text,456,0,8,Executive,Worker,Senior Manager | Junior Staff | Worker
+bi_ready_csv,08_dim_diversity_inclusion_fy2025.csv,employment_type,text,456,0,4,Contract,Probation,Permanent | Probation | Contract
+bi_ready_csv,08_dim_diversity_inclusion_fy2025.csv,location,text,456,0,5,Chattogram Distribution Hub,Rajshahi Regional Office,Dhaka Corporate Office | Gazipur Manufacturing Unit | Rajshahi Regional Office
+bi_ready_csv,09_fact_training_development_fy2025.csv,program_id,text,1011,0,34,TRN-001,TRN-034,TRN-001 | TRN-002 | TRN-003
+bi_ready_csv,09_fact_training_development_fy2025.csv,program_name,text,1011,0,28,Advanced Excel for Business,Women in Leadership Forum,Induction & Workplace Essentials | Bangladesh Labour Law Basics | Fire Safety & Evacuation
+bi_ready_csv,09_fact_training_development_fy2025.csv,category,text,1011,0,13,Compliance,Technical,Onboarding | Compliance | Health & Safety
+bi_ready_csv,09_fact_training_development_fy2025.csv,training_date,date,1011,0,30,2025-01-03,2025-12-17,2025-04-22 | 2025-02-03 | 2025-07-18
+bi_ready_csv,09_fact_training_development_fy2025.csv,employee_id,text,1011,0,420,MG-CTG-CST-0229,MG-RAJ-SCL-0248,MG-GZP-HRA-0154 | MG-GZP-PRD-0137 | MG-NGJ-PRD-0043
+bi_ready_csv,09_fact_training_development_fy2025.csv,employee_name,text,1011,0,355,Afroza Akter,Zahid Rashid,Maliha Islam | Rifat Rashid | Ayesha Kabir
+bi_ready_csv,09_fact_training_development_fy2025.csv,department,text,1011,0,12,Corporate Strategy,Supply Chain & Logistics,HR & Administration | Production | Information Technology
+bi_ready_csv,09_fact_training_development_fy2025.csv,job_level,text,1011,0,8,Executive,Worker,Officer | Junior Staff | Worker
+bi_ready_csv,09_fact_training_development_fy2025.csv,mode,text,1011,0,3,Blended,Virtual,In-person | Blended | Virtual
+bi_ready_csv,09_fact_training_development_fy2025.csv,provider,text,1011,0,21,Bangladesh Fire Service Trainer,Technology Partner,Internal HR | External Consultant | Bangladesh Fire Service Trainer
+bi_ready_csv,09_fact_training_development_fy2025.csv,venue,text,1011,0,6,Chattogram Distribution Hub,Rajshahi Regional Office,Dhaka Corporate Office | Chattogram Distribution Hub | Narayanganj Production Plant
+bi_ready_csv,09_fact_training_development_fy2025.csv,hours,number,1011,0,6,3.0,16.0,8 | 6 | 4
+bi_ready_csv,09_fact_training_development_fy2025.csv,completion_status,text,1011,0,2,Completed,Not Completed,Not Completed | Completed
+bi_ready_csv,09_fact_training_development_fy2025.csv,pre_assessment_score,number,1011,0,51,35.0,85.0,57 | 50 | 70
+bi_ready_csv,09_fact_training_development_fy2025.csv,post_assessment_score,number,1011,0,55,42.0,98.0,57 | 65 | 92
+bi_ready_csv,09_fact_training_development_fy2025.csv,feedback_rating,number,1011,0,22,2.8,5.0,4.3 | 4.4 | 4.1
+bi_ready_csv,09_fact_training_development_fy2025.csv,cost_bdt,number,1011,0,810,350.0,2600.0,1320 | 2501 | 429
+bi_ready_csv,09_fact_training_development_fy2025.csv,mandatory,boolean,1011,0,2,No,Yes,Yes | No
+bi_ready_csv,10_fact_compensation_benefits_fy2025.csv,employee_id,text,456,0,456,MG-CTG-CST-0229,MG-RAJ-SCL-0279,MG-DHK-HRA-0001 | MG-DHK-SCL-0003 | MG-GZP-PRD-0006
+bi_ready_csv,10_fact_compensation_benefits_fy2025.csv,employee_name,text,456,0,383,Afroza Akter,Zahid Rashid,Priyanka Kabir | Riyad Akter | Jahid Chowdhury
+bi_ready_csv,10_fact_compensation_benefits_fy2025.csv,gender,text,456,0,3,Female,Not Disclosed,Female | Male | Not Disclosed
+bi_ready_csv,10_fact_compensation_benefits_fy2025.csv,department,text,456,0,12,Corporate Strategy,Supply Chain & Logistics,HR & Administration | Supply Chain & Logistics | Production
+bi_ready_csv,10_fact_compensation_benefits_fy2025.csv,location,text,456,0,5,Chattogram Distribution Hub,Rajshahi Regional Office,Dhaka Corporate Office | Gazipur Manufacturing Unit | Rajshahi Regional Office
+bi_ready_csv,10_fact_compensation_benefits_fy2025.csv,job_title,text,456,0,122,Accounts Assistant,Warehouse Supervisor,Senior Manager - HR | Store Assistant | Line Coordinator
+bi_ready_csv,10_fact_compensation_benefits_fy2025.csv,job_level,text,456,0,8,Executive,Worker,Senior Manager | Junior Staff | Worker
+bi_ready_csv,10_fact_compensation_benefits_fy2025.csv,employment_type,text,456,0,4,Contract,Probation,Permanent | Probation | Contract
+bi_ready_csv,10_fact_compensation_benefits_fy2025.csv,basic_salary,number,456,0,201,10700.0,236000.0,133900 | 22600 | 23700
+bi_ready_csv,10_fact_compensation_benefits_fy2025.csv,house_rent,number,456,0,201,5300.0,115800.0,65700 | 11100 | 11600
+bi_ready_csv,10_fact_compensation_benefits_fy2025.csv,medical_allowance,number,456,0,116,1600.0,34300.0,19500 | 3300 | 3400
+bi_ready_csv,10_fact_compensation_benefits_fy2025.csv,conveyance,number,456,0,3,1500.0,4000.0,4000 | 1500 | 2500
+bi_ready_csv,10_fact_compensation_benefits_fy2025.csv,other_allowance,number,456,0,104,400.0,38900.0,20400 | 2500 | 2800
+bi_ready_csv,10_fact_compensation_benefits_fy2025.csv,monthly_gross,number,456,0,201,19500.0,429000.0,243500 | 41000 | 43000
+bi_ready_csv,10_fact_compensation_benefits_fy2025.csv,annual_bonus,number,456,0,260,20000.0,602000.0,243500 | 41000 | 43000
+bi_ready_csv,10_fact_compensation_benefits_fy2025.csv,monthly_employer_pf,number,456,0,91,0.0,23600.0,13400 | 2300 | 2400
+bi_ready_csv,10_fact_compensation_benefits_fy2025.csv,annual_gratuity_provision,number,456,0,104,0.0,236000.0,0 | 23700 | 25600
+bi_ready_csv,10_fact_compensation_benefits_fy2025.csv,annual_insurance_value,number,456,0,2,0.0,15000.0,15000 | 0
+bi_ready_csv,10_fact_compensation_benefits_fy2025.csv,annual_total_reward,number,456,0,387,279500.0,6111200.0,3341300 | 575600 | 626500
+bi_ready_csv,10_fact_compensation_benefits_fy2025.csv,compa_ratio,number,456,0,238,0.70873786,1.46601942,1.13255814 | 1.12328767 | 1.17808219
+bi_ready_csv,11_fact_performance_evaluation_fy2025.csv,employee_id,text,456,0,456,MG-CTG-CST-0229,MG-RAJ-SCL-0279,MG-DHK-HRA-0001 | MG-DHK-SCL-0003 | MG-GZP-PRD-0006
+bi_ready_csv,11_fact_performance_evaluation_fy2025.csv,employee_name,text,456,0,383,Afroza Akter,Zahid Rashid,Priyanka Kabir | Riyad Akter | Jahid Chowdhury
+bi_ready_csv,11_fact_performance_evaluation_fy2025.csv,department,text,456,0,12,Corporate Strategy,Supply Chain & Logistics,HR & Administration | Supply Chain & Logistics | Production
+bi_ready_csv,11_fact_performance_evaluation_fy2025.csv,job_title,text,456,0,122,Accounts Assistant,Warehouse Supervisor,Senior Manager - HR | Store Assistant | Line Coordinator
+bi_ready_csv,11_fact_performance_evaluation_fy2025.csv,job_level,text,456,0,8,Executive,Worker,Senior Manager | Junior Staff | Worker
+bi_ready_csv,11_fact_performance_evaluation_fy2025.csv,manager,text,456,0,24,Abdul Karim,Tanvir Ahmed,Nusrat Jahan | Mahmudul Hasan | Abdul Karim
+bi_ready_csv,11_fact_performance_evaluation_fy2025.csv,goal_completion_percent,number,456,0,290,58.0,125.0,69.7 | 90.3 | 107.6
+bi_ready_csv,11_fact_performance_evaluation_fy2025.csv,competency_score_1_5,number,456,0,183,2.57,5.0,4.3 | 3.95 | 3.68
+bi_ready_csv,11_fact_performance_evaluation_fy2025.csv,attendance_score_percent,number,456,0,144,79.5,100.0,89.6 | 100 | 92.6
+bi_ready_csv,11_fact_performance_evaluation_fy2025.csv,overall_score,number,456,0,247,66.1,111.8,76.6 | 87.9 | 95.9
+bi_ready_csv,11_fact_performance_evaluation_fy2025.csv,performance_rating,number,456,0,5,1.0,5.0,2 | 3 | 4
+bi_ready_csv,11_fact_performance_evaluation_fy2025.csv,rating_label,text,456,0,5,Exceeds Expectations,Partially Meets,Partially Meets | Meets Expectations | Exceeds Expectations
+bi_ready_csv,11_fact_performance_evaluation_fy2025.csv,potential,text,456,0,3,High,Medium,Medium | High | Low
+bi_ready_csv,11_fact_performance_evaluation_fy2025.csv,promotion_readiness,text,456,0,3,Develop in Current Role,Ready in 1-2 Years,Develop in Current Role | Ready in 1-2 Years | Ready Now
+bi_ready_csv,11_fact_performance_evaluation_fy2025.csv,calibration_status,text,456,0,2,Calibrated,Pending Review,Calibrated | Pending Review
+bi_ready_csv,11_fact_performance_evaluation_fy2025.csv,primary_development_area,text,456,0,7,Commercial Acumen,Time Management,Communication | Leadership | Technical Capability
+bi_ready_csv,12_fact_health_safety_fy2025.csv,incident_id,text,120,0,120,HSE-0001,HSE-0120,HSE-0001 | HSE-0002 | HSE-0003
+bi_ready_csv,12_fact_health_safety_fy2025.csv,incident_date,date,120,0,95,2025-01-01,2025-12-22,2025-08-21 | 2025-01-19 | 2025-01-28
+bi_ready_csv,12_fact_health_safety_fy2025.csv,location,text,120,0,5,Chattogram Distribution Hub,Rajshahi Regional Office,Narayanganj Production Plant | Gazipur Manufacturing Unit | Rajshahi Regional Office
+bi_ready_csv,12_fact_health_safety_fy2025.csv,department,text,120,0,6,Engineering & Maintenance,Supply Chain & Logistics,Production | Quality Assurance | Supply Chain & Logistics
+bi_ready_csv,12_fact_health_safety_fy2025.csv,incident_type,text,120,0,6,First Aid Case,Unsafe Condition,Unsafe Condition | Near Miss | Medical Treatment Case
+bi_ready_csv,12_fact_health_safety_fy2025.csv,severity,text,120,0,3,High,Medium,Low | Medium | High
+bi_ready_csv,12_fact_health_safety_fy2025.csv,lost_time_injury,boolean,120,0,2,No,Yes,No | Yes
+bi_ready_csv,12_fact_health_safety_fy2025.csv,days_lost,number,120,0,10,0.0,16.0,0 | 4 | 3
+bi_ready_csv,12_fact_health_safety_fy2025.csv,root_cause,text,120,0,8,Equipment Condition,Unsafe Act,Slip / Trip | Inadequate Guarding | Housekeeping
+bi_ready_csv,12_fact_health_safety_fy2025.csv,corrective_action,text,120,0,7,5S housekeeping action,Toolbox talk and retraining,5S housekeeping action | PPE reinforcement | Supervisor coaching
+bi_ready_csv,12_fact_health_safety_fy2025.csv,responsible_owner,text,120,0,12,Abdul Karim,Tanvir Ahmed,Md. Shahidul Islam | Abdul Karim | Dr. Samira Sultana
+bi_ready_csv,12_fact_health_safety_fy2025.csv,target_close_date,date,120,0,98,2025-01-13,2026-01-09,2025-08-30 | 2025-02-14 | 2025-02-13
+bi_ready_csv,12_fact_health_safety_fy2025.csv,status,text,120,0,2,Closed,In Progress,In Progress | Closed
+analysis_ready,department_360_summary_fy2025.csv,department,text,12,0,12,Corporate Strategy,Supply Chain & Logistics,Production | Sales & Marketing | Supply Chain & Logistics
+analysis_ready,department_360_summary_fy2025.csv,opening_headcount,number,12,0,11,6.0,107.0,107 | 76 | 41
+analysis_ready,department_360_summary_fy2025.csv,hires,number,12,0,10,1.0,29.0,29 | 17 | 12
+analysis_ready,department_360_summary_fy2025.csv,exits,number,12,0,7,1.0,20.0,20 | 10 | 4
+analysis_ready,department_360_summary_fy2025.csv,closing_headcount,number,12,0,12,7.0,115.0,115 | 83 | 49
+analysis_ready,department_360_summary_fy2025.csv,average_headcount,number,12,0,11,6.5,111.0,111 | 79.5 | 45
+analysis_ready,department_360_summary_fy2025.csv,turnover_rate,number,12,0,12,0.04166667,0.30769231,0.18018018 | 0.12578616 | 0.08888889
+analysis_ready,department_360_summary_fy2025.csv,approved_absence_days,number,12,0,12,41.0,1081.0,1081 | 583 | 397
+analysis_ready,department_360_summary_fy2025.csv,training_hours,number,12,0,12,187.0,1993.0,1993 | 1389 | 718
+analysis_ready,department_360_summary_fy2025.csv,average_performance_score,number,12,0,11,81.3,89.0,88.3 | 86.8 | 87.4
+analysis_ready,department_360_summary_fy2025.csv,employees_represented,number,12,0,12,9.0,135.0,135 | 93 | 53
+analysis_ready,department_360_summary_fy2025.csv,active_headcount,number,12,0,12,7.0,115.0,115 | 83 | 49
+analysis_ready,department_360_summary_fy2025.csv,female_headcount,number,12,0,10,0.0,21.0,21 | 7 | 16
+analysis_ready,department_360_summary_fy2025.csv,female_representation_percent,number,12,0,11,0.0,60.0,18.26 | 25.3 | 14.29
+analysis_ready,department_360_summary_fy2025.csv,average_monthly_gross_bdt,number,12,0,12,56843.48,144428.57,56843.48 | 80879.52 | 57765.31
+analysis_ready,department_360_summary_fy2025.csv,annual_total_reward_bdt,number,12,0,12,13105700.0,95167200.0,92912600.0 | 95167200.0 | 40268000.0
+analysis_ready,department_360_summary_fy2025.csv,promotion_ready_employees,number,12,0,6,0.0,8.0,8 | 7 | 1
+analysis_ready,department_360_summary_fy2025.csv,employee_360_training_hours,number,12,0,11,223.0,2259.0,2259.0 | 1464.0 | 740.0
+analysis_ready,department_360_summary_fy2025.csv,employee_360_training_cost_bdt,number,12,0,12,37249.0,407208.0,407208.0 | 260255.0 | 138567.0
+analysis_ready,department_360_summary_fy2025.csv,employee_360_approved_leave_days,number,12,0,12,41.0,1081.0,1081.0 | 583.0 | 397.0
+analysis_ready,employee_360_fy2025.csv,employee_id,text,516,0,516,MG-CTG-CST-0229,MG-RAJ-SCL-0279,MG-CTG-CST-0229 | MG-CTG-CST-0318 | MG-CTG-CUS-0066
+analysis_ready,employee_360_fy2025.csv,employee_name,text,516,0,423,Afroza Akter,Zahid Rashid,Afroza Islam | Raisa Ferdous | Nusrat Alam
+analysis_ready,employee_360_fy2025.csv,employment_status,text,516,0,2,Active at FY2025 year-end,Separated during FY2025,Active at FY2025 year-end | Separated during FY2025
+analysis_ready,employee_360_fy2025.csv,gender,text,516,0,3,Female,Not Disclosed,Female | Male | Not Disclosed
+analysis_ready,employee_360_fy2025.csv,age,number,456,60,35,20.0,55.0,36 | 41 | 44
+analysis_ready,employee_360_fy2025.csv,age_band,text,456,60,4,25-34,Under 25,35-44 | Under 25 | 45+
+analysis_ready,employee_360_fy2025.csv,division_of_origin,text,456,60,8,Barishal,Sylhet,Chattogram | Barishal | Sylhet
+analysis_ready,employee_360_fy2025.csv,disability_status,boolean,456,60,2,No,Yes,No | Yes
+analysis_ready,employee_360_fy2025.csv,education,text,456,60,7,Bachelor,Trade Certificate,Master | Bachelor | Trade Certificate
+analysis_ready,employee_360_fy2025.csv,department,text,516,0,12,Corporate Strategy,Supply Chain & Logistics,Corporate Strategy | Customer Service | Engineering & Maintenance
+analysis_ready,employee_360_fy2025.csv,department_key,text,516,0,12,corporate_strategy,supply_chain_and_logistics,corporate_strategy | customer_service | engineering_and_maintenance
+analysis_ready,employee_360_fy2025.csv,cost_center,text,516,0,12,CC-101,CC-112,CC-112 | CC-110 | CC-107
+analysis_ready,employee_360_fy2025.csv,job_title,text,516,0,126,Accounts Assistant,Warehouse Supervisor,Senior Strategy Officer | Service Quality Executive | Senior Manager - Engineering
+analysis_ready,employee_360_fy2025.csv,job_level,text,516,0,8,Executive,Worker,Senior Officer | Executive | Senior Manager
+analysis_ready,employee_360_fy2025.csv,employment_type,text,456,60,4,Contract,Probation,Permanent | Contract | Probation
+analysis_ready,employee_360_fy2025.csv,location,text,516,0,5,Chattogram Distribution Hub,Rajshahi Regional Office,Chattogram Distribution Hub | Dhaka Corporate Office | Gazipur Manufacturing Unit
+analysis_ready,employee_360_fy2025.csv,location_key,text,516,0,5,chattogram_distribution_hub,rajshahi_regional_office,chattogram_distribution_hub | dhaka_corporate_office | gazipur_manufacturing_unit
+analysis_ready,employee_360_fy2025.csv,join_date,date,516,0,468,2015-08-01,2025-12-31,2022-12-04 | 2021-07-05 | 2020-09-02
+analysis_ready,employee_360_fy2025.csv,exit_date,date,60,456,60,2025-01-14,2025-12-28,2025-09-21 | 2025-06-15 | 2025-04-06
+analysis_ready,employee_360_fy2025.csv,manager,text,516,0,24,Abdul Karim,Tanvir Ahmed,Anika Tasnim | Jannatul Ferdous | Md. Moniruzzaman
+analysis_ready,employee_360_fy2025.csv,monthly_gross_bdt,number,456,60,201,19500.0,429000.0,57000 | 74500 | 74000
+analysis_ready,employee_360_fy2025.csv,annual_total_reward_bdt,number,456,60,387,279500.0,6111200.0,793200 | 1032700 | 1103900
+analysis_ready,employee_360_fy2025.csv,compa_ratio,number,456,60,238,0.70873786,1.46601942,0.81428571 | 1.06428571 | 0.82222222
+analysis_ready,employee_360_fy2025.csv,goal_completion_percent,number,456,60,290,58.0,125.0,98.2 | 92.7 | 93
+analysis_ready,employee_360_fy2025.csv,overall_performance_score,number,456,60,247,66.1,111.8,90.7 | 85.8 | 85.7
+analysis_ready,employee_360_fy2025.csv,performance_rating,text,456,60,5,Exceeds Expectations,Partially Meets,Exceeds Expectations | Meets Expectations | Partially Meets
+analysis_ready,employee_360_fy2025.csv,potential,text,456,60,3,High,Medium,High | Low | Medium
+analysis_ready,employee_360_fy2025.csv,promotion_readiness,text,456,60,3,Develop in Current Role,Ready in 1-2 Years,Ready Now | Develop in Current Role | Ready in 1-2 Years
+analysis_ready,employee_360_fy2025.csv,leave_transactions,number,516,0,5,0.0,4.0,3 | 1 | 0
+analysis_ready,employee_360_fy2025.csv,approved_leave_days,number,516,0,30,0.0,125.0,9.0 | 115.0 | 0.0
+analysis_ready,employee_360_fy2025.csv,training_programs,number,516,0,8,0.0,7.0,5 | 2 | 4
+analysis_ready,employee_360_fy2025.csv,training_hours,number,516,0,49,0.0,72.0,50.0 | 18.0 | 38.0
+analysis_ready,employee_360_fy2025.csv,training_cost_bdt,number,516,0,411,0.0,12781.0,6505.0 | 3916.0 | 5000.0
+analysis_ready,employee_360_fy2025.csv,average_training_feedback,number,420,96,71,3.2,5.0,4.3 | 4.1 | 4.12
+analysis_ready,employee_360_fy2025.csv,average_pre_assessment,number,420,96,136,39.0,81.0,63.4 | 54.0 | 70.25
+analysis_ready,employee_360_fy2025.csv,average_post_assessment,number,420,96,156,46.0,98.0,75.4 | 65.5 | 81.5
+analysis_ready,employee_360_fy2025.csv,assessment_improvement,number,420,96,121,0.0,32.0,12.0 | 11.5 | 11.25
+analysis_ready,employee_360_fy2025.csv,exit_type,text,60,456,2,Involuntary,Voluntary,Voluntary | Involuntary
+analysis_ready,employee_360_fy2025.csv,exit_reason,text,60,456,10,Better Career Opportunity,Retirement,Personal / Family Reasons | Better Career Opportunity | Higher Study
+analysis_ready,employee_360_fy2025.csv,regrettable_exit,boolean,60,456,2,No,Yes,No | Yes
+analysis_ready,employee_360_fy2025.csv,tenure_at_exit_years,number,60,456,57,0.07,9.36,3.1 | 4.14 | 1.79

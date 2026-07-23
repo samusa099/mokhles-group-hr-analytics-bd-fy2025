@@ -1,0 +1,181 @@
+Master Sheet,Field Name,Definition,Data Type,Source Workbook,Original Sheet
+Employee Master,Employee ID,Unique synthetic employee identifier used consistently across the master datasets.,Text,01_Mokhles_Group_Headcount_Report_2025.xlsx,Employee Snapshot
+Employee Master,Employee Name,Fictional Bangladesh-based employee name generated for portfolio use.,Text,01_Mokhles_Group_Headcount_Report_2025.xlsx,Employee Snapshot
+Employee Master,Gender,Synthetic gender category used for workforce representation analysis.,Text,01_Mokhles_Group_Headcount_Report_2025.xlsx,Employee Snapshot
+Employee Master,Age,Employee age as of the reporting snapshot.,Number,01_Mokhles_Group_Headcount_Report_2025.xlsx,Employee Snapshot
+Employee Master,Age Band,Grouped employee age range used for demographic analysis.,Text,01_Mokhles_Group_Headcount_Report_2025.xlsx,Employee Snapshot
+Employee Master,Division of Origin,Synthetic administrative division of Bangladesh associated with the employee.,Text,01_Mokhles_Group_Headcount_Report_2025.xlsx,Employee Snapshot
+Employee Master,Disability Status,Synthetic self-declared disability indicator used only for inclusion analysis.,Text,01_Mokhles_Group_Headcount_Report_2025.xlsx,Employee Snapshot
+Employee Master,Education,Highest synthetic education level recorded for the employee.,Text,01_Mokhles_Group_Headcount_Report_2025.xlsx,Employee Snapshot
+Employee Master,Department,Organisational department assigned to the employee or record.,Text,01_Mokhles_Group_Headcount_Report_2025.xlsx,Employee Snapshot
+Employee Master,Cost Center,Synthetic finance and workforce cost-centre code.,Currency (BDT),01_Mokhles_Group_Headcount_Report_2025.xlsx,Employee Snapshot
+Employee Master,Job Title,Employee position title within Mokhles Group.,Text,01_Mokhles_Group_Headcount_Report_2025.xlsx,Employee Snapshot
+Employee Master,Job Level,Organisational grade or hierarchy level.,Text,01_Mokhles_Group_Headcount_Report_2025.xlsx,Employee Snapshot
+Employee Master,Employment Type,"Employment arrangement such as permanent, contract, probation or intern.",Text,01_Mokhles_Group_Headcount_Report_2025.xlsx,Employee Snapshot
+Employee Master,Location,Mokhles Group operating site or office in Bangladesh.,Text,01_Mokhles_Group_Headcount_Report_2025.xlsx,Employee Snapshot
+Employee Master,Join Date,Employee's synthetic employment start date.,Date,01_Mokhles_Group_Headcount_Report_2025.xlsx,Employee Snapshot
+Employee Master,Tenure (Years),Length of service in years at the reporting date.,Number,01_Mokhles_Group_Headcount_Report_2025.xlsx,Employee Snapshot
+Employee Master,Manager,Fictional line manager associated with the employee.,Text,01_Mokhles_Group_Headcount_Report_2025.xlsx,Employee Snapshot
+Employee Master,Monthly Gross,Monthly gross compensation in Bangladeshi Taka.,Currency (BDT),01_Mokhles_Group_Headcount_Report_2025.xlsx,Employee Snapshot
+Monthly HR KPI,Month,Reporting month within FY2025.,Date,02_Mokhles_Group_Monthly_HR_Report_2025.xlsx,Monthly KPI Data
+Monthly HR KPI,Opening Headcount,Employees active on the first day of the reporting period.,Number,02_Mokhles_Group_Monthly_HR_Report_2025.xlsx,Monthly KPI Data
+Monthly HR KPI,Hires,Number of employees hired during the reporting period.,Number,02_Mokhles_Group_Monthly_HR_Report_2025.xlsx,Monthly KPI Data
+Monthly HR KPI,Exits,Number of employee separations during the reporting period.,Number,02_Mokhles_Group_Monthly_HR_Report_2025.xlsx,Monthly KPI Data
+Monthly HR KPI,Closing Headcount,Employees active on the last day of the reporting period.,Number,02_Mokhles_Group_Monthly_HR_Report_2025.xlsx,Monthly KPI Data
+Monthly HR KPI,Average Headcount,Average of opening and closing headcount.,Number,02_Mokhles_Group_Monthly_HR_Report_2025.xlsx,Monthly KPI Data
+Monthly HR KPI,Turnover Rate,Employee exits divided by average headcount.,Percentage / Ratio,02_Mokhles_Group_Monthly_HR_Report_2025.xlsx,Monthly KPI Data
+Monthly HR KPI,Approved Absence Days,Synthetic approved absence days field used in the Monthly HR KPI dataset.,Number,02_Mokhles_Group_Monthly_HR_Report_2025.xlsx,Monthly KPI Data
+Monthly HR KPI,Absence Rate,Approved absence days divided by estimated available workdays.,Percentage / Ratio,02_Mokhles_Group_Monthly_HR_Report_2025.xlsx,Monthly KPI Data
+Monthly HR KPI,Overtime Hours,Synthetic overtime hours field used in the Monthly HR KPI dataset.,Number,02_Mokhles_Group_Monthly_HR_Report_2025.xlsx,Monthly KPI Data
+Monthly HR KPI,Training Hours,Synthetic training hours field used in the Monthly HR KPI dataset.,Number,02_Mokhles_Group_Monthly_HR_Report_2025.xlsx,Monthly KPI Data
+Monthly HR KPI,Payroll Cost (BDT),Total monthly gross payroll cost in Bangladeshi Taka.,Currency (BDT),02_Mokhles_Group_Monthly_HR_Report_2025.xlsx,Monthly KPI Data
+Monthly HR KPI,Open Vacancies,Synthetic open vacancies field used in the Monthly HR KPI dataset.,Number,02_Mokhles_Group_Monthly_HR_Report_2025.xlsx,Monthly KPI Data
+Monthly HR KPI,Average Time to Fill (Days),Synthetic average time to fill (days) field used in the Monthly HR KPI dataset.,Number,02_Mokhles_Group_Monthly_HR_Report_2025.xlsx,Monthly KPI Data
+Monthly HR KPI,Engagement Pulse (1-5),Synthetic engagement pulse (1-5) field used in the Monthly HR KPI dataset.,Number,02_Mokhles_Group_Monthly_HR_Report_2025.xlsx,Monthly KPI Data
+Department Annual,Department,Organisational department assigned to the employee or record.,Text,03_Mokhles_Group_Annual_HR_Report_2025.xlsx,Department Summary
+Department Annual,Opening Headcount,Employees active on the first day of the reporting period.,Number,03_Mokhles_Group_Annual_HR_Report_2025.xlsx,Department Summary
+Department Annual,Hires,Number of employees hired during the reporting period.,Number,03_Mokhles_Group_Annual_HR_Report_2025.xlsx,Department Summary
+Department Annual,Exits,Number of employee separations during the reporting period.,Number,03_Mokhles_Group_Annual_HR_Report_2025.xlsx,Department Summary
+Department Annual,Closing Headcount,Employees active on the last day of the reporting period.,Number,03_Mokhles_Group_Annual_HR_Report_2025.xlsx,Department Summary
+Department Annual,Average Headcount,Average of opening and closing headcount.,Number,03_Mokhles_Group_Annual_HR_Report_2025.xlsx,Department Summary
+Department Annual,Turnover Rate,Employee exits divided by average headcount.,Percentage / Ratio,03_Mokhles_Group_Annual_HR_Report_2025.xlsx,Department Summary
+Department Annual,Approved Absence Days,Synthetic approved absence days field used in the Department Annual dataset.,Number,03_Mokhles_Group_Annual_HR_Report_2025.xlsx,Department Summary
+Department Annual,Training Hours,Synthetic training hours field used in the Department Annual dataset.,Number,03_Mokhles_Group_Annual_HR_Report_2025.xlsx,Department Summary
+Department Annual,Average Performance Score,Synthetic average performance score field used in the Department Annual dataset.,Number,03_Mokhles_Group_Annual_HR_Report_2025.xlsx,Department Summary
+Quarterly Board KPI,Quarter,Synthetic quarter field used in the Quarterly Board KPI dataset.,Text,04_Mokhles_Group_HR_Board_Report_2025.xlsx,Quarterly KPIs
+Quarterly Board KPI,Closing Headcount,Employees active on the last day of the reporting period.,Number,04_Mokhles_Group_HR_Board_Report_2025.xlsx,Quarterly KPIs
+Quarterly Board KPI,Hires,Number of employees hired during the reporting period.,Number,04_Mokhles_Group_HR_Board_Report_2025.xlsx,Quarterly KPIs
+Quarterly Board KPI,Exits,Number of employee separations during the reporting period.,Number,04_Mokhles_Group_HR_Board_Report_2025.xlsx,Quarterly KPIs
+Quarterly Board KPI,Turnover Rate,Employee exits divided by average headcount.,Percentage / Ratio,04_Mokhles_Group_HR_Board_Report_2025.xlsx,Quarterly KPIs
+Quarterly Board KPI,Payroll Cost (BDT),Total monthly gross payroll cost in Bangladeshi Taka.,Currency (BDT),04_Mokhles_Group_HR_Board_Report_2025.xlsx,Quarterly KPIs
+Quarterly Board KPI,Absence Rate,Approved absence days divided by estimated available workdays.,Percentage / Ratio,04_Mokhles_Group_HR_Board_Report_2025.xlsx,Quarterly KPIs
+Quarterly Board KPI,Training Hours,Synthetic training hours field used in the Quarterly Board KPI dataset.,Number,04_Mokhles_Group_HR_Board_Report_2025.xlsx,Quarterly KPIs
+Quarterly Board KPI,Female Representation,Synthetic female representation field used in the Quarterly Board KPI dataset.,Percentage / Ratio,04_Mokhles_Group_HR_Board_Report_2025.xlsx,Quarterly KPIs
+Quarterly Board KPI,Engagement Pulse,Synthetic engagement pulse field used in the Quarterly Board KPI dataset.,Number,04_Mokhles_Group_HR_Board_Report_2025.xlsx,Quarterly KPIs
+Quarterly Board KPI,Open Vacancies,Synthetic open vacancies field used in the Quarterly Board KPI dataset.,Number,04_Mokhles_Group_HR_Board_Report_2025.xlsx,Quarterly KPIs
+Recruitment Master,Requisition ID,Unique synthetic recruitment requisition identifier.,Text,05_Mokhles_Group_Recruitment_Report_2025.xlsx,Requisitions
+Recruitment Master,Department,Organisational department assigned to the employee or record.,Text,05_Mokhles_Group_Recruitment_Report_2025.xlsx,Requisitions
+Recruitment Master,Location,Mokhles Group operating site or office in Bangladesh.,Text,05_Mokhles_Group_Recruitment_Report_2025.xlsx,Requisitions
+Recruitment Master,Job Title,Employee position title within Mokhles Group.,Text,05_Mokhles_Group_Recruitment_Report_2025.xlsx,Requisitions
+Recruitment Master,Job Level,Organisational grade or hierarchy level.,Text,05_Mokhles_Group_Recruitment_Report_2025.xlsx,Requisitions
+Recruitment Master,Hiring Manager,Synthetic hiring manager field used in the Recruitment Master dataset.,Text,05_Mokhles_Group_Recruitment_Report_2025.xlsx,Requisitions
+Recruitment Master,Posted Date,Synthetic posted date field used in the Recruitment Master dataset.,Date,05_Mokhles_Group_Recruitment_Report_2025.xlsx,Requisitions
+Recruitment Master,Target Close Date,Planned date for closing the corrective action.,Date,05_Mokhles_Group_Recruitment_Report_2025.xlsx,Requisitions
+Recruitment Master,Actual Close Date,Synthetic actual close date field used in the Recruitment Master dataset.,Date,05_Mokhles_Group_Recruitment_Report_2025.xlsx,Requisitions
+Recruitment Master,Status,Current workflow status of the record.,Text,05_Mokhles_Group_Recruitment_Report_2025.xlsx,Requisitions
+Recruitment Master,Planned Vacancies,Synthetic planned vacancies field used in the Recruitment Master dataset.,Number,05_Mokhles_Group_Recruitment_Report_2025.xlsx,Requisitions
+Recruitment Master,Applications,Number of applications received for the requisition.,Number,05_Mokhles_Group_Recruitment_Report_2025.xlsx,Requisitions
+Recruitment Master,Shortlisted,Number of candidates selected for initial consideration.,Number,05_Mokhles_Group_Recruitment_Report_2025.xlsx,Requisitions
+Recruitment Master,Interviewed,Number of candidates interviewed.,Number,05_Mokhles_Group_Recruitment_Report_2025.xlsx,Requisitions
+Recruitment Master,Offers,Number of employment offers issued.,Number,05_Mokhles_Group_Recruitment_Report_2025.xlsx,Requisitions
+Recruitment Master,Hires,Number of employees hired during the reporting period.,Number,05_Mokhles_Group_Recruitment_Report_2025.xlsx,Requisitions
+Recruitment Master,Primary Source,Synthetic primary source field used in the Recruitment Master dataset.,Text,05_Mokhles_Group_Recruitment_Report_2025.xlsx,Requisitions
+Recruitment Master,Time to Fill (Days),Calendar days from requisition posting to closure.,Number,05_Mokhles_Group_Recruitment_Report_2025.xlsx,Requisitions
+Recruitment Master,Recruitment Cost (BDT),Synthetic recruitment expenditure in Bangladeshi Taka.,Currency (BDT),05_Mokhles_Group_Recruitment_Report_2025.xlsx,Requisitions
+Recruitment Master,Candidate Experience Score,Synthetic candidate feedback score on a 1–5 scale.,Date,05_Mokhles_Group_Recruitment_Report_2025.xlsx,Requisitions
+Employee Separations,Employee ID,Unique synthetic employee identifier used consistently across the master datasets.,Text,06_Mokhles_Group_Turnover_and_Retention_Report_2025.xlsx,Exit Records
+Employee Separations,Employee Name,Fictional Bangladesh-based employee name generated for portfolio use.,Text,06_Mokhles_Group_Turnover_and_Retention_Report_2025.xlsx,Exit Records
+Employee Separations,Gender,Synthetic gender category used for workforce representation analysis.,Text,06_Mokhles_Group_Turnover_and_Retention_Report_2025.xlsx,Exit Records
+Employee Separations,Department,Organisational department assigned to the employee or record.,Text,06_Mokhles_Group_Turnover_and_Retention_Report_2025.xlsx,Exit Records
+Employee Separations,Job Title,Employee position title within Mokhles Group.,Text,06_Mokhles_Group_Turnover_and_Retention_Report_2025.xlsx,Exit Records
+Employee Separations,Job Level,Organisational grade or hierarchy level.,Text,06_Mokhles_Group_Turnover_and_Retention_Report_2025.xlsx,Exit Records
+Employee Separations,Location,Mokhles Group operating site or office in Bangladesh.,Text,06_Mokhles_Group_Turnover_and_Retention_Report_2025.xlsx,Exit Records
+Employee Separations,Join Date,Employee's synthetic employment start date.,Date,06_Mokhles_Group_Turnover_and_Retention_Report_2025.xlsx,Exit Records
+Employee Separations,Exit Date,Employee separation date.,Date,06_Mokhles_Group_Turnover_and_Retention_Report_2025.xlsx,Exit Records
+Employee Separations,Tenure at Exit (Years),Synthetic tenure at exit (years) field used in the Employee Separations dataset.,Number,06_Mokhles_Group_Turnover_and_Retention_Report_2025.xlsx,Exit Records
+Employee Separations,Exit Type,Voluntary or involuntary separation classification.,Text,06_Mokhles_Group_Turnover_and_Retention_Report_2025.xlsx,Exit Records
+Employee Separations,Exit Reason,Primary synthetic reason for employee separation.,Text,06_Mokhles_Group_Turnover_and_Retention_Report_2025.xlsx,Exit Records
+Employee Separations,Regrettable Exit,Indicator for a strategically undesirable employee departure.,Text,06_Mokhles_Group_Turnover_and_Retention_Report_2025.xlsx,Exit Records
+Employee Separations,Manager,Fictional line manager associated with the employee.,Text,06_Mokhles_Group_Turnover_and_Retention_Report_2025.xlsx,Exit Records
+Leave Master,Leave ID,Unique synthetic leave transaction identifier.,Text,07_Mokhles_Group_Absence_and_Leave_Report_2025.xlsx,Leave Transactions
+Leave Master,Employee ID,Unique synthetic employee identifier used consistently across the master datasets.,Text,07_Mokhles_Group_Absence_and_Leave_Report_2025.xlsx,Leave Transactions
+Leave Master,Employee Name,Fictional Bangladesh-based employee name generated for portfolio use.,Text,07_Mokhles_Group_Absence_and_Leave_Report_2025.xlsx,Leave Transactions
+Leave Master,Department,Organisational department assigned to the employee or record.,Text,07_Mokhles_Group_Absence_and_Leave_Report_2025.xlsx,Leave Transactions
+Leave Master,Location,Mokhles Group operating site or office in Bangladesh.,Text,07_Mokhles_Group_Absence_and_Leave_Report_2025.xlsx,Leave Transactions
+Leave Master,Leave Type,Category of employee leave.,Text,07_Mokhles_Group_Absence_and_Leave_Report_2025.xlsx,Leave Transactions
+Leave Master,Start Date,Start date of the leave or programme record.,Date,07_Mokhles_Group_Absence_and_Leave_Report_2025.xlsx,Leave Transactions
+Leave Master,End Date,End date of the leave period.,Date,07_Mokhles_Group_Absence_and_Leave_Report_2025.xlsx,Leave Transactions
+Leave Master,Leave Days,Total leave duration recorded for the transaction.,Number,07_Mokhles_Group_Absence_and_Leave_Report_2025.xlsx,Leave Transactions
+Leave Master,Reason Category,Synthetic reason category field used in the Leave Master dataset.,Text,07_Mokhles_Group_Absence_and_Leave_Report_2025.xlsx,Leave Transactions
+Leave Master,Approval Status,Workflow status of the leave request.,Text,07_Mokhles_Group_Absence_and_Leave_Report_2025.xlsx,Leave Transactions
+Leave Master,Approved By,Synthetic approved by field used in the Leave Master dataset.,Text,07_Mokhles_Group_Absence_and_Leave_Report_2025.xlsx,Leave Transactions
+Diversity Master,Employee ID,Unique synthetic employee identifier used consistently across the master datasets.,Text,08_Mokhles_Group_Diversity_and_Inclusion_Report_2025.xlsx,Diversity Snapshot
+Diversity Master,Employee Name,Fictional Bangladesh-based employee name generated for portfolio use.,Text,08_Mokhles_Group_Diversity_and_Inclusion_Report_2025.xlsx,Diversity Snapshot
+Diversity Master,Gender,Synthetic gender category used for workforce representation analysis.,Text,08_Mokhles_Group_Diversity_and_Inclusion_Report_2025.xlsx,Diversity Snapshot
+Diversity Master,Age,Employee age as of the reporting snapshot.,Number,08_Mokhles_Group_Diversity_and_Inclusion_Report_2025.xlsx,Diversity Snapshot
+Diversity Master,Age Band,Grouped employee age range used for demographic analysis.,Text,08_Mokhles_Group_Diversity_and_Inclusion_Report_2025.xlsx,Diversity Snapshot
+Diversity Master,Division of Origin,Synthetic administrative division of Bangladesh associated with the employee.,Text,08_Mokhles_Group_Diversity_and_Inclusion_Report_2025.xlsx,Diversity Snapshot
+Diversity Master,Disability Status,Synthetic self-declared disability indicator used only for inclusion analysis.,Text,08_Mokhles_Group_Diversity_and_Inclusion_Report_2025.xlsx,Diversity Snapshot
+Diversity Master,Education,Highest synthetic education level recorded for the employee.,Text,08_Mokhles_Group_Diversity_and_Inclusion_Report_2025.xlsx,Diversity Snapshot
+Diversity Master,Department,Organisational department assigned to the employee or record.,Text,08_Mokhles_Group_Diversity_and_Inclusion_Report_2025.xlsx,Diversity Snapshot
+Diversity Master,Job Title,Employee position title within Mokhles Group.,Text,08_Mokhles_Group_Diversity_and_Inclusion_Report_2025.xlsx,Diversity Snapshot
+Diversity Master,Job Level,Organisational grade or hierarchy level.,Text,08_Mokhles_Group_Diversity_and_Inclusion_Report_2025.xlsx,Diversity Snapshot
+Diversity Master,Employment Type,"Employment arrangement such as permanent, contract, probation or intern.",Text,08_Mokhles_Group_Diversity_and_Inclusion_Report_2025.xlsx,Diversity Snapshot
+Diversity Master,Location,Mokhles Group operating site or office in Bangladesh.,Text,08_Mokhles_Group_Diversity_and_Inclusion_Report_2025.xlsx,Diversity Snapshot
+Training Master,Program ID,Unique synthetic training programme identifier.,Text,09_Mokhles_Group_Training_and_Development_Report_2025.xlsx,Participation Records
+Training Master,Program Name,Name of the learning programme.,Text,09_Mokhles_Group_Training_and_Development_Report_2025.xlsx,Participation Records
+Training Master,Category,Synthetic category field used in the Training Master dataset.,Text,09_Mokhles_Group_Training_and_Development_Report_2025.xlsx,Participation Records
+Training Master,Training Date,Date on which the training programme occurred.,Date,09_Mokhles_Group_Training_and_Development_Report_2025.xlsx,Participation Records
+Training Master,Employee ID,Unique synthetic employee identifier used consistently across the master datasets.,Text,09_Mokhles_Group_Training_and_Development_Report_2025.xlsx,Participation Records
+Training Master,Employee Name,Fictional Bangladesh-based employee name generated for portfolio use.,Text,09_Mokhles_Group_Training_and_Development_Report_2025.xlsx,Participation Records
+Training Master,Department,Organisational department assigned to the employee or record.,Text,09_Mokhles_Group_Training_and_Development_Report_2025.xlsx,Participation Records
+Training Master,Job Level,Organisational grade or hierarchy level.,Text,09_Mokhles_Group_Training_and_Development_Report_2025.xlsx,Participation Records
+Training Master,Mode,Synthetic mode field used in the Training Master dataset.,Text,09_Mokhles_Group_Training_and_Development_Report_2025.xlsx,Participation Records
+Training Master,Provider,Synthetic provider field used in the Training Master dataset.,Text,09_Mokhles_Group_Training_and_Development_Report_2025.xlsx,Participation Records
+Training Master,Venue,Synthetic venue field used in the Training Master dataset.,Text,09_Mokhles_Group_Training_and_Development_Report_2025.xlsx,Participation Records
+Training Master,Hours,Synthetic hours field used in the Training Master dataset.,Number,09_Mokhles_Group_Training_and_Development_Report_2025.xlsx,Participation Records
+Training Master,Completion Status,Whether the employee completed the training.,Text,09_Mokhles_Group_Training_and_Development_Report_2025.xlsx,Participation Records
+Training Master,Pre-Assessment Score,Synthetic score before training.,Number,09_Mokhles_Group_Training_and_Development_Report_2025.xlsx,Participation Records
+Training Master,Post-Assessment Score,Synthetic score after training.,Number,09_Mokhles_Group_Training_and_Development_Report_2025.xlsx,Participation Records
+Training Master,Feedback Rating,Synthetic participant rating on a 1–5 scale.,Number,09_Mokhles_Group_Training_and_Development_Report_2025.xlsx,Participation Records
+Training Master,Cost (BDT),Synthetic cost (bdt) field used in the Training Master dataset.,Currency (BDT),09_Mokhles_Group_Training_and_Development_Report_2025.xlsx,Participation Records
+Training Master,Mandatory,Synthetic mandatory field used in the Training Master dataset.,Text,09_Mokhles_Group_Training_and_Development_Report_2025.xlsx,Participation Records
+Compensation Master,Employee ID,Unique synthetic employee identifier used consistently across the master datasets.,Text,10_Mokhles_Group_Compensation_and_Benefits_Report_2025.xlsx,Employee Compensation
+Compensation Master,Employee Name,Fictional Bangladesh-based employee name generated for portfolio use.,Text,10_Mokhles_Group_Compensation_and_Benefits_Report_2025.xlsx,Employee Compensation
+Compensation Master,Gender,Synthetic gender category used for workforce representation analysis.,Text,10_Mokhles_Group_Compensation_and_Benefits_Report_2025.xlsx,Employee Compensation
+Compensation Master,Department,Organisational department assigned to the employee or record.,Text,10_Mokhles_Group_Compensation_and_Benefits_Report_2025.xlsx,Employee Compensation
+Compensation Master,Location,Mokhles Group operating site or office in Bangladesh.,Text,10_Mokhles_Group_Compensation_and_Benefits_Report_2025.xlsx,Employee Compensation
+Compensation Master,Job Title,Employee position title within Mokhles Group.,Text,10_Mokhles_Group_Compensation_and_Benefits_Report_2025.xlsx,Employee Compensation
+Compensation Master,Job Level,Organisational grade or hierarchy level.,Text,10_Mokhles_Group_Compensation_and_Benefits_Report_2025.xlsx,Employee Compensation
+Compensation Master,Employment Type,"Employment arrangement such as permanent, contract, probation or intern.",Text,10_Mokhles_Group_Compensation_and_Benefits_Report_2025.xlsx,Employee Compensation
+Compensation Master,Basic Salary,Basic monthly salary in Bangladeshi Taka.,Currency (BDT),10_Mokhles_Group_Compensation_and_Benefits_Report_2025.xlsx,Employee Compensation
+Compensation Master,House Rent,Monthly house-rent allowance in Bangladeshi Taka.,Number,10_Mokhles_Group_Compensation_and_Benefits_Report_2025.xlsx,Employee Compensation
+Compensation Master,Medical Allowance,Monthly medical allowance in Bangladeshi Taka.,Currency (BDT),10_Mokhles_Group_Compensation_and_Benefits_Report_2025.xlsx,Employee Compensation
+Compensation Master,Conveyance,Monthly conveyance allowance in Bangladeshi Taka.,Number,10_Mokhles_Group_Compensation_and_Benefits_Report_2025.xlsx,Employee Compensation
+Compensation Master,Other Allowance,Additional monthly allowance in Bangladeshi Taka.,Currency (BDT),10_Mokhles_Group_Compensation_and_Benefits_Report_2025.xlsx,Employee Compensation
+Compensation Master,Monthly Gross,Monthly gross compensation in Bangladeshi Taka.,Currency (BDT),10_Mokhles_Group_Compensation_and_Benefits_Report_2025.xlsx,Employee Compensation
+Compensation Master,Annual Bonus,Synthetic annual bonus field used in the Compensation Master dataset.,Currency (BDT),10_Mokhles_Group_Compensation_and_Benefits_Report_2025.xlsx,Employee Compensation
+Compensation Master,Monthly Employer PF,Synthetic monthly employer pf field used in the Compensation Master dataset.,Currency (BDT),10_Mokhles_Group_Compensation_and_Benefits_Report_2025.xlsx,Employee Compensation
+Compensation Master,Annual Gratuity Provision,Synthetic annual gratuity provision field used in the Compensation Master dataset.,Currency (BDT),10_Mokhles_Group_Compensation_and_Benefits_Report_2025.xlsx,Employee Compensation
+Compensation Master,Annual Insurance Value,Synthetic annual insurance value field used in the Compensation Master dataset.,Currency (BDT),10_Mokhles_Group_Compensation_and_Benefits_Report_2025.xlsx,Employee Compensation
+Compensation Master,Annual Total Reward,Annualised salary and synthetic employer-funded benefits.,Currency (BDT),10_Mokhles_Group_Compensation_and_Benefits_Report_2025.xlsx,Employee Compensation
+Compensation Master,Compa-Ratio,Employee monthly gross divided by the synthetic job-level midpoint.,Percentage / Ratio,10_Mokhles_Group_Compensation_and_Benefits_Report_2025.xlsx,Employee Compensation
+Performance Master,Employee ID,Unique synthetic employee identifier used consistently across the master datasets.,Text,11_Mokhles_Group_Performance_Evaluation_Report_2025.xlsx,Employee Ratings
+Performance Master,Employee Name,Fictional Bangladesh-based employee name generated for portfolio use.,Text,11_Mokhles_Group_Performance_Evaluation_Report_2025.xlsx,Employee Ratings
+Performance Master,Department,Organisational department assigned to the employee or record.,Text,11_Mokhles_Group_Performance_Evaluation_Report_2025.xlsx,Employee Ratings
+Performance Master,Job Title,Employee position title within Mokhles Group.,Text,11_Mokhles_Group_Performance_Evaluation_Report_2025.xlsx,Employee Ratings
+Performance Master,Job Level,Organisational grade or hierarchy level.,Text,11_Mokhles_Group_Performance_Evaluation_Report_2025.xlsx,Employee Ratings
+Performance Master,Manager,Fictional line manager associated with the employee.,Text,11_Mokhles_Group_Performance_Evaluation_Report_2025.xlsx,Employee Ratings
+Performance Master,Goal Completion (%),Synthetic achievement against assigned goals.,Percentage / Ratio,11_Mokhles_Group_Performance_Evaluation_Report_2025.xlsx,Employee Ratings
+Performance Master,Competency Score (1-5),Synthetic competency rating on a 1–5 scale.,Number,11_Mokhles_Group_Performance_Evaluation_Report_2025.xlsx,Employee Ratings
+Performance Master,Attendance Score (%),Synthetic attendance score (%) field used in the Performance Master dataset.,Percentage / Ratio,11_Mokhles_Group_Performance_Evaluation_Report_2025.xlsx,Employee Ratings
+Performance Master,Overall Score,Weighted performance evaluation score.,Number,11_Mokhles_Group_Performance_Evaluation_Report_2025.xlsx,Employee Ratings
+Performance Master,Performance Rating,Numeric performance rating from 1 to 5.,Number,11_Mokhles_Group_Performance_Evaluation_Report_2025.xlsx,Employee Ratings
+Performance Master,Rating Label,Text label corresponding to the performance rating.,Text,11_Mokhles_Group_Performance_Evaluation_Report_2025.xlsx,Employee Ratings
+Performance Master,Potential,Synthetic talent-potential classification.,Text,11_Mokhles_Group_Performance_Evaluation_Report_2025.xlsx,Employee Ratings
+Performance Master,Promotion Readiness,Indicative readiness category for talent-review practice.,Text,11_Mokhles_Group_Performance_Evaluation_Report_2025.xlsx,Employee Ratings
+Performance Master,Calibration Status,Synthetic calibration status field used in the Performance Master dataset.,Percentage / Ratio,11_Mokhles_Group_Performance_Evaluation_Report_2025.xlsx,Employee Ratings
+Performance Master,Primary Development Area,Synthetic primary development area field used in the Performance Master dataset.,Text,11_Mokhles_Group_Performance_Evaluation_Report_2025.xlsx,Employee Ratings
+HSE Master,Incident ID,Unique synthetic health and safety record identifier.,Text,12_Mokhles_Group_Health_and_Safety_Report_2025.xlsx,Incident Log
+HSE Master,Incident Date,Date of the health and safety record.,Date,12_Mokhles_Group_Health_and_Safety_Report_2025.xlsx,Incident Log
+HSE Master,Location,Mokhles Group operating site or office in Bangladesh.,Text,12_Mokhles_Group_Health_and_Safety_Report_2025.xlsx,Incident Log
+HSE Master,Department,Organisational department assigned to the employee or record.,Text,12_Mokhles_Group_Health_and_Safety_Report_2025.xlsx,Incident Log
+HSE Master,Incident Type,Health and safety incident or observation category.,Text,12_Mokhles_Group_Health_and_Safety_Report_2025.xlsx,Incident Log
+HSE Master,Severity,Synthetic severity classification.,Text,12_Mokhles_Group_Health_and_Safety_Report_2025.xlsx,Incident Log
+HSE Master,Lost Time Injury,Indicates whether the incident resulted in lost workdays.,Text,12_Mokhles_Group_Health_and_Safety_Report_2025.xlsx,Incident Log
+HSE Master,Days Lost,Number of workdays lost following the incident.,Number,12_Mokhles_Group_Health_and_Safety_Report_2025.xlsx,Incident Log
+HSE Master,Root Cause,Primary synthetic causal factor identified.,Text,12_Mokhles_Group_Health_and_Safety_Report_2025.xlsx,Incident Log
+HSE Master,Corrective Action,Action assigned to reduce recurrence risk.,Text,12_Mokhles_Group_Health_and_Safety_Report_2025.xlsx,Incident Log
+HSE Master,Responsible Owner,Synthetic responsible owner field used in the HSE Master dataset.,Text,12_Mokhles_Group_Health_and_Safety_Report_2025.xlsx,Incident Log
+HSE Master,Target Close Date,Planned date for closing the corrective action.,Date,12_Mokhles_Group_Health_and_Safety_Report_2025.xlsx,Incident Log
+HSE Master,Status,Current workflow status of the record.,Text,12_Mokhles_Group_Health_and_Safety_Report_2025.xlsx,Incident Log

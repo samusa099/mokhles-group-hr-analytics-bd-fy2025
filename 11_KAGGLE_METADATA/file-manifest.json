@@ -1,0 +1,691 @@
+{
+  "release": "v2.3.0",
+  "file_count": 137,
+  "files": [
+    {
+      "path": "00_START_HERE/FOLDER_MAP.md",
+      "size_bytes": 878,
+      "sha256": "0ae874f48178a0c2d22edadf163b8b31d26bf5bb2785045cf910af942a6bff96"
+    },
+    {
+      "path": "00_START_HERE/README_START_HERE.md",
+      "size_bytes": 872,
+      "sha256": "33627f45f56c48929aedd9d05e74d088c42cc76778f343d3fb73dd2fa5266e2e"
+    },
+    {
+      "path": "00_START_HERE/platform_readiness_matrix.csv",
+      "size_bytes": 1136,
+      "sha256": "35aad7f8bfbe55df2c865349aacbcd82dc425283d8a0c39da3f29928e6582e65"
+    },
+    {
+      "path": "01_SOURCE_DATA/csv_original/01_Employee_Master_FY2025.csv",
+      "size_bytes": 88215,
+      "sha256": "8758342e4d85c15c00d2781f5f3ca9f486943fe18b5e3f74a489c01fa995482f"
+    },
+    {
+      "path": "01_SOURCE_DATA/csv_original/02_Monthly_HR_KPI_FY2025.csv",
+      "size_bytes": 1263,
+      "sha256": "026409017a4626352068463b65473f172f044a22bd4777666efd6183e2938ba1"
+    },
+    {
+      "path": "01_SOURCE_DATA/csv_original/03_Department_Annual_Summary_FY2025.csv",
+      "size_bytes": 856,
+      "sha256": "3a484d1ed2457de68d0a0ecdddd106074fadaadf72539af7b6d9baf489c59d73"
+    },
+    {
+      "path": "01_SOURCE_DATA/csv_original/04_Quarterly_Board_KPI_FY2025.csv",
+      "size_bytes": 426,
+      "sha256": "ee0784bccaaf3f333f8e70c5484838a314be1225bf653536b357f54dd27673ac"
+    },
+    {
+      "path": "01_SOURCE_DATA/csv_original/05_Recruitment_Master_FY2025.csv",
+      "size_bytes": 19720,
+      "sha256": "44a90db1b82747c4009bf22fd6b40a412ceca1c3254b7138b95466f951cfbea3"
+    },
+    {
+      "path": "01_SOURCE_DATA/csv_original/06_Employee_Separations_FY2025.csv",
+      "size_bytes": 11289,
+      "sha256": "c56ea53520267cc8e2831c8eaafc34c8eb0e8a6d6d6340b5c088fdb74b68e5a8"
+    },
+    {
+      "path": "01_SOURCE_DATA/csv_original/07_Leave_Transactions_FY2025.csv",
+      "size_bytes": 169444,
+      "sha256": "05396220df03d06d3cb3cd03d8fed32cd2900e46de436f72a0ae1fb08a61bb46"
+    },
+    {
+      "path": "01_SOURCE_DATA/csv_original/08_Diversity_Inclusion_Master_FY2025.csv",
+      "size_bytes": 68074,
+      "sha256": "9987a9c4f4f79c584c913d51cf166908680fc3b860286fd4118a0b9cde34b716"
+    },
+    {
+      "path": "01_SOURCE_DATA/csv_original/09_Training_Development_Master_FY2025.csv",
+      "size_bytes": 200332,
+      "sha256": "59abccf1a12ecfb6fc33077ebb363b6fecd2505394351d45ace80201bb68d055"
+    },
+    {
+      "path": "01_SOURCE_DATA/csv_original/10_Compensation_Benefits_Master_FY2025.csv",
+      "size_bytes": 86743,
+      "sha256": "467e0c1ab456932e6921d03ec2ca933309a58d58d1376bbedff308f445dd46c6"
+    },
+    {
+      "path": "01_SOURCE_DATA/csv_original/11_Performance_Evaluation_Master_FY2025.csv",
+      "size_bytes": 85560,
+      "sha256": "7becd888e347cf37197fd62c4271ccbce3da8eac1e5298736912773386bf7365"
+    },
+    {
+      "path": "01_SOURCE_DATA/csv_original/12_Health_Safety_Master_FY2025.csv",
+      "size_bytes": 20046,
+      "sha256": "f66ce0eba671832c522f8987712485c83b1f86da72669ee110f2524bb5c09fa2"
+    },
+    {
+      "path": "01_SOURCE_DATA/csv_original/13_Data_Dictionary_FY2025.csv",
+      "size_bytes": 29854,
+      "sha256": "821fe98342a960b6e11d6afeec1ad507b8dbc70f98442fb5d55b7cdeb6bcd1ab"
+    },
+    {
+      "path": "01_SOURCE_DATA/excel_master/Mokhles_Group_HR_Analytics_Master_Dataset_FY2025.xlsx",
+      "size_bytes": 396980,
+      "sha256": "2d4f3d55bbd5068ba759068424d35c6d645edd3aa3059c9b69fae9f02098978b"
+    },
+    {
+      "path": "01_SOURCE_DATA/excel_reports/01_Mokhles_Group_Headcount_Analytics_Report_FY2025.xlsx",
+      "size_bytes": 59288,
+      "sha256": "a829a4d2436fad11e4c29933dd4f2cf5a2bedd08e51f3f972f468b6e4fa1742f"
+    },
+    {
+      "path": "01_SOURCE_DATA/excel_reports/02_Mokhles_Group_Monthly_HR_Analytics_Report_FY2025.xlsx",
+      "size_bytes": 14297,
+      "sha256": "b4717d74d95473511168553dc212b0845cfcff824d765ebe579c08a4696932a4"
+    },
+    {
+      "path": "01_SOURCE_DATA/excel_reports/03_Mokhles_Group_Annual_HR_Analytics_Report_FY2025.xlsx",
+      "size_bytes": 19427,
+      "sha256": "d1ada5e25f471b6d7ce821e43d7bcfa3ad58b222d2e9ef8b7001689165bc7128"
+    },
+    {
+      "path": "01_SOURCE_DATA/excel_reports/04_Mokhles_Group_Board_HR_Analytics_Report_FY2025.xlsx",
+      "size_bytes": 19696,
+      "sha256": "0dcbafc2971b118a6c366474d463a9caf854df3c278111bd593e574ebcd0a933"
+    },
+    {
+      "path": "01_SOURCE_DATA/excel_reports/05_Mokhles_Group_Recruitment_Analytics_Report_FY2025.xlsx",
+      "size_bytes": 29712,
+      "sha256": "a7adbe05f1bae0b4d4456308354a7baee8e66db3ce98281f28e6dd042a62df72"
+    },
+    {
+      "path": "01_SOURCE_DATA/excel_reports/06_Mokhles_Group_Turnover_Retention_Analytics_Report_FY2025.xlsx",
+      "size_bytes": 20493,
+      "sha256": "87968a69118e34f91f2533561deb653d9cf5ea736e363b935f43b18cb6fe0035"
+    },
+    {
+      "path": "01_SOURCE_DATA/excel_reports/07_Mokhles_Group_Absence_Leave_Analytics_Report_FY2025.xlsx",
+      "size_bytes": 77971,
+      "sha256": "6becf5bc58a65ca880c59e64d7f1a4e399c4dc2509e8974cdb32b070a6896ef2"
+    },
+    {
+      "path": "01_SOURCE_DATA/excel_reports/08_Mokhles_Group_Diversity_Inclusion_Analytics_Report_FY2025.xlsx",
+      "size_bytes": 46837,
+      "sha256": "79150c3d67554f910857a99a4aebf462e257e2b4fd69e3fbaf4d2b2f1c12e3f8"
+    },
+    {
+      "path": "01_SOURCE_DATA/excel_reports/09_Mokhles_Group_Learning_Development_Analytics_Report_FY2025.xlsx",
+      "size_bytes": 111685,
+      "sha256": "6cc03ae364dc15ceaf23c59860bb8acb7fe6bfd4ed2a09b4530f28a9cb8dfe98"
+    },
+    {
+      "path": "01_SOURCE_DATA/excel_reports/10_Mokhles_Group_Compensation_Benefits_Analytics_Report_FY2025.xlsx",
+      "size_bytes": 69610,
+      "sha256": "61475abb8c50f395fa17f90cbbf25b04d75b285e6461240b958bfe25c20c6f40"
+    },
+    {
+      "path": "01_SOURCE_DATA/excel_reports/11_Mokhles_Group_Performance_Analytics_Report_FY2025.xlsx",
+      "size_bytes": 57124,
+      "sha256": "bf1dc3cd1db70fd3e3714690ebd99e6169a97c5d9f540fc291294608a498be2e"
+    },
+    {
+      "path": "01_SOURCE_DATA/excel_reports/12_Mokhles_Group_Health_Safety_Analytics_Report_FY2025.xlsx",
+      "size_bytes": 24885,
+      "sha256": "45e7f61fbf823b23de742e874fb44644a417f259798bb2cca8f7215303d77903"
+    },
+    {
+      "path": "02_CLEAN_DATA/analysis_ready/department_360_summary_fy2025.csv",
+      "size_bytes": 1790,
+      "sha256": "43c58f2c21696bf088cf82f1f7534246f2afaaaad578150924cee1c459b587a7"
+    },
+    {
+      "path": "02_CLEAN_DATA/analysis_ready/employee_360_fy2025.csv",
+      "size_bytes": 189114,
+      "sha256": "ef520609363eec54d7264745eb1a1aade400ceaa10af883a96fe7de1460730d3"
+    },
+    {
+      "path": "02_CLEAN_DATA/bi_ready_csv/00_dim_date.csv",
+      "size_bytes": 333419,
+      "sha256": "ac1d39ca56c390bf463d1b222446b316508193eb69c8c9a48b3fd2ab3347bec7"
+    },
+    {
+      "path": "02_CLEAN_DATA/bi_ready_csv/00_dim_department.csv",
+      "size_bytes": 601,
+      "sha256": "f660fae9efd1bd81db541662ca128981fb919ab1300d4088c169ee6780485313"
+    },
+    {
+      "path": "02_CLEAN_DATA/bi_ready_csv/00_dim_location.csv",
+      "size_bytes": 292,
+      "sha256": "eaf18d87f578fec9850c141e4d50e1121d69ede858b3847de17dd87547ce9b37"
+    },
+    {
+      "path": "02_CLEAN_DATA/bi_ready_csv/01_dim_employee_fy2025.csv",
+      "size_bytes": 132495,
+      "sha256": "2bab8271a8f518d91f04db3cc194fff9e65bdea33d7139bec847efb201c1e2a1"
+    },
+    {
+      "path": "02_CLEAN_DATA/bi_ready_csv/02_fact_monthly_hr_kpi_fy2025.csv",
+      "size_bytes": 1257,
+      "sha256": "ad4909af9387feb1a74fc4b162825be7ce8c7a98567709d825beeedf00eac8bc"
+    },
+    {
+      "path": "02_CLEAN_DATA/bi_ready_csv/03_fact_department_annual_summary_fy2025.csv",
+      "size_bytes": 856,
+      "sha256": "322f6392716450dd07fd99b8d920e8aed2ae9a12d2993bde065d8783b1d2c919"
+    },
+    {
+      "path": "02_CLEAN_DATA/bi_ready_csv/04_fact_quarterly_board_kpi_fy2025.csv",
+      "size_bytes": 424,
+      "sha256": "d2f0daa702c65b05cfc35419ced69f76e32bf9194f4dde914435cee8c24adacb"
+    },
+    {
+      "path": "02_CLEAN_DATA/bi_ready_csv/05_fact_recruitment_fy2025.csv",
+      "size_bytes": 19716,
+      "sha256": "b463a5f86b9d216e11fb7822143f593383513350e1a8081191b478922040ece9"
+    },
+    {
+      "path": "02_CLEAN_DATA/bi_ready_csv/06_fact_employee_separations_fy2025.csv",
+      "size_bytes": 11287,
+      "sha256": "d66288e68d29dd9712bc4160b3d419950e460ee3a444ce9afcf0821a7bd4c41f"
+    },
+    {
+      "path": "02_CLEAN_DATA/bi_ready_csv/07_fact_leave_transactions_fy2025.csv",
+      "size_bytes": 169444,
+      "sha256": "66f2756d22ff4152c8501c219343caf8b336fb13f5c50f23081775eeda83b460"
+    },
+    {
+      "path": "02_CLEAN_DATA/bi_ready_csv/08_dim_diversity_inclusion_fy2025.csv",
+      "size_bytes": 68074,
+      "sha256": "57ada5da84f7f0ba06cc996d331a3606e5cac7ca12c0e5cc24d835aaf52a5ffe"
+    },
+    {
+      "path": "02_CLEAN_DATA/bi_ready_csv/09_fact_training_development_fy2025.csv",
+      "size_bytes": 200330,
+      "sha256": "c14d77376cf1572a4dd7677a9db23ef9117ad9a488895decdd83139fddde54c7"
+    },
+    {
+      "path": "02_CLEAN_DATA/bi_ready_csv/10_fact_compensation_benefits_fy2025.csv",
+      "size_bytes": 86743,
+      "sha256": "7a5f70631425a68909af16520189cfa067257453c491d3edde02bbab1a64e7c7"
+    },
+    {
+      "path": "02_CLEAN_DATA/bi_ready_csv/11_fact_performance_evaluation_fy2025.csv",
+      "size_bytes": 85566,
+      "sha256": "2836301440575057cf6e2a3c93f5f737088da02a9a6668453378fb381f87732b"
+    },
+    {
+      "path": "02_CLEAN_DATA/bi_ready_csv/12_fact_health_safety_fy2025.csv",
+      "size_bytes": 20046,
+      "sha256": "0dd59850b19c0fb46bda2a72e8995145252f2d0c41478d9f66d94b437b21553f"
+    },
+    {
+      "path": "02_CLEAN_DATA/data_quality/column_profile.csv",
+      "size_bytes": 59874,
+      "sha256": "9ede4868b5deb412e5b1157cfd577b556e1801de8dbd4650a7d8d1b8f800f80a"
+    },
+    {
+      "path": "02_CLEAN_DATA/data_quality/table_quality_summary.csv",
+      "size_bytes": 2573,
+      "sha256": "f2090c9447b985a31ee0009348f53db6120a082f6c125a88740b415eed26eb7b"
+    },
+    {
+      "path": "02_CLEAN_DATA/data_quality/validation_rules.csv",
+      "size_bytes": 1304,
+      "sha256": "b97999f0dd9ea58faca387f1721f9e8850f6a7d39efe757461e0bd640dd8bf63"
+    },
+    {
+      "path": "03_POWER_BI/README_POWER_BI.md",
+      "size_bytes": 1096,
+      "sha256": "6881b46ec51f658c574b6fc29c6addc1c6f2bfb882637112bdcc836b244417a7"
+    },
+    {
+      "path": "03_POWER_BI/dax/Mokhles_Group_HR_Starter_Measures.dax",
+      "size_bytes": 1741,
+      "sha256": "dedf494c1193a95ad8202cd01ea79d04f661ce35b2f9f817f0ab3262e57a8867"
+    },
+    {
+      "path": "03_POWER_BI/power_query_m/00_PROJECT_ROOT_PARAMETER.md",
+      "size_bytes": 449,
+      "sha256": "10d2ddd8510cb0638f08fc22558715d6549bf53970292e7231504b188045bb77"
+    },
+    {
+      "path": "03_POWER_BI/power_query_m/00_dim_date.m",
+      "size_bytes": 292,
+      "sha256": "6fc386b5d9d52dcfc6151d2acb875cf3bc437be4d1f88556fdb17fa6359027af"
+    },
+    {
+      "path": "03_POWER_BI/power_query_m/00_dim_department.m",
+      "size_bytes": 298,
+      "sha256": "1efbbb7c2aca8475e6514f9ac5995508504275ad294b942ad5c863ab37de84c5"
+    },
+    {
+      "path": "03_POWER_BI/power_query_m/00_dim_location.m",
+      "size_bytes": 296,
+      "sha256": "ad25d2742dbd916ca798ea5a4b2bbcc24bd66afc7b1b8316383e60e562d5deab"
+    },
+    {
+      "path": "03_POWER_BI/power_query_m/01_dim_employee_fy2025.m",
+      "size_bytes": 303,
+      "sha256": "be23eec52001ebbf7a84edea93e50a6426d9eef3dc02856a5d75d5041e55b63c"
+    },
+    {
+      "path": "03_POWER_BI/power_query_m/02_fact_monthly_hr_kpi_fy2025.m",
+      "size_bytes": 310,
+      "sha256": "6c7c24062422370c847ef2f7fbc15c6e7e2476846d4236ae915ad2eb3277ac9a"
+    },
+    {
+      "path": "03_POWER_BI/power_query_m/03_fact_department_annual_summary_fy2025.m",
+      "size_bytes": 321,
+      "sha256": "07546c0885138c1af88f554ef3a088acb98c89ab5cb10bebeea2cc12b847cee1"
+    },
+    {
+      "path": "03_POWER_BI/power_query_m/04_fact_quarterly_board_kpi_fy2025.m",
+      "size_bytes": 315,
+      "sha256": "941a6d7d282886b9eb55d4b6a8ea02694a735221a46c641bd8947c9baac0ee60"
+    },
+    {
+      "path": "03_POWER_BI/power_query_m/05_fact_recruitment_fy2025.m",
+      "size_bytes": 307,
+      "sha256": "d08b2f33f599a4608185fd88132ff135189166dd0c6ae56ae1ba895c44a4c8bb"
+    },
+    {
+      "path": "03_POWER_BI/power_query_m/06_fact_employee_separations_fy2025.m",
+      "size_bytes": 316,
+      "sha256": "fd14ab521c66cd801a66b3f30a5fb3cddceed00f5d73b22c3bcfdde30a4fb68f"
+    },
+    {
+      "path": "03_POWER_BI/power_query_m/07_fact_leave_transactions_fy2025.m",
+      "size_bytes": 314,
+      "sha256": "0ad0ebf011f89a2d1ec2129098055bb8974e92c23ccb8ab16ffd6755c0fdd3cf"
+    },
+    {
+      "path": "03_POWER_BI/power_query_m/08_dim_diversity_inclusion_fy2025.m",
+      "size_bytes": 314,
+      "sha256": "d8dd5dbf351ab18eb95ed6041b705154242dda509056e7ed748c9c61bca7242f"
+    },
+    {
+      "path": "03_POWER_BI/power_query_m/09_fact_training_development_fy2025.m",
+      "size_bytes": 316,
+      "sha256": "e0068aac4b0f9df9ff2baa6413f15c71ce747941bb85f4588a59f604919f64c8"
+    },
+    {
+      "path": "03_POWER_BI/power_query_m/10_fact_compensation_benefits_fy2025.m",
+      "size_bytes": 317,
+      "sha256": "92c8f21037b420ceecb57c733b3de3aa813e9d6290c9aee06b7de7baebb89a67"
+    },
+    {
+      "path": "03_POWER_BI/power_query_m/11_fact_performance_evaluation_fy2025.m",
+      "size_bytes": 318,
+      "sha256": "6f2f2307281bd0eb150f09e3b66206e9d946e6623fa384397a6c791bd27549da"
+    },
+    {
+      "path": "03_POWER_BI/power_query_m/12_fact_health_safety_fy2025.m",
+      "size_bytes": 309,
+      "sha256": "3fc9ddb7c6f22147773100315815176bc476cf4caffd419c7836cfd7edeef775"
+    },
+    {
+      "path": "03_POWER_BI/semantic_model/dashboard_blueprint.csv",
+      "size_bytes": 1548,
+      "sha256": "bea40fbca5c50caef2598d04006ace6615232a57cad791f31cd64a88bda2e20f"
+    },
+    {
+      "path": "03_POWER_BI/semantic_model/field_name_mapping.csv",
+      "size_bytes": 16822,
+      "sha256": "03d1b24242565a1796bec39255712bab41249317f0493a13efb171ad6a41d4f5"
+    },
+    {
+      "path": "03_POWER_BI/semantic_model/kpi_catalog.csv",
+      "size_bytes": 1819,
+      "sha256": "951eddf5e24001a247b2e44cabb50dc2ac8054b1be3238434ca8506b07ac8cd3"
+    },
+    {
+      "path": "03_POWER_BI/semantic_model/relationship_map.csv",
+      "size_bytes": 2432,
+      "sha256": "06d0a8103dcb4dfb7977f1a2e8a9b14b6dc6193b2a7be21a81a1b7f867c0bcc9"
+    },
+    {
+      "path": "03_POWER_BI/theme/Mokhles_Group_HR_Analytics_Theme.json",
+      "size_bytes": 423,
+      "sha256": "2d8cc19594831ae15ea492acd453965949a8e449a8961937b43aa0dbce14fa50"
+    },
+    {
+      "path": "04_EXCEL_ANALYTICS/Employee_360_Power_Query.m",
+      "size_bytes": 423,
+      "sha256": "9278ab27e3b20dda7a22c6a624efe73fa73b87f5863f91c85d02821a09ac6e2b"
+    },
+    {
+      "path": "04_EXCEL_ANALYTICS/Mokhles_Group_Excel_Analytics_Starter_v2_3_0.xlsx",
+      "size_bytes": 56756,
+      "sha256": "4585e2d0588d8e9a7542d8388898b9b09ed24d0c485af38e9ea69184f2ae27f1"
+    },
+    {
+      "path": "04_EXCEL_ANALYTICS/README_EXCEL_ANALYTICS.md",
+      "size_bytes": 1076,
+      "sha256": "54197d929b96c7c37bf2e04ddcc792bc139e66eb7ad344ca8c7377d7956e5d25"
+    },
+    {
+      "path": "04_EXCEL_ANALYTICS/templates/dashboard_blueprint.csv",
+      "size_bytes": 1548,
+      "sha256": "bea40fbca5c50caef2598d04006ace6615232a57cad791f31cd64a88bda2e20f"
+    },
+    {
+      "path": "04_EXCEL_ANALYTICS/templates/field_name_mapping.csv",
+      "size_bytes": 16822,
+      "sha256": "03d1b24242565a1796bec39255712bab41249317f0493a13efb171ad6a41d4f5"
+    },
+    {
+      "path": "04_EXCEL_ANALYTICS/templates/kpi_catalog.csv",
+      "size_bytes": 1819,
+      "sha256": "951eddf5e24001a247b2e44cabb50dc2ac8054b1be3238434ca8506b07ac8cd3"
+    },
+    {
+      "path": "04_EXCEL_ANALYTICS/templates/relationship_map.csv",
+      "size_bytes": 2432,
+      "sha256": "06d0a8103dcb4dfb7977f1a2e8a9b14b6dc6193b2a7be21a81a1b7f867c0bcc9"
+    },
+    {
+      "path": "05_LOOKER_STUDIO/README_LOOKER_STUDIO.md",
+      "size_bytes": 875,
+      "sha256": "1b1740424520cd5af7abe58f59a436a9a6ea3bb8f06e2a7faa3b68292c8a493e"
+    },
+    {
+      "path": "05_LOOKER_STUDIO/calculated_fields.md",
+      "size_bytes": 536,
+      "sha256": "734d3b4e38cd3a1bf61f09f5eaf97b2c1b827a4092e54aec753742004f546121"
+    },
+    {
+      "path": "05_LOOKER_STUDIO/data_source_map.csv",
+      "size_bytes": 1703,
+      "sha256": "9e9f68eab33e7e44dba6c3eaad3149838820d36308968d65f35ccfd7827c2524"
+    },
+    {
+      "path": "05_LOOKER_STUDIO/upload_ready_csv/00_dim_date.csv",
+      "size_bytes": 333419,
+      "sha256": "ac1d39ca56c390bf463d1b222446b316508193eb69c8c9a48b3fd2ab3347bec7"
+    },
+    {
+      "path": "05_LOOKER_STUDIO/upload_ready_csv/00_dim_department.csv",
+      "size_bytes": 601,
+      "sha256": "f660fae9efd1bd81db541662ca128981fb919ab1300d4088c169ee6780485313"
+    },
+    {
+      "path": "05_LOOKER_STUDIO/upload_ready_csv/00_dim_location.csv",
+      "size_bytes": 292,
+      "sha256": "eaf18d87f578fec9850c141e4d50e1121d69ede858b3847de17dd87547ce9b37"
+    },
+    {
+      "path": "05_LOOKER_STUDIO/upload_ready_csv/01_dim_employee_fy2025.csv",
+      "size_bytes": 132495,
+      "sha256": "2bab8271a8f518d91f04db3cc194fff9e65bdea33d7139bec847efb201c1e2a1"
+    },
+    {
+      "path": "05_LOOKER_STUDIO/upload_ready_csv/02_fact_monthly_hr_kpi_fy2025.csv",
+      "size_bytes": 1257,
+      "sha256": "ad4909af9387feb1a74fc4b162825be7ce8c7a98567709d825beeedf00eac8bc"
+    },
+    {
+      "path": "05_LOOKER_STUDIO/upload_ready_csv/03_fact_department_annual_summary_fy2025.csv",
+      "size_bytes": 856,
+      "sha256": "322f6392716450dd07fd99b8d920e8aed2ae9a12d2993bde065d8783b1d2c919"
+    },
+    {
+      "path": "05_LOOKER_STUDIO/upload_ready_csv/04_fact_quarterly_board_kpi_fy2025.csv",
+      "size_bytes": 424,
+      "sha256": "d2f0daa702c65b05cfc35419ced69f76e32bf9194f4dde914435cee8c24adacb"
+    },
+    {
+      "path": "05_LOOKER_STUDIO/upload_ready_csv/05_fact_recruitment_fy2025.csv",
+      "size_bytes": 19716,
+      "sha256": "b463a5f86b9d216e11fb7822143f593383513350e1a8081191b478922040ece9"
+    },
+    {
+      "path": "05_LOOKER_STUDIO/upload_ready_csv/06_fact_employee_separations_fy2025.csv",
+      "size_bytes": 11287,
+      "sha256": "d66288e68d29dd9712bc4160b3d419950e460ee3a444ce9afcf0821a7bd4c41f"
+    },
+    {
+      "path": "05_LOOKER_STUDIO/upload_ready_csv/07_fact_leave_transactions_fy2025.csv",
+      "size_bytes": 169444,
+      "sha256": "66f2756d22ff4152c8501c219343caf8b336fb13f5c50f23081775eeda83b460"
+    },
+    {
+      "path": "05_LOOKER_STUDIO/upload_ready_csv/08_dim_diversity_inclusion_fy2025.csv",
+      "size_bytes": 68074,
+      "sha256": "57ada5da84f7f0ba06cc996d331a3606e5cac7ca12c0e5cc24d835aaf52a5ffe"
+    },
+    {
+      "path": "05_LOOKER_STUDIO/upload_ready_csv/09_fact_training_development_fy2025.csv",
+      "size_bytes": 200330,
+      "sha256": "c14d77376cf1572a4dd7677a9db23ef9117ad9a488895decdd83139fddde54c7"
+    },
+    {
+      "path": "05_LOOKER_STUDIO/upload_ready_csv/10_fact_compensation_benefits_fy2025.csv",
+      "size_bytes": 86743,
+      "sha256": "7a5f70631425a68909af16520189cfa067257453c491d3edde02bbab1a64e7c7"
+    },
+    {
+      "path": "05_LOOKER_STUDIO/upload_ready_csv/11_fact_performance_evaluation_fy2025.csv",
+      "size_bytes": 85566,
+      "sha256": "2836301440575057cf6e2a3c93f5f737088da02a9a6668453378fb381f87732b"
+    },
+    {
+      "path": "05_LOOKER_STUDIO/upload_ready_csv/12_fact_health_safety_fy2025.csv",
+      "size_bytes": 20046,
+      "sha256": "0dd59850b19c0fb46bda2a72e8995145252f2d0c41478d9f66d94b437b21553f"
+    },
+    {
+      "path": "05_LOOKER_STUDIO/upload_ready_csv/department_360_summary_fy2025.csv",
+      "size_bytes": 1790,
+      "sha256": "43c58f2c21696bf088cf82f1f7534246f2afaaaad578150924cee1c459b587a7"
+    },
+    {
+      "path": "05_LOOKER_STUDIO/upload_ready_csv/employee_360_fy2025.csv",
+      "size_bytes": 189114,
+      "sha256": "ef520609363eec54d7264745eb1a1aade400ceaa10af883a96fe7de1460730d3"
+    },
+    {
+      "path": "06_TABLEAU/README_TABLEAU.md",
+      "size_bytes": 670,
+      "sha256": "0bf65d04b06c55270d345f17b53475f455cfa7112b5f2805c714926c07cf26c9"
+    },
+    {
+      "path": "06_TABLEAU/relationship_map.csv",
+      "size_bytes": 2432,
+      "sha256": "06d0a8103dcb4dfb7977f1a2e8a9b14b6dc6193b2a7be21a81a1b7f867c0bcc9"
+    },
+    {
+      "path": "07_QLIK/Mokhles_HR_Load_Script.qvs",
+      "size_bytes": 2384,
+      "sha256": "0f2a1292662818d35e3ecfb19a01734cf8a7f0172e521119843e612c226e1958"
+    },
+    {
+      "path": "07_QLIK/README_QLIK.md",
+      "size_bytes": 695,
+      "sha256": "c1cedc5f13bcf33a4b77ca9d3ed39195f917b64ff7b18b77ebd7216977c2a0df"
+    },
+    {
+      "path": "08_METABASE/README_METABASE.md",
+      "size_bytes": 913,
+      "sha256": "262adcda555ad250add2c7f82995aeba13db3d5c587d4e2d20efa2c661d91ba2"
+    },
+    {
+      "path": "09_NOTEBOOKS/Mokhles_HR_Analytics_EDA.ipynb",
+      "size_bytes": 11892,
+      "sha256": "bda50b935cace7d8894e38e9ece4b1c9c9e5bba03a6c9e4a90fb956461c60c30"
+    },
+    {
+      "path": "10_DOCUMENTATION/13_Data_Dictionary_FY2025.csv",
+      "size_bytes": 29854,
+      "sha256": "821fe98342a960b6e11d6afeec1ad507b8dbc70f98442fb5d55b7cdeb6bcd1ab"
+    },
+    {
+      "path": "10_DOCUMENTATION/ABOUT_DATASET.md",
+      "size_bytes": 841,
+      "sha256": "5d0375a5c1cfd4ab52967a1fd9b3c986692521e8f55016bbdff09d09e88bad6d"
+    },
+    {
+      "path": "10_DOCUMENTATION/COLUMN_DESCRIPTIONS_COMPLETE.md",
+      "size_bytes": 95498,
+      "sha256": "e7ceace9901c44751cf081fe185e7585765b9c030bf343d2e016c89930486c08"
+    },
+    {
+      "path": "10_DOCUMENTATION/CURRENT_OFFICIAL_REFERENCES.md",
+      "size_bytes": 1034,
+      "sha256": "4fa26217cffc878289b7e7a911e0ee65119fb1f716a93f194a01f4aab939667c"
+    },
+    {
+      "path": "10_DOCUMENTATION/DATA_DICTIONARY.md",
+      "size_bytes": 16838,
+      "sha256": "e53af2b1fcbf388478d0fe30f9bf2ffd9ce21b1b7bbcce31344d9cb9d2643ed4"
+    },
+    {
+      "path": "10_DOCUMENTATION/DATA_ETHICS.md",
+      "size_bytes": 554,
+      "sha256": "0c76f6212e8935b5c6652d3f84695a31c3b523ca4b558fb77a9145cb6574943c"
+    },
+    {
+      "path": "10_DOCUMENTATION/FILE_CATALOG.md",
+      "size_bytes": 2102,
+      "sha256": "b5d3c7b9afcc7b7e16ce85b49b87effb3934a895c7a2e5bd9ae2cb5853a1288f"
+    },
+    {
+      "path": "10_DOCUMENTATION/FILE_INFORMATION_COMPLETE.md",
+      "size_bytes": 21996,
+      "sha256": "89b40315725fa749f1d1c5e4d31fefd2cc78998858116ebb7ff0e20527c0d1fb"
+    },
+    {
+      "path": "10_DOCUMENTATION/KAGGLE_DATASET_DESCRIPTION.md",
+      "size_bytes": 541,
+      "sha256": "4b59140e5c0c8b85ff7c00e4d4248bf156461b7413a6805a570ead402644c01e"
+    },
+    {
+      "path": "10_DOCUMENTATION/PYTHON_TO_POWER_BI_WORKFLOW.md",
+      "size_bytes": 2463,
+      "sha256": "e185745a428b90c61500b116160f7cdab83a1b5845b05ab4b11cbcdef9533085"
+    },
+    {
+      "path": "10_DOCUMENTATION/USAGE_GUIDE.md",
+      "size_bytes": 582,
+      "sha256": "50ad63f034e71127c7c5b62872713579cbba5b4bf7eca5f8da67253dd70759a5"
+    },
+    {
+      "path": "10_DOCUMENTATION/bi/00_BI_START_HERE.md",
+      "size_bytes": 2201,
+      "sha256": "6fd74bd3dbb65f61a7c772b2c84d2439fc1b7463cfe4aba39952da09810a053f"
+    },
+    {
+      "path": "10_DOCUMENTATION/bi/01_CROSS_PLATFORM_COMPATIBILITY.md",
+      "size_bytes": 3006,
+      "sha256": "539854ca9026973be9623094ca5037c4dc4c1d13d6634bd5142b9b522fbd3862"
+    },
+    {
+      "path": "10_DOCUMENTATION/bi/02_DATA_MODEL_AND_RELATIONSHIPS.md",
+      "size_bytes": 2347,
+      "sha256": "5dd84b5398be9d9fbbe5db43c5e6989e86efb9b1ea585ee3c1cd80b2bded29a2"
+    },
+    {
+      "path": "10_DOCUMENTATION/bi/03_POWER_BI_IMPLEMENTATION_GUIDE.md",
+      "size_bytes": 3295,
+      "sha256": "3f00fed26e5793e32a82733bb919608e98255ad85b9575a7aa4c6cbcfac1aec3"
+    },
+    {
+      "path": "10_DOCUMENTATION/bi/04_LOOKER_STUDIO_IMPLEMENTATION_GUIDE.md",
+      "size_bytes": 2457,
+      "sha256": "f760fec8d258f57bb76e53539ecd75483170b56eab7367aa31e4d25b05f54b99"
+    },
+    {
+      "path": "10_DOCUMENTATION/bi/05_TABLEAU_IMPLEMENTATION_GUIDE.md",
+      "size_bytes": 1642,
+      "sha256": "e7160b88cf54defd2f85ae5fea32c4ec7d75929c64d0aedf648d775d4e215ded"
+    },
+    {
+      "path": "10_DOCUMENTATION/bi/06_QLIK_SENSE_IMPLEMENTATION_GUIDE.md",
+      "size_bytes": 1361,
+      "sha256": "f92594dea678b56c9308691c4d193bfa001b936d532b36e49448b1fa973a1fd1"
+    },
+    {
+      "path": "10_DOCUMENTATION/bi/07_EXCEL_POWER_QUERY_GUIDE.md",
+      "size_bytes": 1479,
+      "sha256": "eb70b08a9d6a9ce4cadc980e070c4b154fac15223ffcdc827d6fd95d056d9ecc"
+    },
+    {
+      "path": "10_DOCUMENTATION/bi/08_METABASE_IMPLEMENTATION_GUIDE.md",
+      "size_bytes": 1212,
+      "sha256": "c3ca8f69ddae0caf11d79a07e77664931dd0df244bd5a916d5e1831cb1812758"
+    },
+    {
+      "path": "10_DOCUMENTATION/bi/09_KPI_FORMULA_LIBRARY.md",
+      "size_bytes": 1383,
+      "sha256": "b8057bff2fe2bb8cb02ce37530814303f198a2768ceed634ae1468eca9be8ae8"
+    },
+    {
+      "path": "10_DOCUMENTATION/bi/10_DASHBOARD_BLUEPRINT.md",
+      "size_bytes": 1400,
+      "sha256": "ff832cf8c03765d09e9f46f5e887eda1b149bce6705070c84c404aca403da23f"
+    },
+    {
+      "path": "11_KAGGLE_METADATA/column-metadata-coverage.json",
+      "size_bytes": 488,
+      "sha256": "6332bf71d8de791eb0997c852985bd27bbbf5c916e1b98b84fec7ff16ca9ccf5"
+    },
+    {
+      "path": "11_KAGGLE_METADATA/project-metadata.json",
+      "size_bytes": 659,
+      "sha256": "2ba5b4c1600d272ddb374c8d6a0bcfbb30a55f309b98b69feaab68c77067d9ed"
+    },
+    {
+      "path": "12_SCRIPTS/build_analysis_ready.py",
+      "size_bytes": 7114,
+      "sha256": "723189f980b464d13d56ae8993f26eca937af88fc392fbf7ccc28656b0700809"
+    },
+    {
+      "path": "12_SCRIPTS/build_bi_ready_layer.py",
+      "size_bytes": 8738,
+      "sha256": "484d3f4deda7c3fd8697dc8f0d0e824a4961dbdbc5c7b1e92f1356899195dec4"
+    },
+    {
+      "path": "12_SCRIPTS/profile_data.py",
+      "size_bytes": 2003,
+      "sha256": "b247840c2b28d82f8e46b82c6e75deeeb2d859a659ee162ed5a314e3c7d99a87"
+    },
+    {
+      "path": "12_SCRIPTS/validate_workspace.py",
+      "size_bytes": 1614,
+      "sha256": "a76a6d094bb7a822cf5e3a258a3f5f175111c36ac363a6d103be709c5c318b17"
+    },
+    {
+      "path": "LICENSE",
+      "size_bytes": 950,
+      "sha256": "d5999e00c318c0a67f1d984f50e659ec86679a7490095cc5e9a1e261a65fefb7"
+    },
+    {
+      "path": "README.md",
+      "size_bytes": 880,
+      "sha256": "b58a3b2676b3dc206b1044958874cdc2ad4965d40c26bdf1301f4ff29e2d6697"
+    },
+    {
+      "path": "dataset-cover-image.png",
+      "size_bytes": 2102591,
+      "sha256": "ed975d0237662fbdc677dc83794fbb1060a6b34385a9f0a14f4f163be7b68b35"
+    },
+    {
+      "path": "requirements.txt",
+      "size_bytes": 85,
+      "sha256": "a7dcaaede5fc5601ec83c3f99a6f4e4c3c763ea53e7d94851d83119a470bc4f7"
+    }
+  ]
+}

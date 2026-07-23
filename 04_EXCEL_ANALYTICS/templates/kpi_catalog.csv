@@ -1,0 +1,12 @@
+kpi,business_definition,preferred_table,preferred_field,calculation
+Year-end Headcount,Distinct active employees at FY2025 year-end.,01_dim_employee_fy2025.csv,employee_id,Distinct count where employment_status is Active at FY2025 year-end.
+FY2025 Hires,Total hires recorded during FY2025.,02_fact_monthly_hr_kpi_fy2025.csv,hires,Sum of hires.
+FY2025 Exits,Employees separated during FY2025.,06_fact_employee_separations_fy2025.csv,employee_id,Distinct count of employee_id.
+Turnover Rate,Employee exits divided by average headcount.,02_fact_monthly_hr_kpi_fy2025.csv,turnover_rate,Use the supplied monthly rate or calculate exits / average_headcount.
+Average Time to Fill,Average days required to close completed recruitment requisitions.,05_fact_recruitment_fy2025.csv,time_to_fill_days,Average of time_to_fill_days excluding blanks.
+Training Hours,Total employee training hours.,09_fact_training_development_fy2025.csv,hours,Sum of hours.
+Training Completion Rate,Share of training participation records marked completed.,09_fact_training_development_fy2025.csv,completion_status,Completed records / all training records.
+Average Performance Score,Mean FY2025 overall employee performance score.,11_fact_performance_evaluation_fy2025.csv,overall_score,Average of overall_score.
+Female Representation,Female employees as a share of active year-end employees.,01_dim_employee_fy2025.csv,gender,Distinct active female employees / distinct active employees.
+Monthly Gross Payroll,Total monthly gross compensation for employees in the compensation snapshot.,10_fact_compensation_benefits_fy2025.csv,monthly_gross,Sum of monthly_gross.
+Lost-Time Injuries,Count of safety incidents classified as lost-time injuries.,12_fact_health_safety_fy2025.csv,lost_time_injury,Count records where lost_time_injury is Yes.

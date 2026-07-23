@@ -1,0 +1,22 @@
+{
+  "release": "v2.3.0",
+  "validation_status": "complete",
+  "metadata_resources": 138,
+  "csv_resources": 62,
+  "documented_fields": 803,
+  "missing_file_descriptions": [],
+  "missing_column_descriptions": [],
+  "tags": [
+    "human resources",
+    "hr analytics",
+    "workforce analytics",
+    "employment",
+    "business",
+    "bangladesh",
+    "synthetic data",
+    "exploratory data analysis",
+    "data visualization",
+    "excel"
+  ],
+  "cover_image": "dataset-cover-image.png"
+}

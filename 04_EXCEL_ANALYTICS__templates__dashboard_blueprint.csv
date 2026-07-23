@@ -1,0 +1,7 @@
+page,purpose,recommended_visuals,primary_tables
+01 Executive Overview,Enterprise-level HR performance summary.,"KPI cards, monthly headcount line, turnover trend, department headcount bar, workforce composition donut.",02_fact_monthly_hr_kpi_fy2025; 03_fact_department_annual_summary_fy2025; 01_dim_employee_fy2025
+02 Workforce and Diversity,"Workforce mix, locations, levels and inclusion indicators.","Headcount by department, gender split, age-band chart, location map/bar, job-level matrix.",01_dim_employee_fy2025; 08_dim_diversity_inclusion_fy2025
+03 Recruitment,"Hiring funnel, source performance and time-to-fill.","Funnel, requisition status, hires by source, time-to-fill trend, recruitment cost by department.",05_fact_recruitment_fy2025
+04 Retention and Leave,"Turnover drivers, exits and absence patterns.","Exit reasons, regrettable exits, turnover trend, leave type, leave days by department.",06_fact_employee_separations_fy2025; 07_fact_leave_transactions_fy2025; 02_fact_monthly_hr_kpi_fy2025
+05 Learning and Performance,Training effectiveness and talent outcomes.,"Training hours, completion rate, assessment improvement, performance-rating distribution, potential/readiness matrix.",09_fact_training_development_fy2025; 11_fact_performance_evaluation_fy2025
+06 Compensation and HSE,Reward structure and workplace-safety monitoring.,"Gross pay by level, compa-ratio distribution, total reward, incidents by severity, days lost, corrective-action status.",10_fact_compensation_benefits_fy2025; 12_fact_health_safety_fy2025

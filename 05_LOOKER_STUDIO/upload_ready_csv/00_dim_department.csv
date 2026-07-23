@@ -1,0 +1,13 @@
+department_key,department,cost_center
+corporate_strategy,Corporate Strategy,CC-112
+customer_service,Customer Service,CC-110
+engineering_and_maintenance,Engineering & Maintenance,CC-107
+finance_and_accounts,Finance & Accounts,CC-104
+hr_and_administration,HR & Administration,CC-105
+information_technology,Information Technology,CC-108
+legal_and_compliance,Legal & Compliance,CC-111
+procurement,Procurement,CC-109
+production,Production,CC-101
+quality_assurance,Quality Assurance,CC-106
+sales_and_marketing,Sales & Marketing,CC-102
+supply_chain_and_logistics,Supply Chain & Logistics,CC-103

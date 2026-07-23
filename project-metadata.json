@@ -1,0 +1,26 @@
+{
+  "project": "Mokhles Group HR Analytics Demo 2025",
+  "release": "v2.3.0",
+  "owner": "Siam Ahmad Musa",
+  "country_context": "Bangladesh",
+  "period": "FY2025",
+  "data_classification": "Fully synthetic",
+  "original_csv_tables": 13,
+  "bi_ready_csv_tables": 15,
+  "analysis_ready_csv_tables": 2,
+  "quality_csv_tables": 3,
+  "looker_studio_csv_copies": 17,
+  "excel_workbooks": 14,
+  "metadata_resources": 138,
+  "csv_resources": 62,
+  "documented_fields": 803,
+  "supported_platforms": [
+    "Power BI Desktop",
+    "Excel Power Query and Power Pivot",
+    "Looker Studio",
+    "Tableau",
+    "Qlik Sense",
+    "Metabase",
+    "Python and Jupyter"
+  ]
+}

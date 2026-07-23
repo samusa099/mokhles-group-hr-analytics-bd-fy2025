@@ -1,0 +1,457 @@
+employee_id,employee_name,department,job_title,job_level,manager,goal_completion_percent,competency_score_1_5,attendance_score_percent,overall_score,performance_rating,rating_label,potential,promotion_readiness,calibration_status,primary_development_area
+MG-DHK-HRA-0001,Priyanka Kabir,HR & Administration,Senior Manager - HR,Senior Manager,Nusrat Jahan,69.7,4.3,89.6,76.6,2,Partially Meets,Medium,Develop in Current Role,Calibrated,Communication
+MG-DHK-SCL-0003,Riyad Akter,Supply Chain & Logistics,Store Assistant,Junior Staff,Mahmudul Hasan,90.3,3.95,100,87.9,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Leadership
+MG-GZP-PRD-0006,Jahid Chowdhury,Production,Line Coordinator,Junior Staff,Abdul Karim,107.6,3.68,92.6,95.9,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-DHK-SAM-0007,Tareq Akter,Sales & Marketing,Sales Representative,Junior Staff,Tanvir Ahmed,92.7,4.78,86.9,93,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Stakeholder Management
+MG-DHK-SAM-0009,Rashed Ahmed,Sales & Marketing,Sales Support Assistant,Worker,Tanvir Ahmed,100.3,4.24,94,95,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Communication
+MG-DHK-FIN-0010,Nabila Khatun,Finance & Accounts,Accounts Officer,Officer,Sadia Islam,99.9,3.92,82.3,91.7,4,Exceeds Expectations,High,Ready Now,Calibrated,Leadership
+MG-GZP-PRD-0011,Mehedi Jahan,Production,Planning Executive,Executive,Abdul Karim,95.4,3.59,94.3,88.2,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Communication
+MG-GZP-SAM-0012,Sadia Sultana,Sales & Marketing,Digital Marketing Executive,Executive,Farzana Rahman,78.6,4.03,92,80.5,3,Meets Expectations,Low,Develop in Current Role,Calibrated,Commercial Acumen
+MG-RAJ-QAS-0013,Faria Chowdhury,Quality Assurance,Senior QC Officer,Senior Officer,Ashikur Rahman,81.4,4.35,93.3,84.3,3,Meets Expectations,Medium,Ready in 1-2 Years,Pending Review,Leadership
+MG-GZP-SCL-0014,Mahmud Hasan,Supply Chain & Logistics,Supply Chain Executive,Executive,Rezaul Karim,105.8,4.02,89.9,96.6,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Commercial Acumen
+MG-CTG-SAM-0015,Rashed Ahmed,Sales & Marketing,Digital Marketing Executive,Executive,Tanvir Ahmed,111.4,3.81,96,99.3,4,Exceeds Expectations,High,Ready Now,Calibrated,Technical Capability
+MG-DHK-CST-0016,Nazmul Talukder,Corporate Strategy,Strategy Officer,Officer,Mushfiqur Rahman,58,3.95,96.5,68.1,2,Partially Meets,Medium,Develop in Current Role,Calibrated,Leadership
+MG-RAJ-SAM-0017,Ashik Mahmud,Sales & Marketing,Brand Officer,Officer,Farzana Rahman,69.6,3.85,90.1,73.8,2,Partially Meets,Medium,Develop in Current Role,Calibrated,Time Management
+MG-RAJ-HRA-0018,Rifat Uddin,HR & Administration,Administration Manager,Manager,Md. Imran Hossain,86.7,3.56,89.2,82.3,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Leadership
+MG-DHK-HRA-0019,Sultana Khatun,HR & Administration,HR Assistant,Junior Staff,Nusrat Jahan,91.4,3.4,96.3,84.9,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Leadership
+MG-DHK-FIN-0020,Fahim Khan,Finance & Accounts,Accounts Assistant,Junior Staff,Shafiqur Rahman,73.3,3.99,89.9,76.9,2,Partially Meets,High,Develop in Current Role,Calibrated,Technical Capability
+MG-DHK-FIN-0021,Md. Rahim Uddin,Finance & Accounts,Finance Officer,Officer,Shafiqur Rahman,98,4.55,100,96.1,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Time Management
+MG-CTG-PRD-0023,Jahid Karim,Production,Production Assistant,Junior Staff,Abdul Karim,84.7,3.93,95.9,84,3,Meets Expectations,High,Ready in 1-2 Years,Calibrated,Stakeholder Management
+MG-NGJ-PRD-0024,Sabbir Kabir,Production,Packing Assistant,Worker,Abdul Karim,83.5,3.31,91.3,79,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Data Literacy
+MG-GZP-SCL-0026,Asif Alam,Supply Chain & Logistics,Warehouse Supervisor,Senior Officer,Mahmudul Hasan,87.1,4.06,99.1,86.5,3,Meets Expectations,High,Ready in 1-2 Years,Calibrated,Commercial Acumen
+MG-GZP-SAM-0027,Mehedi Noor,Sales & Marketing,Regional Sales Manager,Senior Manager,Farzana Rahman,66.9,4.36,97.1,76,2,Partially Meets,Medium,Develop in Current Role,Calibrated,Technical Capability
+MG-CTG-SCL-0028,Md. Rahim Chowdhury,Supply Chain & Logistics,Warehouse Assistant,Worker,Rezaul Karim,81,3.61,100,80.2,3,Meets Expectations,High,Ready in 1-2 Years,Calibrated,Stakeholder Management
+MG-NGJ-QAS-0029,Priyanka Mahmud,Quality Assurance,Senior Manager - Quality,Senior Manager,Dr. Samira Sultana,82,4.18,95.4,83.8,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Stakeholder Management
+MG-GZP-CST-0030,Maliha Hasan,Corporate Strategy,Business Analyst,Officer,Mushfiqur Rahman,87.8,4.01,97.1,86.4,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-NGJ-SAM-0031,Saiful Karim,Sales & Marketing,Territory Sales Officer,Officer,Tanvir Ahmed,88.2,3.82,93.9,85.2,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Communication
+MG-DHK-FIN-0032,Ishrat Mahmud,Finance & Accounts,Cash Assistant,Junior Staff,Sadia Islam,91.7,3.89,98.6,88.2,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Communication
+MG-GZP-PRD-0033,Sabbir Bhuiyan,Production,Production Executive,Executive,Md. Shahidul Islam,80.5,4.54,100,85.5,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Leadership
+MG-DHK-HRA-0034,Nafisa Alam,HR & Administration,Admin Assistant,Junior Staff,Nusrat Jahan,62.9,4.26,94.2,72.7,2,Partially Meets,Medium,Develop in Current Role,Calibrated,Technical Capability
+MG-GZP-ENG-0035,Arif Rahman,Engineering & Maintenance,Maintenance Coordinator,Junior Staff,Rakibul Hasan,78.2,3.22,99,76.1,2,Partially Meets,Low,Develop in Current Role,Calibrated,Time Management
+MG-DHK-SAM-0036,Shakil Haque,Sales & Marketing,Brand Officer,Officer,Farzana Rahman,100.2,3.86,98.3,93.1,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Stakeholder Management
+MG-NGJ-ENG-0037,Arif Bhuiyan,Engineering & Maintenance,Mechanical Technician,Worker,Rakibul Hasan,100.3,4.44,91.4,96,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Communication
+MG-GZP-CST-0038,Sharmeen Ferdous,Corporate Strategy,Strategy Executive,Executive,Mushfiqur Rahman,106.3,3.38,88.5,92.9,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Leadership
+MG-NGJ-PRD-0039,Mst. Roksana Talukder,Production,Production Operator,Worker,Abdul Karim,99.4,3.36,88.2,88.6,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Leadership
+MG-GZP-HRA-0040,Shakil Ferdous,HR & Administration,Admin Assistant,Junior Staff,Md. Imran Hossain,104.6,3.82,88.7,94.6,4,Exceeds Expectations,High,Ready Now,Calibrated,Data Literacy
+MG-DHK-PRO-0041,Rakib Khatun,Procurement,Purchase Assistant,Junior Staff,Maliha Noor,71,4.51,88.5,78.6,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Data Literacy
+MG-CTG-QAS-0042,Hasan Kabir,Quality Assurance,QA Executive,Executive,Dr. Samira Sultana,91.6,3.67,89.3,85.9,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-NGJ-PRD-0043,Ayesha Kabir,Production,Packing Assistant,Worker,Md. Shahidul Islam,86.4,2.82,83.6,77.1,2,Partially Meets,Medium,Develop in Current Role,Calibrated,Commercial Acumen
+MG-DHK-SAM-0044,Afroza Akter,Sales & Marketing,Regional Sales Manager,Senior Manager,Tanvir Ahmed,60.9,4.18,96.3,71.2,2,Partially Meets,Medium,Develop in Current Role,Calibrated,Technical Capability
+MG-DHK-SAM-0045,Riyad Jahan,Sales & Marketing,Sales Representative,Junior Staff,Tanvir Ahmed,73.2,4.6,87.2,80.2,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Communication
+MG-DHK-PRD-0047,Asif Hossain,Production,Shift Officer,Officer,Abdul Karim,97.2,4.36,97.5,94.2,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Communication
+MG-NGJ-PRD-0048,Monir Noor,Production,Shift Supervisor,Senior Officer,Md. Shahidul Islam,97.9,4.07,89.2,92.1,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-RAJ-QAS-0049,Shakil Chowdhury,Quality Assurance,Compliance Manager,Manager,Dr. Samira Sultana,108.2,4,89.6,97.9,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Leadership
+MG-DHK-HRA-0050,Jahid Karim,HR & Administration,Senior Admin Officer,Senior Officer,Md. Imran Hossain,106.1,3.39,98.2,93.9,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Leadership
+MG-DHK-SAM-0051,Zahid Rashid,Sales & Marketing,Marketing Assistant,Junior Staff,Tanvir Ahmed,92.1,3.08,90.1,82.7,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Communication
+MG-DHK-CUS-0053,Tasnim Sarker,Customer Service,Customer Experience Executive,Executive,Jannatul Ferdous,92.6,2.92,91.7,82.3,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Data Literacy
+MG-DHK-CST-0054,Jahid Uddin,Corporate Strategy,Senior Strategy Officer,Senior Officer,Mushfiqur Rahman,93.6,3.31,88,84.8,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Leadership
+MG-GZP-PRD-0055,Nazmul Mahmud,Production,Senior Manager - Production,Senior Manager,Md. Shahidul Islam,107.3,3.28,96.4,93.7,4,Exceeds Expectations,High,Ready Now,Calibrated,Commercial Acumen
+MG-DHK-CST-0056,Rakib Haque,Corporate Strategy,Business Analyst,Officer,Anika Tasnim,105.3,3.82,95.4,95.7,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Communication
+MG-NGJ-SAM-0057,Sabbir Rahman,Sales & Marketing,Head of Sales & Marketing,Head,Tanvir Ahmed,77.5,4.23,95.3,81.4,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Communication
+MG-NGJ-SCL-0058,Sultana Khan,Supply Chain & Logistics,Dispatch Coordinator,Junior Staff,Mahmudul Hasan,83.9,4.39,86,85.3,3,Meets Expectations,High,Ready in 1-2 Years,Pending Review,Technical Capability
+MG-DHK-CST-0059,Sharmeen Rashid,Corporate Strategy,Strategy Manager,Manager,Anika Tasnim,88.4,4.8,87.7,90.6,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Commercial Acumen
+MG-NGJ-QAS-0060,Monir Bhuiyan,Quality Assurance,Quality Officer,Officer,Ashikur Rahman,90.7,3.89,90.3,86.8,3,Meets Expectations,High,Ready in 1-2 Years,Calibrated,Data Literacy
+MG-CTG-FIN-0062,Imran Alam,Finance & Accounts,Accounts Support Assistant,Worker,Shafiqur Rahman,76.2,3.9,95.6,78.7,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-GZP-SCL-0063,Md. Karim Noor,Supply Chain & Logistics,Planning Executive,Executive,Mahmudul Hasan,115.4,3.72,91,100.7,5,Outstanding,Medium,Ready in 1-2 Years,Pending Review,Data Literacy
+MG-NGJ-PRD-0065,Sabbir Kabir,Production,Production Assistant,Junior Staff,Abdul Karim,87.6,4.2,87.7,86.5,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Stakeholder Management
+MG-CTG-CUS-0066,Nusrat Alam,Customer Service,Service Quality Executive,Executive,Jannatul Ferdous,93,3.37,96.5,85.7,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Commercial Acumen
+MG-DHK-IT-0067,Kamrul Mia,Information Technology,Senior IT Officer,Senior Officer,Tanjina Akter,63.5,3.15,90.2,66.1,1,Needs Improvement,Medium,Develop in Current Role,Calibrated,Stakeholder Management
+MG-DHK-SAM-0068,Riyad Chowdhury,Sales & Marketing,Senior Brand Officer,Senior Officer,Tanvir Ahmed,100.7,3.63,98.1,92,4,Exceeds Expectations,Low,Develop in Current Role,Pending Review,Commercial Acumen
+MG-CTG-SAM-0069,Shafiq Akter,Sales & Marketing,Sales Support Assistant,Worker,Farzana Rahman,110.6,4.02,100,100.5,5,Outstanding,Medium,Ready in 1-2 Years,Calibrated,Leadership
+MG-GZP-PRD-0070,Nusrat Mahmud,Production,Packing Assistant,Worker,Md. Shahidul Islam,102.9,3.67,89.4,92.7,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Data Literacy
+MG-GZP-ENG-0071,Sanjida Bhuiyan,Engineering & Maintenance,Electrician,Worker,Rakibul Hasan,89.9,4.16,90.8,88,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Commercial Acumen
+MG-GZP-PRD-0072,Samira Noor,Production,Senior Production Officer,Senior Officer,Md. Shahidul Islam,91.5,3.37,91.9,84.3,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Communication
+MG-CTG-SCL-0073,Hasan Hossain,Supply Chain & Logistics,Logistics Officer,Officer,Mahmudul Hasan,120.4,4.43,93.4,108.1,5,Outstanding,Medium,Ready in 1-2 Years,Calibrated,Stakeholder Management
+MG-GZP-PRD-0074,Sharmin Chowdhury,Production,Shift Officer,Officer,Md. Shahidul Islam,101.7,3.5,95.3,91.6,4,Exceeds Expectations,High,Ready Now,Calibrated,Stakeholder Management
+MG-DHK-SAM-0075,Mizanur Rahman,Sales & Marketing,Sales Executive,Executive,Tanvir Ahmed,88.3,2.99,92.5,80.2,3,Meets Expectations,High,Ready in 1-2 Years,Pending Review,Technical Capability
+MG-DHK-CST-0076,Ishrat Akter,Corporate Strategy,Senior Business Analyst,Senior Officer,Anika Tasnim,72.4,3.82,100,76.4,2,Partially Meets,Medium,Develop in Current Role,Calibrated,Technical Capability
+MG-CTG-QAS-0077,Jahid Uddin,Quality Assurance,QC Technician,Junior Staff,Ashikur Rahman,72.3,4.07,93.3,77.2,2,Partially Meets,High,Develop in Current Role,Calibrated,Leadership
+MG-GZP-PRD-0078,Mahmud Hasan,Production,Senior Production Officer,Senior Officer,Abdul Karim,113.9,4.16,90,102.3,5,Outstanding,Medium,Ready in 1-2 Years,Calibrated,Time Management
+MG-DHK-FIN-0079,Nusrat Karim,Finance & Accounts,Accounts Manager,Manager,Shafiqur Rahman,102.5,3.81,87.7,93.1,4,Exceeds Expectations,High,Ready Now,Calibrated,Commercial Acumen
+MG-CTG-SAM-0080,Zahid Akter,Sales & Marketing,Marketing Assistant,Junior Staff,Tanvir Ahmed,81.8,3.97,95.1,82.4,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-CTG-ENG-0081,Nadia Jahan,Engineering & Maintenance,Senior Manager - Engineering,Senior Manager,Md. Moniruzzaman,82.8,4.21,91,84,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Leadership
+MG-GZP-PRD-0082,Ashik Jahan,Production,Production Operator,Worker,Abdul Karim,98.9,4,94.9,92.8,4,Exceeds Expectations,Low,Develop in Current Role,Calibrated,Communication
+MG-NGJ-PRD-0083,Farhan Rahman,Production,Planning Executive,Executive,Md. Shahidul Islam,92.7,4.08,89.4,89.1,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Time Management
+MG-DHK-SAM-0084,Nazmul Khan,Sales & Marketing,Sales Executive,Executive,Farzana Rahman,87.9,4.24,97.3,87.9,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Time Management
+MG-GZP-PRO-0085,Mahmud Hossain,Procurement,Procurement Officer,Officer,Ahsan Habib,95.4,3.24,89.8,85.7,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Leadership
+MG-DHK-PRD-0086,Priyanka Khan,Production,Senior Manager - Production,Senior Manager,Md. Shahidul Islam,104.5,3.99,93.6,96,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-GZP-SCL-0087,Tanvir Rahman,Supply Chain & Logistics,Logistics Officer,Officer,Mahmudul Hasan,92.5,3.13,96.5,84,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-GZP-PRO-0088,Tareq Bhuiyan,Procurement,Sourcing Officer,Officer,Maliha Noor,89.5,3.71,94.6,85.4,3,Meets Expectations,High,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-NGJ-HRA-0089,Hasan Ferdous,HR & Administration,HR Assistant,Junior Staff,Md. Imran Hossain,84.2,4.65,91.2,87.5,3,Meets Expectations,Low,Develop in Current Role,Calibrated,Technical Capability
+MG-GZP-SCL-0090,Kamrul Mahmud,Supply Chain & Logistics,Senior Manager - Supply Chain,Senior Manager,Mahmudul Hasan,77.8,3.99,100,80.6,3,Meets Expectations,Low,Develop in Current Role,Calibrated,Leadership
+MG-GZP-QAS-0091,Anika Alam,Quality Assurance,QC Technician,Junior Staff,Ashikur Rahman,83.7,4.67,93.1,87.6,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Leadership
+MG-DHK-CST-0092,Farzana Akter,Corporate Strategy,Senior Business Analyst,Senior Officer,Mushfiqur Rahman,110.3,3.26,93,95.1,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Stakeholder Management
+MG-DHK-CUS-0093,Tanvir Rashid,Customer Service,Senior Customer Service Officer,Senior Officer,Rashedul Islam,91.1,3.87,92.8,87.2,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Stakeholder Management
+MG-DHK-SAM-0094,Farhan Hasan,Sales & Marketing,Sales Support Assistant,Worker,Farzana Rahman,96,3.23,87.5,85.8,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Communication
+MG-CTG-SAM-0095,Tareq Karim,Sales & Marketing,Senior Territory Officer,Senior Officer,Tanvir Ahmed,101.9,3.6,91.9,91.9,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Pending Review,Leadership
+MG-GZP-PRD-0096,Rashed Mia,Production,Production Operator,Worker,Abdul Karim,65.6,4.34,92.1,74.6,2,Partially Meets,High,Develop in Current Role,Calibrated,Technical Capability
+MG-GZP-ENG-0097,Shuvo Mahmud,Engineering & Maintenance,Utilities Officer,Officer,Rakibul Hasan,92.3,3.51,92.6,85.7,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Time Management
+MG-CTG-SCL-0098,Shakil Rashid,Supply Chain & Logistics,Warehouse Supervisor,Senior Officer,Rezaul Karim,106.5,4.55,95,100.7,5,Outstanding,Medium,Ready in 1-2 Years,Calibrated,Leadership
+MG-CTG-SAM-0100,Moumita Sultana,Sales & Marketing,Sales Representative,Junior Staff,Farzana Rahman,114.9,3.57,97.6,100.1,5,Outstanding,High,Ready Now,Calibrated,Data Literacy
+MG-DHK-HRA-0101,Nabila Islam,HR & Administration,Senior Admin Officer,Senior Officer,Md. Imran Hossain,95,4.35,87.7,91.8,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-DHK-FIN-0102,Rumana Rashid,Finance & Accounts,Accounts Officer,Officer,Sadia Islam,90.3,3.87,93.8,86.7,3,Meets Expectations,Low,Develop in Current Role,Calibrated,Data Literacy
+MG-GZP-CST-0103,Mizanur Alam,Corporate Strategy,Senior Strategy Officer,Senior Officer,Anika Tasnim,75.5,2.58,97.1,70.5,2,Partially Meets,Medium,Develop in Current Role,Calibrated,Technical Capability
+MG-NGJ-IT-0104,Tareq Hasan,Information Technology,Junior Developer,Junior Staff,Tanjina Akter,83.9,3.8,90.1,82.2,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Stakeholder Management
+MG-GZP-SAM-0105,Faria Hasan,Sales & Marketing,Brand Manager,Manager,Farzana Rahman,96.8,3.64,93.2,89.3,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Leadership
+MG-GZP-PRD-0106,Mahmud Ahmed,Production,Production Officer,Officer,Abdul Karim,116.3,3.51,92.5,100.1,5,Outstanding,Medium,Ready in 1-2 Years,Calibrated,Commercial Acumen
+MG-NGJ-PRD-0107,Tanvir Islam,Production,Production Operator,Worker,Md. Shahidul Islam,84.4,4.58,97.7,87.9,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Time Management
+MG-GZP-SAM-0109,Monir Khan,Sales & Marketing,Sales Representative,Junior Staff,Farzana Rahman,111.3,3.47,88.8,96.4,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Commercial Acumen
+MG-GZP-QAS-0110,Fahim Kabir,Quality Assurance,QA Assistant,Junior Staff,Ashikur Rahman,74.6,3.64,100,76.6,2,Partially Meets,Medium,Develop in Current Role,Calibrated,Data Literacy
+MG-DHK-HRA-0111,Sharmin Alam,HR & Administration,HR Manager,Manager,Nusrat Jahan,85.8,3.56,89.7,81.8,3,Meets Expectations,High,Ready in 1-2 Years,Calibrated,Data Literacy
+MG-GZP-PRD-0112,Ashik Sarker,Production,Production Assistant,Junior Staff,Abdul Karim,83.5,4.11,92,83.9,3,Meets Expectations,High,Ready in 1-2 Years,Calibrated,Stakeholder Management
+MG-DHK-CST-0113,Sharmin Mia,Corporate Strategy,Strategy Executive,Executive,Anika Tasnim,89,3.54,90.1,83.6,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Data Literacy
+MG-GZP-FIN-0114,Hasan Mahmud,Finance & Accounts,Accounts Manager,Manager,Shafiqur Rahman,82.2,3.65,93.9,80.6,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Data Literacy
+MG-NGJ-PRD-0115,Fahim Karim,Production,Production Officer,Officer,Md. Shahidul Islam,98.7,3.3,92.2,88.3,3,Meets Expectations,High,Ready in 1-2 Years,Calibrated,Leadership
+MG-NGJ-PRD-0116,Rashed Sultana,Production,Production Assistant,Junior Staff,Md. Shahidul Islam,78.2,4.43,88.2,82.3,3,Meets Expectations,High,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-GZP-ENG-0117,Zahid Hasan,Engineering & Maintenance,Project Engineer,Executive,Rakibul Hasan,98,3.88,96.5,91.7,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Commercial Acumen
+MG-GZP-PRD-0118,Jahid Islam,Production,Shift Officer,Officer,Abdul Karim,59.9,4.06,95.5,69.8,2,Partially Meets,High,Develop in Current Role,Calibrated,Data Literacy
+MG-GZP-PRD-0119,Sumaiya Khatun,Production,Line Coordinator,Junior Staff,Md. Shahidul Islam,93.3,3.55,87.9,86.1,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Leadership
+MG-NGJ-PRD-0120,Nazmul Noor,Production,Machine Operator,Worker,Md. Shahidul Islam,97.3,4.49,94.2,94.7,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Commercial Acumen
+MG-CTG-SAM-0121,Imran Mia,Sales & Marketing,Brand Officer,Officer,Tanvir Ahmed,93.9,4.3,96.8,91.8,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Time Management
+MG-NGJ-SAM-0123,Rafiq Ahmed,Sales & Marketing,Marketing Assistant,Junior Staff,Tanvir Ahmed,112,3.87,97.5,100.1,5,Outstanding,Medium,Ready in 1-2 Years,Calibrated,Time Management
+MG-NGJ-QAS-0124,Zahid Rashid,Quality Assurance,Lab Assistant,Worker,Dr. Samira Sultana,87,3.7,93.1,83.7,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-GZP-QAS-0126,Mim Sarker,Quality Assurance,Quality Inspector,Worker,Dr. Samira Sultana,117.8,3.87,98,103.7,5,Outstanding,Medium,Ready in 1-2 Years,Calibrated,Stakeholder Management
+MG-DHK-FIN-0127,Ayesha Bhuiyan,Finance & Accounts,Senior Finance Officer,Senior Officer,Sadia Islam,99.8,4.52,92.8,96.2,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Time Management
+MG-DHK-SAM-0128,Rashed Islam,Sales & Marketing,Marketing Assistant,Junior Staff,Farzana Rahman,96.2,4.32,94.6,93.1,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Communication
+MG-DHK-SAM-0129,Kamrul Uddin,Sales & Marketing,Marketing Assistant,Junior Staff,Farzana Rahman,77.1,3.79,89.9,78,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Stakeholder Management
+MG-CTG-SAM-0130,Jahid Ahmed,Sales & Marketing,Brand Officer,Officer,Tanvir Ahmed,76.5,3.34,93.6,75.4,2,Partially Meets,Low,Develop in Current Role,Pending Review,Communication
+MG-DHK-FIN-0132,Kamrul Ferdous,Finance & Accounts,Senior Manager - Finance,Senior Manager,Sadia Islam,101.9,3.77,96.2,93.4,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Pending Review,Stakeholder Management
+MG-GZP-PRD-0133,Shakil Uddin,Production,Shift Supervisor,Senior Officer,Abdul Karim,64.2,3.39,96.7,68.5,2,Partially Meets,High,Develop in Current Role,Pending Review,Leadership
+MG-DHK-FIN-0134,Zahid Rashid,Finance & Accounts,Finance Manager,Manager,Sadia Islam,85.3,3.48,95.7,81.6,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Commercial Acumen
+MG-NGJ-PRD-0135,Saiful Islam,Production,Production Operator,Worker,Abdul Karim,96.7,3.78,93.9,90.1,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Commercial Acumen
+MG-DHK-SAM-0136,Ayesha Akter,Sales & Marketing,Sales Representative,Junior Staff,Tanvir Ahmed,96.5,4.13,95.7,92.2,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-GZP-PRD-0137,Rifat Rashid,Production,Line Coordinator,Junior Staff,Abdul Karim,115,4.08,89.8,102.5,5,Outstanding,Medium,Ready in 1-2 Years,Calibrated,Leadership
+MG-GZP-QAS-0138,Saiful Jahan,Quality Assurance,Quality Officer,Officer,Ashikur Rahman,97.1,3.87,97.8,91.3,4,Exceeds Expectations,Low,Develop in Current Role,Calibrated,Commercial Acumen
+MG-DHK-FIN-0139,Nadia Mahmud,Finance & Accounts,Finance Officer,Officer,Shafiqur Rahman,84.8,4.14,94.2,85.1,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Stakeholder Management
+MG-GZP-QAS-0140,Nayeem Noor,Quality Assurance,QA Assistant,Junior Staff,Dr. Samira Sultana,81.2,3.13,100,77.5,2,Partially Meets,Medium,Develop in Current Role,Calibrated,Stakeholder Management
+MG-GZP-QAS-0141,Ashik Akter,Quality Assurance,Quality Officer,Officer,Ashikur Rahman,62.7,3.82,98.9,70.4,2,Partially Meets,Low,Develop in Current Role,Calibrated,Stakeholder Management
+MG-GZP-SAM-0142,Md. Rahim Talukder,Sales & Marketing,Territory Sales Officer,Officer,Tanvir Ahmed,74.5,4.41,91.7,80.3,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-DHK-SAM-0143,Shuvo Bhuiyan,Sales & Marketing,Sales Representative,Junior Staff,Tanvir Ahmed,69.5,3.57,100,73.1,2,Partially Meets,Medium,Develop in Current Role,Calibrated,Time Management
+MG-NGJ-ENG-0144,Mahmud Khan,Engineering & Maintenance,Senior Manager - Engineering,Senior Manager,Rakibul Hasan,86.1,4.82,93.9,90,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Stakeholder Management
+MG-DHK-IT-0145,Mehedi Rahman,Information Technology,IT Officer,Officer,Tanjina Akter,105.7,4.48,89.4,99.3,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Pending Review,Stakeholder Management
+MG-GZP-PRD-0146,Asif Jahan,Production,Line Coordinator,Junior Staff,Abdul Karim,77.3,4.33,80.5,80.4,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Communication
+MG-CTG-ENG-0147,Mahmud Islam,Engineering & Maintenance,Technical Assistant,Junior Staff,Md. Moniruzzaman,81.6,3.7,89,80,3,Meets Expectations,Low,Develop in Current Role,Calibrated,Leadership
+MG-GZP-QAS-0148,Afroza Akter,Quality Assurance,QA Assistant,Junior Staff,Dr. Samira Sultana,90.5,4.02,99.3,88.4,3,Meets Expectations,High,Ready in 1-2 Years,Calibrated,Commercial Acumen
+MG-DHK-HRA-0150,Anika Karim,HR & Administration,Admin Officer,Officer,Nusrat Jahan,63.4,5,88.8,76.9,2,Partially Meets,Medium,Develop in Current Role,Calibrated,Time Management
+MG-DHK-SAM-0151,Ahsan Mahmud,Sales & Marketing,Sales Executive,Executive,Farzana Rahman,110.9,3.63,96.8,98,4,Exceeds Expectations,High,Ready Now,Calibrated,Time Management
+MG-DHK-CST-0152,Lubna Islam,Corporate Strategy,Business Research Assistant,Junior Staff,Mushfiqur Rahman,87.7,4.29,83.6,86.7,3,Meets Expectations,High,Ready in 1-2 Years,Calibrated,Leadership
+MG-GZP-HRA-0154,Maliha Islam,HR & Administration,HR Officer,Officer,Nusrat Jahan,95.9,3.86,93.8,90.1,4,Exceeds Expectations,High,Ready Now,Calibrated,Leadership
+MG-GZP-PRD-0156,Rafiq Uddin,Production,Senior Production Officer,Senior Officer,Md. Shahidul Islam,87.8,4.36,100,88.9,3,Meets Expectations,Low,Develop in Current Role,Calibrated,Time Management
+MG-NGJ-FIN-0157,Mizanur Hasan,Finance & Accounts,Cash Assistant,Junior Staff,Shafiqur Rahman,74.9,3.13,91.6,72.9,2,Partially Meets,Medium,Develop in Current Role,Calibrated,Data Literacy
+MG-DHK-LGL-0159,Shakil Sultana,Legal & Compliance,Senior Legal Officer,Senior Officer,Shamim Ahmed,88.5,3.09,97.2,81.4,3,Meets Expectations,High,Ready in 1-2 Years,Calibrated,Communication
+MG-GZP-SCL-0160,Shafiq Sarker,Supply Chain & Logistics,Inventory Officer,Officer,Mahmudul Hasan,105.4,4.84,98.1,102.1,5,Outstanding,Medium,Ready in 1-2 Years,Calibrated,Commercial Acumen
+MG-NGJ-PRO-0161,Jahid Bhuiyan,Procurement,Vendor Coordinator,Junior Staff,Ahsan Habib,81.4,3.78,90.2,80.6,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Time Management
+MG-DHK-HRA-0162,Rumana Haque,HR & Administration,HR Officer,Officer,Md. Imran Hossain,80.6,4.6,100,85.9,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-NGJ-PRD-0163,Shakil Sarker,Production,Shift Officer,Officer,Abdul Karim,85.8,4.37,96.8,87.3,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Leadership
+MG-DHK-CST-0164,Mim Rahman,Corporate Strategy,PMO Manager,Manager,Mushfiqur Rahman,76.1,3.51,94.6,76.2,2,Partially Meets,Medium,Develop in Current Role,Calibrated,Commercial Acumen
+MG-NGJ-PRD-0166,Jahid Mahmud,Production,Senior Manager - Production,Senior Manager,Abdul Karim,93.4,4.59,97.6,93.3,4,Exceeds Expectations,High,Ready Now,Calibrated,Communication
+MG-GZP-SCL-0167,Priyanka Sultana,Supply Chain & Logistics,Dispatch Coordinator,Junior Staff,Rezaul Karim,91.9,3.59,98.5,86.5,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Leadership
+MG-GZP-QAS-0168,Sadia Mahmud,Quality Assurance,Lab Assistant,Worker,Ashikur Rahman,92.8,4.06,89.4,89,3,Meets Expectations,High,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-DHK-PRO-0169,Tareq Alam,Procurement,Vendor Management Executive,Executive,Ahsan Habib,75.5,3.73,97.2,77.4,2,Partially Meets,Medium,Develop in Current Role,Calibrated,Technical Capability
+MG-DHK-SAM-0170,Ashik Kabir,Sales & Marketing,Area Sales Manager,Manager,Farzana Rahman,98.2,3.61,93.2,89.9,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Leadership
+MG-DHK-FIN-0171,Mizanur Haque,Finance & Accounts,Finance Manager,Manager,Shafiqur Rahman,86.2,4.12,99.4,86.4,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Time Management
+MG-GZP-PRD-0172,Raisa Talukder,Production,Production Operator,Worker,Abdul Karim,84.5,4.37,90.4,86,3,Meets Expectations,Low,Develop in Current Role,Calibrated,Stakeholder Management
+MG-DHK-FIN-0173,Tanvir Khatun,Finance & Accounts,Finance Officer,Officer,Shafiqur Rahman,76.8,4.47,92.9,82.2,3,Meets Expectations,Medium,Ready in 1-2 Years,Pending Review,Leadership
+MG-NGJ-PRD-0174,Mahmud Alam,Production,Line Coordinator,Junior Staff,Md. Shahidul Islam,107.4,4.25,87.5,98.7,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Pending Review,Time Management
+MG-NGJ-QAS-0175,Riyad Mahmud,Quality Assurance,Regulatory Executive,Executive,Dr. Samira Sultana,110.1,2.8,95.7,92.4,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-DHK-LGL-0176,Mahmud Jahan,Legal & Compliance,Compliance Manager,Manager,Barrister Nafisa Karim,91.9,3.61,88.4,85.6,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Data Literacy
+MG-CTG-SAM-0177,Nabila Alam,Sales & Marketing,Marketing Assistant,Junior Staff,Farzana Rahman,87,3.81,93.9,84.5,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Data Literacy
+MG-DHK-HRA-0178,Ishrat Ferdous,HR & Administration,HR Executive,Executive,Md. Imran Hossain,73.1,3.96,93.6,77,2,Partially Meets,Low,Develop in Current Role,Calibrated,Communication
+MG-RAJ-SAM-0179,Tanjina Rahman,Sales & Marketing,Sales Representative,Junior Staff,Farzana Rahman,98.6,3.14,100,88,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Leadership
+MG-GZP-PRD-0180,Lubna Sarker,Production,Production Assistant,Junior Staff,Md. Shahidul Islam,97.1,4.63,97.2,95.8,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Leadership
+MG-GZP-QAS-0181,Tareq Akter,Quality Assurance,Senior Quality Officer,Senior Officer,Ashikur Rahman,102.5,3.74,94,93.3,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Commercial Acumen
+MG-GZP-PRD-0182,Md. Karim Islam,Production,Plant Operations Manager,Manager,Abdul Karim,83.9,4.18,92.4,84.7,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Stakeholder Management
+MG-DHK-PRD-0184,Ahsan Mia,Production,Production Assistant,Junior Staff,Abdul Karim,91,2.6,82.4,78.4,3,Meets Expectations,High,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-GZP-SCL-0185,Priyanka Hasan,Supply Chain & Logistics,Inventory Officer,Officer,Mahmudul Hasan,117.7,3.98,100,104.5,5,Outstanding,Low,Develop in Current Role,Calibrated,Technical Capability
+MG-DHK-HRA-0187,Mahmud Kabir,HR & Administration,HR Officer,Officer,Nusrat Jahan,87.7,3.6,97.8,84,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Leadership
+MG-NGJ-PRD-0189,Nazmul Haque,Production,Packing Assistant,Worker,Md. Shahidul Islam,85.3,3.85,94.8,83.8,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Data Literacy
+MG-DHK-HRA-0191,Tanvir Mahmud,HR & Administration,Senior HR Officer,Senior Officer,Nusrat Jahan,92.9,5,99.7,95.7,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-NGJ-PRD-0192,Priyanka Karim,Production,Production Assistant,Junior Staff,Abdul Karim,87,3.84,100,85.3,3,Meets Expectations,High,Ready in 1-2 Years,Calibrated,Leadership
+MG-CTG-PRD-0193,Tareq Mahmud,Production,Production Operator,Worker,Abdul Karim,88.2,3.52,96.6,83.7,3,Meets Expectations,Low,Develop in Current Role,Calibrated,Leadership
+MG-GZP-SCL-0194,Nayeem Uddin,Supply Chain & Logistics,Supply Chain Executive,Executive,Mahmudul Hasan,106.8,4.19,92.3,98.5,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Time Management
+MG-GZP-PRD-0195,Farhan Bhuiyan,Production,Production Executive,Executive,Md. Shahidul Islam,100.3,4.15,91.8,94.3,4,Exceeds Expectations,Low,Develop in Current Role,Calibrated,Technical Capability
+MG-GZP-IT-0196,Nazmul Mia,Information Technology,Software Engineer,Executive,Tanjina Akter,95.2,3.71,90.7,88.5,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Stakeholder Management
+MG-DHK-QAS-0197,Md. Rahim Talukder,Quality Assurance,QA Assistant,Junior Staff,Ashikur Rahman,87.7,3.93,100,86.2,3,Meets Expectations,Low,Develop in Current Role,Calibrated,Technical Capability
+MG-NGJ-ENG-0198,Rafiq Mia,Engineering & Maintenance,Mechanical Technician,Worker,Rakibul Hasan,82.2,4.12,94.3,83.4,3,Meets Expectations,High,Ready in 1-2 Years,Calibrated,Commercial Acumen
+MG-GZP-PRD-0199,Jahid Hasan,Production,Line Coordinator,Junior Staff,Abdul Karim,96.9,4.22,89.5,92.4,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Communication
+MG-NGJ-CUS-0200,Afroza Islam,Customer Service,Customer Experience Executive,Executive,Rashedul Islam,88.1,4.01,93.9,86.3,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Time Management
+MG-DHK-SAM-0201,Mehedi Karim,Sales & Marketing,Sales Executive,Executive,Farzana Rahman,90.1,3.21,91.5,82.4,3,Meets Expectations,High,Ready in 1-2 Years,Calibrated,Leadership
+MG-GZP-PRD-0202,Nadia Noor,Production,Shift Officer,Officer,Md. Shahidul Islam,82.3,3.94,86.8,81.7,3,Meets Expectations,Low,Develop in Current Role,Calibrated,Technical Capability
+MG-DHK-FIN-0203,Mizanur Hasan,Finance & Accounts,Accounts Officer,Officer,Shafiqur Rahman,117.1,3.72,94.7,102.1,5,Outstanding,Medium,Ready in 1-2 Years,Calibrated,Communication
+MG-GZP-SAM-0204,Sabbir Mia,Sales & Marketing,Senior Brand Officer,Senior Officer,Tanvir Ahmed,92.8,4.14,99.3,90.4,4,Exceeds Expectations,Low,Develop in Current Role,Calibrated,Time Management
+MG-GZP-FIN-0205,Farhan Islam,Finance & Accounts,Senior Accounts Officer,Senior Officer,Shafiqur Rahman,84,5,93,89.7,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Commercial Acumen
+MG-CTG-PRD-0206,Hasan Kabir,Production,Shift Supervisor,Senior Officer,Abdul Karim,100.6,4.34,98.5,96.2,4,Exceeds Expectations,Low,Develop in Current Role,Calibrated,Time Management
+MG-DHK-IT-0207,Rafiq Hossain,Information Technology,Junior Developer,Junior Staff,Tanjina Akter,67.1,4.38,92.1,75.7,2,Partially Meets,Medium,Develop in Current Role,Calibrated,Leadership
+MG-CTG-SAM-0208,Imran Alam,Sales & Marketing,Brand Manager,Manager,Tanvir Ahmed,97.1,2.86,98.2,85.3,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Communication
+MG-DHK-SAM-0209,Ashik Mia,Sales & Marketing,Senior Brand Officer,Senior Officer,Farzana Rahman,90.2,4.16,89.1,88,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Data Literacy
+MG-GZP-SCL-0211,Hasan Hossain,Supply Chain & Logistics,Supply Chain Executive,Executive,Rezaul Karim,100.2,4.58,98.8,97.5,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Time Management
+MG-DHK-CUS-0212,Riyad Rahman,Customer Service,Complaint Resolution Officer,Officer,Jannatul Ferdous,98.3,3.09,95.7,87.1,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Leadership
+MG-DHK-FIN-0213,Tasnim Akter,Finance & Accounts,Accounts Assistant,Junior Staff,Sadia Islam,105.4,4.03,93.2,96.8,4,Exceeds Expectations,Low,Develop in Current Role,Calibrated,Leadership
+MG-GZP-PRD-0214,Tareq Khan,Production,Production Officer,Officer,Md. Shahidul Islam,67.4,3.84,92.7,72.8,2,Partially Meets,Medium,Develop in Current Role,Calibrated,Commercial Acumen
+MG-GZP-PRD-0215,Zahid Haque,Production,Machine Operator,Worker,Md. Shahidul Islam,97.2,4.14,97.6,92.9,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Time Management
+MG-RAJ-ENG-0216,Sabbir Ahmed,Engineering & Maintenance,Utilities Officer,Officer,Rakibul Hasan,105.5,4.15,86.9,96.9,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Data Literacy
+MG-CTG-SCL-0218,Rashed Talukder,Supply Chain & Logistics,Warehouse Assistant,Worker,Rezaul Karim,97.9,4.03,99,92.8,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Pending Review,Data Literacy
+MG-GZP-ENG-0219,Hasan Mia,Engineering & Maintenance,Mechanical Technician,Worker,Rakibul Hasan,80,4.08,89.1,81.4,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Commercial Acumen
+MG-CTG-HRA-0220,Sumaiya Khatun,HR & Administration,HR Executive,Executive,Md. Imran Hossain,86,3.55,87.8,81.7,3,Meets Expectations,High,Ready in 1-2 Years,Calibrated,Leadership
+MG-DHK-CST-0221,Arif Mia,Corporate Strategy,Senior Business Analyst,Senior Officer,Anika Tasnim,100.6,4.02,87.9,93.3,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Communication
+MG-GZP-SCL-0222,Jahid Sarker,Supply Chain & Logistics,Warehouse Supervisor,Senior Officer,Mahmudul Hasan,108.4,3.35,79.5,93.1,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Time Management
+MG-RAJ-SAM-0223,Kamrul Kabir,Sales & Marketing,Sales Representative,Junior Staff,Farzana Rahman,70.8,3.64,86.9,73.1,2,Partially Meets,High,Develop in Current Role,Calibrated,Stakeholder Management
+MG-GZP-HRA-0224,Mst. Roksana Rashid,HR & Administration,Admin Officer,Officer,Md. Imran Hossain,92.5,4.43,93.9,91.4,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Leadership
+MG-DHK-FIN-0225,Rifat Rahman,Finance & Accounts,Senior Finance Officer,Senior Officer,Shafiqur Rahman,100.2,4.53,88.1,96.1,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Data Literacy
+MG-NGJ-PRD-0226,Sabbir Chowdhury,Production,Machine Operator,Worker,Md. Shahidul Islam,113.2,3.57,92.7,98.6,4,Exceeds Expectations,High,Ready Now,Calibrated,Time Management
+MG-GZP-PRD-0228,Shuvo Ahmed,Production,Production Officer,Officer,Md. Shahidul Islam,98.1,4.44,90.6,94.5,4,Exceeds Expectations,Low,Develop in Current Role,Calibrated,Time Management
+MG-CTG-CST-0229,Afroza Islam,Corporate Strategy,Senior Strategy Officer,Senior Officer,Anika Tasnim,98.2,3.8,89.6,90.7,4,Exceeds Expectations,High,Ready Now,Pending Review,Technical Capability
+MG-GZP-SCL-0230,Rashed Rashid,Supply Chain & Logistics,Inventory Officer,Officer,Mahmudul Hasan,90,4.19,97.1,88.9,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Leadership
+MG-CTG-SAM-0232,Jannatul Ferdous,Sales & Marketing,Digital Marketing Executive,Executive,Tanvir Ahmed,89.7,3.89,97.2,86.9,3,Meets Expectations,High,Ready in 1-2 Years,Calibrated,Time Management
+MG-GZP-PRD-0233,Saiful Alam,Production,Line Coordinator,Junior Staff,Abdul Karim,95.7,3.99,97.9,91.1,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-NGJ-SCL-0234,Shakil Bhuiyan,Supply Chain & Logistics,Logistics Officer,Officer,Mahmudul Hasan,109.2,3.9,94.3,98.4,4,Exceeds Expectations,High,Ready Now,Calibrated,Communication
+MG-GZP-SCL-0235,Md. Rahim Kabir,Supply Chain & Logistics,Dispatch Coordinator,Junior Staff,Mahmudul Hasan,69.7,4.9,95.1,80.7,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Commercial Acumen
+MG-GZP-PRO-0236,Riyad Kabir,Procurement,Purchase Assistant,Junior Staff,Maliha Noor,98.3,4.05,93.8,92.7,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Data Literacy
+MG-GZP-FIN-0237,Saiful Haque,Finance & Accounts,Finance Executive,Executive,Shafiqur Rahman,91.9,4.83,86.6,92.8,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Data Literacy
+MG-GZP-PRD-0238,Shuvo Khan,Production,Planning Executive,Executive,Md. Shahidul Islam,106,3.96,89.5,96.3,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Leadership
+MG-DHK-SCL-0239,Mim Chowdhury,Supply Chain & Logistics,Loader,Worker,Mahmudul Hasan,84.4,2.83,93.5,77,2,Partially Meets,Medium,Develop in Current Role,Calibrated,Commercial Acumen
+MG-CTG-SAM-0241,Anika Khan,Sales & Marketing,Brand Manager,Manager,Farzana Rahman,75.6,3.98,100,79.2,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Data Literacy
+MG-CTG-QAS-0242,Moumita Khan,Quality Assurance,Quality Officer,Officer,Dr. Samira Sultana,89,4.07,100,87.8,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Stakeholder Management
+MG-GZP-IT-0243,Rakib Rahman,Information Technology,Senior IT Officer,Senior Officer,Sabbir Hossain,109.5,4.33,95.1,101.2,5,Outstanding,Medium,Ready in 1-2 Years,Pending Review,Technical Capability
+MG-NGJ-PRD-0244,Md. Rahim Uddin,Production,Packing Assistant,Worker,Md. Shahidul Islam,79.4,3.61,97,79,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Communication
+MG-GZP-PRD-0245,Farzana Haque,Production,Production Executive,Executive,Md. Shahidul Islam,79,3.67,95.1,78.9,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Leadership
+MG-GZP-SAM-0246,Mahmud Sarker,Sales & Marketing,Brand Officer,Officer,Farzana Rahman,87.1,3.81,88,83.9,3,Meets Expectations,High,Ready in 1-2 Years,Calibrated,Leadership
+MG-GZP-PRD-0247,Shakil Talukder,Production,Shift Officer,Officer,Md. Shahidul Islam,96.5,4.52,91.8,94.2,4,Exceeds Expectations,Low,Develop in Current Role,Pending Review,Communication
+MG-RAJ-SCL-0248,Rashed Chowdhury,Supply Chain & Logistics,Loader,Worker,Mahmudul Hasan,102.7,4.25,89.9,96.1,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Data Literacy
+MG-DHK-SAM-0250,Imran Sarker,Sales & Marketing,Area Sales Manager,Manager,Farzana Rahman,81.1,3.91,92.6,81.4,3,Meets Expectations,Medium,Ready in 1-2 Years,Pending Review,Data Literacy
+MG-DHK-HRA-0251,Mst. Roksana Chowdhury,HR & Administration,HR Manager,Manager,Nusrat Jahan,104.1,3.17,94.8,91,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Communication
+MG-NGJ-CUS-0252,Rakib Alam,Customer Service,Customer Service Representative,Junior Staff,Rashedul Islam,81.3,3.1,94.5,76.8,2,Partially Meets,Medium,Develop in Current Role,Calibrated,Communication
+MG-GZP-ENG-0253,Saiful Khan,Engineering & Maintenance,Maintenance Coordinator,Junior Staff,Rakibul Hasan,80,3.76,88.5,79.4,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Data Literacy
+MG-DHK-PRO-0254,Shafiq Hossain,Procurement,Vendor Coordinator,Junior Staff,Maliha Noor,88.5,4.26,96.5,88.3,3,Meets Expectations,Medium,Ready in 1-2 Years,Pending Review,Leadership
+MG-DHK-CST-0255,Moumita Alam,Corporate Strategy,Business Analyst,Officer,Mushfiqur Rahman,104.7,4.01,94.8,96.3,4,Exceeds Expectations,High,Ready Now,Calibrated,Time Management
+MG-GZP-PRD-0256,Jahid Haque,Production,Line Coordinator,Junior Staff,Md. Shahidul Islam,86.3,3.55,97.9,82.9,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Time Management
+MG-NGJ-PRD-0257,Nazmul Alam,Production,Packing Assistant,Worker,Abdul Karim,98.2,3.66,93.5,90.3,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Data Literacy
+MG-NGJ-QAS-0260,Fahim Hasan,Quality Assurance,QC Technician,Junior Staff,Dr. Samira Sultana,88.8,4.14,100,88.2,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-RAJ-SAM-0261,Nafisa Islam,Sales & Marketing,Senior Brand Officer,Senior Officer,Farzana Rahman,91.7,4.12,89.9,88.8,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Communication
+MG-DHK-SAM-0262,Zahid Noor,Sales & Marketing,Regional Sales Manager,Senior Manager,Farzana Rahman,93.5,3.69,88.7,87.1,3,Meets Expectations,Low,Develop in Current Role,Calibrated,Data Literacy
+MG-DHK-HRA-0263,Ayesha Hasan,HR & Administration,HR Manager,Manager,Nusrat Jahan,84,3.58,94.9,81.4,3,Meets Expectations,High,Ready in 1-2 Years,Calibrated,Data Literacy
+MG-GZP-SAM-0264,Sabbir Chowdhury,Sales & Marketing,Sales Executive,Executive,Farzana Rahman,86,2.9,94.5,78.5,3,Meets Expectations,Low,Develop in Current Role,Calibrated,Commercial Acumen
+MG-DHK-HRA-0265,Jahid Karim,HR & Administration,Senior Admin Officer,Senior Officer,Nusrat Jahan,95.2,4.74,91.8,94.8,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-GZP-PRD-0266,Farhan Islam,Production,Machine Operator,Worker,Abdul Karim,90.8,4.59,96.7,91.7,4,Exceeds Expectations,Low,Develop in Current Role,Calibrated,Time Management
+MG-DHK-CST-0267,Saiful Rahman,Corporate Strategy,Senior Business Analyst,Senior Officer,Anika Tasnim,87.8,3.91,96.1,85.7,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Data Literacy
+MG-DHK-FIN-0268,Mizanur Mahmud,Finance & Accounts,Senior Manager - Finance,Senior Manager,Sadia Islam,85.9,4.25,93.2,86.3,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Stakeholder Management
+MG-GZP-SCL-0269,Md. Karim Akter,Supply Chain & Logistics,Planning Executive,Executive,Mahmudul Hasan,103,3.47,95.7,92.2,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Leadership
+MG-NGJ-PRD-0271,Hasan Ferdous,Production,Production Operator,Worker,Abdul Karim,85.1,3.63,97.9,82.6,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Leadership
+MG-GZP-PRD-0272,Arif Rashid,Production,Production Operator,Worker,Abdul Karim,101,3.54,97.2,91.6,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Communication
+MG-CTG-SAM-0273,Rafiq Chowdhury,Sales & Marketing,Regional Sales Manager,Senior Manager,Farzana Rahman,106.9,3.75,100,96.6,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Leadership
+MG-GZP-ENG-0275,Monir Rahman,Engineering & Maintenance,Senior Maintenance Officer,Senior Officer,Md. Moniruzzaman,87.6,4.21,100,87.8,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Communication
+MG-NGJ-CUS-0276,Sabbir Karim,Customer Service,Service Quality Executive,Executive,Rashedul Islam,84.5,4.34,100,86.8,3,Meets Expectations,High,Ready in 1-2 Years,Calibrated,Stakeholder Management
+MG-GZP-QAS-0277,Zahid Chowdhury,Quality Assurance,Quality Inspector,Worker,Dr. Samira Sultana,114.4,4.43,98.7,105.1,5,Outstanding,Medium,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-DHK-SCL-0278,Ahsan Jahan,Supply Chain & Logistics,Loader,Worker,Mahmudul Hasan,73.5,3.52,93.3,74.5,2,Partially Meets,Medium,Develop in Current Role,Pending Review,Stakeholder Management
+MG-RAJ-SCL-0279,Shafiq Mia,Supply Chain & Logistics,Planning Executive,Executive,Rezaul Karim,78.5,3.96,88,79.7,3,Meets Expectations,Low,Develop in Current Role,Calibrated,Data Literacy
+MG-GZP-SAM-0280,Rakib Ahmed,Sales & Marketing,Territory Sales Officer,Officer,Tanvir Ahmed,88.1,3.51,100,83.9,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Time Management
+MG-GZP-ENG-0282,Shafiq Noor,Engineering & Maintenance,Mechanical Technician,Worker,Rakibul Hasan,95.1,4.49,96.3,93.6,4,Exceeds Expectations,High,Ready Now,Pending Review,Data Literacy
+MG-DHK-HRA-0283,Samira Chowdhury,HR & Administration,Head of Human Resources,Head,Nusrat Jahan,83.3,4.58,96.7,87.1,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Data Literacy
+MG-GZP-SAM-0284,Nazmul Talukder,Sales & Marketing,Digital Marketing Executive,Executive,Farzana Rahman,98.3,3.81,90.1,90.9,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Commercial Acumen
+MG-NGJ-PRD-0285,Asif Talukder,Production,Production Manager,Manager,Abdul Karim,75,3.73,89.2,76.3,2,Partially Meets,Medium,Develop in Current Role,Calibrated,Communication
+MG-NGJ-PRD-0286,Nazmul Jahan,Production,Shift Officer,Officer,Md. Shahidul Islam,83.7,4.47,100,87,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Leadership
+MG-NGJ-PRD-0287,Tasnim Islam,Production,Production Operator,Worker,Abdul Karim,82.9,3.37,100,79.9,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-DHK-FIN-0289,Sadia Ferdous,Finance & Accounts,Senior Accounts Officer,Senior Officer,Sadia Islam,89.2,2.84,91.8,79.8,3,Meets Expectations,High,Ready in 1-2 Years,Calibrated,Commercial Acumen
+MG-GZP-PRD-0290,Shakil Karim,Production,Senior Production Officer,Senior Officer,Abdul Karim,88,4.38,92.9,88.4,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Time Management
+MG-NGJ-SAM-0291,Mim Mahmud,Sales & Marketing,Territory Sales Officer,Officer,Farzana Rahman,67.7,4.19,90.5,74.9,2,Partially Meets,High,Develop in Current Role,Calibrated,Communication
+MG-NGJ-ENG-0292,Fahim Rahman,Engineering & Maintenance,Senior Maintenance Officer,Senior Officer,Md. Moniruzzaman,90.2,3.27,91.5,82.9,3,Meets Expectations,High,Ready in 1-2 Years,Pending Review,Technical Capability
+MG-NGJ-SCL-0295,Saiful Akter,Supply Chain & Logistics,Warehouse Assistant,Worker,Rezaul Karim,79.7,4.77,95.1,86,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Communication
+MG-DHK-SAM-0296,Saiful Rahman,Sales & Marketing,Senior Territory Officer,Senior Officer,Tanvir Ahmed,78.2,3.57,95.4,77.9,2,Partially Meets,Medium,Develop in Current Role,Calibrated,Technical Capability
+MG-GZP-CUS-0297,Rafiq Bhuiyan,Customer Service,Call Centre Agent,Junior Staff,Rashedul Islam,76.8,3.83,96.9,78.7,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Communication
+MG-DHK-SAM-0298,Hasan Uddin,Sales & Marketing,Marketing Assistant,Junior Staff,Tanvir Ahmed,80,3.9,93.8,80.8,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Data Literacy
+MG-CTG-SAM-0299,Fahim Khan,Sales & Marketing,Senior Territory Officer,Senior Officer,Tanvir Ahmed,106.4,3.88,91.4,96.3,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Communication
+MG-DHK-SAM-0300,Zahid Rahman,Sales & Marketing,Regional Sales Manager,Senior Manager,Tanvir Ahmed,88.5,3.38,91.6,82.5,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Commercial Acumen
+MG-GZP-FIN-0301,Jahid Khatun,Finance & Accounts,Accounts Assistant,Junior Staff,Shafiqur Rahman,108.1,3.64,91,95.8,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Commercial Acumen
+MG-GZP-PRD-0302,Mehedi Bhuiyan,Production,Senior Manager - Production,Senior Manager,Md. Shahidul Islam,86.6,3.92,89.4,84.4,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Communication
+MG-GZP-QAS-0303,Rakib Rashid,Quality Assurance,Quality Inspector,Worker,Dr. Samira Sultana,79.7,4.26,96.4,83.1,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-CTG-SCL-0304,Sabbir Mahmud,Supply Chain & Logistics,Warehouse Assistant,Worker,Rezaul Karim,113.4,3.59,96,99.1,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Stakeholder Management
+MG-DHK-CUS-0305,Sharmeen Talukder,Customer Service,Customer Service Officer,Officer,Jannatul Ferdous,98.3,3.83,92.8,91.2,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Time Management
+MG-DHK-HRA-0306,Shakil Bhuiyan,HR & Administration,Payroll Executive,Executive,Md. Imran Hossain,91.7,3.01,90.1,82.1,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Communication
+MG-GZP-PRD-0307,Sabbir Noor,Production,Machine Operator,Worker,Abdul Karim,86,3.74,95.1,83.5,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Communication
+MG-GZP-PRO-0308,Mehedi Jahan,Procurement,Sourcing Officer,Officer,Ahsan Habib,67.3,3.79,93.4,72.5,2,Partially Meets,Medium,Develop in Current Role,Calibrated,Technical Capability
+MG-NGJ-ENG-0309,Arif Khatun,Engineering & Maintenance,Electrician,Worker,Rakibul Hasan,102.3,4.63,95.3,98.7,4,Exceeds Expectations,Low,Develop in Current Role,Calibrated,Technical Capability
+MG-DHK-IT-0310,Sabbir Rahman,Information Technology,Junior Developer,Junior Staff,Sabbir Hossain,84.9,3.47,93.2,81.1,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Communication
+MG-CTG-SCL-0311,Ahsan Khan,Supply Chain & Logistics,Loader,Worker,Mahmudul Hasan,94.3,2.98,92.9,83.8,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Data Literacy
+MG-CTG-SAM-0313,Nabila Chowdhury,Sales & Marketing,Marketing Assistant,Junior Staff,Farzana Rahman,91.6,4.76,91.4,92.7,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Stakeholder Management
+MG-GZP-FIN-0314,Tasnim Mahmud,Finance & Accounts,Accounts Officer,Officer,Shafiqur Rahman,82.6,3.35,100,79.7,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Commercial Acumen
+MG-GZP-PRD-0315,Tareq Haque,Production,Shift Supervisor,Senior Officer,Abdul Karim,100.5,2.9,95.8,87.3,3,Meets Expectations,Low,Develop in Current Role,Calibrated,Technical Capability
+MG-GZP-PRD-0316,Tareq Ferdous,Production,Machine Operator,Worker,Md. Shahidul Islam,104.5,3.81,95.5,95.1,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-NGJ-ENG-0317,Rafiq Akter,Engineering & Maintenance,Technical Assistant,Junior Staff,Rakibul Hasan,100.1,4.28,90.6,94.8,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Communication
+MG-CTG-CST-0318,Raisa Ferdous,Corporate Strategy,Senior Strategy Officer,Senior Officer,Anika Tasnim,92.7,3.51,91.6,85.8,3,Meets Expectations,Low,Develop in Current Role,Calibrated,Communication
+MG-NGJ-HRA-0319,Md. Karim Hasan,HR & Administration,HR Officer,Officer,Md. Imran Hossain,90.5,3.87,84.7,86,3,Meets Expectations,Low,Develop in Current Role,Calibrated,Data Literacy
+MG-GZP-ENG-0320,Arif Akter,Engineering & Maintenance,Project Engineer,Executive,Md. Moniruzzaman,113.2,3.48,92.7,98.1,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Communication
+MG-DHK-LGL-0323,Tahmina Bhuiyan,Legal & Compliance,Legal Officer,Officer,Shamim Ahmed,78,3.93,89.6,79.3,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Communication
+MG-CTG-QAS-0324,Ashik Bhuiyan,Quality Assurance,Quality Inspector,Worker,Ashikur Rahman,91.8,3.12,94.4,83.3,3,Meets Expectations,Low,Develop in Current Role,Calibrated,Leadership
+MG-GZP-PRD-0325,Nayeem Rahman,Production,Planning Executive,Executive,Md. Shahidul Islam,106.1,3.86,100,96.8,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Communication
+MG-NGJ-ENG-0327,Shuvo Hossain,Engineering & Maintenance,Maintenance Officer,Officer,Md. Moniruzzaman,107.5,3.47,90,94.3,4,Exceeds Expectations,High,Ready Now,Calibrated,Data Literacy
+MG-DHK-CUS-0328,Shafiq Jahan,Customer Service,Senior Customer Service Officer,Senior Officer,Rashedul Islam,106.3,3.99,95.9,97.3,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Leadership
+MG-GZP-SCL-0329,Hasan Alam,Supply Chain & Logistics,Logistics Officer,Officer,Mahmudul Hasan,74.4,3.36,91.3,73.9,2,Partially Meets,Medium,Develop in Current Role,Calibrated,Time Management
+MG-NGJ-PRD-0330,Sadia Chowdhury,Production,Production Executive,Executive,Md. Shahidul Islam,86.4,3.81,81.9,82.9,3,Meets Expectations,High,Ready in 1-2 Years,Calibrated,Leadership
+MG-GZP-SCL-0331,Rafiq Haque,Supply Chain & Logistics,Inventory Officer,Officer,Rezaul Karim,78.1,3.34,98.6,76.8,2,Partially Meets,Low,Develop in Current Role,Calibrated,Stakeholder Management
+MG-GZP-PRO-0333,Ahsan Hossain,Procurement,Vendor Management Executive,Executive,Maliha Noor,122.1,3.88,97.4,106.2,5,Outstanding,Medium,Ready in 1-2 Years,Calibrated,Communication
+MG-GZP-SCL-0334,Shafiq Islam,Supply Chain & Logistics,Logistics Officer,Officer,Mahmudul Hasan,83.9,3.51,88.7,80.3,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Communication
+MG-GZP-PRO-0335,Rafiq Hasan,Procurement,Purchase Assistant,Junior Staff,Ahsan Habib,88.5,4.77,94.1,91.2,4,Exceeds Expectations,High,Ready Now,Calibrated,Technical Capability
+MG-DHK-CST-0336,Monir Khatun,Corporate Strategy,Project Management Executive,Executive,Anika Tasnim,90.3,3.28,97.6,83.6,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-GZP-QAS-0337,Asif Uddin,Quality Assurance,QC Technician,Junior Staff,Dr. Samira Sultana,75.7,3.64,100,77.3,2,Partially Meets,High,Develop in Current Role,Calibrated,Data Literacy
+MG-GZP-QAS-0338,Tareq Rashid,Quality Assurance,Quality Officer,Officer,Ashikur Rahman,94.3,4.16,80.8,89.6,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Commercial Acumen
+MG-DHK-QAS-0339,Hasan Jahan,Quality Assurance,Lab Assistant,Worker,Ashikur Rahman,82.8,4.62,94.3,86.8,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Stakeholder Management
+MG-DHK-CUS-0340,Asif Uddin,Customer Service,Team Supervisor,Senior Officer,Jannatul Ferdous,67.4,4.67,93.8,77.8,2,Partially Meets,Medium,Develop in Current Role,Pending Review,Commercial Acumen
+MG-DHK-CUS-0342,Samira Rashid,Customer Service,Call Centre Agent,Junior Staff,Rashedul Islam,115.5,3.77,97.1,101.6,5,Outstanding,Medium,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-DHK-PRO-0343,Lubna Hossain,Procurement,Procurement Manager,Manager,Maliha Noor,102.5,4.01,91.9,94.7,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Stakeholder Management
+MG-CTG-PRD-0345,Rafiq Bhuiyan,Production,Production Officer,Officer,Abdul Karim,105.9,4.43,94.4,99.6,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Time Management
+MG-GZP-PRD-0346,Samira Rahman,Production,Planning Executive,Executive,Md. Shahidul Islam,71,3.68,99.7,74.7,2,Partially Meets,Medium,Develop in Current Role,Calibrated,Communication
+MG-GZP-PRD-0348,Imran Noor,Production,Packing Assistant,Worker,Abdul Karim,78.3,4.32,96.5,82.5,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Commercial Acumen
+MG-GZP-QAS-0349,Nabila Jahan,Quality Assurance,Quality Manager,Manager,Ashikur Rahman,97.5,4.74,94.8,96.5,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Stakeholder Management
+MG-NGJ-PRD-0351,Fahim Islam,Production,Packing Assistant,Worker,Md. Shahidul Islam,111.9,3.99,91.9,100.3,5,Outstanding,Low,Develop in Current Role,Calibrated,Leadership
+MG-GZP-PRD-0353,Farhan Islam,Production,Machine Operator,Worker,Md. Shahidul Islam,125,4.53,96.7,111.8,5,Outstanding,Low,Develop in Current Role,Pending Review,Technical Capability
+MG-NGJ-FIN-0354,Ahsan Rashid,Finance & Accounts,Accounts Assistant,Junior Staff,Sadia Islam,97.8,3.2,99.4,87.8,3,Meets Expectations,Low,Develop in Current Role,Pending Review,Time Management
+MG-GZP-ENG-0355,Nayeem Rahman,Engineering & Maintenance,Electrician,Worker,Md. Moniruzzaman,86.5,3.12,91.1,79.7,3,Meets Expectations,High,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-GZP-SCL-0356,Rakib Mahmud,Supply Chain & Logistics,Logistics Officer,Officer,Rezaul Karim,72.3,3.28,95.1,72.6,2,Partially Meets,Medium,Develop in Current Role,Calibrated,Leadership
+MG-DHK-CUS-0357,Asif Hossain,Customer Service,Customer Care Assistant,Worker,Rashedul Islam,103.6,3.64,91.6,93.2,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Pending Review,Technical Capability
+MG-DHK-SAM-0358,Rakib Noor,Sales & Marketing,Brand Officer,Officer,Farzana Rahman,88.4,3.3,90.4,81.9,3,Meets Expectations,High,Ready in 1-2 Years,Calibrated,Communication
+MG-GZP-HRA-0359,Mahmud Hasan,HR & Administration,Administration Manager,Manager,Nusrat Jahan,75.7,3.93,92,78.2,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Leadership
+MG-DHK-SAM-0360,Sanjida Ferdous,Sales & Marketing,Brand Manager,Manager,Farzana Rahman,74.5,3.78,100,77.3,2,Partially Meets,Low,Develop in Current Role,Calibrated,Time Management
+MG-NGJ-ENG-0361,Ishrat Rahman,Engineering & Maintenance,Maintenance Helper,Worker,Rakibul Hasan,94.1,4.47,88.7,92.1,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-DHK-SAM-0362,Rifat Khan,Sales & Marketing,Regional Sales Manager,Senior Manager,Farzana Rahman,77.3,4.37,86.1,81.2,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-DHK-HRA-0363,Ishrat Ahmed,HR & Administration,Admin Officer,Officer,Nusrat Jahan,91,3.74,94.3,86.4,3,Meets Expectations,Low,Develop in Current Role,Calibrated,Communication
+MG-DHK-SAM-0364,Rifat Bhuiyan,Sales & Marketing,Senior Territory Officer,Senior Officer,Farzana Rahman,100.5,2.59,92.5,85.1,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-DHK-FIN-0365,Ahsan Karim,Finance & Accounts,Tax & VAT Executive,Executive,Sadia Islam,87,4.74,95,90.1,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Stakeholder Management
+MG-DHK-CST-0367,Nadia Alam,Corporate Strategy,Business Analyst,Officer,Anika Tasnim,88.1,3.86,99.6,86,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-GZP-PRD-0368,Farzana Haque,Production,Machine Operator,Worker,Abdul Karim,80.5,4.04,92.6,81.8,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-DHK-CST-0369,Fahim Karim,Corporate Strategy,PMO Assistant,Junior Staff,Anika Tasnim,92.8,3.7,91.7,87.1,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Commercial Acumen
+MG-CTG-QAS-0370,Md. Rahim Uddin,Quality Assurance,Lab Assistant,Worker,Dr. Samira Sultana,72.4,3.04,95.5,71.2,2,Partially Meets,Medium,Develop in Current Role,Calibrated,Stakeholder Management
+MG-DHK-CST-0371,Tanvir Sarker,Corporate Strategy,Business Research Assistant,Junior Staff,Mushfiqur Rahman,95.3,4.18,91,91.4,4,Exceeds Expectations,High,Ready Now,Calibrated,Leadership
+MG-GZP-SAM-0372,Asif Rashid,Sales & Marketing,Digital Marketing Executive,Executive,Tanvir Ahmed,101.9,4.22,91.1,95.6,4,Exceeds Expectations,High,Ready Now,Calibrated,Data Literacy
+MG-GZP-PRD-0373,Jahid Rashid,Production,Packing Assistant,Worker,Md. Shahidul Islam,96.3,3.83,100,90.7,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Stakeholder Management
+MG-GZP-ENG-0374,Mizanur Talukder,Engineering & Maintenance,Maintenance Helper,Worker,Md. Moniruzzaman,94.6,4.01,98.5,90.6,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-GZP-PRD-0375,Asif Khatun,Production,Production Operator,Worker,Abdul Karim,95.3,3.62,93.2,88.2,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Time Management
+MG-GZP-SCL-0377,Sabbir Uddin,Supply Chain & Logistics,Inventory Officer,Officer,Rezaul Karim,111.4,4.66,98.9,104.7,5,Outstanding,Medium,Ready in 1-2 Years,Calibrated,Communication
+MG-DHK-FIN-0378,Hasan Akter,Finance & Accounts,Accounts Officer,Officer,Sadia Islam,85,3.99,93.6,84.3,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Leadership
+MG-GZP-SCL-0379,Sadia Kabir,Supply Chain & Logistics,Loader,Worker,Rezaul Karim,99.3,3.29,86.5,87.9,3,Meets Expectations,High,Ready in 1-2 Years,Calibrated,Commercial Acumen
+MG-RAJ-FIN-0380,Sumaiya Alam,Finance & Accounts,Finance Officer,Officer,Sadia Islam,80.6,3.75,91.1,80,3,Meets Expectations,High,Ready in 1-2 Years,Calibrated,Communication
+MG-DHK-FIN-0381,Nusrat Sultana,Finance & Accounts,Finance Manager,Manager,Sadia Islam,73.6,3.8,93.7,76.3,2,Partially Meets,Medium,Develop in Current Role,Calibrated,Technical Capability
+MG-NGJ-SCL-0382,Kamrul Sultana,Supply Chain & Logistics,Warehouse Assistant,Worker,Rezaul Karim,75.3,3.36,97.5,75.1,2,Partially Meets,Medium,Develop in Current Role,Calibrated,Time Management
+MG-GZP-PRD-0383,Jannatul Bhuiyan,Production,Shift Supervisor,Senior Officer,Abdul Karim,91.7,3.53,100,86.2,3,Meets Expectations,Medium,Ready in 1-2 Years,Pending Review,Communication
+MG-NGJ-PRD-0385,Rakib Chowdhury,Production,Packing Assistant,Worker,Abdul Karim,96.9,4.84,92.2,96.4,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Pending Review,Commercial Acumen
+MG-RAJ-SAM-0386,Sharmeen Khan,Sales & Marketing,Senior Brand Officer,Senior Officer,Farzana Rahman,92.6,3.83,97.1,88.3,3,Meets Expectations,High,Ready in 1-2 Years,Calibrated,Time Management
+MG-NGJ-QAS-0387,Riyad Akter,Quality Assurance,Compliance Officer,Officer,Dr. Samira Sultana,89.3,3.98,88.2,86.3,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Leadership
+MG-GZP-SAM-0388,Tareq Ahmed,Sales & Marketing,Senior Territory Officer,Senior Officer,Tanvir Ahmed,115.2,3.92,83.3,101,5,Outstanding,High,Ready Now,Calibrated,Communication
+MG-RAJ-SAM-0389,Lubna Talukder,Sales & Marketing,Brand Manager,Manager,Farzana Rahman,76.8,3.89,85.4,77.9,2,Partially Meets,Medium,Develop in Current Role,Calibrated,Communication
+MG-GZP-PRD-0390,Mahmud Sarker,Production,Production Executive,Executive,Abdul Karim,94.5,3.73,95.7,88.6,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-DHK-HRA-0391,Jahid Ahmed,HR & Administration,Payroll Executive,Executive,Md. Imran Hossain,107.8,3.75,85.6,95.8,4,Exceeds Expectations,High,Ready Now,Calibrated,Commercial Acumen
+MG-DHK-IT-0392,Kamrul Sultana,Information Technology,Senior Manager - IT,Senior Manager,Tanjina Akter,78.9,3.15,90.8,75.3,2,Partially Meets,Medium,Develop in Current Role,Calibrated,Leadership
+MG-GZP-LGL-0393,Sharmeen Sultana,Legal & Compliance,Senior Manager - Legal,Senior Manager,Barrister Nafisa Karim,58,4.31,91.9,69.8,2,Partially Meets,Medium,Develop in Current Role,Calibrated,Time Management
+MG-DHK-PRO-0395,Tasnim Haque,Procurement,Senior Sourcing Officer,Senior Officer,Maliha Noor,93.8,3.84,96.4,89,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-GZP-QAS-0396,Maliha Hasan,Quality Assurance,Regulatory Executive,Executive,Ashikur Rahman,98.5,3.79,87.9,90.6,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Data Literacy
+MG-DHK-SAM-0397,Ahsan Akter,Sales & Marketing,Digital Marketing Executive,Executive,Tanvir Ahmed,78.3,3.81,95,79.3,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Time Management
+MG-DHK-SAM-0398,Samira Jahan,Sales & Marketing,Sales Support Assistant,Worker,Farzana Rahman,108.5,2.57,96.7,90.1,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Data Literacy
+MG-DHK-CST-0399,Md. Karim Mia,Corporate Strategy,Strategy Officer,Officer,Mushfiqur Rahman,74.1,3.86,90.9,76.7,2,Partially Meets,Medium,Develop in Current Role,Calibrated,Technical Capability
+MG-GZP-PRD-0401,Mahmud Bhuiyan,Production,Line Coordinator,Junior Staff,Abdul Karim,85.1,4.42,94.4,87,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-GZP-LGL-0402,Rifat Akter,Legal & Compliance,Senior Legal Officer,Senior Officer,Shamim Ahmed,69,2.81,95.7,67.9,1,Needs Improvement,Medium,Develop in Current Role,Calibrated,Time Management
+MG-CTG-SAM-0403,Ishrat Bhuiyan,Sales & Marketing,Marketing Assistant,Junior Staff,Tanvir Ahmed,73.9,4.56,90.8,80.8,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Data Literacy
+MG-DHK-CST-0404,Tareq Sarker,Corporate Strategy,Senior Business Analyst,Senior Officer,Mushfiqur Rahman,88.5,4.23,95.3,88.1,3,Meets Expectations,High,Ready in 1-2 Years,Calibrated,Time Management
+MG-CTG-QAS-0405,Shakil Islam,Quality Assurance,Quality Inspector,Worker,Ashikur Rahman,80.8,3.25,97.8,77.8,2,Partially Meets,Medium,Develop in Current Role,Calibrated,Technical Capability
+MG-NGJ-PRD-0406,Mehedi Sarker,Production,Plant Operations Manager,Manager,Abdul Karim,87,4.71,81.1,88.6,3,Meets Expectations,Low,Develop in Current Role,Calibrated,Time Management
+MG-NGJ-ENG-0408,Ashik Akter,Engineering & Maintenance,Mechanical Technician,Worker,Md. Moniruzzaman,118.8,3.8,92.3,103.3,5,Outstanding,Medium,Ready in 1-2 Years,Calibrated,Commercial Acumen
+MG-GZP-PRD-0409,Hasan Karim,Production,Production Operator,Worker,Md. Shahidul Islam,103.9,3.8,93.3,94.5,4,Exceeds Expectations,High,Ready Now,Calibrated,Communication
+MG-GZP-QAS-0410,Farzana Talukder,Quality Assurance,Quality Manager,Manager,Ashikur Rahman,71.6,3.53,93.8,73.5,2,Partially Meets,Medium,Develop in Current Role,Calibrated,Commercial Acumen
+MG-NGJ-PRD-0411,Zahid Jahan,Production,Production Manager,Manager,Abdul Karim,91.6,4.62,95.2,92.2,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-DHK-SAM-0412,Md. Rahim Uddin,Sales & Marketing,Sales Representative,Junior Staff,Farzana Rahman,58.4,4.29,100,70.8,2,Partially Meets,Medium,Develop in Current Role,Calibrated,Leadership
+MG-NGJ-PRD-0413,Arif Jahan,Production,Planning Executive,Executive,Md. Shahidul Islam,98.9,4.65,95.8,96.8,4,Exceeds Expectations,Low,Develop in Current Role,Calibrated,Stakeholder Management
+MG-GZP-IT-0414,Hasan Ahmed,Information Technology,Software Engineer,Executive,Sabbir Hossain,90.8,4.2,100,89.6,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Leadership
+MG-GZP-PRD-0415,Raisa Mahmud,Production,Senior Production Officer,Senior Officer,Abdul Karim,58,4.24,91.6,69.4,2,Partially Meets,Medium,Develop in Current Role,Calibrated,Communication
+MG-CTG-SAM-0416,Rafiq Karim,Sales & Marketing,Sales Representative,Junior Staff,Tanvir Ahmed,70.2,4.94,97.8,81.5,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Stakeholder Management
+MG-CTG-SCL-0417,Md. Rahim Jahan,Supply Chain & Logistics,Senior Manager - Supply Chain,Senior Manager,Rezaul Karim,98.6,3.2,94.9,87.8,3,Meets Expectations,Low,Develop in Current Role,Calibrated,Stakeholder Management
+MG-DHK-IT-0418,Ahsan Khatun,Information Technology,IT Officer,Officer,Sabbir Hossain,86.3,3.33,87.1,80.5,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Leadership
+MG-GZP-SCL-0419,Fahim Akter,Supply Chain & Logistics,Warehouse Assistant,Worker,Rezaul Karim,81.2,3.96,95.3,82,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Time Management
+MG-GZP-QAS-0420,Raisa Ahmed,Quality Assurance,Quality Officer,Officer,Ashikur Rahman,97.4,3.74,100,90.9,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Stakeholder Management
+MG-GZP-HRA-0421,Samira Chowdhury,HR & Administration,HR Executive,Executive,Md. Imran Hossain,75.3,3.47,100,76,2,Partially Meets,High,Develop in Current Role,Calibrated,Commercial Acumen
+MG-NGJ-PRD-0422,Tanvir Jahan,Production,Production Manager,Manager,Md. Shahidul Islam,83.6,3.76,81.3,80.8,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-CTG-SCL-0423,Arif Chowdhury,Supply Chain & Logistics,Store Assistant,Junior Staff,Rezaul Karim,70.6,3.58,96.8,73.5,2,Partially Meets,Medium,Develop in Current Role,Calibrated,Technical Capability
+MG-DHK-ENG-0425,Asif Noor,Engineering & Maintenance,Engineering Manager,Manager,Md. Moniruzzaman,100.2,3.68,96.9,91.9,4,Exceeds Expectations,Low,Develop in Current Role,Calibrated,Communication
+MG-DHK-CUS-0426,Shuvo Sarker,Customer Service,Customer Experience Executive,Executive,Jannatul Ferdous,61.4,3.83,99.8,69.8,2,Partially Meets,Low,Develop in Current Role,Calibrated,Stakeholder Management
+MG-NGJ-PRD-0427,Shafiq Alam,Production,Senior Production Officer,Senior Officer,Md. Shahidul Islam,96.3,3.67,90.3,88.9,3,Meets Expectations,High,Ready in 1-2 Years,Calibrated,Data Literacy
+MG-NGJ-SCL-0428,Ashik Chowdhury,Supply Chain & Logistics,Logistics Officer,Officer,Mahmudul Hasan,79.4,3.84,96,80.3,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Stakeholder Management
+MG-DHK-ENG-0429,Tareq Haque,Engineering & Maintenance,Mechanical Technician,Worker,Md. Moniruzzaman,75.1,3.63,90.5,75.9,2,Partially Meets,Medium,Develop in Current Role,Calibrated,Commercial Acumen
+MG-RAJ-FIN-0430,Sultana Haque,Finance & Accounts,Tax & VAT Executive,Executive,Shafiqur Rahman,102.6,4.97,94.6,100.8,5,Outstanding,Medium,Ready in 1-2 Years,Calibrated,Stakeholder Management
+MG-NGJ-SCL-0431,Farhan Hossain,Supply Chain & Logistics,Supply Chain Executive,Executive,Rezaul Karim,85.8,3.16,98.3,80.3,3,Meets Expectations,High,Ready in 1-2 Years,Calibrated,Commercial Acumen
+MG-NGJ-PRD-0432,Mizanur Islam,Production,Line Coordinator,Junior Staff,Abdul Karim,87.8,3.13,89.1,80.4,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Stakeholder Management
+MG-DHK-FIN-0433,Lubna Haque,Finance & Accounts,Finance Officer,Officer,Sadia Islam,89.2,3,97.8,81.3,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Communication
+MG-DHK-PRO-0434,Farhan Uddin,Procurement,Vendor Management Executive,Executive,Ahsan Habib,71.3,4.58,100,80.2,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Communication
+MG-NGJ-IT-0435,Md. Rahim Chowdhury,Information Technology,Applications Manager,Manager,Sabbir Hossain,75,3.89,100,78.3,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Data Literacy
+MG-RAJ-HRA-0436,Nazmul Talukder,HR & Administration,HR Manager,Manager,Nusrat Jahan,115,3.92,93.1,101.8,5,Outstanding,Medium,Ready in 1-2 Years,Calibrated,Data Literacy
+MG-DHK-SAM-0437,Sumaiya Ferdous,Sales & Marketing,Marketing Assistant,Junior Staff,Farzana Rahman,97.4,4.04,91.1,91.8,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Data Literacy
+MG-NGJ-QAS-0438,Tahmina Khan,Quality Assurance,QA Executive,Executive,Dr. Samira Sultana,112.6,2.99,96.5,95.2,4,Exceeds Expectations,High,Ready Now,Pending Review,Technical Capability
+MG-GZP-PRD-0439,Zahid Bhuiyan,Production,Production Executive,Executive,Md. Shahidul Islam,76.3,3.96,96.1,79.1,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Commercial Acumen
+MG-GZP-PRD-0440,Shuvo Hasan,Production,Shift Supervisor,Senior Officer,Md. Shahidul Islam,112.4,3.99,98.8,101.3,5,Outstanding,High,Ready Now,Calibrated,Leadership
+MG-DHK-HRA-0441,Asif Hasan,HR & Administration,Payroll Executive,Executive,Md. Imran Hossain,99.4,4.55,84.5,95.3,4,Exceeds Expectations,Low,Develop in Current Role,Calibrated,Stakeholder Management
+MG-DHK-FIN-0442,Sabbir Uddin,Finance & Accounts,Senior Manager - Finance,Senior Manager,Shafiqur Rahman,86.8,3.72,86.8,83.1,3,Meets Expectations,High,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-GZP-ENG-0443,Tanvir Khan,Engineering & Maintenance,Maintenance Executive,Executive,Md. Moniruzzaman,99.8,4.49,93.9,96.2,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Commercial Acumen
+MG-GZP-SAM-0444,Monir Ferdous,Sales & Marketing,Senior Territory Officer,Senior Officer,Farzana Rahman,108.3,3.55,89,95.1,4,Exceeds Expectations,Low,Develop in Current Role,Calibrated,Data Literacy
+MG-NGJ-FIN-0445,Imran Talukder,Finance & Accounts,Finance Manager,Manager,Shafiqur Rahman,91.3,4.13,99.4,89.5,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Stakeholder Management
+MG-DHK-SAM-0446,Rakib Talukder,Sales & Marketing,Senior Territory Officer,Senior Officer,Tanvir Ahmed,104.3,4.62,87.1,99,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Leadership
+MG-DHK-SCL-0447,Md. Karim Noor,Supply Chain & Logistics,Dispatch Coordinator,Junior Staff,Mahmudul Hasan,86.6,3.35,100,82.1,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-NGJ-QAS-0448,Anika Mia,Quality Assurance,QA Assistant,Junior Staff,Ashikur Rahman,98.6,3.66,100,91.1,4,Exceeds Expectations,High,Ready Now,Calibrated,Technical Capability
+MG-NGJ-ENG-0449,Jahid Ferdous,Engineering & Maintenance,Engineering Manager,Manager,Md. Moniruzzaman,90.5,3.96,100,88.1,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Communication
+MG-GZP-SCL-0450,Rumana Kabir,Supply Chain & Logistics,Store Assistant,Junior Staff,Mahmudul Hasan,71.6,4.8,94.4,81.2,3,Meets Expectations,High,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-NGJ-PRD-0451,Sabbir Rahman,Production,Production Officer,Officer,Abdul Karim,85.5,3.24,100,80.7,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Stakeholder Management
+MG-DHK-FIN-0452,Sumaiya Khan,Finance & Accounts,Senior Finance Officer,Senior Officer,Sadia Islam,76.6,3.42,91.3,75.7,2,Partially Meets,Medium,Develop in Current Role,Calibrated,Stakeholder Management
+MG-NGJ-PRD-0453,Md. Rahim Rashid,Production,Production Assistant,Junior Staff,Md. Shahidul Islam,93.6,4.16,94.8,90.6,4,Exceeds Expectations,High,Ready Now,Calibrated,Technical Capability
+MG-DHK-SCL-0454,Fahim Ferdous,Supply Chain & Logistics,Loader,Worker,Mahmudul Hasan,114.3,3.52,99,99.6,4,Exceeds Expectations,Low,Develop in Current Role,Calibrated,Communication
+MG-NGJ-ENG-0455,Hasan Uddin,Engineering & Maintenance,Maintenance Coordinator,Junior Staff,Md. Moniruzzaman,83.5,3.1,96.9,78.4,3,Meets Expectations,High,Ready in 1-2 Years,Calibrated,Communication
+MG-GZP-PRD-0456,Rafiq Haque,Production,Shift Supervisor,Senior Officer,Md. Shahidul Islam,88.4,3.84,100,86.1,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Leadership
+MG-GZP-ENG-0457,Tanvir Khan,Engineering & Maintenance,Maintenance Coordinator,Junior Staff,Rakibul Hasan,104,3.8,98.5,95,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Time Management
+MG-CTG-SAM-0458,Arif Alam,Sales & Marketing,Senior Territory Officer,Senior Officer,Farzana Rahman,90.3,3.9,94.1,87,3,Meets Expectations,High,Ready in 1-2 Years,Calibrated,Leadership
+MG-DHK-SAM-0459,Ashik Rashid,Sales & Marketing,Sales Support Assistant,Worker,Farzana Rahman,105.1,3.51,98.5,94,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-GZP-PRD-0460,Rifat Haque,Production,Machine Operator,Worker,Abdul Karim,86.3,4.18,95.9,86.4,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-NGJ-PRD-0461,Ayesha Ahmed,Production,Production Operator,Worker,Md. Shahidul Islam,83.2,4.19,93.5,84.4,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Leadership
+MG-GZP-PRD-0462,Tanvir Karim,Production,Production Assistant,Junior Staff,Abdul Karim,90.7,3.41,92.9,84.2,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Data Literacy
+MG-DHK-LGL-0463,Md. Rahim Mia,Legal & Compliance,Legal Officer,Officer,Barrister Nafisa Karim,104.7,4.52,93.9,99.3,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Data Literacy
+MG-DHK-FIN-0465,Rashed Sultana,Finance & Accounts,Senior Manager - Finance,Senior Manager,Shafiqur Rahman,69.8,4.25,100,77.4,2,Partially Meets,Medium,Develop in Current Role,Calibrated,Time Management
+MG-DHK-CUS-0466,Tahmina Noor,Customer Service,Complaint Resolution Officer,Officer,Rashedul Islam,107.9,4.29,92.2,99.7,4,Exceeds Expectations,High,Ready Now,Calibrated,Technical Capability
+MG-CTG-SCL-0467,Nazmul Haque,Supply Chain & Logistics,Inventory Officer,Officer,Rezaul Karim,95.8,4.73,95.6,95.4,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Data Literacy
+MG-NGJ-PRD-0468,Sharmeen Kabir,Production,Plant Operations Manager,Manager,Md. Shahidul Islam,113.5,3.86,100,101.2,5,Outstanding,Medium,Ready in 1-2 Years,Calibrated,Leadership
+MG-RAJ-PRD-0469,Riyad Rahman,Production,Machine Operator,Worker,Md. Shahidul Islam,91.1,3.27,96.2,83.9,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Commercial Acumen
+MG-NGJ-PRD-0470,Tanvir Sultana,Production,Shift Officer,Officer,Abdul Karim,77.2,4.01,91,79.5,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Time Management
+MG-DHK-CUS-0471,Ishrat Hossain,Customer Service,Customer Care Assistant,Worker,Jannatul Ferdous,94,3.66,96.8,88.1,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Communication
+MG-CTG-SCL-0472,Tareq Sarker,Supply Chain & Logistics,Senior Supply Chain Officer,Senior Officer,Rezaul Karim,104.7,3.11,95.7,91,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-CTG-SAM-0473,Tareq Talukder,Sales & Marketing,Brand Manager,Manager,Farzana Rahman,121.3,4.68,84.2,109.3,5,Outstanding,Medium,Ready in 1-2 Years,Calibrated,Stakeholder Management
+MG-GZP-SCL-0474,Kamrul Kabir,Supply Chain & Logistics,Warehouse Assistant,Worker,Mahmudul Hasan,81.5,2.87,87.5,74.8,2,Partially Meets,Low,Develop in Current Role,Calibrated,Technical Capability
+MG-GZP-FIN-0475,Farhan Hasan,Finance & Accounts,Accounts Officer,Officer,Shafiqur Rahman,95.4,3.63,91,88.1,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Leadership
+MG-DHK-HRA-0476,Mim Bhuiyan,HR & Administration,Admin Officer,Officer,Nusrat Jahan,77.5,4.25,98.7,81.9,3,Meets Expectations,Medium,Ready in 1-2 Years,Pending Review,Communication
+MG-DHK-CST-0477,Md. Karim Noor,Corporate Strategy,Business Analyst,Officer,Mushfiqur Rahman,93.5,3.38,92.7,85.7,3,Meets Expectations,High,Ready in 1-2 Years,Calibrated,Leadership
+MG-DHK-IT-0479,Sumaiya Haque,Information Technology,IT Support Technician,Junior Staff,Sabbir Hossain,80.5,4.31,100,84.2,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Data Literacy
+MG-GZP-CUS-0480,Faria Khan,Customer Service,Call Centre Agent,Junior Staff,Jannatul Ferdous,79.2,4.08,96.9,81.7,3,Meets Expectations,Low,Develop in Current Role,Calibrated,Communication
+MG-RAJ-SAM-0481,Sabbir Ahmed,Sales & Marketing,Sales Executive,Executive,Tanvir Ahmed,95.2,4.69,95.6,94.9,4,Exceeds Expectations,Low,Develop in Current Role,Calibrated,Stakeholder Management
+MG-GZP-FIN-0482,Sanjida Rashid,Finance & Accounts,Tax & VAT Executive,Executive,Sadia Islam,82,4.16,90.6,83.3,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Time Management
+MG-DHK-PRO-0483,Kamrul Ahmed,Procurement,Sourcing Officer,Officer,Maliha Noor,93.7,3.62,100,87.9,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Stakeholder Management
+MG-NGJ-PRD-0484,Shafiq Sarker,Production,Production Officer,Officer,Md. Shahidul Islam,96.8,2.89,92.3,84.6,3,Meets Expectations,Low,Develop in Current Role,Calibrated,Data Literacy
+MG-GZP-FIN-0485,Rafiq Hossain,Finance & Accounts,Accounts Assistant,Junior Staff,Shafiqur Rahman,103.9,3.45,97.3,92.8,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Pending Review,Time Management
+MG-NGJ-PRD-0486,Rafiq Kabir,Production,Production Assistant,Junior Staff,Md. Shahidul Islam,90.1,2.77,100,80.7,3,Meets Expectations,High,Ready in 1-2 Years,Calibrated,Data Literacy
+MG-GZP-ENG-0487,Ashik Rashid,Engineering & Maintenance,Project Engineer,Executive,Rakibul Hasan,105.1,4.09,94.3,97,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Time Management
+MG-GZP-PRD-0488,Rafiq Hossain,Production,Production Officer,Officer,Md. Shahidul Islam,102.8,3.48,100,92.5,4,Exceeds Expectations,Low,Develop in Current Role,Pending Review,Communication
+MG-NGJ-PRD-0489,Ahsan Kabir,Production,Senior Production Officer,Senior Officer,Abdul Karim,92.3,4.13,92.6,89.4,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-DHK-PRD-0490,Shuvo Mahmud,Production,Line Coordinator,Junior Staff,Md. Shahidul Islam,99.1,4.42,99.7,96,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Data Literacy
+MG-CTG-SAM-0491,Ahsan Alam,Sales & Marketing,Digital Marketing Executive,Executive,Tanvir Ahmed,106,3.1,99.6,92.2,4,Exceeds Expectations,High,Ready Now,Calibrated,Stakeholder Management
+MG-CTG-SAM-0492,Monir Mahmud,Sales & Marketing,Territory Sales Officer,Officer,Farzana Rahman,97.9,3.02,90.1,85.9,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-DHK-SAM-0493,Mim Sultana,Sales & Marketing,Sales Executive,Executive,Tanvir Ahmed,80.8,3.63,94.2,79.7,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Time Management
+MG-NGJ-PRD-0494,Rakib Chowdhury,Production,Shift Officer,Officer,Md. Shahidul Islam,92.3,3.84,90.9,87.5,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Data Literacy
+MG-GZP-SCL-0495,Nusrat Haque,Supply Chain & Logistics,Loader,Worker,Mahmudul Hasan,92.4,4.39,85.5,90.3,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-GZP-PRD-0496,Nazmul Khatun,Production,Production Operator,Worker,Abdul Karim,109.2,4.12,95.5,99.8,4,Exceeds Expectations,Low,Develop in Current Role,Calibrated,Stakeholder Management
+MG-GZP-PRD-0499,Md. Rahim Kabir,Production,Machine Operator,Worker,Md. Shahidul Islam,86.5,4.98,89.4,90.7,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Pending Review,Technical Capability
+MG-DHK-SAM-0500,Sabbir Ahmed,Sales & Marketing,Brand Officer,Officer,Tanvir Ahmed,101,3.48,94.6,91,4,Exceeds Expectations,High,Ready Now,Calibrated,Leadership
+MG-GZP-PRD-0501,Shakil Sarker,Production,Senior Production Officer,Senior Officer,Md. Shahidul Islam,112,3.93,86.9,99.5,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Leadership
+MG-NGJ-PRD-0502,Nazmul Sultana,Production,Machine Operator,Worker,Md. Shahidul Islam,89.9,3.92,97.2,87.1,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Leadership
+MG-DHK-PRD-0503,Mehedi Kabir,Production,Senior Production Officer,Senior Officer,Abdul Karim,94.2,3.75,95.9,88.6,3,Meets Expectations,Low,Develop in Current Role,Calibrated,Communication
+MG-DHK-SAM-0504,Tareq Sultana,Sales & Marketing,Marketing Assistant,Junior Staff,Farzana Rahman,68.4,4.81,100,79.9,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-GZP-CUS-0506,Tanvir Karim,Customer Service,Customer Service Representative,Junior Staff,Rashedul Islam,114,3.16,99.6,97.3,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Stakeholder Management
+MG-DHK-SAM-0507,Ashik Khan,Sales & Marketing,Brand Officer,Officer,Tanvir Ahmed,94.5,2.69,100,82.9,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Communication
+MG-NGJ-SCL-0508,Rafiq Jahan,Supply Chain & Logistics,Dispatch Coordinator,Junior Staff,Mahmudul Hasan,74.9,4.13,88.3,78.6,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Technical Capability
+MG-GZP-PRD-0509,Nusrat Sarker,Production,Shift Supervisor,Senior Officer,Abdul Karim,85.8,3.93,87.8,83.8,3,Meets Expectations,High,Ready in 1-2 Years,Calibrated,Stakeholder Management
+MG-NGJ-ENG-0510,Saiful Bhuiyan,Engineering & Maintenance,Mechanical Technician,Worker,Rakibul Hasan,96.2,3.64,89.7,88.5,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Data Literacy
+MG-CTG-SAM-0511,Md. Karim Hossain,Sales & Marketing,Marketing Assistant,Junior Staff,Farzana Rahman,93.5,3.89,81.8,87.6,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Leadership
+MG-DHK-LGL-0512,Fahim Mia,Legal & Compliance,Senior Manager - Legal,Senior Manager,Barrister Nafisa Karim,91.1,3.72,90.1,86,3,Meets Expectations,Medium,Ready in 1-2 Years,Calibrated,Leadership
+MG-NGJ-PRD-0513,Tanvir Khatun,Production,Production Operator,Worker,Abdul Karim,113.5,3.55,91.8,98.6,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Communication
+MG-DHK-SAM-0514,Md. Rahim Hasan,Sales & Marketing,Sales Executive,Executive,Tanvir Ahmed,107.9,4.23,93.6,99.5,4,Exceeds Expectations,Medium,Ready in 1-2 Years,Calibrated,Commercial Acumen
+MG-GZP-PRD-0515,Zahid Akter,Production,Plant Operations Manager,Manager,Abdul Karim,98.9,3.96,86.9,91.8,4,Exceeds Expectations,High,Ready Now,Calibrated,Communication
+MG-NGJ-SCL-0516,Riyad Sultana,Supply Chain & Logistics,Planning Executive,Executive,Rezaul Karim,70.7,3.22,97.3,71.5,2,Partially Meets,Medium,Develop in Current Role,Calibrated,Leadership
