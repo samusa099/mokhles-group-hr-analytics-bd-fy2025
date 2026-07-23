@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>A portfolio-grade, fully synthetic HR analytics ecosystem built for Bangladesh.</strong><br>
-  From raw workforce records to board-ready insights across Power BI, Excel, Looker Studio, Tableau, Qlik Sense, Metabase and Python.
+  From raw workforce records to board-ready insights across Power BI, Excel, Looker Studio, Tableau, Qlik Sense, Metabase, Python and SQL.
 </p>
 
 <p align="center">
@@ -25,15 +25,6 @@
   <img alt="License" src="https://img.shields.io/badge/Data%20License-CC%20BY%204.0-lightgrey">
 </p>
 
-<p align="center">
-  <a href="#-executive-overview">Executive Overview</a> ·
-  <a href="#-portfolio-at-a-glance">Portfolio at a Glance</a> ·
-  <a href="#-analytics-architecture">Architecture</a> ·
-  <a href="#-platform-readiness">Platform Readiness</a> ·
-  <a href="#-quick-start">Quick Start</a> ·
-  <a href="#-data-ethics">Data Ethics</a>
-</p>
-
 ---
 
 ## ✨ Executive overview
@@ -42,7 +33,7 @@
 
 The data is fully synthetic, but the workforce structure, employee profiles, locations, BDT compensation values, recruitment activity, leave, training, performance and safety records are designed to resemble realistic organisational operations.
 
-> **Built to demonstrate an end-to-end analytics workflow:** source data → cleaning → modeling → quality control → KPI design → executive reporting.
+> **Built to demonstrate an end-to-end analytics workflow:** source data → cleaning → modelling → quality control → KPI design → executive reporting.
 
 <table>
 <tr>
@@ -63,6 +54,25 @@ The data is fully synthetic, but the workforce structure, employee profiles, loc
 | **Data quality** | Table profiling, column profiling, duplicate checks, key validation and remediation rules |
 | **Portfolio usability** | Excel dashboards, Jupyter analysis, Kaggle metadata, documentation and reproducible scripts |
 | **Ethical design** | No real employee or confidential organisational data |
+
+---
+
+## 🎯 Project objectives
+
+The project demonstrates how fragmented operational HR records can be transformed into a structured, analysis-ready and cross-platform analytics solution.
+
+The workflow covers:
+
+1. Organising raw HR source data
+2. Cleaning and validating employee records
+3. Developing HR KPIs and business measures
+4. Creating dimension and fact tables
+5. Building Employee 360 and Department 360 datasets
+6. Designing Excel and Power BI dashboards
+7. Performing exploratory analysis with Python and Jupyter Notebook
+8. Preparing data for multiple BI platforms
+9. Documenting files, columns, relationships and validation rules
+10. Presenting management and board-level workforce insights
 
 ---
 
@@ -89,40 +99,35 @@ The data is fully synthetic, but the workforce structure, employee profiles, loc
 
 ### Analytics coverage
 
-<table>
-<tr>
-<td width="33%">
-
-**Workforce**
-- Headcount and structure
+- Workforce structure and headcount
 - Monthly and annual HR KPIs
-- Diversity and inclusion
-- Employee 360 analysis
-- Department 360 analysis
-
-</td>
-<td width="33%">
-
-**Talent**
-- Recruitment funnel
-- Time-to-fill
+- Recruitment funnel and time-to-fill
 - Turnover and retention
-- Learning and development
-- Performance and promotion readiness
-
-</td>
-<td width="33%">
-
-**Operations**
 - Leave and absence
+- Diversity and inclusion
+- Training and development
 - Compensation and total reward
-- Health and safety
-- Data-quality profiling
+- Performance and promotion readiness
+- Workplace health and safety
+- Employee 360 and Department 360 analysis
 - Executive and board reporting
 
-</td>
-</tr>
-</table>
+---
+
+## 🇧🇩 Bangladesh HR context
+
+The portfolio includes:
+
+- Synthetic Bangladeshi employee names
+- Business locations in Dhaka, Gazipur, Narayanganj, Chattogram and Rajshahi
+- Salaries, payroll and employment costs in Bangladeshi Taka
+- Common local job titles and organisational departments
+- Bangladesh-relevant leave and employment categories
+- Realistic recruitment and hiring patterns
+- Department-level workforce structures
+- Performance and promotion-readiness categories
+- Training and development records
+- Workplace health and safety records
 
 ---
 
@@ -150,7 +155,7 @@ Authoritative HR source tables
 | Layer | Purpose | Location |
 |---|---|---|
 | **Source data** | Authoritative CSV and Excel portfolio | `data/csv/`, `data/excel/` |
-| **BI-ready data** | Normalized dimensions and facts | `data/bi_ready_csv/` |
+| **BI-ready data** | Normalised dimensions and facts | `data/bi_ready_csv/` |
 | **Analysis-ready data** | Consolidated Employee 360 and Department 360 tables | `data/analysis_ready/` |
 | **Data quality** | Table and column profiling | `data/data_quality/` |
 | **BI assets** | Theme, relationships, KPIs, DAX and Power Query | `bi_assets/`, `docs/platforms/` |
@@ -160,14 +165,9 @@ Authoritative HR source tables
 
 ## 🗂️ Repository structure
 
-<details open>
-<summary><strong>View project structure</strong></summary>
-
 ```text
 mokhles-group-hr-analytics-bd-fy2025/
 ├── .github/
-│   ├── ISSUE_TEMPLATE/
-│   └── workflows/
 ├── assets/
 ├── bi_assets/
 │   ├── power_bi/
@@ -193,8 +193,7 @@ mokhles-group-hr-analytics-bd-fy2025/
 ├── metadata/
 ├── notebooks/
 ├── scripts/
-├── src/
-│   └── mokhles_hr_analytics/
+├── src/mokhles_hr_analytics/
 ├── wiki/
 ├── CITATION.cff
 ├── CODE_OF_CONDUCT.md
@@ -204,8 +203,6 @@ mokhles-group-hr-analytics-bd-fy2025/
 ├── README.md
 └── requirements.txt
 ```
-
-</details>
 
 ---
 
@@ -243,30 +240,6 @@ Expected output:
 BI-ready layer created: 15 CSV files
 ```
 
-<details>
-<summary><strong>View generated BI tables</strong></summary>
-
-```text
-data/bi_ready_csv/
-├── 00_dim_date.csv
-├── 00_dim_department.csv
-├── 00_dim_location.csv
-├── 01_dim_employee_fy2025.csv
-├── 02_fact_monthly_hr_kpi_fy2025.csv
-├── 03_fact_department_annual_summary_fy2025.csv
-├── 04_fact_quarterly_board_kpi_fy2025.csv
-├── 05_fact_recruitment_fy2025.csv
-├── 06_fact_employee_separations_fy2025.csv
-├── 07_fact_leave_transactions_fy2025.csv
-├── 08_dim_diversity_inclusion_fy2025.csv
-├── 09_fact_training_development_fy2025.csv
-├── 10_fact_compensation_benefits_fy2025.csv
-├── 11_fact_performance_evaluation_fy2025.csv
-└── 12_fact_health_safety_fy2025.csv
-```
-
-</details>
-
 ### Consolidated analysis-ready datasets
 
 | Dataset | Grain | Best use |
@@ -302,11 +275,7 @@ Checks include:
 
 ## 🧰 Platform readiness
 
-<table>
-<tr>
-<td width="50%">
-
-### 🟨 Power BI
+### Power BI
 
 - 15 Power Query M scripts
 - DAX starter-measure library
@@ -317,12 +286,7 @@ Checks include:
 - Dashboard blueprint
 - Reusable `ProjectRoot` parameter
 
-**Start here:** `docs/platforms/power_bi_assets/`
-
-</td>
-<td width="50%">
-
-### 🟩 Excel
+### Excel
 
 - Power Query workflow
 - Power Pivot model guidance
@@ -332,14 +296,7 @@ Checks include:
 - Column profile
 - Excel analytics starter workbook
 
-**Start here:** `docs/platforms/excel_analytics/`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🟦 Looker Studio
+### Looker Studio
 
 - 17 upload-ready CSV files
 - Data-source map
@@ -347,48 +304,34 @@ Checks include:
 - Employee 360 and Department 360 datasets
 - Dashboard page recommendations
 
-**Start here:** `docs/platforms/looker_studio/`
+### Tableau, Qlik Sense and Metabase
 
-</td>
-<td width="50%">
-
-### 🟪 Tableau, Qlik and Metabase
-
-- Tableau relationship modeling guide
+- Tableau relationship modelling guide
 - Qlik Sense load script
-- Metabase upload and modeling guide
+- Metabase upload and modelling guide
 - Shared semantic-model documentation
-
-**Start here:** `docs/platforms/`
-
-</td>
-</tr>
-</table>
 
 ---
 
 ## 🚀 Quick start
 
-### Clone and prepare
-
 ```bash
 git clone https://github.com/samusa099/mokhles-group-hr-analytics-bd-fy2025.git
 cd mokhles-group-hr-analytics-bd-fy2025
+python -m venv .venv
 ```
 
-#### Windows PowerShell
+### Windows PowerShell
 
 ```powershell
-py -m venv .venv
 .\.venv\Scripts\Activate.ps1
 py -m pip install -r requirements.txt
 py -m pip install -e .
 ```
 
-#### macOS or Linux
+### macOS or Linux
 
 ```bash
-python3 -m venv .venv
 source .venv/bin/activate
 python -m pip install -r requirements.txt
 python -m pip install -e .
@@ -404,16 +347,78 @@ python scripts/profile_data.py
 jupyter lab notebooks/Mokhles_HR_Analytics_EDA.ipynb
 ```
 
-### Python example
+---
 
-```python
-from mokhles_hr_analytics import load_csv_table
+## 🗄️ SQL practice opportunities
 
-employees = load_csv_table("01_Employee_Master_FY2025.csv")
+The CSV tables can be loaded into SQLite, MySQL, PostgreSQL or another relational database to answer questions such as:
 
-print(employees.head())
-print(employees["Department"].value_counts())
-```
+- Which departments have the highest employee turnover?
+- What is the average salary by designation?
+- Which recruitment sources generate the most successful hires?
+- Which employees have the highest leave utilisation?
+- What is the average performance score by department?
+- Which training programmes have the highest completion rates?
+- What are the monthly hiring and separation trends?
+- Which departments have the highest payroll cost?
+- How does employee tenure relate to performance?
+- Which locations report the most workplace incidents?
+
+---
+
+## 💡 Recommended uses
+
+- HR analytics portfolio projects
+- Kaggle datasets and notebooks
+- Power BI dashboard development
+- Excel dashboard, Power Query and Power Pivot practice
+- Python and SQL analysis
+- Looker Studio, Tableau, Qlik Sense and Metabase projects
+- Workforce planning exercises
+- Recruitment-funnel analysis
+- Turnover and retention analysis
+- Compensation and payroll analysis
+- Performance and promotion-readiness analysis
+- Training and development analysis
+- Diversity and inclusion analysis
+- Workplace-safety analysis
+- Data-cleaning and data-modelling practice
+- HR interview presentations
+- Academic assignments and professional learning
+
+---
+
+## 🧠 Skills demonstrated
+
+- HR and People Analytics
+- Workforce planning
+- HR KPI development
+- Data cleaning and transformation
+- Data validation and quality profiling
+- Dimensional modelling and star-schema design
+- Dashboard design and data visualisation
+- Excel Power Query and Power Pivot
+- Power BI and DAX
+- Python and Pandas
+- SQL analysis
+- Cross-platform BI implementation
+- Technical documentation
+- Executive HR reporting
+
+---
+
+## 👥 Target audience
+
+This project is suitable for:
+
+- HR professionals and HR students
+- People Analytics practitioners
+- Data and business intelligence analysts
+- Power BI and Excel learners
+- Python and SQL learners
+- University students
+- Job seekers and portfolio builders
+- Trainers and instructors
 
 ---
 
@@ -471,7 +476,7 @@ The repository validates:
 
 - Employee-turnover prediction
 - Recruitment-source optimisation
-- Compensation-band modeling
+- Compensation-band modelling
 - Workforce forecasting
 - Talent segmentation
 - Department risk scoring
@@ -510,4 +515,6 @@ Please cite this project using `CITATION.cff`.
 
 Mokhles Group is a fictional company name.
 
-All employee, applicant, compensation, performance, leave, training and health-and-safety records are synthetic. They must not be presented as real organisational or employee information.
+All employee names, employee IDs, applicant information, salaries, payroll values, performance results, leave records, recruitment outcomes, training records, compensation values and health-and-safety incidents are fictional.
+
+No real employee, applicant, salary, medical, performance or confidential organisational information was collected or used. The dataset must not be presented as real organisational or employee information.
