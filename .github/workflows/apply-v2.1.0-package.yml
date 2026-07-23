@@ -1,11 +1,12 @@
 name: Apply v2.1.0 BI Package
 
 on:
-  push:
+  pull_request:
     branches:
-      - release-v2.1.0-bi-compatibility
+      - main
     paths:
       - deploy/v2.1.0/GO
+      - deploy/v2.1.0/chunk_*.b64
 
 permissions:
   contents: write
