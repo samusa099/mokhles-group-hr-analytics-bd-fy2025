@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file.
 
+## [2.1.0] — 2026-07-23
+
+### Added
+
+- Cross-platform BI implementation documentation.
+- Power BI, Looker Studio, Tableau, Qlik Sense, Excel Power Query and Metabase guides.
+- Maintainable generator for 15 BI-ready dimension and fact CSV tables.
+- Unified 516-record employee-dimension generation.
+- Reusable date, department and location dimensions.
+- Relationship map, KPI catalogue and dashboard blueprint.
+- Power BI JSON theme.
+- Original-to-BI field-name mapping generation.
+
 ## [2.0.0] — 2026-07-22
 
 ### Changed

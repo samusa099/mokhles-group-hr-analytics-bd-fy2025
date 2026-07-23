@@ -1,0 +1,23 @@
+{
+  "name": "Mokhles Group HR Analytics",
+  "dataColors": [
+    "#0B5CAB",
+    "#00A6A6",
+    "#F2A900",
+    "#5B8C5A",
+    "#8B5CF6",
+    "#E4572E",
+    "#2E4057",
+    "#6B7280"
+  ],
+  "background": "#F7F9FC",
+  "foreground": "#1F2937",
+  "tableAccent": "#0B5CAB",
+  "good": "#2E7D32",
+  "neutral": "#F2A900",
+  "bad": "#C62828",
+  "maximum": "#0B5CAB",
+  "center": "#F2A900",
+  "minimum": "#E8EEF7",
+  "null": "#D1D5DB"
+}
