@@ -1,13 +1,12 @@
 <p align="center">
-  <img width="1672" height="941" alt="aifaceswap-2b2d910299136cc394e3c7186c17e916" src="https://github.com/user-attachments/assets/4e0c66e6-6a13-40c7-bd96-049664b2df81" />
-
+  <img src="https://github.com/user-attachments/assets/4e0c66e6-6a13-40c7-bd96-049664b2df81" alt="Mokhles Group HR Analytics Portfolio — Bangladesh FY2025" width="75%">
 </p>
 
-<h1 align="center">Mokhles Group HR Analytics Portfolio — Bangladesh FY2025</h1>
+<h1 align="center">Mokhles Group HR Analytics Demo 2025</h1>
 
 <p align="center">
   <strong>A portfolio-grade, fully synthetic HR analytics ecosystem built for Bangladesh.</strong><br>
-  From raw workforce records to board-ready insights across Power BI, Excel, Looker Studio, Tableau, Qlik Sense, Metabase, Python and SQL.
+  From raw workforce records to board-ready insights across Power BI, Excel, Looker Studio, Tableau, Qlik Sense, Metabase and Python.
 </p>
 
 <p align="center">
@@ -27,24 +26,23 @@
 </p>
 
 <p align="center">
-  <a href="#-executive-overview">Overview</a> ·
-  <a href="#-portfolio-at-a-glance">Dataset Scale</a> ·
+  <a href="#-executive-overview">Executive Overview</a> ·
+  <a href="#-portfolio-at-a-glance">Portfolio at a Glance</a> ·
   <a href="#-analytics-architecture">Architecture</a> ·
-  <a href="#-data-model">Data Model</a> ·
-  <a href="#-platform-readiness">Platforms</a> ·
+  <a href="#-platform-readiness">Platform Readiness</a> ·
   <a href="#-quick-start">Quick Start</a> ·
-  <a href="#-data-ethics-and-disclaimer">Ethics</a>
+  <a href="#-data-ethics">Data Ethics</a>
 </p>
 
 ---
 
 ## ✨ Executive overview
 
-**Mokhles Group HR Analytics Portfolio — Bangladesh FY2025** is a complete, portfolio-ready HR and People Analytics project for a fictional Bangladesh-based organisation.
+**Mokhles Group HR Analytics Demo 2025** is a complete, portfolio-ready HR and People Analytics project for a fictional Bangladesh-based organisation.
 
 The data is fully synthetic, but the workforce structure, employee profiles, locations, BDT compensation values, recruitment activity, leave, training, performance and safety records are designed to resemble realistic organisational operations.
 
-> **Built to demonstrate an end-to-end analytics workflow:** source data → cleaning → modelling → quality control → KPI design → executive reporting.
+> **Built to demonstrate an end-to-end analytics workflow:** source data → cleaning → modeling → quality control → KPI design → executive reporting.
 
 <table>
 <tr>
@@ -65,25 +63,6 @@ The data is fully synthetic, but the workforce structure, employee profiles, loc
 | **Data quality** | Table profiling, column profiling, duplicate checks, key validation and remediation rules |
 | **Portfolio usability** | Excel dashboards, Jupyter analysis, Kaggle metadata, documentation and reproducible scripts |
 | **Ethical design** | No real employee or confidential organisational data |
-
----
-
-## 🎯 Project objectives
-
-The project demonstrates how fragmented operational HR records can be transformed into a structured, analysis-ready and cross-platform analytics solution.
-
-The workflow covers:
-
-1. Organising raw HR source data
-2. Cleaning and validating employee records
-3. Developing HR KPIs and business measures
-4. Creating dimension and fact tables
-5. Building Employee 360 and Department 360 datasets
-6. Designing Excel and Power BI dashboards
-7. Performing exploratory analysis with Python and Jupyter Notebook
-8. Preparing data for multiple BI platforms
-9. Documenting files, columns, relationships and validation rules
-10. Presenting management and board-level workforce insights
 
 ---
 
@@ -110,174 +89,40 @@ The workflow covers:
 
 ### Analytics coverage
 
-- Workforce structure and headcount
+<table>
+<tr>
+<td width="33%">
+
+**Workforce**
+- Headcount and structure
 - Monthly and annual HR KPIs
-- Recruitment funnel and time-to-fill
-- Turnover and retention
-- Leave and absence
 - Diversity and inclusion
-- Training and development
-- Compensation and total reward
+- Employee 360 analysis
+- Department 360 analysis
+
+</td>
+<td width="33%">
+
+**Talent**
+- Recruitment funnel
+- Time-to-fill
+- Turnover and retention
+- Learning and development
 - Performance and promotion readiness
-- Workplace health and safety
-- Employee 360 and Department 360 analysis
+
+</td>
+<td width="33%">
+
+**Operations**
+- Leave and absence
+- Compensation and total reward
+- Health and safety
+- Data-quality profiling
 - Executive and board reporting
 
----
-
-## 🇧🇩 Bangladesh HR context
-
-The portfolio includes:
-
-- Synthetic Bangladeshi employee names
-- Business locations in Dhaka, Gazipur, Narayanganj, Chattogram and Rajshahi
-- Salaries, payroll and employment costs in Bangladeshi Taka
-- Common local job titles and organisational departments
-- Bangladesh-relevant leave and employment categories
-- Realistic recruitment and hiring patterns
-- Department-level workforce structures
-- Performance and promotion-readiness categories
-- Training and development records
-- Workplace health and safety records
-
----
-
-## 📚 HR analytics areas covered
-
-The dataset supports analysis across the following HR domains:
-
-### Workforce and Headcount
-
-- Total employee headcount
-- Active and separated employees
-- Department-level workforce distribution
-- Location-level employee distribution
-- Employment status
-- Job level and designation structure
-- Gender and diversity representation
-
-### Recruitment Analytics
-
-- Recruitment requisitions
-- Candidate pipeline
-- Applications and interviews
-- Offers and accepted offers
-- Hiring outcomes
-- Time-to-fill
-- Recruitment cost
-- Source-of-hire analysis
-
-### Employee Turnover and Retention
-
-- Employee exits
-- Voluntary and involuntary separations
-- Department-level turnover
-- Retention rate
-- Exit reasons
-- Length of service
-- Workforce movement trends
-
-### Attendance, Leave and Absence
-
-- Leave requests
-- Leave categories
-- Approved and rejected leave
-- Leave duration
-- Absence patterns
-- Department-level leave utilisation
-- Employee-level attendance indicators
-
-### Training and Development
-
-- Training programmes
-- Employee participation
-- Training hours
-- Training costs
-- Completion status
-- Learning outcomes
-- Department-level development activity
-
-### Compensation and Benefits
-
-- Basic salary
-- Gross salary
-- Allowances
-- Bonuses
-- Benefits
-- Payroll cost
-- Department-level compensation analysis
-- Salary-band and job-level comparisons
-
-### Performance Management
-
-- Employee evaluation scores
-- Performance ratings
-- Goal achievement
-- Competency assessment
-- Promotion readiness
-- Department-level performance
-- High- and low-performing employee groups
-
-### Diversity and Inclusion
-
-- Gender distribution
-- Age-group analysis
-- Department diversity
-- Location diversity
-- Job-level representation
-- Workforce composition indicators
-
-### Health and Safety
-
-- Workplace incidents
-- Incident categories
-- Severity levels
-- Lost workdays
-- Corrective actions
-- Department-level safety performance
-
-### Executive HR Reporting
-
-- Monthly HR KPIs
-- Annual workforce metrics
-- Department summaries
-- Workforce cost indicators
-- Recruitment and turnover trends
-- Management and board-level HR insights
-
----
-
-## 📁 Files included
-
-The complete package includes:
-
-- 13 original HR analytical CSV tables
-- 13 Excel reports and master workbooks
-- 15 BI-ready dimension and fact tables
-- Employee 360 analytical dataset
-- Department 360 summary dataset
-- Monthly HR KPI dataset
-- Data-quality summary
-- Column-level profiling
-- Primary-key and duplicate validation
-- Data dictionary
-- File manifest
-- Relationship map
-- KPI catalogue
-- Dashboard blueprint
-- Excel analytics starter workbook
-- Power BI JSON theme
-- Power Query M scripts
-- DAX starter measures
-- Jupyter Notebook
-- Looker Studio-ready CSV files
-- Tableau modelling guide
-- Qlik Sense load script
-- Metabase implementation guide
-- Platform-readiness matrix
-- File-level descriptions
-- Comprehensive column metadata
-- Supporting project documentation
+</td>
+</tr>
+</table>
 
 ---
 
@@ -305,7 +150,7 @@ Authoritative HR source tables
 | Layer | Purpose | Location |
 |---|---|---|
 | **Source data** | Authoritative CSV and Excel portfolio | `data/csv/`, `data/excel/` |
-| **BI-ready data** | Normalised dimensions and facts | `data/bi_ready_csv/` |
+| **BI-ready data** | Normalized dimensions and facts | `data/bi_ready_csv/` |
 | **Analysis-ready data** | Consolidated Employee 360 and Department 360 tables | `data/analysis_ready/` |
 | **Data quality** | Table and column profiling | `data/data_quality/` |
 | **BI assets** | Theme, relationships, KPIs, DAX and Power Query | `bi_assets/`, `docs/platforms/` |
@@ -315,9 +160,14 @@ Authoritative HR source tables
 
 ## 🗂️ Repository structure
 
+<details open>
+<summary><strong>View project structure</strong></summary>
+
 ```text
 mokhles-group-hr-analytics-bd-fy2025/
 ├── .github/
+│   ├── ISSUE_TEMPLATE/
+│   └── workflows/
 ├── assets/
 ├── bi_assets/
 │   ├── power_bi/
@@ -343,7 +193,8 @@ mokhles-group-hr-analytics-bd-fy2025/
 ├── metadata/
 ├── notebooks/
 ├── scripts/
-├── src/mokhles_hr_analytics/
+├── src/
+│   └── mokhles_hr_analytics/
 ├── wiki/
 ├── CITATION.cff
 ├── CODE_OF_CONDUCT.md
@@ -353,6 +204,8 @@ mokhles-group-hr-analytics-bd-fy2025/
 ├── README.md
 └── requirements.txt
 ```
+
+</details>
 
 ---
 
@@ -376,70 +229,6 @@ mokhles-group-hr-analytics-bd-fy2025/
 
 ---
 
-## 🧩 Data model
-
-The project uses a structured analytical model consisting of dimension and fact tables.
-
-### Example Dimension Tables
-
-- Employee dimension
-- Department dimension
-- Location dimension
-- Date dimension
-- Job or designation dimension
-- Training dimension
-- Recruitment source dimension
-
-### Example Fact Tables
-
-- Recruitment fact
-- Leave fact
-- Training participation fact
-- Compensation fact
-- Performance fact
-- Employee separation fact
-- Health and safety fact
-- Monthly HR KPI fact
-
-The data model supports relationships across:
-
-- Employees
-- Departments
-- Locations
-- Recruitment requisitions
-- Leave transactions
-- Training records
-- Compensation records
-- Performance evaluations
-- Employee exits
-- Health and safety incidents
-
----
-
-## ⚙️ Data generation methodology
-
-All records were algorithmically generated using predefined HR rules, realistic distributions and internal consistency checks.
-
-The generation process was designed to create logical connections among:
-
-- Employee profiles
-- Joining and exit dates
-- Departments
-- Business locations
-- Recruitment requisitions
-- Leave records
-- Training participation
-- Compensation data
-- Performance evaluations
-- Employee separations
-- Health and safety records
-
-The original HR tables were subsequently transformed into BI-ready dimension and fact tables using Python-based data-processing workflows.
-
-No real employee, applicant or company information was used.
-
----
-
 ## 🔄 BI-ready analytical layer
 
 Run the generator:
@@ -454,43 +243,36 @@ Expected output:
 BI-ready layer created: 15 CSV files
 ```
 
----
+<details>
+<summary><strong>View generated BI tables</strong></summary>
 
-## 🔎 Analysis-ready datasets
+```text
+data/bi_ready_csv/
+├── 00_dim_date.csv
+├── 00_dim_department.csv
+├── 00_dim_location.csv
+├── 01_dim_employee_fy2025.csv
+├── 02_fact_monthly_hr_kpi_fy2025.csv
+├── 03_fact_department_annual_summary_fy2025.csv
+├── 04_fact_quarterly_board_kpi_fy2025.csv
+├── 05_fact_recruitment_fy2025.csv
+├── 06_fact_employee_separations_fy2025.csv
+├── 07_fact_leave_transactions_fy2025.csv
+├── 08_dim_diversity_inclusion_fy2025.csv
+├── 09_fact_training_development_fy2025.csv
+├── 10_fact_compensation_benefits_fy2025.csv
+├── 11_fact_performance_evaluation_fy2025.csv
+└── 12_fact_health_safety_fy2025.csv
+```
 
-### Employee 360
+</details>
 
-The Employee 360 dataset consolidates employee-level HR information into a single analytical table.
+### Consolidated analysis-ready datasets
 
-It can support analysis of:
-
-- Employee profile
-- Department and location
-- Employment status
-- Salary and benefits
-- Leave utilisation
-- Training participation
-- Performance rating
-- Promotion readiness
-- Length of service
-- Separation status
-
-### Department 360
-
-The Department 360 dataset provides a department-level summary of workforce indicators.
-
-It can support analysis of:
-
-- Department headcount
-- Hiring activity
-- Employee exits
-- Turnover rate
-- Leave utilisation
-- Training participation
-- Payroll cost
-- Average performance
-- Diversity representation
-- Workplace incidents
+| Dataset | Grain | Best use |
+|---|---|---|
+| `employee_360_fy2025.csv` | One row per employee | Workforce, diversity, compensation, performance, leave, training and separation analysis |
+| `department_360_summary_fy2025.csv` | One row per department | Executive comparison and departmental KPI analysis |
 
 ---
 
@@ -520,7 +302,11 @@ Checks include:
 
 ## 🧰 Platform readiness
 
-### Power BI
+<table>
+<tr>
+<td width="50%">
+
+### 🟨 Power BI
 
 - 15 Power Query M scripts
 - DAX starter-measure library
@@ -531,7 +317,12 @@ Checks include:
 - Dashboard blueprint
 - Reusable `ProjectRoot` parameter
 
-### Excel
+**Start here:** `docs/platforms/power_bi_assets/`
+
+</td>
+<td width="50%">
+
+### 🟩 Excel
 
 - Power Query workflow
 - Power Pivot model guidance
@@ -541,7 +332,14 @@ Checks include:
 - Column profile
 - Excel analytics starter workbook
 
-### Looker Studio
+**Start here:** `docs/platforms/excel_analytics/`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🟦 Looker Studio
 
 - 17 upload-ready CSV files
 - Data-source map
@@ -549,149 +347,48 @@ Checks include:
 - Employee 360 and Department 360 datasets
 - Dashboard page recommendations
 
-### Tableau, Qlik Sense and Metabase
+**Start here:** `docs/platforms/looker_studio/`
 
-- Tableau relationship modelling guide
+</td>
+<td width="50%">
+
+### 🟪 Tableau, Qlik and Metabase
+
+- Tableau relationship modeling guide
 - Qlik Sense load script
-- Metabase upload and modelling guide
+- Metabase upload and modeling guide
 - Shared semantic-model documentation
 
----
+**Start here:** `docs/platforms/`
 
-## 📈 Suggested Power BI dashboard pages
-
-### 1. Executive HR Overview
-
-- Total headcount
-- New hires
-- Employee exits
-- Turnover rate
-- Payroll cost
-- Average performance
-- Training participation
-- Gender distribution
-
-### 2. Workforce Analysis
-
-- Headcount by department
-- Headcount by location
-- Employee distribution by designation
-- Employment-status breakdown
-- Age and service distribution
-
-### 3. Recruitment Analytics
-
-- Recruitment funnel
-- Applications by source
-- Offers and accepted offers
-- Time-to-fill
-- Recruitment cost
-- Hiring by department
-
-### 4. Turnover and Retention
-
-- Monthly exits
-- Turnover trend
-- Exit reasons
-- Turnover by department
-- Retention rate
-- Service-length analysis
-
-### 5. Leave and Absence
-
-- Leave utilisation
-- Leave by category
-- Leave by department
-- Monthly leave trend
-- Approved versus rejected leave
-
-### 6. Training and Development
-
-- Training participation
-- Training hours
-- Training cost
-- Completion rate
-- Department training coverage
-
-### 7. Compensation and Performance
-
-- Payroll by department
-- Salary distribution
-- Benefits analysis
-- Performance rating distribution
-- Promotion-readiness analysis
-
-### 8. Diversity and Safety
-
-- Gender representation
-- Age diversity
-- Job-level diversity
-- Incident trends
-- Lost workdays
-- Safety performance by department
-
----
-
-## 🧮 Example DAX measures
-
-```DAX
-Total Headcount =
-DISTINCTCOUNT(dim_employee[employee_id])
-```
-
-```DAX
-Total Hires =
-CALCULATE(
-    DISTINCTCOUNT(dim_employee[employee_id]),
-    USERELATIONSHIP(dim_date[date], dim_employee[joining_date])
-)
-```
-
-```DAX
-Total Exits =
-COUNTROWS(fact_employee_separation)
-```
-
-```DAX
-Turnover Rate =
-DIVIDE(
-    [Total Exits],
-    [Average Headcount],
-    0
-)
-```
-
-```DAX
-Average Performance Score =
-AVERAGE(fact_performance[performance_score])
-```
-
-```DAX
-Total Payroll Cost =
-SUM(fact_compensation[gross_salary])
-```
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 Quick start
 
+### Clone and prepare
+
 ```bash
 git clone https://github.com/samusa099/mokhles-group-hr-analytics-bd-fy2025.git
 cd mokhles-group-hr-analytics-bd-fy2025
-python -m venv .venv
 ```
 
-### Windows PowerShell
+#### Windows PowerShell
 
 ```powershell
+py -m venv .venv
 .\.venv\Scripts\Activate.ps1
 py -m pip install -r requirements.txt
 py -m pip install -e .
 ```
 
-### macOS or Linux
+#### macOS or Linux
 
 ```bash
+python3 -m venv .venv
 source .venv/bin/activate
 python -m pip install -r requirements.txt
 python -m pip install -e .
@@ -707,128 +404,16 @@ python scripts/profile_data.py
 jupyter lab notebooks/Mokhles_HR_Analytics_EDA.ipynb
 ```
 
----
-
-## 🐍 Python and Jupyter Notebook readiness
-
-The included Jupyter Notebook can be used for:
-
-- Importing HR CSV files
-- Data inspection
-- Missing-value analysis
-- Duplicate detection
-- Data-type correction
-- Descriptive statistics
-- Employee segmentation
-- Correlation analysis
-- Turnover exploration
-- Recruitment analysis
-- Visualisation
-- Exporting cleaned datasets
-
-Example Python workflow:
+### Python example
 
 ```python
-import pandas as pd
+from mokhles_hr_analytics import load_csv_table
 
-employees = pd.read_csv(
-    "data/csv/01_Employee_Master_FY2025.csv",
-    encoding="utf-8"
-)
+employees = load_csv_table("01_Employee_Master_FY2025.csv")
 
-print(employees.shape)
-print(employees.info())
-print(employees.isna().sum())
-print(employees.duplicated().sum())
+print(employees.head())
+print(employees["Department"].value_counts())
 ```
-
----
-
-## 📊 Suggested Excel PivotTable projects
-
-- Headcount by department and location
-- Monthly hiring and exit trends
-- Turnover by department
-- Average salary by designation
-- Leave utilisation by employee
-- Training completion by department
-- Performance distribution
-- Recruitment-source effectiveness
-- Payroll cost by business unit
-- Diversity representation by job level
-
----
-
-## 🗄️ SQL practice opportunities
-
-The CSV tables can be loaded into SQLite, MySQL, PostgreSQL or another relational database to answer questions such as:
-
-- Which departments have the highest employee turnover?
-- What is the average salary by designation?
-- Which recruitment sources generate the most successful hires?
-- Which employees have the highest leave utilisation?
-- What is the average performance score by department?
-- Which training programmes have the highest completion rates?
-- What are the monthly hiring and separation trends?
-- Which departments have the highest payroll cost?
-- How does employee tenure relate to performance?
-- Which locations report the most workplace incidents?
-
----
-
-## 💡 Recommended uses
-
-- HR analytics portfolio projects
-- Kaggle datasets and notebooks
-- Power BI dashboard development
-- Excel dashboard, Power Query and Power Pivot practice
-- Python and SQL analysis
-- Looker Studio, Tableau, Qlik Sense and Metabase projects
-- Workforce planning exercises
-- Recruitment-funnel analysis
-- Turnover and retention analysis
-- Compensation and payroll analysis
-- Performance and promotion-readiness analysis
-- Training and development analysis
-- Diversity and inclusion analysis
-- Workplace-safety analysis
-- Data-cleaning and data-modelling practice
-- HR interview presentations
-- Academic assignments and professional learning
-
----
-
-## 🧠 Skills demonstrated
-
-- HR and People Analytics
-- Workforce planning
-- HR KPI development
-- Data cleaning and transformation
-- Data validation and quality profiling
-- Dimensional modelling and star-schema design
-- Dashboard design and data visualisation
-- Excel Power Query and Power Pivot
-- Power BI and DAX
-- Python and Pandas
-- SQL analysis
-- Cross-platform BI implementation
-- Technical documentation
-- Executive HR reporting
-
----
-
-## 👥 Target audience
-
-This project is suitable for:
-
-- HR professionals and HR students
-- People Analytics practitioners
-- Data and business intelligence analysts
-- Power BI and Excel learners
-- Python and SQL learners
-- University students
-- Job seekers and portfolio builders
-- Trainers and instructors
 
 ---
 
@@ -863,53 +448,6 @@ The Kaggle release includes:
 
 ---
 
-## 🧪 Suggested portfolio projects
-
-Users can develop individual portfolio projects such as:
-
-1. **Bangladesh HR Executive Dashboard**
-2. **Employee Turnover and Retention Analysis**
-3. **Recruitment Funnel and Time-to-Fill Dashboard**
-4. **Employee Performance and Promotion Analysis**
-5. **Compensation and Payroll Analytics**
-6. **Training Participation and Development Dashboard**
-7. **Leave and Absenteeism Analysis**
-8. **HR Diversity and Inclusion Dashboard**
-9. **Workplace Health and Safety Analysis**
-10. **Employee 360 Analytics Project**
-11. **Department 360 Management Dashboard**
-12. **HR Data-Quality Audit with Python**
-13. **HR Star-Schema Modelling Project**
-14. **Excel Power Query HR Transformation Project**
-15. **Cross-Platform HR Analytics Portfolio**
-
----
-
-## 📚 Documentation and metadata
-
-The project includes detailed supporting documentation such as:
-
-- Complete file information
-- CSV column descriptions
-- Data dictionary
-- File manifest
-- Project metadata
-- Column metadata coverage report
-- Platform-specific implementation guides
-- Data-source statement
-- Licence information
-- Dataset tags
-- Update-frequency metadata
-- Cover-image metadata
-
-Every published CSV resource includes:
-
-- Column name
-- Data type
-- Field description
-
----
-
 ## 🧪 Validation and governance
 
 The repository validates:
@@ -933,7 +471,7 @@ The repository validates:
 
 - Employee-turnover prediction
 - Recruitment-source optimisation
-- Compensation-band modelling
+- Compensation-band modeling
 - Workforce forecasting
 - Talent segmentation
 - Department risk scoring
@@ -963,52 +501,13 @@ Please cite this project using `CITATION.cff`.
 
 ## ⚖️ Licences
 
-- **Dataset and documentation:** CC BY 4.0 — see [`LICENSE`](LICENSE)
-- **Python code and notebook utilities:** MIT — see [`LICENSE-CODE`](LICENSE-CODE)
-
-### Permitted uses
-
-- Personal and professional learning
-- Educational and academic projects
-- Analytics demonstrations
-- Kaggle notebooks
-- Dashboard portfolios
-- Job interview presentations
-- Non-confidential professional portfolio work
-
-Please provide appropriate attribution when publishing a notebook, dashboard, article or derived project based on this dataset.
+- **Dataset and documentation:** CC BY 4.0 — see `LICENSE`
+- **Python code and notebook utilities:** MIT — see `LICENSE-CODE`
 
 ---
 
-## 🛡️ Data ethics and disclaimer
+## 🛡️ Data ethics
 
-This is a **fully synthetic demonstration dataset**.
+Mokhles Group is a fictional company name.
 
-**Mokhles Group** is a fictional company name used solely for learning, analytics practice and portfolio development.
-
-All employee names, employee IDs, applicant information, salaries, payroll values, recruitment outcomes, leave records, training records, performance results, compensation values and workplace health-and-safety incidents are fictional.
-
-No real employee, applicant, salary, medical, performance or confidential organisational information was collected or used.
-
-> The dataset must not be presented as actual HR information belonging to a real organisation.
-
----
-
-## 🤝 Feedback and contributions
-
-Feedback, Kaggle notebooks, dashboard projects and analytical use cases based on this dataset are welcome.
-
-Please consider:
-
-- Upvoting the dataset
-- Sharing your Kaggle Notebook
-- Publishing dashboard screenshots
-- Reporting documentation issues
-- Suggesting additional HR KPIs
-- Sharing your analytical findings
-
----
-
-## 🏁 Final note
-
-This dataset is not only a collection of HR files. It is a complete **cross-platform HR analytics practice environment** designed to help users move from raw operational records to structured data models, measurable HR KPIs, interactive dashboards and management-level workforce insights.
+All employee, applicant, compensation, performance, leave, training and health-and-safety records are synthetic. They must not be presented as real organisational or employee information.
