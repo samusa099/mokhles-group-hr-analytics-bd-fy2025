@@ -1,7 +1,0 @@
-platform,recommended_source,primary_method,best_for,important_note
-Power BI Desktop,02_CLEAN_DATA/bi_ready_csv,One Power Query per CSV using ProjectRoot parameter,Relational HR semantic model and executive dashboards,Use dimensions and facts; do not combine unlike schemas.
-Excel Power Query,02_CLEAN_DATA/analysis_ready or bi_ready_csv,From Folder or From Text/CSV,"Data cleaning, PivotTables, Power Pivot and ad hoc analysis",Filter folder contents before combining.
-Looker Studio,05_LOOKER_STUDIO/upload_ready_csv,"CSV file upload, one logical dataset per schema",Shareable browser dashboards,Adding files appends rows; it does not join tables.
-Tableau,02_CLEAN_DATA/bi_ready_csv,Logical tables connected with relationships,Interactive multi-table visual analysis,Preserve each fact table's level of detail.
-Qlik Sense,02_CLEAN_DATA/bi_ready_csv,Folder connection and load script,Associative exploration,Review synthetic keys and shared field names.
-Metabase,02_CLEAN_DATA/analysis_ready,CSV upload for demos or database load for maintained use,Browser-based self-service HR analytics,Verify inferred data types after upload.
