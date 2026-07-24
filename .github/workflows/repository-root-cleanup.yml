@@ -1,0 +1,152 @@
+name: One-time repository root cleanup
+
+on:
+  push:
+    paths:
+      - ".github/workflows/repository-root-cleanup.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: repository-root-cleanup
+  cancel-in-progress: false
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Organise Kaggle workspace and remove flat duplicates
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          workspace="packages/kaggle/structured_workspace"
+          publish="packages/kaggle/publish"
+
+          mkdir -p "$workspace" "$publish"
+
+          # Keep the numbered download-friendly package together instead of
+          # mixing it with the GitHub engineering source at repository root.
+          for directory in \
+            00_START_HERE \
+            01_SOURCE_DATA \
+            02_CLEAN_DATA \
+            03_POWER_BI \
+            04_EXCEL_ANALYTICS \
+            05_LOOKER_STUDIO \
+            06_TABLEAU \
+            07_QLIK \
+            08_METABASE \
+            09_NOTEBOOKS \
+            10_DOCUMENTATION \
+            11_KAGGLE_METADATA \
+            12_SCRIPTS
+          do
+            if [[ -d "$directory" ]]; then
+              rm -rf "$workspace/$directory"
+              mv "$directory" "$workspace/$directory"
+            fi
+          done
+
+          # Preserve the two unique Kaggle publishing assets in their own area.
+          if [[ -f dataset-metadata.json ]]; then
+            if [[ -f "$publish/dataset-metadata.json" ]]; then
+              rm -f dataset-metadata.json
+            else
+              mv dataset-metadata.json "$publish/dataset-metadata.json"
+            fi
+          fi
+
+          if [[ -f dataset-cover-image.png ]]; then
+            if [[ -f "$publish/dataset-cover-image.png" ]]; then
+              rm -f dataset-cover-image.png
+            else
+              mv dataset-cover-image.png "$publish/dataset-cover-image.png"
+            fi
+          fi
+
+          # Data, workbook, notebook and BI assets belong inside folders—not
+          # as duplicate files in the repository root.
+          find . -maxdepth 1 -type f \( \
+            -name "*.csv" -o \
+            -name "*.xlsx" -o \
+            -name "*.ipynb" -o \
+            -name "*.m" -o \
+            -name "*.dax" -o \
+            -name "*.qvs" -o \
+            -name "*.zip" \
+          \) -delete
+
+          # Remove flattened transport copies such as folder__file.ext.
+          find . -maxdepth 1 -type f -name "*__*" -delete
+
+          # Numbered implementation guides are preserved inside the structured
+          # workspace and the standard docs folders.
+          find . -maxdepth 1 -type f -name "[0-9][0-9]_*.md" -delete
+
+          # Remove named root-level documentation duplicates.
+          rm -f -- \
+            ABOUT_DATASET.md \
+            COLUMN_DESCRIPTIONS_COMPLETE.md \
+            CURRENT_OFFICIAL_REFERENCES.md \
+            DATA_DICTIONARY.md \
+            DATA_ETHICS.md \
+            FILE_CATALOG.md \
+            FILE_INFORMATION_COMPLETE.md \
+            FOLDER_MAP.md \
+            KAGGLE_DATASET_DESCRIPTION.md \
+            PYTHON_TO_POWER_BI_WORKFLOW.md \
+            README_EXCEL_ANALYTICS.md \
+            README_LOOKER_STUDIO.md \
+            README_METABASE.md \
+            README_POWER_BI.md \
+            README_QLIK.md \
+            README_START_HERE.md \
+            README_TABLEAU.md \
+            USAGE_GUIDE.md \
+            calculated_fields.md
+
+          # Remove root metadata copies already preserved in package folders.
+          rm -f -- \
+            column-metadata-coverage.json \
+            file-manifest.json \
+            project-metadata.json \
+            Mokhles_Group_HR_Analytics_Theme.json
+
+          # Remove root script copies; canonical versions remain in scripts/
+          # and in the packaged workspace.
+          rm -f -- \
+            build_analysis_ready.py \
+            build_bi_ready_layer.py \
+            profile_data.py \
+            validate_workspace.py
+
+          # The expanded workspace is retained, so the duplicate archive is not.
+          rm -f Mokhles_Group_HR_Analytics_Structured_Workspace_v2_3_0.zip
+
+          # Delete this one-time workflow after it has completed its purpose.
+          rm -f .github/workflows/repository-root-cleanup.yml
+
+      - name: Commit cleaned structure
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+
+          if git diff --cached --quiet; then
+            echo "No repository cleanup changes were required."
+            exit 0
+          fi
+
+          git commit -m "chore: organise Kaggle package and remove root duplicates"
+          git push origin HEAD:main
