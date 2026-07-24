@@ -1,21 +1,31 @@
-name: Repository Data Quality and Security
+name: Python Dependency Security Audit
 
 on:
   push:
     branches: ["main"]
+    paths:
+      - "requirements.txt"
+      - "pyproject.toml"
+      - ".github/workflows/dependency-audit.yml"
   pull_request:
     branches: ["main"]
+    paths:
+      - "requirements.txt"
+      - "pyproject.toml"
+      - ".github/workflows/dependency-audit.yml"
+  schedule:
+    - cron: "30 3 * * 1"
   workflow_dispatch:
 
 permissions:
   contents: read
 
 concurrency:
-  group: repository-validation-${{ github.workflow }}-${{ github.ref }}
+  group: dependency-audit-${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
-  validate:
+  audit:
     runs-on: ubuntu-24.04
     timeout-minutes: 15
 
@@ -34,5 +44,8 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Validate repository security and integrity
-        run: python -I scripts/validate_repository.py
+      - name: Audit Python dependencies
+        uses: pypa/gh-action-pip-audit@1220774d901786e6f652ae159f7b6bc8fea6d266 # v1.1.0
+        with:
+          inputs: requirements.txt
+          vulnerability-service: PyPI

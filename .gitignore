@@ -30,8 +30,18 @@ outputs/
 reports/generated/
 *.log
 
-# Credentials and secrets
+# Credentials, tokens and private keys
 .env
 .env.*
+*.env
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+service-account*.json
 kaggle.json
+.kaggle/
+.aws/
+.kube/
 secrets/
