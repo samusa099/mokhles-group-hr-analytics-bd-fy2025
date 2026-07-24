@@ -22,13 +22,14 @@
   <img alt="Excel" src="https://img.shields.io/badge/Excel-Power%20Query%20%7C%20Power%20Pivot-217346?logo=microsoftexcel&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white">
   <img alt="SQL" src="https://img.shields.io/badge/SQL-Practice-336791?logo=postgresql&logoColor=white">
+  <a href="docs/DATASET_USAGE_GUIDE.md"><img alt="How to Use" src="https://img.shields.io/badge/Guide-How%20to%20Use-FF7A00"></a>
 </p>
 
 <p align="center">
   <a href="#-overview">Overview</a> ·
   <a href="#-project-snapshot">Snapshot</a> ·
-  <a href="#-choose-your-workspace">Workspaces</a> ·
   <a href="#-dataset-usage">Usage</a> ·
+  <a href="docs/DATASET_USAGE_GUIDE.md">Detailed Guide</a> ·
   <a href="#-repository-structure">Structure</a> ·
   <a href="#-quick-start">Quick Start</a>
 </p>
@@ -37,7 +38,7 @@
 
 ## ✨ Overview
 
-**Mokhles Group HR Analytics Demo 2025** is an end-to-end analytics project for a fictional Bangladesh-based organisation. It demonstrates the complete workflow from operational HR records to data validation, analytical modeling, KPI calculation and executive reporting.
+**Mokhles Group HR Analytics Demo 2025** is an end-to-end analytics project for a fictional Bangladesh-based organisation. It demonstrates the workflow from operational HR records to data validation, analytical modeling, KPI calculation and executive reporting.
 
 > **Analytics flow:** source data → validation → transformation → BI model → KPI calculation → dashboard and management insight.
 
@@ -75,64 +76,35 @@
 
 ---
 
-## 🧭 Choose your workspace
+## 🎯 Dataset usage
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Use this dataset to **calculate HR KPIs**, practise **data cleaning**, build **Excel or Power BI dashboards**, write **SQL queries**, perform **Python analysis**, test **workforce-planning scenarios** and create **portfolio or classroom projects**.
 
-### 🧑‍💻 GitHub engineering source
+| Why use it? | How to use it? | Where can it be used? |
+|---|---|---|
+| Learn realistic HR analytics without exposing real data | Select the correct table, validate the data, calculate KPIs and build a decision-focused report | Excel, Power BI, Python, SQL, Looker Studio, Tableau, Qlik, Metabase, Kaggle and GitHub |
 
-Use the main repository folders when you want to develop, validate or extend the project.
+**Common calculations:** headcount, growth, hiring rate, turnover, retention, time-to-fill, cost per hire, leave utilisation, training ROI, compa-ratio, payroll, performance and safety indicators.
 
-- `data/` — source, BI-ready and analysis-ready data
-- `scripts/` — validation and transformation automation
-- `notebooks/` — exploratory analysis
-- `docs/` — usage, platform and KPI guidance
-- `bi_assets/` — semantic model and dashboard assets
+<p align="center">
+  <a href="docs/DATASET_USAGE_GUIDE.md"><strong>📘 Get details: Why, how and where to use this dataset →</strong></a>
+</p>
 
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Kaggle distribution workspace
-
-Use the packaged workspace when you want a clean, numbered and download-friendly learning environment.
-
-- `packages/kaggle/structured_workspace/`
-- `packages/kaggle/publish/`
-
-The numbered folders separate source data, clean data, notebooks, documentation, BI assets and scripts—so users do not have to search through unrelated files.
-
-</td>
-</tr>
-</table>
+<p align="center">
+  The detailed guide includes formulas, worked examples, recommended tables, Excel guidance, DAX, Python, SQL, dashboard ideas and responsible-use notes.
+</p>
 
 ---
 
-## 🎯 Dataset usage
+## 🧭 Choose your workspace
 
-Use this project to calculate HR KPIs, practise data cleaning, build Excel or Power BI dashboards, write SQL queries, perform Python analysis and develop portfolio or classroom projects.
-
-| Goal | Recommended starting point |
-|---|---|
-| Quick employee-level analysis | `data/analysis_ready/employee_360_fy2025.csv` |
-| Department comparison | `data/analysis_ready/department_360_summary_fy2025.csv` |
-| Power BI relational model | `data/bi_ready_csv/` |
-| Detailed operational analysis | `data/csv/` |
-| Data-quality assessment | `data/data_quality/` |
-| Download-friendly Kaggle workspace | `packages/kaggle/structured_workspace/` |
-
-### Common calculations
-
-- 👥 Headcount, growth, hiring rate, turnover and retention
-- 🎯 Time-to-fill, offer acceptance and cost per hire
-- 🗓️ Leave utilisation and absence indicators
-- 🎓 Training completion, score improvement and training ROI
-- 💰 Payroll, benefits, salary-band alignment and compa-ratio
-- ⭐ Performance, potential and promotion readiness
-- 🦺 Incident frequency, severity and corrective-action tracking
-
-📘 **[Open the complete Dataset Usage Guide](docs/DATASET_USAGE_GUIDE.md)** for formulas, worked examples, Excel guidance, DAX, Python, SQL and project ideas.
+| Workspace | Best for | Start here |
+|---|---|---|
+| 🧑‍💻 **GitHub engineering source** | Development, validation and project extension | `data/`, `scripts/`, `notebooks/`, `docs/`, `bi_assets/` |
+| 🌐 **Kaggle distribution workspace** | Clean numbered folders and download-friendly learning | `packages/kaggle/structured_workspace/` |
+| 📊 **Quick employee analysis** | One-row-per-employee exploration | `data/analysis_ready/employee_360_fy2025.csv` |
+| 🏢 **Department comparison** | Executive and department-level analysis | `data/analysis_ready/department_360_summary_fy2025.csv` |
+| 🧱 **Relational BI model** | Power BI, Tableau and Qlik modeling | `data/bi_ready_csv/` |
 
 ---
 
@@ -174,33 +146,18 @@ mokhles-hr-analytics/
 │   ├── analysis_ready/         # Employee 360 and Department 360
 │   └── data_quality/           # Profiles and validation rules
 ├── docs/
-│   ├── DATASET_USAGE_GUIDE.md
+│   ├── DATASET_USAGE_GUIDE.md  # Why, how, where and KPI calculations
 │   ├── bi/
 │   └── platforms/
 ├── notebooks/                  # Jupyter analysis
 ├── packages/
 │   └── kaggle/
 │       ├── structured_workspace/
-│       │   ├── 00_START_HERE/
-│       │   ├── 01_SOURCE_DATA/
-│       │   ├── 02_CLEAN_DATA/
-│       │   ├── 03_POWER_BI/
-│       │   ├── 04_EXCEL_ANALYTICS/
-│       │   ├── 05_LOOKER_STUDIO/
-│       │   ├── 06_TABLEAU/
-│       │   ├── 07_QLIK/
-│       │   ├── 08_METABASE/
-│       │   ├── 09_NOTEBOOKS/
-│       │   ├── 10_DOCUMENTATION/
-│       │   ├── 11_KAGGLE_METADATA/
-│       │   └── 12_SCRIPTS/
-│       └── publish/            # Kaggle metadata and cover asset
+│       └── publish/
 ├── scripts/                    # Build, profile and validation scripts
 ├── src/                        # Reusable Python package
 ├── wiki/                       # Repository-maintained Wiki source
 ├── CITATION.cff
-├── CODE_OF_CONDUCT.md
-├── CONTRIBUTING.md
 ├── LICENSE
 ├── LICENSE-CODE
 ├── README.md
@@ -254,7 +211,7 @@ jupyter lab notebooks/Mokhles_HR_Analytics_EDA.ipynb
 
 ## 📚 Documentation map
 
-- 📘 [Dataset Usage Guide](docs/DATASET_USAGE_GUIDE.md)
+- 📘 **[Detailed Dataset Usage Guide — Why, How, Where and Calculations](docs/DATASET_USAGE_GUIDE.md)**
 - 🟨 [Power BI implementation](docs/platforms/power_bi_assets/)
 - 🟩 [Excel analytics](docs/platforms/excel_analytics/)
 - 🟦 [Looker Studio](docs/platforms/looker_studio/)
